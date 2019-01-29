@@ -75,7 +75,7 @@ triple2freq = dict()  # maps a triple (form, PoS, lemma) to its frequency in the
 for line in latinise_file:
     count_n += 1
     if istest == "yes":
-        if count_n < 1000000:
+        if count_n < 1000:
             print("Corpus line", str(count_n), "out of",
                   str(row_count_latinise_readable), "lines")
             if not line.startswith("<"):
@@ -100,7 +100,7 @@ for line in latinise_file:
                 triple2freq[(form, pos, lemma)] = triple2freq[(form, pos, lemma)] + 1
             else:
                 triple2freq[(form, pos, lemma)] = 1
-                print("\t", form, pos, lemma + ":" + str(triple2freq[(form, pos, lemma)]))
+                #print("\t", form, pos, lemma + ":" + str(triple2freq[(form, pos, lemma)]))
 
 latinise_file.close()
 
