@@ -75,10 +75,6 @@ form_lemma_pos2correctedpos = dict() # maps a form, lemma, pos triple to its cor
 
 corrections_workbook = xlrd.open_workbook(os.path.join(dir_corrections, corrections_file_name))
 corrections_worksheet = corrections_workbook.sheet_by_index(0)
-first_row = [] # The row where we stock the name of the column
-
-for col in range(worksheet.ncols):
-    first_row.append( worksheet.cell_value(0,col) )
 
 print("There are " + str(corrections_worksheet.nrows) + " lines in the list of corrections.")
 
@@ -95,7 +91,8 @@ for row in range(1, corrections_worksheet.nrows):
     if corrected_pos is not '':
         form_lemma_pos2correctedpos[(form, lemma, pos)] = corrected_pos
 
-corrections_file.close()
+corrections_workbook.release_resources()
+del corrections_workbook
 
 # read corpus and correct it:
 
