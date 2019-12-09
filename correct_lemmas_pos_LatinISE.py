@@ -28,6 +28,7 @@ today_date = str(now)[:10]
 
 istest_default = "yes"
 istest = input("Is this a test? Leave empty for default (" + istest_default + ").")
+number_test = 10000 # number of lines read when testingf
 
 if istest == "":
     istest = istest_default
@@ -78,21 +79,27 @@ corrections_worksheet = corrections_workbook.sheet_by_index(0)
 
 print("There are " + str(corrections_worksheet.nrows) + " lines in the list of corrections.")
 
-
+count = 0
 for row in range(1, corrections_worksheet.nrows):
-    form = corrections_worksheet.cell_value(row,0)
-    pos = corrections_worksheet.cell_value(row,1)
-    lemma = corrections_worksheet.cell_value(row,2)
-    freq = corrections_worksheet.cell_value(row,3)
-    corrected_pos = corrections_worksheet.cell_value(row,4)
-    corrected_lemma = corrections_worksheet.cell_value(row,5)
-    if corrected_lemma is not '':
-        form_lemma_pos2correctedlemma[(form, lemma, pos)] = corrected_lemma
-    if corrected_pos is not '':
-        form_lemma_pos2correctedpos[(form, lemma, pos)] = corrected_pos
+    count += 1
+    if (istest == "yes" and count < number_test) or istest != "yes":
+        form = corrections_worksheet.cell_value(row,0)
+        pos = corrections_worksheet.cell_value(row,1)
+        lemma = corrections_worksheet.cell_value(row,2)
+        freq = corrections_worksheet.cell_value(row,3)
+        corrected_pos = corrections_worksheet.cell_value(row,4)
+        corrected_lemma = corrections_worksheet.cell_value(row,5)
+        if corrected_lemma is not '':
+            form_lemma_pos2correctedlemma[(form, lemma, pos)] = corrected_lemma
+            print("Correction! ", corrected_lemma)
+        if corrected_pos is not '':
+            form_lemma_pos2correctedpos[(form, lemma, pos)] = corrected_pos
+            print("Correction! ", corrected_pos)
 
 corrections_workbook.release_resources()
 del corrections_workbook
+
+print(str(form_lemma_pos2correctedlemma))
 
 # read corpus and correct it:
 
@@ -106,29 +113,10 @@ triple2freq = dict()  # maps a triple (form, PoS, lemma) to its frequency in the
 
 for line in latinise_file:
     count_n += 1
-    if istest == "yes":
-        if count_n < 1000:
-            print("Corpus line", str(count_n), "out of",
-                  str(row_count_latinise_readable), "lines")
-            if line.startswith("<"):
-                latinise_corrected_file.write(line)
-            else:
-                fields = line.rstrip('\n').split("\t")
-                form = fields[0]
-                pos = fields[1]
-                lemma = fields[2]
-                new_pos = ""
-                new_lemma = ""
-                if (form, pos, lemma) in form_lemma_pos2correctedlemma:
-                    new_lemma = form_lemma_pos2correctedlemma[(form, lemma, pos)]
-                if (form, pos, lemma) in form_lemma_pos2correctedpos:
-                    new_pos = form_lemma_pos2correctedpos[(form, lemma, pos)]
-                if new_lemma is not lemma or new_pos is not pos:
-                    print("\t", form , pos, lemma, " corrected: ", new_pos, new_lemma)
-    else:
+    if (istest == "yes" and count_n < number_test) or istest != "yes":
         print("Corpus line", str(count_n), "out of",
               str(row_count_latinise_readable), "lines")
-        if line.startswith("<"):
+        if "<doc" in line or line.startswith("<"):
             latinise_corrected_file.write(line)
         else:
             fields = line.rstrip('\n').split("\t")
@@ -139,10 +127,12 @@ for line in latinise_file:
             new_lemma = ""
             if (form, pos, lemma) in form_lemma_pos2correctedlemma:
                 new_lemma = form_lemma_pos2correctedlemma[(form, lemma, pos)]
-                if (form, pos, lemma) in form_lemma_pos2correctedpos:
-                    new_pos = form_lemma_pos2correctedpos[(form, lemma, pos)]
-            if new_lemma is not lemma or new_pos is not pos:
-                print("\t", form, pos, lemma, " corrected: ", new_pos, new_lemma)
+                print("New lemma!" + new_lemma)
+            if (form, pos, lemma) in form_lemma_pos2correctedpos:
+                new_pos = form_lemma_pos2correctedpos[(form, lemma, pos)]
+                print("New pos!" + new_pos)
+            if new_lemma is not "" or new_pos is not "":
+                print("\t", form , pos, lemma, " corrected: ", new_pos, new_lemma)
 
 latinise_file.close()
 latinise_corrected_file.close()
