@@ -102,7 +102,7 @@ for row in range(1, corrections_worksheet.nrows):
 corrections_workbook.release_resources()
 del corrections_workbook
 
-print(str(form_lemma_pos2correctedlemma))
+#print(str(form_lemma_pos2correctedlemma))
 
 # read corpus and correct it:
 
@@ -117,8 +117,8 @@ triple2freq = dict()  # maps a triple (form, PoS, lemma) to its frequency in the
 for line in latinise_file:
     count_n += 1
     if (istest == "yes" and count_n < number_test) or istest != "yes":
-        if count_n % 1000 == 0:
-            print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
+        #if count_n % 1000 == 0:
+        #    print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
         #print("line:", str(line))
         if "<doc" in line or line.startswith("<"):
             latinise_corrected_file.write(line)
@@ -140,6 +140,7 @@ for line in latinise_file:
                 if new_lemma is not lemma or new_pos is not pos:
                     #print("\t", form , pos, lemma, " corrected: ", new_pos, new_lemma)
                     line = form + "\t" + new_pos + "\t" + new_lemma + "\n"
+
             else:
                 print("Error!" + str(line))
 
