@@ -82,26 +82,27 @@ print("There are " + str(corrections_worksheet.nrows) + " lines in the list of c
 count = 0
 for row in range(1, corrections_worksheet.nrows):
     count += 1
-    if count % 1000 == 0:
-        print("Reading line number", str(count))
     if (istest == "yes" and count < number_test) or istest != "yes":
+        if count % 1000 == 0:
+            print("Reading corrections line number", str(count))
         form = corrections_worksheet.cell_value(row,0)
         pos = corrections_worksheet.cell_value(row,1)
         lemma = corrections_worksheet.cell_value(row,2)
         freq = corrections_worksheet.cell_value(row,3)
         corrected_pos = corrections_worksheet.cell_value(row,4)
         corrected_lemma = corrections_worksheet.cell_value(row,5)
+        #print("corrections:", "form:", form, "pos:", pos, "lemma:", lemma, "corrected pos:", corrected_pos, "corrected lemma:", corrected_lemma)
         if corrected_lemma is not '':
             form_lemma_pos2correctedlemma[(form, lemma, pos)] = corrected_lemma
-            #print("Correction! ", corrected_lemma)
+            print("Correction! ", corrected_lemma)
         if corrected_pos is not '':
             form_lemma_pos2correctedpos[(form, lemma, pos)] = corrected_pos
-            #print("Correction! ", corrected_pos)
+            print("Correction! ", corrected_pos)
 
 corrections_workbook.release_resources()
 del corrections_workbook
 
-#print(str(form_lemma_pos2correctedlemma))
+print(str(form_lemma_pos2correctedlemma))
 
 # read corpus and correct it:
 
@@ -118,26 +119,32 @@ for line in latinise_file:
     if (istest == "yes" and count_n < number_test) or istest != "yes":
         if count_n % 1000 == 0:
             print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
+        #print("line:", str(line))
         if "<doc" in line or line.startswith("<"):
             latinise_corrected_file.write(line)
         else:
             fields = line.rstrip('\n').split("\t")
-            if len(fields) == 2:
+            if len(fields) == 3:
                 form = fields[0]
                 pos = fields[1]
                 lemma = fields[2]
                 new_pos = pos
                 new_lemma = lemma
-                if (form, pos, lemma) in form_lemma_pos2correctedlemma:
-                    new_lemma = form_lemma_pos2correctedlemma[(form, lemma, pos)]
-                    print("New lemma!" + new_lemma)
-                if (form, pos, lemma) in form_lemma_pos2correctedpos:
-                    new_pos = form_lemma_pos2correctedpos[(form, lemma, pos)]
-                    print("New pos!" + new_pos)
-                if new_lemma is not lemma or new_pos is not pos:
-                    print("\t", form , pos, lemma, " corrected: ", new_pos, new_lemma)
 
-                line = form + "\t" + new_pos + "\t" + new_lemma + "\n"
+                if (form, lemma, pos) in form_lemma_pos2correctedlemma:
+                    new_lemma = form_lemma_pos2correctedlemma[(form, lemma, pos)]
+                    #print("New lemma!" + new_lemma)
+                if (form, lemma, pos) in form_lemma_pos2correctedpos:
+                    new_pos = form_lemma_pos2correctedpos[(form, lemma, pos)]
+                    #print("New pos!" + new_pos)
+                if new_lemma is not lemma or new_pos is not pos:
+                    #print("\t", form , pos, lemma, " corrected: ", new_pos, new_lemma)
+                    line = form + "\t" + new_pos + "\t" + new_lemma + "\n"
+            else:
+                print("Error!" + str(line))
+
+
+
             latinise_corrected_file.write(line)
 
 latinise_file.close()
