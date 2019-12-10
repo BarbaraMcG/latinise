@@ -28,7 +28,7 @@ today_date = str(now)[:10]
 
 istest_default = "yes"
 istest = input("Is this a test? Leave empty for default (" + istest_default + ").")
-number_test = 100000 # number of lines read when testing
+number_test = 74015 # number of lines read when testing
 
 if istest == "":
     istest = istest_default
@@ -116,9 +116,9 @@ triple2freq = dict()  # maps a triple (form, PoS, lemma) to its frequency in the
 
 for line in latinise_file:
     count_n += 1
-    if (istest == "yes" and count_n < number_test) or istest != "yes":
-        #if count_n % 1000 == 0:
-        #    print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
+    if ((istest == "yes" and count_n < number_test) or istest != "yes"):
+        if count_n % 1000 == 0:
+            print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
         #print("line:", str(line))
         if "<doc" in line or line.startswith("<"):
             latinise_corrected_file.write(line)
@@ -141,12 +141,19 @@ for line in latinise_file:
                     #print("\t", form , pos, lemma, " corrected: ", new_pos, new_lemma)
                     line = form + "\t" + new_pos + "\t" + new_lemma + "\n"
 
+                # Normalize homographs: dico2 and dico#2 –> dico#2
+                if len(new_lemma) > 2 and new_lemma[-1].isdigit() and new_lemma[-2] is not "#":
+                    #print("#!", new_lemma)
+                    new_lemma = re.sub(r'^(.+?)(\d)$', r'\1#\2', new_lemma)
+                    #print("\t-->", new_lemma)
+                    line = form + "\t" + new_pos + "\t" + new_lemma + "\n"
+                    #print("line1:", str(line))
+
             else:
                 print("Error!" + str(line))
 
-
-
             latinise_corrected_file.write(line)
+            #print("line2:", str(line))
 
 latinise_file.close()
 latinise_corrected_file.close()
