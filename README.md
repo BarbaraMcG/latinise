@@ -1,4 +1,16 @@
-# latinise
-Clean, process, and add texts to LatinISE Latin corpus
+# Corrections to LatinISE:
 
-Fill gaps in LatinISE using texts from the Latin Library.
+extract_quadruples_LatinISE.py
+
+correct_lemmas_pos_LatinISE.py
+
+# Prepare corpus data for SemEval task 1:
+
+split_sentenes_LatinISE.py
+
+# Calculate inter-annotator agreement for SemEval task 1 annotated data:
+
+interannotator_LatinISE.py
+
+
+

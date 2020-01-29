@@ -28,7 +28,7 @@ today_date = str(now)[:10]
 
 istest_default = "yes"
 istest = input("Is this a test? Leave empty for default (" + istest_default + ").")
-number_test = 74015 # number of lines read when testing
+number_test = 1000 # number of lines read when testing
 
 if istest == "":
     istest = istest_default
