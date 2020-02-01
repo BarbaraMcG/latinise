@@ -133,8 +133,8 @@ for line in latinise_file:
     count_n += 1
     if ((istest == "yes" and count_n < number_test) or istest != "yes"):
 
-        #if count_n % 100 == 0:
-        #    print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
+        if count_n % 100 == 0:
+            print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
         if "<doc" in line:
             #print(line)
             match = re.search(r'century=\"(.+?)\"', line)
@@ -171,9 +171,9 @@ for line in latinise_file:
                 else:
                     ad_subcorpus.write("\n" + normalized_date + "\t")
 
-        elif "<" not in line:
+        elif "<" not in line and line != "\n":
 
-            print(line)
+            #print(line)
             line = line.strip()
             fields = line.split("\t")
             lemma = fields[2]
