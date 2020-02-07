@@ -13,4 +13,6 @@ split_sentenes_LatinISE.py
 interannotator_LatinISE.py
 
 
+# Prepare annotated data to be processed by Dominik's script that clusters senses:
 
+perocess_annotations_LatinISE.py
