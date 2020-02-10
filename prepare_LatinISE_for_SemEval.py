@@ -53,14 +53,23 @@ latinise_file_name = "latin13.txt"
 dates_file_name = "LatinISE_dates.txt"
 bc_subcorpus_name = "LatinISE_subcorpus1.txt"
 ad_subcorpus_name = "LatinISE_subcorpus2.txt"
+bc_subcorpus_dates_name = "LatinISE_subcorpus1_dates.txt"
+ad_subcorpus_dates_name = "LatinISE_subcorpus2_dates.txt"
+bc_subcorpus_dates_shuffled_name = "LatinISE_subcorpus1_dates_shuffled.txt"
+ad_subcorpus_dates_shuffled_name = "LatinISE_subcorpus2_dates_shuffled.txt"
 bc_subcorpus_shuffled_name = "LatinISE_subcorpus1_shuffled.txt"
 ad_subcorpus_shuffled_name = "LatinISE_subcorpus2_shuffled.txt"
+
 
 if istest == "yes":
     bc_subcorpus = bc_subcorpus_name.replace(".txt", "_test.txt")
     ad_subcorpus = ad_subcorpus_name.replace(".txt", "_test.txt")
-    bc_subcorpus_shuffled = bc_subcorpus_shuffled_name.replace(".txt", "_test.txt")
-    ad_subcorpus_shuffled = ad_subcorpus_shuffled_name.replace(".txt", "_test.txt")
+    bc_subcorpus_dates = bc_subcorpus_dates_name.replace(".txt", "_test.txt")
+    ad_subcorpus_dates = ad_subcorpus_dates_name.replace(".txt", "_test.txt")
+    bc_subcorpus_dates_shuffled_name = bc_subcorpus_dates_shuffled_name.replace(".txt", "_test.txt")
+    ad_subcorpus_dates_shuffled_name = ad_subcorpus_dates_shuffled_name.replace(".txt", "_test.txt")
+    bc_subcorpus_shuffled_name = bc_subcorpus_shuffled_name.replace(".txt", "_test.txt")
+    ad_subcorpus_shuffled_name = ad_subcorpus_shuffled_name.replace(".txt", "_test.txt")
 
 
 # Read corpus file:
@@ -118,6 +127,8 @@ def normalize_dates(date):
 
 latinise_file = open(os.path.join(dir_corpus, latinise_file_name), 'r', encoding="utf-8")
 dates_file = open(os.path.join(dir_corpus, dates_file_name), 'w')
+bc_subcorpus_dates = open(os.path.join(dir_corpus, bc_subcorpus_dates_name), 'w')
+ad_subcorpus_dates = open(os.path.join(dir_corpus, ad_subcorpus_dates_name), 'w')
 bc_subcorpus = open(os.path.join(dir_corpus, bc_subcorpus_name), 'w')
 ad_subcorpus = open(os.path.join(dir_corpus, ad_subcorpus_name), 'w')
 
@@ -160,16 +171,18 @@ for line in latinise_file:
             #print("sentence", str(sentence_n))
             if normalized_date.startswith("-"):
                 if printed_something == 0:
-                    bc_subcorpus.write(normalized_date + "\t")
+                    bc_subcorpus_dates.write(normalized_date + "\t")
                     printed_something = 1
                 else:
-                    bc_subcorpus.write("\n" + normalized_date + "\t")
+                    bc_subcorpus_dates.write("\n" + normalized_date + "\t")
+                    bc_subcorpus.write("\n" )
             else:
                 if printed_something == 0:
-                    ad_subcorpus.write(normalized_date + "\t")
+                    ad_subcorpus_dates.write(normalized_date + "\t")
                     printed_something = 1
                 else:
-                    ad_subcorpus.write("\n" + normalized_date + "\t")
+                    ad_subcorpus_dates.write("\n" + normalized_date + "\t")
+                    ad_subcorpus.write("\n")
 
         elif "<" not in line and line != "\n":
 
@@ -180,25 +193,34 @@ for line in latinise_file:
             pos = fields[1]
             if pos != "PUN":
                 if normalized_date.startswith("-"):
+                    bc_subcorpus_dates.write(lemma + " ")
                     bc_subcorpus.write(lemma + " ")
                 else:
+                    ad_subcorpus_dates.write(lemma + " ")
                     ad_subcorpus.write(lemma + " ")
 
 
 latinise_file.close()
 dates_file.close()
+bc_subcorpus_dates.close()
+ad_subcorpus_dates.close()
 bc_subcorpus.close()
 ad_subcorpus.close()
 
 
 # function that reads a subcorpus file, eliminates sentences with just one word, and shuffles lines:
-def shuffle_corpus(subcorpus_file_name, subcorpus_file_shuffled_name):
+def shuffle_corpus(subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes):
+    print("Shuffling ", subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes)
     subcorpus_file = open(os.path.join(dir_corpus, subcorpus_file_name), 'r')
     lines = subcorpus_file.readlines()
     random.shuffle(lines)
     subcorpus_file_shuffled = open(os.path.join(dir_corpus, subcorpus_file_shuffled_name), 'w')
     for line in lines:
-        sentence = line.split("\t")[1]
+        print(str(line))
+        if dates_yes == "yes":
+            sentence = line.split("\t")[1]
+        else:
+            sentence = line.split("\t")[0]
         words = sentence.split(" ")
         if len(words) > 1:
             subcorpus_file_shuffled.write(line)
@@ -208,6 +230,8 @@ def shuffle_corpus(subcorpus_file_name, subcorpus_file_shuffled_name):
 
 # create final shuffled subcorpus files:
 
-shuffle_corpus(bc_subcorpus_name, bc_subcorpus_shuffled_name)
-shuffle_corpus(ad_subcorpus_name, ad_subcorpus_shuffled_name)
+shuffle_corpus(bc_subcorpus_dates_name, bc_subcorpus_dates_shuffled_name, "yes")
+shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
+shuffle_corpus(bc_subcorpus_name, bc_subcorpus_shuffled_name, "no")
+shuffle_corpus(ad_subcorpus_name, ad_subcorpus_shuffled_name, "no")
 
