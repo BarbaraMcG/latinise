@@ -49,16 +49,25 @@ directory = os.path.join("/Users", "bmcgillivray", "Documents", "OneDrive", "The
 dir_annotation = os.path.join(directory, "Semantic annotation", "Annotated data", "selected")
 dir_corpus = os.path.join(directory, "LatinISE 4")
 dir_corpus2 = os.path.join(directory, "LatinISE 4", "for Codalab")
+dir_corpus3 = os.path.join(dir_corpus2, "semeval2020_ulscd_lat")
+if not os.path.exists(dir_corpus3):
+    os.mkdir(dir_corpus3)
+dir_corpus_bc = os.path.join(dir_corpus3, "corpus1")
+dir_corpus_ad = os.path.join(dir_corpus3, "corpus2")
+if not os.path.exists(dir_corpus_bc):
+    os.mkdir(dir_corpus_bc)
+if not os.path.exists(dir_corpus_ad):
+    os.mkdir(dir_corpus_ad)
 
 # Files:
 latinise_file_name = "latin13.txt"
-dates_file_name = "LatinISE_dates.txt"
+#dates_file_name = "LatinISE_dates.txt"
 bc_subcorpus_name = "LatinISE_subcorpus1.txt"
 ad_subcorpus_name = "LatinISE_subcorpus2.txt"
-bc_subcorpus_dates_name = "LatinISE_subcorpus1_dates.txt"
-ad_subcorpus_dates_name = "LatinISE_subcorpus2_dates.txt"
-bc_subcorpus_dates_shuffled_name = "LatinISE_subcorpus1_dates_shuffled.txt"
-ad_subcorpus_dates_shuffled_name = "LatinISE_subcorpus2_dates_shuffled.txt"
+#bc_subcorpus_dates_name = "LatinISE_subcorpus1_dates.txt"
+#ad_subcorpus_dates_name = "LatinISE_subcorpus2_dates.txt"
+#bc_subcorpus_dates_shuffled_name = "LatinISE_subcorpus1_dates_shuffled.txt"
+#ad_subcorpus_dates_shuffled_name = "LatinISE_subcorpus2_dates_shuffled.txt"
 bc_subcorpus_shuffled_name = "LatinISE_subcorpus1_shuffled.txt"
 ad_subcorpus_shuffled_name = "LatinISE_subcorpus2_shuffled.txt"
 
@@ -66,8 +75,8 @@ ad_subcorpus_shuffled_name = "LatinISE_subcorpus2_shuffled.txt"
 if istest == "yes":
     bc_subcorpus_name = bc_subcorpus_name.replace(".txt", "_test.txt")
     ad_subcorpus_name = ad_subcorpus_name.replace(".txt", "_test.txt")
-    bc_subcorpus_dates_name = bc_subcorpus_dates_name.replace(".txt", "_test.txt")
-    ad_subcorpus_dates_name = ad_subcorpus_dates_name.replace(".txt", "_test.txt")
+    #bc_subcorpus_dates_name = bc_subcorpus_dates_name.replace(".txt", "_test.txt")
+    #ad_subcorpus_dates_name = ad_subcorpus_dates_name.replace(".txt", "_test.txt")
     bc_subcorpus_dates_shuffled_name = bc_subcorpus_dates_shuffled_name.replace(".txt", "_test.txt")
     ad_subcorpus_dates_shuffled_name = ad_subcorpus_dates_shuffled_name.replace(".txt", "_test.txt")
     bc_subcorpus_shuffled_name = bc_subcorpus_shuffled_name.replace(".txt", "_test.txt")
@@ -128,11 +137,17 @@ def normalize_dates(date):
 # read corpus, keep lemmas only, remove punctuation marks, split by sentence, normalize dates:
 
 latinise_file = open(os.path.join(dir_corpus, latinise_file_name), 'r', encoding="utf-8")
-dates_file = open(os.path.join(dir_corpus2, dates_file_name), 'w')
-bc_subcorpus_dates = open(os.path.join(dir_corpus2, bc_subcorpus_dates_name), 'w')
-ad_subcorpus_dates = open(os.path.join(dir_corpus2, ad_subcorpus_dates_name), 'w')
-bc_subcorpus = open(os.path.join(dir_corpus2, bc_subcorpus_name), 'w')
-ad_subcorpus = open(os.path.join(dir_corpus2, ad_subcorpus_name), 'w')
+#dates_file = open(os.path.join(dir_corpus2, dates_file_name), 'w')
+#bc_subcorpus_dates = open(os.path.join(dir_corpus2, bc_subcorpus_dates_name), 'w')
+#ad_subcorpus_dates = open(os.path.join(dir_corpus2, ad_subcorpus_dates_name), 'w')
+
+if not os.path.exists(os.path.join(dir_corpus_bc, "lemma")):
+    os.mkdir(os.path.join(dir_corpus_bc, "lemma"))
+if not os.path.exists(os.path.join(dir_corpus_ad, "lemma")):
+    os.mkdir(os.path.join(dir_corpus_ad, "lemma"))
+
+bc_subcorpus = open(os.path.join(dir_corpus_bc, "lemma", bc_subcorpus_name), 'w')
+ad_subcorpus = open(os.path.join(dir_corpus_ad, "lemma", ad_subcorpus_name), 'w')
 
 count_n = 0
 normalized_date = ""
@@ -144,50 +159,55 @@ count_words_sentence = 0
 for line in latinise_file:
 
     count_n += 1
+    #print(str(count_n))
     if ((istest == "yes" and count_n < number_test) or istest != "yes"):
         #print(str(count_n),line)
         if count_n % 100 == 0:
             print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
-        if "<doc" in line:
+        #if "<doc" in line:
             #print("doc!","ecco",str(line))
-            match = re.search(r'century=\"(.+?)\"', line)
-            if match:
-                date = match.group(1)
-                normalized_date = normalize_dates(date)
-                #print(date, "\t",normalized_date)
-                #dates_file.write(line.strip() + "\t" + date + "\t" + normalized_date + "\n")
-                if "cent" in date:
-                    dates_file.write(date + "\t" + normalized_date + "\n")
-                else:
-                    print("Date error", line)
-                    normalized_date = ""
-            else:
-                print("Date error", line)
-                normalized_date = ""
+        #    match = re.search(r'century=\"(.+?)\"', line)
+            #if match:
+            #    date = match.group(1)
+            #    normalized_date = normalize_dates(date)
+            #    #print(date, "\t",normalized_date)
+            #    #dates_file.write(line.strip() + "\t" + date + "\t" + normalized_date + "\n")
+            #    if "cent" in date:
+            #        dates_file.write(date + "\t" + normalized_date + "\n")
+            #    else:
+            #        print("Date error", line)
+            #        normalized_date = ""
+            #else:
+            #    print("Date error", line)
+            #    normalized_date = ""
 
-        elif "<s " in line:
+            # print date:
+            #if normalized_date.startswith("-"):
+            #    bc_subcorpus_dates.write(normalized_date + "\t")
+            #else:
+            #    ad_subcorpus_dates.write(normalized_date + "\t")
 
-            #print(line)
-            match_s = re.search(r'n=(.+?)\>', line)
-            sentence_n = match_s.group(1)
-            #print("sentence", str(sentence_n))
-            if normalized_date.startswith("-"):
-                if printed_something == 0:
-                    bc_subcorpus_dates.write(normalized_date + "\t")
-                    printed_something = 1
-                else:
-                    bc_subcorpus_dates.write("\n" + normalized_date + "\t")
-                    bc_subcorpus.write("\n" )
-            else:
-                if printed_something == 0:
-                    ad_subcorpus_dates.write(normalized_date + "\t")
-                    printed_something = 1
-                else:
-                    ad_subcorpus_dates.write("\n" + normalized_date + "\t")
-                    ad_subcorpus.write("\n")
+        #elif "<s " in line:
+        #    print(line)
+        #    match_s = re.search(r'n=(.+?)\>', line)
+        #    sentence_n = match_s.group(1)
+        #    print("sentence", str(sentence_n), str(normalized_date))
+        #    if normalized_date.startswith("-"):
+                #if printed_something == 0:
+        #        bc_subcorpus_dates.write(normalized_date + "\t")
+                #printed_something = 1
+                #else:
+                #    bc_subcorpus_dates.write("\n" + normalized_date + "\t")
+                #    bc_subcorpus.write("\n" )
+        #    else:
+                #if printed_something == 0:
+        #        ad_subcorpus_dates.write(normalized_date + "\t")
+                #    printed_something = 1
+                #else:
+                #    ad_subcorpus_dates.write("\n" + normalized_date + "\t")
+                #    ad_subcorpus.write("\n")
 
-        elif "<" not in line and line != "\n":
-
+        elif "<" not in line and line != "\n" and "</s" not in line:
             #print(line)
             line = line.strip()
             fields = line.split("\t")
@@ -195,17 +215,26 @@ for line in latinise_file:
             pos = fields[1]
             if pos != "PUN":
                 if normalized_date.startswith("-"):
-                    bc_subcorpus_dates.write(lemma + " ")
+                    #bc_subcorpus_dates.write(lemma + " ")
                     bc_subcorpus.write(lemma + " ")
                 else:
-                    ad_subcorpus_dates.write(lemma + " ")
+                    #ad_subcorpus_dates.write(lemma + " ")
                     ad_subcorpus.write(lemma + " ")
+
+        elif "</s" in line:
+            if normalized_date.startswith("-"):
+                #bc_subcorpus_dates.write("\n")
+                bc_subcorpus.write("\n")
+            else:
+                #ad_subcorpus_dates.write("\n")
+                ad_subcorpus.write("\n")
+
 
 
 latinise_file.close()
 dates_file.close()
-bc_subcorpus_dates.close()
-ad_subcorpus_dates.close()
+#bc_subcorpus_dates.close()
+#ad_subcorpus_dates.close()
 bc_subcorpus.close()
 ad_subcorpus.close()
 
@@ -213,10 +242,10 @@ ad_subcorpus.close()
 # function that reads a subcorpus file, eliminates sentences with just one word, and shuffles lines:
 def shuffle_corpus(subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes):
     print("Shuffling ", subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes)
-    subcorpus_file = open(os.path.join(dir_corpus, subcorpus_file_name), 'r')
+    subcorpus_file = open(os.path.join(dir_corpus2, subcorpus_file_name), 'r')
     lines = subcorpus_file.readlines()
     random.shuffle(lines)
-    subcorpus_file_shuffled = open(os.path.join(dir_corpus, subcorpus_file_shuffled_name), 'w')
+    subcorpus_file_shuffled = open(os.path.join(dir_corpus2, subcorpus_file_shuffled_name), 'w')
     for line in lines:
         print(str(line))
         if dates_yes == "yes":
@@ -232,70 +261,7 @@ def shuffle_corpus(subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes)
 
 # create final shuffled subcorpus files:
 
-#shuffle_corpus(bc_subcorpus_dates_name, bc_subcorpus_dates_shuffled_name, "yes")
-#shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
-#shuffle_corpus(bc_subcorpus_name, bc_subcorpus_shuffled_name, "no")
-#shuffle_corpus(ad_subcorpus_name, ad_subcorpus_shuffled_name, "no")
-
-# Check that all annotated sentences are in the subcorpora:
-
-# Found annotated words:
-
-target_words = [] # list of annotated target words
-control_words = [] # list of annotated control words
-word2filename = dict() # maps an annotated word to its file name
-
-# target words:
-for word in os.listdir(os.path.join(dir_annotation, "target words")):
-    if os.path.isdir(os.path.join(dir_annotation, "target words", word)):
-        for file in os.listdir(os.path.join(dir_annotation, "target words", word)):
-            if os.path.isfile(os.path.join(os.path.join(dir_annotation, "target words", word), file)) \
-                    and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
-                print(word)
-                target_words.append(word)
-                word2filename[word] = file
-
-
-for word in os.listdir(os.path.join(dir_annotation, "control words")):
-    if os.path.isdir(os.path.join(dir_annotation, "control words", word)):
-        for file in os.listdir(os.path.join(dir_annotation, "control words", word)):
-            if os.path.isfile(os.path.join(os.path.join(dir_annotation, "control words", word), file)) \
-                    and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
-                print(word)
-                control_words.append(word)
-                word2filename[word] = file
-
-words = target_words + control_words
-
-if istest == "yes":
-    words = words[:2]
-    target_words = target_words[:1]
-    control_words = control_words[:1]
-
-words_read = 0
-
-for word in words:
-    print("Word", word)
-    path = ""
-    if word in target_words:
-        path = os.path.join(dir_annotation, "target words")
-    else:
-        path = os.path.join(dir_annotation, "control words")
-
-    annotated_file_name = word2filename[word]
-    #print("checking ", os.path.join(path, word, annotated_file_name))
-    if os.path.isfile(os.path.join(path, word, annotated_file_name)) \
-        and annotated_file_name.startswith("annotation_task") and annotated_file_name.endswith("_metadata.xlsx"):
-
-        ann = read_excel(os.path.join(path, word, annotated_file_name), 'Annotation', encoding='utf-8')
-        print(word)
-        words_read += 1
-        print(str(ann.shape[0]), "rows", ann.shape[1], "columns")
-        columns = ann.columns.tolist()
-        columns_lc = [c.lower() for c in columns]
-        index_leftcontext = columns_lc.index("left context")
-        index_era = columns_lc.index("era")
-
-        eras = ann.iloc[0:61, index_era]
-        eras = eras.dropna()
-        print(str(eras))
+shuffle_corpus(bc_subcorpus_dates_name, bc_subcorpus_dates_shuffled_name, "yes")
+shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
+shuffle_corpus(bc_subcorpus_name, bc_subcorpus_shuffled_name, "no")
+shuffle_corpus(ad_subcorpus_name, ad_subcorpus_shuffled_name, "no")

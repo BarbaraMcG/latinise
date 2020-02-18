@@ -15,4 +15,13 @@ interannotator_LatinISE.py
 
 # Prepare annotated data to be processed by Dominik's script that clusters senses:
 
-perocess_annotations_LatinISE.py
+process_annotations_LatinISE.py
+
+
+# Prepare subcorpora for SemEval:
+
+prepare_LatinISE_for_SemEval.py
+
+# Run checks on SemEval subcorpora:
+
+semeval_check.py
