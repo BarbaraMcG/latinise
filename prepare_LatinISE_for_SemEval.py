@@ -27,6 +27,7 @@ import re
 from collections import Counter
 import locale
 import xlrd
+from pandas import read_excel
 import random
 
 now = datetime.datetime.now()
@@ -45,8 +46,9 @@ if istest == "":
 
 directory = os.path.join("/Users", "bmcgillivray", "Documents", "OneDrive", "The Alan Turing Institute", "OneDrive - The Alan Turing Institute",
                          "Research", "2019", "Latin corpus")
-
+dir_annotation = os.path.join(directory, "Semantic annotation", "Annotated data", "selected")
 dir_corpus = os.path.join(directory, "LatinISE 4")
+dir_corpus2 = os.path.join(directory, "LatinISE 4", "for Codalab")
 
 # Files:
 latinise_file_name = "latin13.txt"
@@ -62,10 +64,10 @@ ad_subcorpus_shuffled_name = "LatinISE_subcorpus2_shuffled.txt"
 
 
 if istest == "yes":
-    bc_subcorpus = bc_subcorpus_name.replace(".txt", "_test.txt")
-    ad_subcorpus = ad_subcorpus_name.replace(".txt", "_test.txt")
-    bc_subcorpus_dates = bc_subcorpus_dates_name.replace(".txt", "_test.txt")
-    ad_subcorpus_dates = ad_subcorpus_dates_name.replace(".txt", "_test.txt")
+    bc_subcorpus_name = bc_subcorpus_name.replace(".txt", "_test.txt")
+    ad_subcorpus_name = ad_subcorpus_name.replace(".txt", "_test.txt")
+    bc_subcorpus_dates_name = bc_subcorpus_dates_name.replace(".txt", "_test.txt")
+    ad_subcorpus_dates_name = ad_subcorpus_dates_name.replace(".txt", "_test.txt")
     bc_subcorpus_dates_shuffled_name = bc_subcorpus_dates_shuffled_name.replace(".txt", "_test.txt")
     ad_subcorpus_dates_shuffled_name = ad_subcorpus_dates_shuffled_name.replace(".txt", "_test.txt")
     bc_subcorpus_shuffled_name = bc_subcorpus_shuffled_name.replace(".txt", "_test.txt")
@@ -126,11 +128,11 @@ def normalize_dates(date):
 # read corpus, keep lemmas only, remove punctuation marks, split by sentence, normalize dates:
 
 latinise_file = open(os.path.join(dir_corpus, latinise_file_name), 'r', encoding="utf-8")
-dates_file = open(os.path.join(dir_corpus, dates_file_name), 'w')
-bc_subcorpus_dates = open(os.path.join(dir_corpus, bc_subcorpus_dates_name), 'w')
-ad_subcorpus_dates = open(os.path.join(dir_corpus, ad_subcorpus_dates_name), 'w')
-bc_subcorpus = open(os.path.join(dir_corpus, bc_subcorpus_name), 'w')
-ad_subcorpus = open(os.path.join(dir_corpus, ad_subcorpus_name), 'w')
+dates_file = open(os.path.join(dir_corpus2, dates_file_name), 'w')
+bc_subcorpus_dates = open(os.path.join(dir_corpus2, bc_subcorpus_dates_name), 'w')
+ad_subcorpus_dates = open(os.path.join(dir_corpus2, ad_subcorpus_dates_name), 'w')
+bc_subcorpus = open(os.path.join(dir_corpus2, bc_subcorpus_name), 'w')
+ad_subcorpus = open(os.path.join(dir_corpus2, ad_subcorpus_name), 'w')
 
 count_n = 0
 normalized_date = ""
@@ -143,11 +145,11 @@ for line in latinise_file:
 
     count_n += 1
     if ((istest == "yes" and count_n < number_test) or istest != "yes"):
-
+        #print(str(count_n),line)
         if count_n % 100 == 0:
             print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
         if "<doc" in line:
-            #print(line)
+            #print("doc!","ecco",str(line))
             match = re.search(r'century=\"(.+?)\"', line)
             if match:
                 date = match.group(1)
@@ -230,8 +232,70 @@ def shuffle_corpus(subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes)
 
 # create final shuffled subcorpus files:
 
-shuffle_corpus(bc_subcorpus_dates_name, bc_subcorpus_dates_shuffled_name, "yes")
-shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
-shuffle_corpus(bc_subcorpus_name, bc_subcorpus_shuffled_name, "no")
-shuffle_corpus(ad_subcorpus_name, ad_subcorpus_shuffled_name, "no")
+#shuffle_corpus(bc_subcorpus_dates_name, bc_subcorpus_dates_shuffled_name, "yes")
+#shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
+#shuffle_corpus(bc_subcorpus_name, bc_subcorpus_shuffled_name, "no")
+#shuffle_corpus(ad_subcorpus_name, ad_subcorpus_shuffled_name, "no")
 
+# Check that all annotated sentences are in the subcorpora:
+
+# Found annotated words:
+
+target_words = [] # list of annotated target words
+control_words = [] # list of annotated control words
+word2filename = dict() # maps an annotated word to its file name
+
+# target words:
+for word in os.listdir(os.path.join(dir_annotation, "target words")):
+    if os.path.isdir(os.path.join(dir_annotation, "target words", word)):
+        for file in os.listdir(os.path.join(dir_annotation, "target words", word)):
+            if os.path.isfile(os.path.join(os.path.join(dir_annotation, "target words", word), file)) \
+                    and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
+                print(word)
+                target_words.append(word)
+                word2filename[word] = file
+
+
+for word in os.listdir(os.path.join(dir_annotation, "control words")):
+    if os.path.isdir(os.path.join(dir_annotation, "control words", word)):
+        for file in os.listdir(os.path.join(dir_annotation, "control words", word)):
+            if os.path.isfile(os.path.join(os.path.join(dir_annotation, "control words", word), file)) \
+                    and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
+                print(word)
+                control_words.append(word)
+                word2filename[word] = file
+
+words = target_words + control_words
+
+if istest == "yes":
+    words = words[:2]
+    target_words = target_words[:1]
+    control_words = control_words[:1]
+
+words_read = 0
+
+for word in words:
+    print("Word", word)
+    path = ""
+    if word in target_words:
+        path = os.path.join(dir_annotation, "target words")
+    else:
+        path = os.path.join(dir_annotation, "control words")
+
+    annotated_file_name = word2filename[word]
+    #print("checking ", os.path.join(path, word, annotated_file_name))
+    if os.path.isfile(os.path.join(path, word, annotated_file_name)) \
+        and annotated_file_name.startswith("annotation_task") and annotated_file_name.endswith("_metadata.xlsx"):
+
+        ann = read_excel(os.path.join(path, word, annotated_file_name), 'Annotation', encoding='utf-8')
+        print(word)
+        words_read += 1
+        print(str(ann.shape[0]), "rows", ann.shape[1], "columns")
+        columns = ann.columns.tolist()
+        columns_lc = [c.lower() for c in columns]
+        index_leftcontext = columns_lc.index("left context")
+        index_era = columns_lc.index("era")
+
+        eras = ann.iloc[0:61, index_era]
+        eras = eras.dropna()
+        print(str(eras))
