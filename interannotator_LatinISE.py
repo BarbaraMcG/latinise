@@ -36,7 +36,7 @@ istest_default = "yes"
 istest = input("Is this a test? Leave empty for default (" + istest_default + ").")
 number_test = 2 # number of annotators considered when testing
 
-annotators = ["Annie", "Daria",  "Hugo", "Rozi", "Hege"]
+annotators = ["Annie", "Daria",  "Hugo", "Rozi"]#, "Hege"]
 
 if istest == "":
     istest = istest_default
