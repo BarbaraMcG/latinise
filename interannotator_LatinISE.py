@@ -5,6 +5,10 @@
 # Script for calculating inter-annotator agreement for the Latin semantic annotation for SemEval 2020 task 1;
 # The word that all annotators worked on is "virtus"
 
+# How many times do all annotators agree?
+# How many times do 3 out of 4 annotators agree?
+# group together (1 and 2) and (3 and 4), how many times do all annotators agree?
+# Visualize any outliers
 
 # ----------------------------
 # Initialization
