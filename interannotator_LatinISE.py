@@ -80,38 +80,34 @@ output = open(os.path.join(dir_annotation, agreement_file_name), 'w')
 
 # Read annotation files:
 
+
+annotator2ratings = dict() # maps an annotator to the data frame of their ratings
+
+for annotator in annotators:
+    my_sheet = 'Annotation'
+    ann = read_excel(os.path.join(dir_annotation, "Annotation_task1_virtus_" + annotator + ".xlsx"),
+                              sheet_name=my_sheet, encoding='utf-8')
+    print("Annotator:" + annotator)
+    print(str(ann.shape[0]), "rows", ann.shape[1], "columns")
+
+    ratings = ann.iloc[0:61, 3:ann.shape[1]-1]
+    annotator2ratings[annotator] = normalize_ratings(ratings)
+
+# Calculate correlation coefficients:
+
 for annotator1 in annotators:
     for annotator2 in annotators:
         if annotator1 < annotator2:
-
             my_sheet = 'Annotation'
-            ann1 = read_excel(os.path.join(dir_annotation, "Annotation_task1_virtus_" + annotator1 + ".xlsx"),
-                              sheet_name=my_sheet, encoding='utf-8')
-            ann2 = read_excel(os.path.join(dir_annotation, "Annotation_task1_virtus_" + annotator2 + ".xlsx"),
-                              sheet_name=my_sheet)
-
-            print("First annotator:" + annotator1)
-            print(str(ann1.shape[0]), "rows", ann1.shape[1], "columns")
-
-            ratings1 = ann1.iloc[0:61, 3:ann1.shape[1]-1]
-            #print(str(ratings1))
-            normalize_ratings(ratings1)
-            #print(str(ratings1))
-
-            print("Second annotator:" + annotator2)
-            print(str(ann2.shape[0]), "rows", ann2.shape[1], "columns")
-
-            ratings2 = ann2.iloc[0:61, 3:ann2.shape[1] - 1]
-            normalize_ratings(ratings2)
-            #print(str(ratings2))
-
+            ratings1 = annotator2ratings[annotator1]
+            ratings2 = annotator2ratings[annotator2]
 
             # Calculate inter-annotator agreement with Spearman's rho between
             # first row of the annotated data matrix for annotator 1 and first row of the annotated data matrix for annotator 2;
             # second row in annotator 1 and second row in annotator 2;
             # and so on
 
-            rhos = [] # list of Spearman who coefficients, one for each row of the annotated data matrix
+            rhos = [] # list of Spearman rho coefficients, one for each row of the annotated data matrix
             pvalues = [] # list of p values of Spearman correlation test, one for each row of the annotated data matrix
 
             for row_n in range(ratings1.shape[0]):
@@ -132,5 +128,6 @@ for annotator1 in annotators:
             rhos_sign = [rho for rho in rhos if rho != "non-sign" and not math.isnan(rho) ]
             print(str(round(mean(rhos_sign),2)))
             output.write("Mean of Spearman rho betweeen "+ annotator1 + " and " + annotator2 + ": " + str(round(mean(rhos_sign),2)) + "\n")
+
 
 output.close()
