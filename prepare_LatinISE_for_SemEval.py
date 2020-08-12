@@ -303,8 +303,8 @@ def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_file_shuffled_name
 #shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
 shuffle_corpus(dir_corpus_bc, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no", "lemma")
 shuffle_corpus(dir_corpus_ad, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no", "lemma")
-shuffle_corpus(dir_corpus_bc_tokens, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no", "token")
-shuffle_corpus(dir_corpus_ad_tokens, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no", "token")
+shuffle_corpus(dir_corpus_bc, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no", "token")
+shuffle_corpus(dir_corpus_ad, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no", "token")
 
 
 # Print list of words:
