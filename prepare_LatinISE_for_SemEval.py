@@ -11,6 +11,8 @@
 # create subcorpus1 for BC and subcorpus2 for AD, format: [normalized dates] TAB [pre-processed lemmatized sentence]
 # shuffle lines in subcorpus1 and subcorpus2
 
+# New version (11/8/2020): add version of the corpora with tokens rather than lemmas
+
 
 # ----------------------------
 # Initialization
@@ -49,9 +51,17 @@ directory = os.path.join("/Users", "bmcgillivray", "Documents", "OneDrive", "The
 dir_annotation = os.path.join(directory, "Semantic annotation", "Annotated data", "selected")
 dir_corpus = os.path.join(directory, "LatinISE 4")
 dir_corpus2 = os.path.join(directory, "LatinISE 4", "for Codalab")
-dir_corpus3 = os.path.join(dir_corpus2, "semeval2020_ulscd_lat")
+#dir_corpus2_tokens = os.path.join(directory, "LatinISE 4", "tokens")
+dir_corpus3 = os.path.join(dir_corpus2, "semeval2020_ulscd_lat") # this version contains the lemmas
+#dir_corpus3_tokens = os.path.join(dir_corpus2, "semeval2020_ulscd_lat_tokens") # this version contains the tokens
+if not os.path.exists(dir_corpus2):
+    os.mkdir(dir_corpus2)
+#if not os.path.exists(dir_corpus2_tokens):
+#    os.mkdir(dir_corpus2_tokens)
 if not os.path.exists(dir_corpus3):
     os.mkdir(dir_corpus3)
+#if not os.path.exists(dir_corpus3_tokens):
+#    os.mkdir(dir_corpus3_tokens)
 dir_corpus_bc = os.path.join(dir_corpus3, "corpus1")
 dir_corpus_ad = os.path.join(dir_corpus3, "corpus2")
 if not os.path.exists(dir_corpus_bc):
@@ -59,17 +69,29 @@ if not os.path.exists(dir_corpus_bc):
 if not os.path.exists(dir_corpus_ad):
     os.mkdir(dir_corpus_ad)
 
+#dir_corpus_bc_tokens = os.path.join(dir_corpus3_tokens, "corpus1")
+#dir_corpus_ad_tokens = os.path.join(dir_corpus3_tokens, "corpus2")
+#if not os.path.exists(dir_corpus_bc_tokens):
+#    os.mkdir(dir_corpus_bc_tokens)
+#if not os.path.exists(dir_corpus_ad_tokens):
+#    os.mkdir(dir_corpus_ad_tokens)
+
+
 # Files:
 latinise_file_name = "latin13.txt"
 #dates_file_name = "LatinISE_dates.txt"
 bc_subcorpus_name = "LatinISE_subcorpus1_non-shuffled.txt"
 ad_subcorpus_name = "LatinISE_subcorpus2_non-shuffled.txt"
+bc_subcorpus_tokens_name = "LatinISE_subcorpus1_non-shuffled_tokens.txt"
+ad_subcorpus_tokens_name = "LatinISE_subcorpus2_non-shuffled_tokens.txt"
 #bc_subcorpus_dates_name = "LatinISE_subcorpus1_dates.txt"
 #ad_subcorpus_dates_name = "LatinISE_subcorpus2_dates.txt"
 #bc_subcorpus_dates_shuffled_name = "LatinISE_subcorpus1_dates_shuffled.txt"
 #ad_subcorpus_dates_shuffled_name = "LatinISE_subcorpus2_dates_shuffled.txt"
 bc_subcorpus_shuffled_name = "LatinISE1.txt"
 ad_subcorpus_shuffled_name = "LatinISE2.txt"
+bc_subcorpus_shuffled_tokens_name = "LatinISE1_tokens.txt"
+ad_subcorpus_shuffled_tokens_name = "LatinISE2_tokens.txt"
 words_name = "targets.txt"
 
 if istest == "yes":
@@ -146,8 +168,15 @@ if not os.path.exists(os.path.join(dir_corpus_bc, "lemma")):
 if not os.path.exists(os.path.join(dir_corpus_ad, "lemma")):
     os.mkdir(os.path.join(dir_corpus_ad, "lemma"))
 
+if not os.path.exists(os.path.join(dir_corpus_bc, "token")):
+    os.mkdir(os.path.join(dir_corpus_bc, "token"))
+if not os.path.exists(os.path.join(dir_corpus_ad, "token")):
+    os.mkdir(os.path.join(dir_corpus_ad, "token"))
+
 bc_subcorpus = open(os.path.join(dir_corpus2, bc_subcorpus_name), 'w')
 ad_subcorpus = open(os.path.join(dir_corpus2, ad_subcorpus_name), 'w')
+bc_subcorpus_tokens = open(os.path.join(dir_corpus2, bc_subcorpus_tokens_name), 'w')
+ad_subcorpus_tokens = open(os.path.join(dir_corpus2, ad_subcorpus_tokens_name), 'w')
 
 count_n = 0
 normalized_date = ""
@@ -212,25 +241,30 @@ for line in latinise_file:
             #print(line)
             line = line.strip()
             fields = line.split("\t")
+            token = fields[0]
             lemma = fields[2]
             pos = fields[1]
             if pos != "PUN":
                 if normalized_date.startswith("-"):
                     #bc_subcorpus_dates.write(lemma + " ")
                     bc_subcorpus.write(lemma + " ")
+                    bc_subcorpus_tokens.write(token + " ")
                     count_tokens_bc += 1
                 else:
                     #ad_subcorpus_dates.write(lemma + " ")
                     ad_subcorpus.write(lemma + " ")
+                    ad_subcorpus_tokens.write(token + " ")
                     count_tokens_ad += 1
 
         elif "</s" in line:
             if normalized_date.startswith("-"):
                 #bc_subcorpus_dates.write("\n")
                 bc_subcorpus.write("\n")
+                bc_subcorpus_tokens.write("\n")
             else:
                 #ad_subcorpus_dates.write("\n")
                 ad_subcorpus.write("\n")
+                ad_subcorpus_tokens.write("\n")
 
 
 
@@ -240,14 +274,16 @@ latinise_file.close()
 #ad_subcorpus_dates.close()
 bc_subcorpus.close()
 ad_subcorpus.close()
+bc_subcorpus_tokens.close()
+ad_subcorpus_tokens.close()
 
 # function that reads a subcorpus file, eliminates sentences with just one word, and shuffles lines:
-def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes):
+def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes, lemma_or_token):
     print("Shuffling ", subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes)
     subcorpus_file = open(os.path.join(dir_corpus2, subcorpus_file_name), 'r')
     lines = subcorpus_file.readlines()
     random.shuffle(lines)
-    subcorpus_file_shuffled = open(os.path.join(dir_corpus, "lemma", subcorpus_file_shuffled_name), 'w')
+    subcorpus_file_shuffled = open(os.path.join(dir_corpus, lemma_or_token, subcorpus_file_shuffled_name), 'w')
     for line in lines:
         #print(str(line))
         if dates_yes == "yes":
@@ -265,8 +301,10 @@ def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_file_shuffled_name
 
 #shuffle_corpus(bc_subcorpus_dates_name, bc_subcorpus_dates_shuffled_name, "yes")
 #shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
-shuffle_corpus(dir_corpus_bc, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no")
-shuffle_corpus(dir_corpus_ad, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no")
+shuffle_corpus(dir_corpus_bc, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no", "lemma")
+shuffle_corpus(dir_corpus_ad, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no", "lemma")
+shuffle_corpus(dir_corpus_bc_tokens, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no", "token")
+shuffle_corpus(dir_corpus_ad_tokens, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no", "token")
 
 
 # Print list of words:
