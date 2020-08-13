@@ -39,7 +39,7 @@ today_date = str(now)[:10]
 
 istest_default = "yes"
 istest = input("Is this a test? Leave empty for default (" + istest_default + ").")
-number_test = 10000 # number of lines read when testing
+number_test = 100 # number of lines read when testing
 
 if istest == "":
     istest = istest_default
@@ -294,7 +294,7 @@ def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_tokens_file_name, 
 
     subcorpus_file = open(os.path.join(dir_corpus2, subcorpus_file_name), 'r')
     num_lines = sum(1 for line in subcorpus_file)
-    lines_index_shuffled = random.shuffle(range(num_lines))
+    lines_index_shuffled = random.sample(range(num_lines), k=num_lines)
     subcorpus_file.close()
 
     subcorpus_file = open(os.path.join(dir_corpus2, subcorpus_file_name), 'r')
@@ -312,11 +312,12 @@ def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_tokens_file_name, 
     lines_tokens = subcorpus_tokens_file.readlines()
     subcorpus_tokens_file.close()
     subcorpus_file_shuffled_token = open(os.path.join(dir_corpus, "token", subcorpus_file_shuffled_name), 'w')
+    #print(str(lines_index_shuffled))
 
-
-    count = 0
     for index in lines_index_shuffled:
         line = lines[index]
+        #print(str(index))
+        #print(str(line))
         line_tokens = lines_tokens[index]
         if dates_yes == "yes":
             sentence = line.split("\t")[1]
@@ -325,7 +326,8 @@ def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_tokens_file_name, 
         words = sentence.split(" ")
         if len(words) > 2:
             subcorpus_file_shuffled_lemma.write(line)
-            subcorpus_file_shuffled_token.write(line_token)
+            subcorpus_file_shuffled_token.write(line_tokens)
+            #print("ecco" + str(line))
 
     subcorpus_file_shuffled_lemma.close()
     subcorpus_file_shuffled_token.close()
@@ -349,7 +351,7 @@ for word in os.listdir(os.path.join(dir_annotation, "target words")):
         for file in os.listdir(os.path.join(dir_annotation, "target words", word)):
             if os.path.isfile(os.path.join(os.path.join(dir_annotation, "target words", word), file)) \
                     and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
-                print(word)
+                #print(word)
                 words_list.append(word)
 
 for word in os.listdir(os.path.join(dir_annotation, "control words")):
@@ -357,7 +359,7 @@ for word in os.listdir(os.path.join(dir_annotation, "control words")):
         for file in os.listdir(os.path.join(dir_annotation, "control words", word)):
             if os.path.isfile(os.path.join(os.path.join(dir_annotation, "control words", word), file)) \
                     and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
-                print(word)
+                #print(word)
                 words_list.append(word)
 
 words = open(os.path.join(dir_corpus3, words_name), 'w')
