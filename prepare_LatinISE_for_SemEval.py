@@ -278,33 +278,65 @@ bc_subcorpus_tokens.close()
 ad_subcorpus_tokens.close()
 
 # function that reads a subcorpus file, eliminates sentences with just one word, and shuffles lines:
-def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes, lemma_or_token):
+def shuffle_corpus(dir_corpus, subcorpus_file_name, subcorpus_tokens_file_name, subcorpus_file_shuffled_name, dates_yes):
     print("Shuffling ", subcorpus_file_name, subcorpus_file_shuffled_name, dates_yes)
+
+    # random.shuffle(lines)
+    #for line in lines:
+    #    #print(str(line))
+    #    if dates_yes == "yes":
+    #        sentence = line.split("\t")[1]
+    #    else:
+    #        sentence = line.split("\t")[0]
+    #    words = sentence.split(" ")
+    #    if len(words) > 2:
+    #        subcorpus_file_shuffled.write(line)
+
+    subcorpus_file = open(os.path.join(dir_corpus2, subcorpus_file_name), 'r')
+    num_lines = sum(1 for line in subcorpus_file)
+    lines_index_shuffled = random.shuffle(range(num_lines))
+    subcorpus_file.close()
+
     subcorpus_file = open(os.path.join(dir_corpus2, subcorpus_file_name), 'r')
     lines = subcorpus_file.readlines()
-    random.shuffle(lines)
-    subcorpus_file_shuffled = open(os.path.join(dir_corpus, lemma_or_token, subcorpus_file_shuffled_name), 'w')
-    for line in lines:
-        #print(str(line))
+    subcorpus_file.close()
+
+    # lemmas:
+    subcorpus_file = open(os.path.join(dir_corpus2, subcorpus_file_name), 'r')
+    lines = subcorpus_file.readlines()
+    subcorpus_file.close()
+    subcorpus_file_shuffled_lemma = open(os.path.join(dir_corpus, "lemma", subcorpus_file_shuffled_name), 'w')
+
+    # tokens:
+    subcorpus_tokens_file = open(os.path.join(dir_corpus2, subcorpus_tokens_file_name), 'r')
+    lines_tokens = subcorpus_tokens_file.readlines()
+    subcorpus_tokens_file.close()
+    subcorpus_file_shuffled_token = open(os.path.join(dir_corpus, "token", subcorpus_file_shuffled_name), 'w')
+
+
+    count = 0
+    for index in lines_index_shuffled:
+        line = lines[index]
+        line_tokens = lines_tokens[index]
         if dates_yes == "yes":
             sentence = line.split("\t")[1]
         else:
             sentence = line.split("\t")[0]
         words = sentence.split(" ")
         if len(words) > 2:
-            subcorpus_file_shuffled.write(line)
+            subcorpus_file_shuffled_lemma.write(line)
+            subcorpus_file_shuffled_token.write(line_token)
 
-    subcorpus_file.close()
-    subcorpus_file_shuffled.close()
+    subcorpus_file_shuffled_lemma.close()
+    subcorpus_file_shuffled_token.close()
 
 # create final shuffled subcorpus files:
 
 #shuffle_corpus(bc_subcorpus_dates_name, bc_subcorpus_dates_shuffled_name, "yes")
 #shuffle_corpus(ad_subcorpus_dates_name, ad_subcorpus_dates_shuffled_name, "yes")
-shuffle_corpus(dir_corpus_bc, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no", "lemma")
-shuffle_corpus(dir_corpus_ad, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no", "lemma")
-shuffle_corpus(dir_corpus_bc, bc_subcorpus_name, bc_subcorpus_shuffled_name, "no", "token")
-shuffle_corpus(dir_corpus_ad, ad_subcorpus_name, ad_subcorpus_shuffled_name, "no", "token")
+shuffle_corpus(dir_corpus_bc, bc_subcorpus_name, bc_subcorpus_tokens_name, bc_subcorpus_shuffled_name, "no")
+shuffle_corpus(dir_corpus_ad, ad_subcorpus_name, ad_subcorpus_tokens_name, ad_subcorpus_shuffled_name, "no")
+
 
 
 # Print list of words:
