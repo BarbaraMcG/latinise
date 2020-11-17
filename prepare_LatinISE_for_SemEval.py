@@ -255,6 +255,12 @@ for line in latinise_file:
                     ad_subcorpus.write(lemma + " ")
                     ad_subcorpus_tokens.write(token + " ")
                     count_tokens_ad += 1
+            # for the token versions of the subcorpora, keep punctuation marks
+            elif pos == "PUN":
+                if normalized_date.startswith("-"):
+                    bc_subcorpus_tokens.write(token + " ")
+                else:
+                    ad_subcorpus_tokens.write(token + " ")
 
         elif "</s" in line:
             if normalized_date.startswith("-"):
@@ -361,6 +367,8 @@ for word in os.listdir(os.path.join(dir_annotation, "control words")):
                     and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
                 #print(word)
                 words_list.append(word)
+
+words_list.sort()
 
 words = open(os.path.join(dir_corpus3, words_name), 'w')
 

@@ -39,3 +39,7 @@ gzip LatinISE1.gz
 cd "/Users/bmcgillivray/Documents/OneDrive/The Alan Turing Institute/OneDrive - The Alan Turing Institute/Research/2019/Latin corpus/LatinISE 4/for Codalab/semeval2020_ulscd_lat/corpus2/lemma"
 
 gzip LatinISE2.gz
+
+# Prepare annotated data for SemEval resource paper:
+
+Prepare_annotation_for_SemEval.py
