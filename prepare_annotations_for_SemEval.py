@@ -202,7 +202,7 @@ for annotated_file_name in sorted(os.listdir(dir_annotation_original)):
         #print("Opening", os.path.join(dir_annotation, annotated_file_name))
 
         with open(os.path.join(dir_annotation_original, annotated_file_name), 'r') as ann: # open in readonly mode
-            ann = read_excel(os.path.join(dir_annotation_original, annotated_file_name), 'Annotation', encoding='utf-8')
+            ann = read_excel(os.path.join(dir_annotation_original, annotated_file_name), 'Annotation', encoding='utf-8').iloc[:60]
             ann.to_csv(os.path.join(dir_csv, annotated_file_name_csv), index=None, header=True, quoting=csv.QUOTE_MINIMAL)
 
 # -----------------------------------------------------------------
