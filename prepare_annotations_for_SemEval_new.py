@@ -20,6 +20,7 @@
 # across these words to be able to match them later.
 # 5) In additional columns you could add any further information (e.g. POS, author) which you would want to provide in the graphs.
 # convert century to dates like "100" for "1 cent A D" and "-100" for "1 cent B C"
+# This version creates the same word and sentence IDs as process_annotations_LatinISE.py, which generated the February 2020 data for SemEval. On the other hand, prepare_annotations_for_SemEval.py created the IDs differently and generated the data in November 2020.
 
 # ----------------------------
 # Initialization
@@ -39,6 +40,7 @@ import xlrd
 import pandas as pd
 from pandas import read_excel
 import random
+import math
 
 now = datetime.datetime.now()
 today_date = str(now)[:10]
@@ -56,6 +58,8 @@ if istest == "":
 
 directory = os.path.join("/Users", "bmcgillivray", "GitHub", "DWUG", "latin", )
 dir_annotation_original = os.path.join(directory, "annotation_original")
+dir_annotation = os.path.join("/Users", "bmcgillivray", "Documents", "OneDrive", "The Alan Turing Institute", "OneDrive - The Alan Turing Institute",
+                         "Research", "2019", "Latin corpus", "Semantic annotation", "Annotated data", "selected")
 
 # output folders:
 # folder with csv annotations
@@ -198,7 +202,7 @@ def normalize_centuries(century_date):
 for annotated_file_name in sorted(os.listdir(dir_annotation_original)):
     if annotated_file_name.endswith(".xlsx") and annotated_file_name.startswith("annotation"):
         annotated_file_name_csv = annotated_file_name.replace(".xlsx", ".csv")
-        print("Opening", os.path.join(dir_annotation_original, annotated_file_name))
+        #print("Opening", os.path.join(dir_annotation_original, annotated_file_name))
 
         with open(os.path.join(dir_annotation_original, annotated_file_name), 'r') as ann: # open in readonly mode
             ann = read_excel(os.path.join(dir_annotation_original, annotated_file_name), 'Annotation').iloc[:60]
@@ -216,14 +220,85 @@ for annotated_file_name in sorted(os.listdir(dir_annotation_original)):
 # The sentences should have tabs and linebreaks removed
 # -----------------------------------------------------------------
 
+
+
+# Found annotated words:
+
+target_words = [] # list of annotated target words
+control_words = [] # list of annotated control words
+word2filename = dict() # maps an annotated word to its file name
+
+# target words:
+count = 0
+for word in os.listdir(os.path.join(dir_annotation, "target words")):
+    if os.path.isdir(os.path.join(dir_annotation, "target words", word)):
+        for file in os.listdir(os.path.join(dir_annotation, "target words", word)):
+            if os.path.isfile(os.path.join(os.path.join(dir_annotation, "target words", word), file)) \
+                    and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
+                # For some reason, virtus was read as the eigth word, but it should be the last of the list
+                if "virtus" not in word:
+                    count += 1
+                    #print(str(count), "Target word:", word)
+                    target_words.append(word)
+                    word2filename[word] = file
+
+
+for word in os.listdir(os.path.join(dir_annotation, "control words")):
+    if os.path.isdir(os.path.join(dir_annotation, "control words", word)):
+        for file in os.listdir(os.path.join(dir_annotation, "control words", word)):
+            if os.path.isfile(os.path.join(os.path.join(dir_annotation, "control words", word), file)) \
+                    and file.lower().startswith("annotation_task") and file.endswith("_metadata.xlsx"):
+                # For some reason, salus  was read as the 37th word and sacramentum as the 38th word, and jus was missing
+                #if "salus" not in word and "sacramentum" not in word and 'jus' not in word:
+                count += 1
+                #print(str(count), "Control word:", word)
+                control_words.append(word)
+                word2filename[word] = file
+
+words = target_words + control_words
+#words.append("salus")
+#words.append("sacramentum")
+#words.append("jus")
+words.append("virtus")
+#word2filename["salus"] = "annotation_task_salus_DARIA_metadata.xlsx"
+#word2filename["sacramentum"] = "annotation_task_sacramentum_DARIA_metadata.xlsx"
+word2filename["virtus"] = "annotation_task_virtus_Hugo_metadata.xlsx"
+
+
+if istest == "yes":
+    words = words[:2]
+    target_words = target_words[:1]
+    control_words = control_words[:1]
+
+print("There are", str(len(words)), "annotated words", "of which", str(len(target_words)), "target words and ", str(len(control_words)), "control words")
+
+# Read annotation files:
+sentence_id = ""
 words_read = 0
+
 sentences_read = 0
 
-for annotated_file_name in sorted(os.listdir(dir_csv)):
-    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
-        #print("Opening", os.path.join(dir_csv, annotated_file_name))
-        word = annotated_file_name.split("_")[2] # annotation_task_regnum_ROZI_metadata.csv
-        print("word:", word)
+print("Creating files with identifier_sentence [tab] index_target [tab] text_date [tab] sentence_token...")
+for word in words:
+    #print("Word", word)
+    #path = ""
+    #if word in target_words:
+    #    path = os.path.join(dir_annotation, "target words")
+    #else:
+    #    path = os.path.join(dir_annotation, "control words")
+
+#for annotated_file_name in sorted(os.listdir(dir_csv)):
+#    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
+#        #print("Opening", os.path.join(dir_csv, annotated_file_name))
+#        word = annotated_file_name.split("_")[2] # annotation_task_regnum_ROZI_metadata.csv
+    annotated_file_name = word2filename[word]
+    annotated_file_name = annotated_file_name.replace(".xlsx", ".csv")
+    #print(annotated_file_name)
+    if os.path.isfile(os.path.join(dir_csv, annotated_file_name)) \
+                and annotated_file_name.startswith("annotation_task") and annotated_file_name.endswith(
+            "_metadata.csv"):
+        #print("word:", word)
+        #print(annotated_file_name)
         annotator = annotated_file_name.split("_")[3].lower()
         #print("annotator:", annotator)
 
@@ -243,7 +318,7 @@ for annotated_file_name in sorted(os.listdir(dir_csv)):
             index_right_context = columns_lc.index("right context")
 
             ratings = ann.iloc[0:61, index_first:index_last]
-            target_form = ann.iloc[0:61, index_target]
+            target_forms = ann.iloc[0:61, index_target]
             sentences_left_context = ann.iloc[0:61, index_left_context]
             sentences_right_context = ann.iloc[0:61, index_right_context]
 
@@ -285,26 +360,78 @@ for annotated_file_name in sorted(os.listdir(dir_csv)):
 
             #for i in range(ratings.shape[0]):
                 #print(str(i))
-                #print(str(sentences_left_context[i] ))
-                #sentences_read += i
+                #print(str(sentences_left_context[i]))
+                #print(str(type(sentences_left_context[i])))
+                if isinstance(sentences_left_context[i], float) and math.isnan(sentences_left_context[i]):
+                    #print(str(type(sentences_left_context[i])))
+                    sentences_left_context[i] = " "
+                    #print("!!!!", word, sentence_id)
+
                 if (sentences_left_context[i] is not None) and ("\t" in sentences_left_context[i] or "\n" in sentences_left_context[i]):
-                    print("Tab or newline in left context, line", str(i))
+                        print("Tab or newline in left context, line", str(i))
                 if (sentences_right_context[i] is not None) and ("\t" in sentences_right_context[i] or "\n" in sentences_right_context[i]):
-                    print("Tab or newline in right context, line", str(i))
+                        print("Tab or newline in right context, line", str(i))
 
                 sentence_left_context = sentences_left_context[i]
-                #print("left context is here:", str(sentences_left_context[i]))
                 sentence_left_context_tokens = sentence_left_context.split(" ")
-                index_target = len(sentence_left_context_tokens)
-                #print("Index target:", str(index_target))
+
+
+                target_form = target_forms[i]
                 sentence_right_context = sentences_right_context[i]
                 sentences_right_context[i] = sentences_right_context[i].lstrip()
                 #print("right context is here:", str(sentences_right_context[i]))
                 sentence_right_context_tokens = sentence_right_context.split(" ")
-                all_sentence_tokens = sentence_left_context_tokens + [target_form[i]] + sentence_right_context_tokens
+                all_sentence_tokens = sentence_left_context_tokens + [target_form] + sentence_right_context_tokens
                 #print(str(all_sentence_tokens))
-                all_sentence = ' '.join(all_sentence_tokens)
-                all_sentence = all_sentence.replace("  ", " ")
+                #all_sentence = ' '.join(all_sentence_tokens)
+                #all_sentence = all_sentence#.replace("  ", " ")
+                #if (word == "fidelis") and (sentence_id == "2_44"):
+                #    print("left context:", sentence_left_context, "end")
+                #    print("target form:", target_form, "end")
+                #    print("right context:", sentence_right_context, "end")
+                if not sentence_left_context.endswith(" ") and not target_form.startswith(" "):
+                    #if (word == "fidelis") and (sentence_id == "2_44"):
+                    #    print("yes")
+                    sentence_left_context = sentence_left_context + " "
+                if not sentence_right_context.startswith(" ") and not target_form.endswith(" "):
+                    #if (word == "fidelis") and (sentence_id == "2_44"):
+                    #    print("yesss")
+                    sentence_right_context = " " + sentence_right_context
+
+                #if (word == "fidelis") and (sentence_id == "2_44"):
+                #    print('1len(sentence_left_context.split(" ")):', len(sentence_left_context.split(" ")))
+                #index_target = len(sentence_left_context_tokens)
+                if sentence_left_context == " ":
+                    sentence_left_context = ""
+                    index_target = 0
+                elif sentence_left_context.endswith(" ") and not sentence_left_context == " ":
+                    #sentence_left_context = sentence_left_context.rstrip(" ")
+                    index_target = len(sentence_left_context.split(" "))-1
+                else:
+                    index_target = len(sentence_left_context.split(" "))
+
+                #if (word == "fidelis") and (sentence_id == "2_44"):
+                #    print('2len(sentence_left_context.split(" ")):', len(sentence_left_context.split(" ")))
+
+                #if (word == "fidelis") and (sentence_id == "2_44"):
+                #    print("Index target:", str(index_target))
+
+                all_sentence = sentence_left_context + target_form + sentence_right_context
+
+                #if (word == "fidelis") and (sentence_id == "2_44"):
+                #    print('3len(sentence_left_context.split(" ")):', len(sentence_left_context.split(" ")))
+
+                #if (word == "fidelis") and (sentence_id == "2_44"):
+                #    print("left context:", sentence_left_context, "end")
+                #    print("target form:", target_form, "end")
+                #    print("right context:", sentence_right_context, "end")
+                #    print("All sentence:",all_sentence)
+                    #for u in range(len(all_sentence.split(" "))):
+                    #    print(str(u), all_sentence.split(" ")[u])
+                #x = all_sentence.split(" ")[index_target].lower()
+                #if x[:len(word)-4] != word.lower()[:len(word)-4]:
+                print(str(index_target),"word=",word, "in sentence",sentence_id, ":", all_sentence.split(" ")[index_target])
+                    #print("sentence=", all_sentence)
 
                 #print("Metadata-i:", str(metadata[i]))
                 match = re.search(r'\,cent\. (.+?)\,', metadata[i])
@@ -345,12 +472,26 @@ for annotated_file_name in sorted(os.listdir(dir_csv)):
 # -----------------------------------------------------------------
 
 words_read = 0
+print("Creating files with identifier_sense [tab] sense_description...")
 
-for annotated_file_name in sorted(os.listdir(dir_csv)):
-    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
-        # print("Opening", os.path.join(dir_csv, annotated_file_name))
-        word = annotated_file_name.split("_")[2]  # annotation_task_regnum_ROZI_metadata.csv
-        print("word:", word)
+for word in words:
+    #path = ""
+    #if word in target_words:
+    #    path = os.path.join(dir_csv, "target words")
+    #else:
+    #    path = os.path.join(dir_csv, "control words")
+
+    annotated_file_name = word2filename[word]
+    annotated_file_name = annotated_file_name.replace(".xlsx", ".csv")
+    if os.path.isfile(os.path.join(dir_csv, annotated_file_name)) \
+                and annotated_file_name.startswith("annotation_task") and annotated_file_name.endswith(
+            "_metadata.csv"):
+
+#for annotated_file_name in sorted(os.listdir(dir_csv)):
+#    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
+#        # print("Opening", os.path.join(dir_csv, annotated_file_name))
+#        word = annotated_file_name.split("_")[2]  # annotation_task_regnum_ROZI_metadata.csv
+        #print("word:", word)
         annotator = annotated_file_name.split("_")[3].lower()
         # print("annotator:", annotator)
 
@@ -394,14 +535,26 @@ for annotated_file_name in sorted(os.listdir(dir_csv)):
 
 annotators = list()
 words_read = 0
+#for annotated_file_name in sorted(os.listdir(dir_csv)):
+#    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
+#        #print("Opening", os.path.join(dir_csv, annotated_file_name))
+#        word = annotated_file_name.split("_")[2] # annotation_task_regnum_ROZI_metadata.csv
+for word in words:
+    #print("Word", word)
+    #path = ""
+    #if word in target_words:
+    #    path = os.path.join(dir_annotation, "target words")
+    #else:
+    #    path = os.path.join(dir_annotation, "control words")
 
-for annotated_file_name in sorted(os.listdir(dir_csv)):
-    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
-        #print("Opening", os.path.join(dir_csv, annotated_file_name))
-        word = annotated_file_name.split("_")[2] # annotation_task_regnum_ROZI_metadata.csv
-        print("word:", word)
+    annotated_file_name = word2filename[word]
+    annotated_file_name = annotated_file_name.replace(".xlsx", ".csv")
+    if os.path.isfile(os.path.join(dir_csv, annotated_file_name)) \
+                and annotated_file_name.startswith("annotation_task") and annotated_file_name.endswith(
+            "_metadata.csv"):
+
         annotator = annotated_file_name.split("_")[3].lower()
-        print("Annotator:", annotator)
+        #print("Annotator:", annotator)
         annotators.append(annotator)
 
 annotators = list(set(annotators))
@@ -410,17 +563,38 @@ annotators = list(set(annotators))
 annotators.sort()
 #print("Annotators:", str(annotators))
 
-for annotated_file_name in sorted(os.listdir(dir_csv)):
-    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
-        print("Opening", os.path.join(dir_csv, annotated_file_name))
-        word = annotated_file_name.split("_")[2] # annotation_task_regnum_ROZI_metadata.csv
-        print("word:", word)
+words_read = 0
+print("Creating files with identifier_sentence [tab] identifier_sense [tab] judgment [tab] comment [tab] annotator#")
+
+#for annotated_file_name in sorted(os.listdir(dir_csv)):
+#    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
+#        #print("Opening", os.path.join(dir_csv, annotated_file_name))
+#        word = annotated_file_name.split("_")[2] # annotation_task_regnum_ROZI_metadata.csv
+for word in words:
+    #print("Word", word)
+    #path = ""
+    #if word in target_words:
+    #    path = os.path.join(dir_annotation, "target words")
+    #else:
+    #    path = os.path.join(dir_annotation, "control words")
+
+#for annotated_file_name in sorted(os.listdir(dir_csv)):
+#    if annotated_file_name.endswith(".csv") and annotated_file_name.startswith("annotation"):
+#        print("Opening", os.path.join(dir_csv, annotated_file_name))
+#        word = annotated_file_name.split("_")[2] # annotation_task_regnum_ROZI_metadata.csv
+#        print("word:", word)
+    annotated_file_name = word2filename[word]
+    annotated_file_name = annotated_file_name.replace(".xlsx", ".csv")
+    if os.path.isfile(os.path.join(dir_csv, annotated_file_name)) \
+            and annotated_file_name.startswith("annotation_task") and annotated_file_name.endswith(
+        "_metadata.csv"):
+
         annotator = annotated_file_name.split("_")[3].lower()
         annotator_id = annotators.index(annotator)
 
         ann = pd.read_csv(os.path.join(dir_csv, annotated_file_name))
         words_read += 1
-        print("Words read so far:", str(words_read))
+        #print("Words read so far:", str(words_read))
         if (istest == "yes" and words_read <=1) or istest == "no":
             #print(str(ann.shape[0]), "rows", ann.shape[1], "columns")
             columns = ann.columns.tolist()

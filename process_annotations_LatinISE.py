@@ -116,7 +116,7 @@ for word in words:
     if os.path.isfile(os.path.join(path, word, annotated_file_name)) \
         and annotated_file_name.startswith("annotation_task") and annotated_file_name.endswith("_metadata.xlsx"):
 
-        ann = read_excel(os.path.join(path, word, annotated_file_name), 'Annotation', encoding='utf-8')
+        ann = read_excel(os.path.join(path, word, annotated_file_name), 'Annotation')#, encoding='utf-8')
         print(word)
         words_read += 1
         print(str(ann.shape[0]), "rows", ann.shape[1], "columns")
