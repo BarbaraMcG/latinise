@@ -47,3 +47,14 @@ Prepare_annotation_for_SemEval.py
 # Process data for Nexus Linguarum analysis:
 
 process_LatinISE_for_Nexus.py
+
+This Python 3 script takes as input the .xml files from the Diorisis Ancient Greek corpus, 
+and returns a series of files that can be used to train diachronic word embeddings according 
+to the following format:
+
+file name: <language_code><date><file_identifier>, where
+	- <language_code> (see Dublin Core Language and ISO 639.2)--> lat for Latin
+	- <date> = <YYYY> | <YYYY-MM> | <YYYY-MM-DD>, see https://en.wikipedia.org/wiki/ISO_8601: 1BCE=+000, 2BCE=-0001, 1CE=+0001, etc. 
+	- <file_identifier> = specific to each dataset
+general metadata, according to Dublin Core terms and depending on the availability of this type of information in the corpus (title, author, publisher, type, etc.) or alternatively, links to the original files with metadata (if available);
+
