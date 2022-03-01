@@ -6,7 +6,7 @@ correct_lemmas_pos_LatinISE.py
 
 # Prepare corpus data for SemEval task 1:
 
-split_sentenes_LatinISE.py
+split_sentencßes_LatinISE.py
 
 # Calculate inter-annotator agreement for SemEval task 1 annotated data:
 
@@ -43,3 +43,7 @@ gzip LatinISE2.gz
 # Prepare annotated data for SemEval resource paper:
 
 Prepare_annotation_for_SemEval.py
+
+# Process data for Nexus Linguarum analysis:
+
+process_LatinISE_for_Nexus.py
