@@ -6,7 +6,8 @@
 # Format of output:
 # One folder for the most granular time slice (year), grouped by century
 # Inside each folder, files with running text, one file for each text; names of the text file contain the identified preceded by the year
-#Metadata: in a separate file, with identifier and other information
+# Metadata: in a separate file, with identifier and other information
+# I exclude those texts that don't have a date
 
 # Questions:
 # - take out LC and MQDQ?
@@ -28,8 +29,8 @@ import locale
 import xlrd
 import re
 
-now = datetime.datetime.now()
-today_date = str(now)[:10]
+#now = datetime.datetime.now()
+#today_date = str(now)[:10]
 
 # Parameters:
 
@@ -43,28 +44,20 @@ if istest == "":
 # Directory and file names:
 
 directory = os.path.join("/Users", "barbaramcgillivray", "OneDrive - King's College London",
-						 "Research", "2022", "Nexus Linguarum WG4 UC4.2")
+						 "Research", "2022", "Nexus Linguarum WG4 UC4.2",  "LatinISE")
 
-dir_corpus = os.path.join(directory, "LatinISE")
+dir_in = os.path.join(directory, "raw")
+dir_out = os.path.join(directory, "preprocessed")
 
-# Input files:
+# File names:
 latinise_file_name = "latin13.txt"
+metadata_output_file_name = "latinise_metadata.csv"
 
-
-# Read corpus file:
-
-latinise_file = open(os.path.join(dir_corpus, latinise_file_name), 'r', encoding="utf-8")
-
-row_count_latinise = sum(1 for line in latinise_file)
-
-locale.setlocale(locale.LC_ALL, 'en_GB')
-row_count_latinise_readable = locale.format_string('%d', row_count_latinise, grouping=True)
-
-
-print("There are " + str(row_count_latinise_readable) + " lines in the corpus.")
-latinise_file.close()
-
-
+# ----------------------
+# Functions
+# ----------------------
+# function that takes a date and converts it to the standard of 
+# https://en.wikipedia.org/wiki/ISO_8601: 1BCE=+000, 2BCE=-0001, 1CE=+0001, etc.
 
 def normalize_dates(date):
 	norm_date = date.replace(" ", "").replace(".", "")
@@ -80,15 +73,22 @@ def normalize_dates(date):
 		hundred = "0"
 	else:
 		print("Unexpected date:", date)
+		
+	
 	match_2dates = re.search(r'cent(\d+)\-(\d+)', norm_date)
 	match = re.search(r'cent(\d+)', norm_date)
+		
+	# I have a date in years:
+	 
+	
+	# I have a date in centuries:
 	if match_2dates:
 		date1 = match_2dates.group(1)
 		date2 = match_2dates.group(2)
-		print("date1", date1)
-		print("date2", date2)
+		#print("date1", date1)
+		#print("date2", date2)
 		cent_number = int(100*(int(date1)+(int(date2)-int(date1))/2))
-		print("cent_number", cent_number)
+		#print("cent_number", cent_number)
 		if sign == "+":
 			cent_number = cent_number-100
 		sign = sign.replace("+", "")
@@ -99,15 +99,40 @@ def normalize_dates(date):
 			if sign == "+":
 				cent_number = int(cent_number)-1
 			sign = sign.replace("+", "")
-			hundred = str(sign) + str(cent_number) + "00"
+			hundred = str(sign) + str(cent_number) + "000"
 		else:
-			hundred = "000"
+			hundred = "0000"
 
 	return hundred
 	
+
+
+# -----------------------------------------------------
+# Read and preprocess corpus file, write output file
+# -----------------------------------------------------
+
+# metadata output file:
+
+metadata_output_file = open(os.path.join(dir_out, metadata_output_file_name), 'w', encoding = 'UTF-8')
+metadata_writer = csv.writer(metadata_output_file, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+metadata_writer.writerow(['title', 'creator', 'date', 'type'])
+
+
+latinise_file = open(os.path.join(dir_in, latinise_file_name), 'r', encoding="utf-8")
+
+row_count_latinise = sum(1 for line in latinise_file)
+
+locale.setlocale(locale.LC_ALL, 'en_GB')
+row_count_latinise_readable = locale.format_string('%d', row_count_latinise, grouping=True)
+
+
+print("There are " + str(row_count_latinise_readable) + " lines in the corpus.")
+latinise_file.close()
+
+
 # read corpus, split it into one file per work and save the file into a folder for its century:
 
-latinise_file = open(os.path.join(dir_corpus, latinise_file_name), 'r', encoding="utf-8")
+latinise_file = open(os.path.join(dir_in, latinise_file_name), 'r', encoding="utf-8")
 
 
 count_n = 0
@@ -115,11 +140,14 @@ previous_line = ""
 count_sentences = 0
 found_lemma = 0
 
+
+# read input file line by line:
+
 for line in latinise_file:
 	count_n += 1
 	if ((istest == "yes" and count_n < number_test) or istest != "yes"):
-		if count_n % 1000 == 0:
-			print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
+		#if count_n % 1000 == 0:
+		#	print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
 		
 		#print("Count:", str(count_n))
 		#print("\tline:", str(line.rstrip()))
@@ -129,18 +157,53 @@ for line in latinise_file:
 		
 		doc_id = ""
 		century = ""
-		year = ""
+		date = ""
+		normalized_cent = ""
 		
 		if "<doc" in line:
-			print(line)
+			#print(line)
+			#print(count_n)
 			
-			match = re.search(r'century=\"(.+?)\"', line)
+			# id:
+			id_match = re.search(r'id=\"(.+?)\" n=\"(.+?)\"', line)
 			
-			if match:
-				date = match.group(1)
+			if id_match:
+				text_id = id_match.group(1)+"-"+id_match.group(2)
+			else:
+				print("no id!!!")
 				
-				normalized_date = normalize_dates(date)
-				print(date, normalized_date)
+			# century:
+			cent_match = re.search(r'century=\"(.+?)\"', line)
+			
+			if cent_match:
+				cent = cent_match.group(1)
+				
+				normalized_cent = normalize_dates(cent)
+			#else:
+			#	print("no century!!!")
+			#	print(line)
+				
+			# date:
+			date_match = re.search(r'date=\"(.+?)\"', line)
+			
+			if date_match:
+				date = date_match.group(1)
+			#else:
+			#	print("no date!!!")
+				
+			#print(date, cent, normalized_cent)
+			
+			if century != "" and year != "":
+				metadata_writer.writerow([text_id, date, cent, normalized_cent])
+			#metadata_writer.writerow([title, author, convert_dates(date), genre_combined])
+			
+			
+			# open output file:
+			#out_file_name = 'lat_'+str(date)+"_"+str(id)+'.txt'
+			#output_file = open(os.path.join(dir_out, out_file_name), 'w', encoding = 'UTF-8')
+			
+			
+			
 			
 			#latinise_text_file_name = 
 			#latinise_text_file = open(os.path.join(dir_corpus, latinise_sentences_file_name), 'w', encoding="utf-8")
@@ -171,5 +234,7 @@ for line in latinise_file:
 		#			 ad_subcorpus_tokens.write(token + " ")
 
 
+	
+# close files:
+metadata_output_file.close()
 latinise_file.close()
-#latinise_sentences_file.close()
