@@ -58,11 +58,18 @@ metadata_output_file_name = "latinise_metadata.csv"
 # ----------------------
 # function that takes a date and converts it to the standard of 
 # https://en.wikipedia.org/wiki/ISO_8601: 1BCE=+000, 2BCE=-0001, 1CE=+0001, etc.
+# In addition: 
+# - if a date is expressed as a range between BCE and CE, I assign the date +0000
+# - if a date is expressed as a century, I take the middle year of the century and then convert to the ISO_8601 standard, 
+# 	so 1 cent. A.D. --> +0050 and 1 cent. B. C. --> -0049
 
 def normalize_dates(date):
+
 	norm_date = date.replace(" ", "").replace(".", "")
 	sign = ""
-	hundred = ""
+
+	final_date = ""
+	
 	#print("norm_date", norm_date)
 	if "AD" in norm_date and "BC" not in norm_date:
 		sign = "+"
@@ -70,7 +77,7 @@ def normalize_dates(date):
 		sign = "-"
 	elif "BC" in norm_date and "AD" in norm_date:
 		sign = "0"
-		hundred = "0"
+		final_date = "+0000"
 	else:
 		print("Unexpected date:", date)
 		
@@ -88,22 +95,38 @@ def normalize_dates(date):
 		#print("date1", date1)
 		#print("date2", date2)
 		cent_number = int(100*(int(date1)+(int(date2)-int(date1))/2))
+		
 		#print("cent_number", cent_number)
 		if sign == "+":
 			cent_number = cent_number-100
 		sign = sign.replace("+", "")
-		hundred = str(sign) + str(cent_number)
+		final_date = str(sign) + str(cent_number)
+		
 	elif match:
 		if sign != "0":
 			cent_number = match.group(1)
 			if sign == "+":
-				cent_number = int(cent_number)-1
-			sign = sign.replace("+", "")
-			hundred = str(sign) + str(cent_number) + "000"
-		else:
-			hundred = "0000"
+				cent_number = int(cent_number)
+				date0 = int(cent_number*100/2)
+				if date0 < 100:
+					final_date = str(sign) + "00" + str(date0)
+				elif date0 < 1000:
+					final_date = str(sign) + "0" + str(date0) + "0"
+				else:
+					final_date = str(sign) + str(date0) + "000"
+			else:
+				cent_number = int(cent_number)
+				date0 = int(cent_number*100/2-1)
+				if date0 < 100:
+					final_date = str(sign) + "00" + str(date0)
+				elif date1 < 1000:
+					final_date = str(sign) + "0" + str(date0) + "0"
+				else:
+					final_date = str(sign) + str(date0) + "000"
+	else:
+		final_date = date
 
-	return hundred
+	return final_date
 	
 
 
@@ -173,28 +196,29 @@ for line in latinise_file:
 				print("no id!!!")
 				
 			# century:
-			cent_match = re.search(r'century=\"(.+?)\"', line)
+			cent_match = re.search(r'century=\"(.+?)\" ', line)
 			
 			if cent_match:
-				cent = cent_match.group(1)
+				century = cent_match.group(1)
 				
-				normalized_cent = normalize_dates(cent)
+				
 			#else:
 			#	print("no century!!!")
 			#	print(line)
 				
 			# date:
-			date_match = re.search(r'date=\"(.+?)\"', line)
+			date_match = re.search(r'date=\"(.+?)\" ', line)
 			
 			if date_match:
 				date = date_match.group(1)
+				normalized_date = normalize_dates(date)
 			#else:
 			#	print("no date!!!")
 				
 			#print(date, cent, normalized_cent)
 			
-			if century != "" and year != "":
-				metadata_writer.writerow([text_id, date, cent, normalized_cent])
+			if century != "" and date != "":
+				metadata_writer.writerow([text_id, date, century, normalized_date])
 			#metadata_writer.writerow([title, author, convert_dates(date), genre_combined])
 			
 			
