@@ -57,11 +57,14 @@ metadata_output_file_name = "latinise_metadata.csv"
 # Functions
 # ----------------------
 # function that takes a date and converts it to the standard of 
-# https://en.wikipedia.org/wiki/ISO_8601: 1BCE=+000, 2BCE=-0001, 1CE=+0001, etc.
+# https://en.wikipedia.org/wiki/ISO_8601: 1BCE=+0000, 2BCE=-0001, 1CE=+0001, etc.
 
 def covert_dates(sign, date0):
 
 	if date0 < 100:
+		if sign == "-":
+			date0 = date0-1
+			
 		final_date = str(sign) + "00" + str(date0)
 		print("1-final_date", final_date)
 	elif date0 < 1000:
@@ -237,24 +240,15 @@ found_lemma = 0
 # read input file line by line:
 
 for line in latinise_file:
-	
-		#if count_n % 1000 == 0:
-		#	print("Corpus line", str(count_n), "out of", str(row_count_latinise_readable), "lines")
-		
-		#print("Count:", str(count_n))
-		#print("\tline:", str(line.rstrip()))
-		#print("\tprevious line:", str(previous_line.rstrip()))
-		#if (previous_line.startswith("<") or "<doc" in previous_line) and line.startswith("<"):
-		#	 print("Both start with <!")
-		
+			
 	doc_id = ""
 	century = ""
 	date = ""
 	normalized_cent = ""
+	normalized_date = ""
 	genre = ""
 	author = ""
 	title = ""
-
 			
 	if "<doc" in line:
 	
@@ -277,10 +271,6 @@ for line in latinise_file:
 			if cent_match:
 				century = cent_match.group(1)
 				normalized_cent = normalize_dates(century, 'century')
-				
-			#else:
-			#	print("no century!!!")
-			#	print(line)
 				
 			# date:
 			date_match = re.search(r'date=\"(.+?)\" ', line)
@@ -314,6 +304,9 @@ for line in latinise_file:
 				
 			
 			if century != "" and date != "":
+				if normalized_date == "":
+					normalized_date = normalized_cent
+					
 				metadata_writer.writerow([text_id, title, author, date, century, normalized_cent, normalized_date, genre]) #id,title, author, convert_dates(date), genre_combined
 			#metadata_writer.writerow([title, author, convert_dates(date), genre_combined])
 			
