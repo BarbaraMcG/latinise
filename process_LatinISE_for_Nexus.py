@@ -62,18 +62,31 @@ log_file_name = "logfile.txt"
 # https://en.wikipedia.org/wiki/ISO_8601: 1BCE=+0000, 2BCE=-0001, 1CE=+0001, etc.
 
 def convert_dates(sign, date0):
-
-	if date0 == 0:
-		final_date = "+0000"
-	elif date0 < 100:
-		final_date = str(sign) + "00" + str(date0)
-		print("1-final_date", final_date)
-	elif date0 < 1000:
-		final_date = str(sign) + "0" + str(date0)
-		print("2-final_date", final_date)
+	
+	if sign == "0":
+		if date0 == 0:
+			final_date = "+0000"
+		elif date0 < 100:
+			final_date = "+" + "00" + str(date0)
+			print("1-final_date", final_date)
+		elif date0 < 1000:
+			final_date = "+" + "0" + str(date0)
+			print("2-final_date", final_date)
+		else:
+			final_date = "+" + str(date0)
+			print("3-final_date", final_date)
 	else:
-		final_date = str(sign) + str(date0)
-		print("3-final_date", final_date)
+		if date0 == 0:
+			final_date = "+0000"
+		elif date0 < 100:
+			final_date = str(sign) + "00" + str(date0)
+			print("1-final_date", final_date)
+		elif date0 < 1000:
+			final_date = str(sign) + "0" + str(date0)
+			print("2-final_date", final_date)
+		else:
+			final_date = str(sign) + str(date0)
+			print("3-final_date", final_date)
 		
 	return final_date
 
@@ -148,6 +161,7 @@ def normalize_dates(date, type):
 			#	cent_number = int(100*(int(date1)+(int(date2)-int(date1))/2))
 			#	cent_number = cent_number-100
 			sign = sign.replace("+", "")
+			log_file.write("sign:"+str(sign)+"\n")
 			#final_date = str(sign) + str(midpoint)
 			final_date = convert_dates(sign, midpoint)
 			print("final_date", final_date)
@@ -203,6 +217,7 @@ def normalize_dates(date, type):
 			#	cent_number = int(100*(int(date1)+(int(date2)-int(date1))/2))
 			#	cent_number = cent_number-100
 			sign = sign.replace("+", "")
+			log_file.write("sign:"+str(sign)+"\n")
 			#final_date = str(sign) + str(midpoint)
 			#print("final_date", final_date)
 
@@ -279,9 +294,12 @@ for line in latinise_file:
 	tokens_match = re.search('^([^<]+?)\t([A-Z]+?)\t(.+?)$', line)
 	#tokens_match = re.search('^(.+?)\t(.+?)\t(.+?)', line)
 	#print(line)
-			
+	
+
+		
 	if "<doc" in line:
 	
+		#print(line)	
 		count_n += 1
 		if ((istest == "yes" and count_n < number_test) or istest != "yes"):
 			#print(line)
@@ -354,9 +372,12 @@ for line in latinise_file:
 				
 				normalized_date = normalized_date.replace(".0", "").replace("+", "")
 				metadata_writer.writerow([text_id, title, author, normalized_date, genre]) 		
-			
-		# output file is the key of the dictionary doc2sentences_tokens and doc2sentences_lemmas:
-		out_file_name = 'lat_'+str(normalized_date)+"_"+str(text_id)+'.txt'
+		
+		if normalized_date == "":
+			log_file.write("EMPTY normalized_date:"+normalized_date+"\n")
+		else:
+			# output file is the key of the dictionary doc2sentences_tokens and doc2sentences_lemmas:
+			out_file_name = 'lat_'+str(normalized_date)+"_"+str(text_id)+'.txt'
 		
 
 	# to find which tags appear in the corpus: these are s, section, subsection, character, and book		
@@ -392,8 +413,9 @@ for line in latinise_file:
 	
 	elif "</doc>" in line:
 		#print("sentences_this_doc_t:", str(sentences_this_doc_t))
-		doc2sentences_tokens[out_file_name] = sentences_this_doc_t
-		doc2sentences_lemmas[out_file_name] = sentences_this_doc_l
+		if out_file_name != "":
+			doc2sentences_tokens[out_file_name] = sentences_this_doc_t
+			doc2sentences_lemmas[out_file_name] = sentences_this_doc_l
 		
 	
 # close files:
@@ -405,6 +427,10 @@ latinise_file.close()
 # for each document, I open output file for tokens:
 
 for file_doc in doc2sentences_tokens:
+
+	#if "0148" not in file_doc:
+	#	pass
+		
 	output_file_tokens = open(os.path.join(dir_out_tokens, file_doc), 'w', encoding = 'UTF-8')
 	output_file_lemmas = open(os.path.join(dir_out_lemmas, file_doc.replace(".txt", "_lemmas.txt")), 'w', encoding = 'UTF-8')
 	

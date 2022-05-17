@@ -48,7 +48,7 @@ Prepare_annotation_for_SemEval.py
 
 process_LatinISE_for_Nexus.py
 
-This Python 3 script takes as input the .xml files from the Diorisis Ancient Greek corpus, 
+This Python 3 script takes as input the .xml files from the LatinISE corpus, 
 and returns a series of files that can be used to train diachronic word embeddings according 
 to the following format:
 
