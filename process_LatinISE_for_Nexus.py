@@ -433,15 +433,15 @@ latinise_file.close()
 
 for file_doc in doc2sentences_tokens:
 
-	if "LAT0001" not in file_doc:
-		pass
+	if "LAT0001" in file_doc:
 		
-	output_file_tokens = open(os.path.join(dir_out_tokens, file_doc), 'w', encoding = 'UTF-8')
-	output_file_lemmas = open(os.path.join(dir_out_lemmas, file_doc), 'w', encoding = 'UTF-8')
+		
+		output_file_tokens = open(os.path.join(dir_out_tokens, file_doc), 'w', encoding = 'UTF-8')
+		output_file_lemmas = open(os.path.join(dir_out_lemmas, file_doc), 'w', encoding = 'UTF-8')
 	
-	# print one sentence per line:
-	sentences_t = doc2sentences_tokens[file_doc]
-	sentences_l = doc2sentences_lemmas[file_doc]
+		# print one sentence per line:
+		sentences_t = doc2sentences_tokens[file_doc]
+		sentences_l = doc2sentences_lemmas[file_doc]
 	
 	for sentence in sentences_t:
 		#print("sentence:", sentence)
