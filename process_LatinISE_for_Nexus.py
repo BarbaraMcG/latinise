@@ -432,7 +432,7 @@ for file_doc in doc2sentences_tokens:
 	#	pass
 		
 	output_file_tokens = open(os.path.join(dir_out_tokens, file_doc), 'w', encoding = 'UTF-8')
-	output_file_lemmas = open(os.path.join(dir_out_lemmas, file_doc.replace(".txt", "_lemmas.txt")), 'w', encoding = 'UTF-8')
+	output_file_lemmas = open(os.path.join(dir_out_lemmas, file_doc), 'w', encoding = 'UTF-8')
 	
 	# print one sentence per line:
 	sentences_t = doc2sentences_tokens[file_doc]
