@@ -280,6 +280,9 @@ doc2sentences_lemmas = dict() # this dictionary maps each document to a list of 
 # read input file line by line:
 tokens_this_sentence = list()
 lemmas_this_sentence = list()
+sentences_this_doc_t = list()
+sentences_this_doc_l = list()
+out_file_name = ""
 	
 for line in latinise_file:
 			
@@ -299,10 +302,12 @@ for line in latinise_file:
 		
 	if "<doc" in line:
 	
-		#print(line)	
+		#print("11", line)	
 		count_n += 1
+		#print(count_n)
 		if ((istest == "yes" and count_n < number_test) or istest != "yes"):
-			#print(line)
+		#if ((istest == "yes" and count_n > 17 and count_n < 20) or istest != "yes"):
+			#print("22", line)
 			log_file.write("\n"+line+"\n")
 			
 			sentences_this_doc_t = list()
@@ -412,7 +417,7 @@ for line in latinise_file:
 		sentences_this_doc_l.append(lemmas_this_sentence)
 	
 	elif "</doc>" in line:
-		#print("sentences_this_doc_t:", str(sentences_this_doc_t))
+		#("sentences_this_doc_t:", str(sentences_this_doc_t))
 		if out_file_name != "":
 			doc2sentences_tokens[out_file_name] = sentences_this_doc_t
 			doc2sentences_lemmas[out_file_name] = sentences_this_doc_l
@@ -428,8 +433,8 @@ latinise_file.close()
 
 for file_doc in doc2sentences_tokens:
 
-	#if "0148" not in file_doc:
-	#	pass
+	if "LAT0001" not in file_doc:
+		pass
 		
 	output_file_tokens = open(os.path.join(dir_out_tokens, file_doc), 'w', encoding = 'UTF-8')
 	output_file_lemmas = open(os.path.join(dir_out_lemmas, file_doc), 'w', encoding = 'UTF-8')
@@ -442,6 +447,7 @@ for file_doc in doc2sentences_tokens:
 		#print("sentence:", sentence)
 		for token in sentence:
 			output_file_tokens.write(token+" ")
+			print(token)
 		output_file_tokens.write("\n")
 		
 	for sentence in sentences_l:
