@@ -44,7 +44,7 @@ gzip LatinISE2.gz
 
 Prepare_annotation_for_SemEval.py
 
-# Process data for Nexus Linguarum analysis:
+# Process data for semantic change analysis:
 
 process_LatinISE_for_Nexus.py
 
