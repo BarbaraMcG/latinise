@@ -5,7 +5,7 @@ Barbara McGillivray and Krzysztof Nowak
 
 Run
 
-`python process_LatinISE_for_LVLT.py` followed by the path to the folder containing the latest corrected version of LatinISE.
+`python process_LatinISE_for_LVLT.py` followed by the path to the folder containing the parent folder where the folder "raw" contains the latest corrected version of LatinISE.
 
 
 ## The study
