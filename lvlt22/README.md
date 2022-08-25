@@ -9,4 +9,5 @@ Barbara McGillivray and Krzysztof Nowak
 - lvlt22_count-exp.ipynb: testing count vectors setups
 - lvlt22_count_final.ipynb: retrieving count models
 - lvlt22_bins.ipynb: testing time slices
+- semantic_change.ipynb: code for detecting semantic change.
 - data/: a set of data manipulation classes the notebooks in this folder depend on
