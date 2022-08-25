@@ -61,3 +61,5 @@ general metadata, according to Dublin Core terms and depending on the availabili
 # Folder lvlt22:
 
 Scripts for paper presented at "Latin vulgaire latin tardif" conference in September 2022: https://www.lvlt14.ugent.be/programme/ .
+	
+See readme file inside this folder for instructions.
