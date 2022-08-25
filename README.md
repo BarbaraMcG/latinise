@@ -58,3 +58,6 @@ file name: <language_code><date><file_identifier>, where
 	- <file_identifier> = specific to each dataset
 general metadata, according to Dublin Core terms and depending on the availability of this type of information in the corpus (title, author, publisher, type, etc.) or alternatively, links to the original files with metadata (if available);
 
+# Folder lvlt22:
+
+Scripts for paper presented at "Latin vulgaire latin tardif" conference in September 2022: https://www.lvlt14.ugent.be/programme/ .
