@@ -3,12 +3,10 @@ Barbara McGillivray and Krzysztof Nowak
 
 ## Data processing
 
-When inside this directory, run: 
-`mkdir LatinISE_1`
-and in that folder save the corrected version of LatinISE.
-Then run
+Run
 
-`python process_LatinISE_for_LVLT.py LatinISE_1`
+`python process_LatinISE_for_LVLT.py` followed by the path to the folder containing the latest corrected version of LatinISE.
+
 
 ## The study
 - lvlt22_collocs.ipynb: syn- and diachronic collocation overlap
