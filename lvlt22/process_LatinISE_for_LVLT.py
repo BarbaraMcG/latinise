@@ -265,7 +265,7 @@ if sys.platfom.startswith('linux'):
 	locale.setlocale(locale.LC_ALL, 'en_GB.utf8')
 else:
 	locale.setlocale(locale.LC_ALL, 'en_GB')
-	
+
 row_count_latinise_readable = locale.format_string('%d', row_count_latinise, grouping=True)
 
 
