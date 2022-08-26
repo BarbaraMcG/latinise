@@ -261,8 +261,11 @@ latinise_file = open(os.path.join(dir_in, latinise_file_name), 'r', encoding="ut
 
 row_count_latinise = sum(1 for line in latinise_file)
 
-locale.setlocale(locale.LC_ALL, 'en_GB')
-#locale.setlocale(locale.LC_ALL, 'en_GB.utf8') # on Linux
+if sys.platfom.startswith('linux'):
+	locale.setlocale(locale.LC_ALL, 'en_GB.utf8')
+else:
+	locale.setlocale(locale.LC_ALL, 'en_GB')
+
 row_count_latinise_readable = locale.format_string('%d', row_count_latinise, grouping=True)
 
 
