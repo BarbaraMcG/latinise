@@ -90,7 +90,7 @@ class BuildCollocs:
             
         if self.config['term'] != None and self.config['filtering'] != False:
             print("applying term filter")
-            print("w1, w2 != ", w1, w2)
+            #print("w1, w2 != ", w1, w2)
             finder.apply_ngram_filter(lambda w1, w2: self.config['term'] not in (w1, w2))
             print("applied term filter")
             print(finder)
