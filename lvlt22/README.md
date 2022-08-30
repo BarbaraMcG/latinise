@@ -5,7 +5,7 @@ Barbara McGillivray and Krzysztof Nowak
 
 Run
 
-`python process_LatinISE_for_LVLT.py` followed by the path to the folder containing the parent folder where the folder "raw" contains the latest corrected version of LatinISE. If you're running the script on Linux, uncomment line 265 and comment line 264. 
+`python process_LatinISE_for_LVLT.py` followed by the path to the folder containing the parent folder where the folder "raw" contains the latest corrected version of LatinISE. 
 
 
 ## Study: aligned time spans
