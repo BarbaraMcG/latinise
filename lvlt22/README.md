@@ -8,7 +8,10 @@ Run
 `python process_LatinISE_for_LVLT.py` followed by the path to the folder containing the parent folder where the folder "raw" contains the latest corrected version of LatinISE. If you're running the script on Linux, uncomment line 265 and comment line 264. 
 
 
-## The study
+## Study: aligned time spans
+- lvlt22_collocs-aligned.ipynb: syn- and diachronic collocation overlap
+- lvlt22_distribution-aligned.ipynb: word frequency
+## Study: alternative time spans
 - lvlt22_collocs.ipynb: syn- and diachronic collocation overlap
 - lvlt22_distribution.ipynb: word frequency
 
