@@ -11,6 +11,7 @@ Run
 ## Study: aligned time spans
 - lvlt22_collocs-aligned.ipynb: syn- and diachronic collocation overlap
 - lvlt22_distribution-aligned.ipynb: word frequency
+- lvlt22_count-aligned.ipynb: cosine similarity with count vectors
 ## Study: alternative time spans
 - lvlt22_collocs.ipynb: syn- and diachronic collocation overlap
 - lvlt22_distribution.ipynb: word frequency
