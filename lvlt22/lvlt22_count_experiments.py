@@ -25,30 +25,43 @@ wordspace = importr("wordspace", lib_loc=r_libs)
 # the terms we're interested in
 socio_political_terms = ["civitas", "consilium", "consul", "dux", "gens", "hostis", "imperator", "jus", "labor", "natio", "nobilitas", "pontifex", "pontificium", "populus", "potestas", "regnum", "senatus", "sodes", "urbs"]
 
+
 # prepare metadata
-dir_in = os.path.join("/home/krzys/Kod/streamlit/voces/data/corpora/latinise_IT_lemmas/")
+# corpus files
+#dir_in = os.path.join("/home/krzys/Kod/streamlit/voces/data/corpora/latinise_IT_lemmas/")
+dir_input =  os.path.join("/home/krzys/Kod/lvlt22/BMG/LatinISE_1/") # includes texts first omitted due to parsing issues
+dir_in = os.path.join(dir_input, "preprocessed_lemmas")
+dir_in_words = os.path.join(dir_input, "preprocessed_tokens")
 files = os.listdir(os.path.join(dir_in))
 files = [f for f in files[:] if "IT" in f]
-metadata_df = pd.read_csv(os.path.join(dir_in, 'latinise_metadata.csv'), sep = ",")
+
+# metadata (BMG)
+metadata_df = pd.read_csv(os.path.join(dir_input, 'latinise_metadata.csv'), sep = ",")
 metadata_df = metadata_df[metadata_df['id'].str.startswith("IT")]
 metadata_df.head()
+metadata_df["date"] = metadata_df["date"].astype('int') #ensure we're working with integers
+
+
 
 # split the corpus into subcorpora
 first_date = min(metadata_df.date)
-last_date = max(metadata_df.date)
-print(first_date)
-print(last_date)
-size_interval = 500
+last_date = 900 # BMG
+size_interval = 450
 n_intervals = round((last_date-first_date)/size_interval)
 n_intervals
-intervals = [None]*(n_intervals+1)
+
+intervals = [None]*(n_intervals+1) # BMG
 for t in range(n_intervals+1):
+    #print(t)
     if t == 0:
         intervals[t] = first_date
     else:
         intervals[t] = intervals[t-1]+size_interval
+    #print(intervals[t])
     
 print(intervals)
+periods_labels = [ str(p1) + '-' + str(p2) for p1, p2 in zip(intervals, intervals[1:]) ]
+print(periods_labels)
 
 metadata_df['time_interval'] = ""
 for t in range(len(intervals)-1):
@@ -90,47 +103,73 @@ def convert_dates(sign, date0):
         final_date = final_date.replace("+", "")
     return final_date
 
-# prepare the corpus
-punctuation = ['.', ',', '...', ';', ':', '?']
 
+# prepare the corpus
+punctuation = ['.', ',', '...', ';', ':', '?', '(', ')', '-', '!', '[', ']', '"', "'", '""', '\n']
+# define corpus subset
+corpus_subset = metadata_df[metadata_df['date'] <= last_date].copy().reset_index(drop=True)
+filenames_subset = corpus_subset['file'] # filenames were defined above to get IT files only
+
+from nltk.corpus.reader.plaintext import PlaintextCorpusReader, CategorizedPlaintextCorpusReader
+from nltk.tokenize.simple import SpaceTokenizer, LineTokenizer
+from nltk.text import Text, TextCollection
+class NltkCorpusFromDirNew(PlaintextCorpusReader):
+    "A subclass of NLTK PlaintextCorpusReader"
+    
+    word_tokenizer=SpaceTokenizer() # tokenize on whitespace
+    sent_tokenizer=LineTokenizer() # assume sentence per line
+    
+    def __init__(
+        self,
+        root,
+        fileids,
+        encoding="utf8",        
+        word_tokenizer=word_tokenizer,
+        sent_tokenizer=sent_tokenizer,
+        tolower=False, punctuation=None
+    ):
+
+        PlaintextCorpusReader.__init__(self, root=root, fileids=fileids, encoding=encoding,
+                                       word_tokenizer=word_tokenizer,
+                                       sent_tokenizer=sent_tokenizer)
+        self.tolower = tolower
+        self.punctuation = punctuation
+        
+    def _read_word_block(self, stream):
+        words = []
+        for i in range(20):  # Read 20 lines at a time.
+            if self.punctuation is not None:
+                words.extend( [ token.lower() if self.tolower == True else token for token 
+                               in self._word_tokenizer.tokenize(stream.readline()) 
+                               if token not in self.punctuation and token != '' 
+                              ])
+            else:
+                words.extend( [ token.lower() if self.tolower == True else token for token in self._word_tokenizer.tokenize(stream.readline()) ])
+        return words
+
+#prepare the corpus
+latinise = NltkCorpusFromDirNew(root=dir_in, fileids=filenames_subset,
+                                punctuation=punctuation, tolower=True)
+latinise_docs = []
+for fileid in latinise.fileids():
+    latinise_docs.append(Text(latinise.words(fileid)))
+print("This corpus contains ", len(latinise_docs), " documents.")
+
+corpus = latinise
+
+# dictionary that maps a time interval with the list of sentences of texts in that time interval"
 time2corpus = dict()
 
 # I loop over all time intervals:
-for t in range(n_intervals+1):
-    files_corpus_t = metadata_df.loc[metadata_df['time_interval'] == intervals[t]]
-    #print("1:",files_corpus_t, type(files_corpus_t))
-    corpus_t = list()
-    for index, df_line in files_corpus_t.iterrows():
-        #print("line:",df_line['id'], df_line['time_interval'])
-        sign = "+"
-        #print(df_line['date'])
-        if df_line['date'] < 0:
-            sign = "-"
-        #print("date:", convert_dates(sign, abs(df_line['date'])))
-        file_name = 'lat_'+str(convert_dates(sign, abs(df_line['date'])))+"_"+str(df_line['id'])+'.txt'
-        #print("3:",file_name)
-        #KN: missing files
-        if os.path.isfile(os.path.join(dir_in, file_name)):
-            file = open(os.path.join(dir_in, file_name), 'r')
-            sentences_this_file = list()
-            while True:
-                line = file.readline().strip()
-                if line != "":
-                    corpus_t.append([token.lower() for token in line.split(" ") if token not in punctuation]) #KN: tolower
-                # if line is empty end of file is reached
-                if not line:
-                    break
-            file.close()
-        #corpus_t.append(sentences_this_file)
-    #corpus_t1
-    #print(len(corpus_t1[0]))
-    time2corpus[t] = corpus_t
-
-
-print(len(time2corpus))
-for t, subc in time2corpus.items():
-    print("subcorpus: ", t)
-    print("size: ", len([tok for tok in subc]))
+#for t in range(n_intervals+1): # remove redundant 900 interval
+for t in range(n_intervals):
+    files_corpus_t = list(corpus_subset.loc[corpus_subset['time_interval'] == intervals[t]]["file"])
+    print("retrieving the subcorpus for interval ", intervals[t])
+    sents = latinise.sents(fileids=files_corpus_t)
+    sents_clean = list()
+    for sent in sents:
+        sents_clean.append( [ token.lower()  for token in sent if token not in punctuation and token != ''  ] )
+    time2corpus[t] = sents_clean
 
 
 # # Experimenting with DSM options
@@ -141,9 +180,14 @@ from nltk.util import ngrams
 windows = range(2,5+1)
 scores = [ 
     "MI",
-    "log-likelihood", "simple-ll", 
-    "t-score", "chi-squared", 
-    "z-score", "tf.idf" ]
+    "log-likelihood",
+    "Dice",
+    "simple-ll", 
+    "t-score",
+    "chi-squared", 
+    "z-score",
+    "tf.idf" 
+    ]
 transforms = [ 
     #"none", 
     "log",
@@ -159,7 +203,7 @@ vectors = [
     100, 
     300
 ]
-periods = range(0,5)
+periods = range(0,len(intervals)-1)
 normalizes = [ True, False ]
 configs = []
 [ configs.append({"window":x[0], "score":x[1], "transform":x[2], 
@@ -205,10 +249,10 @@ keys.extend(tops)
 start = time.time()
 
 import csv
-with open('testing_countvectors_.csv', 'w') as f:
+with open('testing_countvectors_.csv', 'a') as f:
             fieldnames = keys
             writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
+            #writer.writeheader()
 
 for config in configs:
     print("model configuration: ", config)
