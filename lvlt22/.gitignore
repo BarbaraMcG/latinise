@@ -1,2 +1,13 @@
 .ipynb_checkpoints
 __pycache__
+dsm_matrices.model
+dsm_matrices_dim100.model
+dsm_matrices_min5.model
+dsm_matrices_time.model
+dsm_matrices_time_dfs.pickle
+semantic_change1_450_allwords.csv
+semantic_change1_450_socpolwords.csv
+semantic_change_450_allwords.csv
+semantic_change_450_socpolwords.csv
+
+
