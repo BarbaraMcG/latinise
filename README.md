@@ -66,7 +66,7 @@ This notebook analyses Latin medical lexicon in LatinISE with word embeddings.
 
 - Embedding_analysis.ipynb by Barbara McGillivray and Paola Marongiu
 
-This notebook is based on the previous one and generalises the analysis to a set of terms related to "revolution".
+This notebook is based on the previous one and generalises the analysis to a set of terms related to "revolution". Code inspired from https://github.com/BarbaraMcG/latinise/blob/master/lvlt22/Semantic_change.ipynb.
 
 # Folder lvlt22:
 
