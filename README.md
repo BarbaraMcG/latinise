@@ -73,3 +73,7 @@ This notebook is based on the previous one and generalises the analysis to a set
 Scripts for paper presented at "Latin vulgaire latin tardif" conference in September 2022: https://www.lvlt14.ugent.be/programme/ .
 	
 See readme file inside this folder for instructions.
+
+# Folder Christianity_semantic_change:
+
+Code for Valentina Lunardi's project during her visit to King's College London.
