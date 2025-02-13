@@ -1,0 +1,56 @@
+Cap . 
+Metrum Graece , Latine numerus vocatur . 
+Numerus est aequalium pedum legitima ordinatio : huius arsis et thesis partes sunt . 
+Pedum syllabae elementa , numeri modorum elementa , spatia syllabarum ac tempora . 
+Pedes componuntur ex syllabi , ut minimum binis , ut plurimum ternis , incipiunt temporibus binis , ad sex perveniunt . 
+Disyllabi quattuor , trisyllabi octo , plures quam duodecim esse non possunt . 
+Pyrrhichius ex duabus brevibus ; cuius exemplum , . 
+Chorius ex longa et brevi , ut . 
+Iambus ex brevi et longa , ut . 
+Spondeus ex duabus longis , ut . 
+Duo igitur quantitate contrarii , spondeus et pyrrhichius , duorum alter , alter quattuor temporum : duo in ordine , quorum uterque trinorum temporum , iambus et chorius . 
+Ita non plures quam quattuor pedes disyllabi sunt , nec esse possunt . 
+Trinarum syllabarum primus est dactylus , qui constat ex longa et duabus brevibus , cuius exemplum , . 
+Huic contrarius anapaestus ex duabus brevibus et longa , ut . 
+Amphibrachus ex brevi et longa et brevi ; cuius exemplum . 
+Brachysyllabus ex tribus brevibus , cuius exemplum . 
+Ei contrarius molossus , ex tribus longis ; cuius exemplum . 
+Item tres quinum temporum , bacchius ex duabus longis et brevi , cuius exemplum . 
+Huic ordini adversus palimbacchius ex brevi et duabus longis , ut . 
+Creticus et amphimacrus ex longa brevi et longa , ut . 
+Duobus a quantitate contrariis brachysyllabo et molosso , quorum alter trium temporum est , alter sex : ordine tres in quaternis , tres in quinis temporibus . 
+Cap . 
+Primus est et legitimus maxime numerus hexameter heroicus . 
+Huius pedes aut dactyli sunt aut spondei ; raro et in versu extremo reperietur trochaeus . 
+Huius exemplum Totus iste dactylicus fuit , et habuit summumtrochaeum . 
+Sed mixtus ex spondeis his erit , Totus ex spondeis , Hoc genus numeri paucissimarum XII syllabarum , plurimarum octodecim , tempora recipit viginti quattuor , interdum viginti tria : pedibus tribus tantum conficitur , formas excipit triginta duas , quas enumerare festinantibus longum est . 
+Pentameter elegiacus habet exemplum , Recipit dactylum , spondeum , anapaestos duos in fine versus , aliquando brachysyllabos , fit syllabarum paucissimarum duodecim , plurimam quattuordecim , tertium pedem spondeum semper habet , quartum et quintum aliquando brachysyllabum . 
+Trimetros iambicus Latine senarius dicitur : cuius exemplum , , duodecim syllabarum est . 
+Recipit aliquando praeter ceteros iambos , extremo pyrrichion . 
+Trimetros tragicus , , et , Recipit in parte prima gressionis spondeum , et alio loco dactylon et anapaeston , et pro iambo chorium et tribrachyn . 
+Fit syllabarum paucissimarum duodecim , plurimarum septendecim . 
+Recipit tempora plurima undeviginti , paucissima tredecim . 
+Comicus trimetros solet magis in breves minui . 
+Trimetros Hipponactius pedem novissimum assumens spondeum vel chorium talis est , Eosdem pedes , quos reliqui trimetri , praeter novissimum , recipit , et tetrametros , qui Latine quadratus vocatur . 
+Choriacus talis est , Recipit eosdem pedes , pervenit ad septem et semipedem , summum pedem patitur aut creticum aut dactylum . 
+Octonarius iambus , Septenarius , Constat ex pedibus iisdem ionicus septenarius , Ionicus maior est , Habet vitium in tertia syllaba ; minor , Percipiunt pedes maxime pyrrhichium et spondeos : et solent divisi syllabis longis plurium syllabarum pedes admittere . 
+Aristophanius anapaestus , Recipit pedes quaternorum temporum , omnis implet pedes septem et semipedem . 
+Anapaestus octonarius , Recipit eosdem pedes praeter semipedem . 
+Aristobolius , Hic circuitus magis quam versus est . 
+Dactylum crebrum habet , rarum spondeum . 
+Paeon duodenarius , Et hic circuitus magis quam versus est . 
+Huic suberit denarius , Recipiunt pedes , creticos , chorios , spondeos , iambos , brachysyllabos , anapaestos , undecim syllabarum . 
+Phalaecius , Recipit pedes spondeum , dactylum , creticum , palimbacchium . 
+Angelicus numeros et syllabam coarctat hexametro : ut , Anacreontius , Recipit pyrrhichios , chorium , spondeum , brachysyllabum , anapaestum , primus semper est pyrrhichius . 
+Numerus Saturnius , Sunt qui hunc Archebolion vocant . 
+Recipit pedem spondeum , iambum , pyrrhichium , chorium , dactylum , brachysyllabum , anapaestum . 
+Priapeus , Tertium pedem pro dactylo creticum habet , alioqui hexametros esset . 
+Cap . 
+Pyrrhichius , Contrarius est huic et duodecasyllabos spondiazon . 
+Dactylicus , Amphibrachus non facit numerum . 
+Anapaestus , Creticus , Palimbacchius , Bacchius non facit numerum . 
+Molossus idem est qui spondiazon . 
+Nunc quemadmodum a principali heroico plures numeri transfigurantur ostendam . 
+Ac primus trimetrus fit heroicus spondiazon . 
+Syllabam unam , quae est ante extremam , ex longa contraho : ut , et esse coepit trimetros . 
+Elegiacum transibit , Rursus ad pentametros , ut componam heroicos , sumo partem posteriorem , et compono , Phalaecium numerum qui est , , insertis verbis facio heroicum , Ionicus est , Adiiciam trinas verbis singulis syllabas , Verto , Numerum angelicum syllaba breviata esse monstravi heroicum : item Priapeum , si syllabam surripias , fit heroicum . 

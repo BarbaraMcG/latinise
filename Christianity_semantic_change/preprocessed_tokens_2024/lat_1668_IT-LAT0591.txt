@@ -1,0 +1,295 @@
+PARS PRIMA - DE DEO Per causam sui intelligo id , cujus essentia involvit existentiam , sive id , cujus natura non potest concipi , nisi existens . 
+Ea res dicitur in suo genere finita , quae alia ejusdem naturae terminari potest . 
+Ex . 
+gr . 
+corpus dicitur finitum , quia aliud semper majus concipimus . 
+Sic cogitatio alia cogitatione terminatur . 
+At corpus non terminatur cogitatione , nec cogitatio corpore . 
+Per substantium intelligo id , quod in se est , et per se concipitur : hoc est id , cujus conceptus non indiget conceptu alterius rei , a quo formari debeat . 
+Per attributum intelligo id , quod intellectus de substantia percipit , tanquam ejusdem essentiam constituens . 
+Per modum intelligo substantiae affectiones , sive id , quod in alio est , per quod etiam concipitur . 
+Per Deum intelligo ens absolute infinitum , hoc est , substantiam constantem infinitis attributis , quorum unumquodque aeternam , et infinitam essentiam exprimit . 
+Dico absolute infinitum , non autem in suo genere ; quicquid enim in suo genere tantum infinitum est , infinita de eo attributa negare possumus ; quod autem absolute infinitum est , ad ejus essentiam pertinet , quicquid essentiam exprimit , et negationem nullam involvit . 
+Ea res libera dicitur , quae ex sola suae naturae necessitate existit , et a se sola ad agendum determinatur : Necessaria autem , vel potius coacta , quae ab alio determinatur ad existendum , et operandum certa , ac determinata ratione . 
+Per aeternitatem intelligo ipsam existentiam , quatenus ex sola rei aeternae definitione necessario sequi concipitur . 
+Talis enim existentia , ut aeterna veritas , sicut rei essentia , concipitur , proptereaque per durationem , aut tempus explicari non potest , tametsi duratio principio , et fine carere concipiatur . 
+Omnia , quae sunt , vel in se , vel in alio sunt . 
+Id , quod per aliud non potest concipi , per se concipi debet . 
+Ex data causa determinata necessario sequitur effectus , et contra , si nulla detur determinata causa , impossibile est , ut effectus sequatur . 
+Effectus cognitio a cognitione causae dependet , et eandem involvit . 
+Quae nihil commune cum se invicem habent , etiam per se invicem intelligi non possunt , sive conceptus unius alterius conceptum non involvit . 
+Idea vera debet cum suo ideato convenire . 
+Quicquid , ut non existens , potest concipi , ejus essentia non involvit existentiam . 
+Substantia prior est natura suis affectionibus . 
+Duae substantiae , diversa attributa habentes , nihil inter se commune habent . 
+Patet etiam ex Defin . 
+Unaquaeque enim in se debet esse et per se debet concipi , sive conceptus unius conceptum alterius non involvit . 
+Quae res nihil commune inter se habent , earum una alterius causa esse non potest . 
+Si nihil commone cum se invicem habent , ergo ( per Axiom . 
+) nec per se invicem possunt intelligi , adeoque ( per Axiom . 
+) una alterius causa esse non potest . 
+Q [ uod ] . 
+E [ sse ] . 
+D [ emonstrandum ] . 
+Duae , aut plures res distinctae , vel inter se distinguuntur ex diversitate attributorum substantiarum , vel ex diversitate earundem affectionum . 
+Omnia , quae sunt , vel in se , vel in alio sunt ( per Axiom . 
+) , hoc est ( per Defin . 
+et ) extra intellectum nihil datur praeter substantias , earumque affectiones . 
+Nihil ergo extra intellectum datur , per quod plures res distingui inter se possunt praeter substantias , sive quod idem est ( per Defin . 
+) earum attributa , earumque affectiones . 
+Q. E . 
+In rerum natura non possunt dari duae , aut plures substantiae ejusdem naturae , sive attributi . 
+Si darentur plures distinctae , deberent inter se distingui , vel ex diversitate attributorum , vel ex diversitate affectionum ( per Prop . 
+praeced . 
+) . 
+Si tantum ex diversitate attributorum , concedetur ergo , non dari , nisi unam ejusdem attributi . 
+At si ex diversitate affectionum , cum substantia sit prior natura suis affectionibus ( per Prop . 
+) , depositis ergo affectionibus , et in se considerata , hoc est ( per Defin . 
+et Axiom . 
+) vere considerata , non poterit concipi ab alia distingui , hoc est ( per Prop . 
+pracced . 
+) non poterunt dari plures , sed tantum una . 
+Q. E . 
+Una substantia non potest produci ab alia substantia . 
+In rerum natura non possunt dari duae substantiae ejusdem attributi ( per Prop . 
+praeced . 
+) , hoc est ( per Prop . 
+) , quae aliquid inter se commune habent . 
+Adeoque ( per Prop . 
+) una alterius causa esse nequit , sive ab alia non potest produci . 
+Q. E . 
+Hinc sequitur substantiam ab alio produci non posse . 
+Nam in rerum natura nihil datur praeter substantias , earumque affectiones , ut patet ex Axiom . 
+I et Defin . 
+et Atqui a substantia produci non potest ( per Prop . 
+praeced . 
+) . 
+Ergo substantia absolute ab alio produci non potest . 
+Q. E . 
+Demonstratur hoc etiam facilius ex absurdo contradictorio . 
+Nam si substantia ab alio posset produci , ejus cognitio a cognitione suae causae deberet pendere ( per Axiom . 
+) ; adeoque ( per Defin . 
+) non esset substantia . 
+Ad naturam substantiae pertinet existere . 
+Substantia non potest produci ab alio ( per Coroll . 
+Prop . 
+praeced . 
+) ; erit itaque causa sui , id est ( per Defin . 
+) , ipsius essentia involvit necessario existentiam , sive ad ejus naturam pertinet existere . 
+Q. E . 
+PARS SECUNDA - DE NATURA , ET ORIGINE MENTIS Transeo jam ad ea explicanda , quae ex Dei , sive Entis aeterni , et infiniti essentia necessario debuerunt sequi . 
+Non quidem omnia ; infinita enim infinitis modis ex ipsa debere sequi Prop . 
+Part . 
+demonstravimus : sed ea solummodo , quae nos ad Mentis humanae , ejusque summae beatitudinis cognitionem , quasi manu , ducere possunt . 
+Per corpus intelligo modum , qui Dei essentiam , quatenus , ut res extensa , consideratur , certo , et determinato modo exprimit ; vide Coroll . 
+Prop . 
+p . 
+Ad essentiam alicujus rei id pertinere dico , quo dato res necessario ponitur , et quo sublato res necessario tollitur ; vel id , sine quo res , et vice versa quod sine re nec esse , nec concipi potest . 
+Per ideam intelligo Mentis conceptum , quem Mens format , propterea quod res est cogitans . 
+Dico potius conceptum , quam perceptionem , quia perceptionis nomen indicare videtur , Mentem ab objecto pati . 
+At conceptus actionem Mentis exprimere videtur . 
+Per ideam adaequatam intelligo ideam , quae , quatenus in se sine relatione ad objectum consideratur , omnes verae ideae proprietates , sive denominationes intrinsecas habet . 
+Dico intrinsecas , ut illam secludam , quae extrinseca est , nempe convenientiam ideae cum suo ideato . 
+Duratio est indefinita existendi continuatio . 
+Dico indefinitam , quia per ipsam rei existentis naturam determinari nequaquam potest , neque etiam a causa efficiente , quae scilicet rei existentiam necessario ponit , non autem tollit . 
+Per realitatem , et perfectionem idem intelligo . 
+Per res singulares intelligo res , quae finitae sunt , et determinatam habent existentiam . 
+Quod si plura Individua in una actione ita concurrant , ut omnia simul unius effectus sint causa , eadem omnia eatenus , ut unam rem singularem , considero . 
+Hominis essentia non involvit necessariam existentiam , hoc est , ex naturae ordine , tam fieri potest , ut hic , et ille homo existat , quam ut non existat . 
+Homo cogitat . 
+Modi cogitandi , ut amor , cupiditas , vel quicunque nomine affectus animi insigniuntur , non dantur , nisi in eodem Individuo detur idea rei amatae , desideratae , etc . 
+At idea dari potest , quamvis nullus alius detur cogitandi modus . 
+Nos corpus quoddam multis modis affici sentimus . 
+Nullas res singulares praeter corpora , et cogitandi modos , sentimus , nec percipimus . 
+Cogitatio attributum Dei est , sive Deus est res cogitans . 
+Singulares cogitationes , sive haec , et illa cogitatio modi sunt , qui Dei naturam certo , et determinato modo exprimunt ( per Coroll . 
+Prop . 
+p . 
+) . 
+Competit ergo Deo ( per Defin . 
+p . 
+) attributum , cujus conceptum singulares omnes cogitationes involvunt , per quod etiam concipiuntur . 
+Est igitur Cogitatio unum ex infinitis Dei attributis , quod Dei aeternam , et infinitam essentiam exprimit ( vide Defin . 
+p . 
+) , sive Deus est res cogitans . 
+Q. E . 
+Patet etiam haec Propositio ex hoc , quod nos possumus ens cogitans infinitum concipere . 
+Nam quo plura ens cogitans potest cogitare , eo plus realitatis , sive perfectionis idem continere concipimus ; ergo ens , quod infinita infinitis modis cogitare potest , est necessario virtute cogitandi infinitum . 
+Cum itaque , ad solam cogitationem attendendo , Ens infinitum concipiamus , est necessario ( per Defin . 
+et p . 
+) Cogitatio unum ex infinitis Dei attributis , ut volebamus . 
+Extensio attributum Dei est , sive Deus est res extensa . 
+Hujus eodem modo procedit , ac demonstratio praecedentis Propositionis . 
+PARS TERTIA - DE ORIGINE , ET NATURA AFFECTUUM Plerique , qui de Affectibus , et hominum vivendi ratione scripserunt , videntur , non de rebus naturalibus , quae communes naturae leges sequuntur , sed de rebus , quae extra naturam sunt , agere . 
+Imo hominem in natura , veluti imperium in imperio , concipere videntur . 
+Nam hominem naturae ordinem magis perturbare , quam sequi , ipsumque in suas actiones absolutam habere potentiam , nec aliunde , quam a se ipso determinari , credunt . 
+Humanae deinde impotentiae , et inconstantiae causam non communi naturae potentiae , sed , nescio cui naturae humanae vitio , tribuunt , quam propterea flent , rident , contemnunt , vel , quod plerumque fit , detestantur ; et , qui humanae Mentis impotentiam eloquentius , vel argutius carpere novit , veluti Divinus habetur . 
+Non defuerunt tamen viri praestantissimi ( quorum labori , et industriae nos multum debere fatemur ) , qui de recta vivendi ratione praeclara multa scripserint , et plena prudentiae consilia mortalibus dederint , verum Affectuum naturam , et vires , et quid contra Mens in iisdem moderandis possit , nemo , quod sciam , determinavit . 
+Scio equidem celeberrimum Cartesium , licet etiam crediderit , Mentem in suas actiones absolutam habere potentiam , Affectus tamen humanos per primas suas causas explicare , simulque viam ostendere studuisse , qua Mens in Affectus absolutum habere possit imperium ; sed , mea quidem sententia , nihil praeter magni sui ingenii acumen ostendit , ut suo loco demonstrabo . 
+Nam ad illos revertere volo , qui hominum Affectus , et actiones detestari , vel ridere malunt , quam intelligere . 
+His sine dubio mirum videbitur , quod hominum vitia , et ineptias more Geometrico tractare aggrediar , et certa ratione demonstrare velim ea , quae rationi repugnare , quaeque vana , absurda , et horrenda esse clamitant . 
+Sed mea haec est ratio . 
+Nihil in natura fit , quod ipsius vitio possit tribui ; est namque natura semper eadem , et ubique una , eademque ejus virtus , et agendi potentia , hoc est , naturae leges , et regulae , secundum quas omnia fiunt , et ex unis formis in alias mutantur , sunt ubique , et semper eaedem , atque adeo una , eademque etiam debet esse ratio rerum qualiumcunque naturam intelligendi , nempe per leges , et regulas naturae universales . 
+Affectus itaque odii , irae , invidiae etc . 
+in se considerati ex eadem naturae necessitate , et virtute consequuntur , ac reliqua singularia ; ac proinde certas causas agnoscunt , per quas intelliguntur , certasque proprietates habent , cognitione nostra aeque dignas , ac proprietates cujuscunque alterius rei , cujus sola contemplatione delectamur . 
+De Affectuum itaque natura , et viribus , ac Mentis in eosdem potentia eadem Methodo agam , qua in praecedentibus de Deo , et Mente egi , et humanas actiones , atque appetitus considerabo perinde , ac si Quaestio de lineis , planis , aut de corporibus esset . 
+Causam adaequatam appello eam , cujus effectus potest clare , et distincte per eandem percipi . 
+Inadaequatam autem , seu partialem illam voco , cujus effectus per ipsam solam intelligi nequit . 
+Nos tum agere dico , cum aliquid in nobis , aut extra nos fit , cujus adaequata sumus causa , hoc est ( per Defin . 
+praeced . 
+) cum ex nostra natura aliquid in nobis , aut extra nos sequitur , quod per eandem solam potest clare , et distincte intelligi . 
+At contra nos pati dico , cum in nobis aliquid fit , vel ex nostra natura aliquid sequitur , cujus nos non , nisi partialis , sumus causa . 
+Per Affectum intelligo Corporis affectiones , quibus ipsius Corporis agendi potentia augetur , vel minuitur , juvatur , vel coercetur , et simul harum affectionum ideas . 
+Si itaque alicujus harum affectionum adaequata possimus esse causa , tum per Affectum actionem intelligo , alias passionem . 
+Corpus humanum potest multis affici modis , quibus ipsius agendi potentia augetur , vel minuitur , et etiam aliis , qui ejusdem agendi potentiam nec majorem , nec minorem reddunt . 
+Hoc Postulatum , seu Axioma nititur Postulato et Lemmata et , quae vide post Prop . 
+p . 
+Corpus humanum multas pati potest mutationes , et nihilominus retinere objectorum impressiones , seu vestigia ( de quibus vide Post. p . 
+) , et consequenter easdem rerum imagines ; quarum Defin . 
+vide Schol . 
+Prop . 
+p . 
+PARS QUARTA - DE SERVITUTE HUMANA , SEU DE AFFECTUUM VIRIBUS Humanam impotentiam in moderandis , et coercendis affectibus Servitutem voco ; homo enim affectibus obnoxius sui juris non est , sed fortunae , in cujus potestate ita est , ut saepe coactus sit , quanquam meliora sibi videat , deteriora tamen sequi . 
+Hujus rei causam , et quid praeterea affectus boni , vel mali habent , in hac Parte demonstrare proposui . 
+Sed antequam incipiam , pauca de perfectione , et imperfectione , deque bono , et malo praefari lubet . 
+Qui rem aliquam facere constituit , eamque perfecit , rem suam perfectam esse , non tantum ipse , sed etiam unusquisque , qui mentem Auctoris illius operis , et scopum recte noverit , aut se novisse crediderit , dicet . 
+Ex . 
+gr . 
+si quis aliquod opus ( quod suppono nondum esse peractum ) viderit , noveritque scopum Auctoris illius operis esse domum aedificare , is domum imperfectam esse dicet , et contra perfectam , simulatque opus ad finem , quem ejus Auctor eidem dare constituerat , perductum viderit . 
+Verum si quis opus aliquod videt , cujus simile nunquam viderat , nec mentem opificis novit , is sane scire non poterit , opusne illud perfectum , an imperfectum sit . 
+Atque haec videtur prima fuisse horum vocabulorum significatio . 
+Sed postquam homines ideas universales formare , et domuum , aedificiorum , turrium , etc . 
+exemplaria excogitare , et alia rerum exemplaria aliis praeferre inceperunt , factum est , ut unusquisque id perfectum vocaret , quod cum universali idea , quam ejusmodi rei formaverat , videret convenire , et id contra imperfectum , quod cum concepto suo exemplari minus convenire videret , quanquam ex opificis sententia consummatum plane esset . 
+Nec alia videtur esse ratio , cur res naturales etiam , quae scilicet humana manu non sunt factae , perfectas , aut imperfectas vulgo appellent ; solent namque homines tam rerum naturalium , quam artificialium ideas formare universales , quas rerum veluti exemplaria habent , et quas naturam ( quam nihil nisi alicujus finis causa agere existimant ) intueri credunt , sibique exemplaria proponere . 
+Cum itaque aliquid in natura fieri vident , quod cum concepto exemplari , quod rei ejusmodi habent , minus convenit , ipsam naturam tum defecisse , vel peccavisse , remque illam imperfectam reliquisse , credunt . 
+Videmus itaque homines consuevisse , res naturales perfectas , aut imperfectas vocare , magis ex praejudicio , quam ex earum vera cognitione . 
+Ostendimus enim in Primae Partis Appendice Naturam propter finem non agere ; aeternum namque illud , et infinitum Ens , quod Deum , seu Naturam appellamus , eadem qua existit , necessitate agit . 
+Ex qua enim naturae necessitate existit , ex eadem ipsum agere ostendimus ( Prop . 
+p . 
+) . 
+Ratio igitur , seu causa , cur Deus , seu Natura agit , et cur existit , una , eademque est . 
+Ut ergo nullius finis causa existit , nullius etiam finis causa agit ; sed ut existendi , sic et agendi principium , vel finem habet nullum . 
+Causa autem , quae finalis dicitur , nihil est praeter ipsum humanum appetitum , quatenus is alicujus rei veluti principium , seu causa primaria consideratur . 
+Ex . 
+gr . 
+cum dicimus habitationem causam fuisse finalem hujus , aut illius domus , nihil tum sane intelligimus aliud , quam quod homo ex eo , quod vitae domesticae commoda imaginatus est , appetitum habuit aedificandi domum . 
+Quare habitatio , quatenus ut finalis causa consideratur , nihil est praeter hunc singularem appetitum , qui revera causa est efficiens , quae ut prima consideratur , quia homines suorum appetituum causas communiter ignorant . 
+Sunt namque , ut jam saepe dixi , suarum quidem actionum , et appetituum conscii , sed ignari causarum , a quibus ad aliquid appetendum determinantur . 
+Quod praeterea vulgo ajunt , Naturam aliquando deficere , vel peccare , resque imperfectas producere , inter commenta numero , de quibus in Appendice Partis Primae egi . 
+Perfectio igitur , et imperfectio revera modi solummodo cogitandi sunt , nempe notiones , quas fingere solemus ex eo , quod ejusdem speciei , aut generis individua ad invicem comparamus : et hac de causa supra ( Defin . 
+p . 
+) dixi me per realitatem , et perfectionem idem intelligere ; solemus enim omnia Naturae individua ad unum genus , quod generalissimum appellatur , revocare ; nempe ad notionem entis , quae ad omnia absolute Naturae individua pertinet . 
+Quatenus itaque Naturae individua ad hoc genus revocamus , et ad invicem comparamus , et alia plus entitatis , seu realitatis , quam alia habere comperimus , eatenus alia aliis perfectiora esse dicimus ; et quatenus iisdem aliquid tribuimus , quod negationem involvit , ut terminus , finis , impotentia , etc . 
+eatenus ipsa imperfecta appellamus , quia nostram Mentem non aeque afficiunt , ac illa , quae perfecta vocamus , et non quod ipsis aliquid , quod suum sit , deficiat , vel quod Natura peccaverit . 
+Nihil enim naturae alicujus rei competit , nisi id , quod ex necessitate naturae causae efficientis sequitur , et quicquid ex necessitate naturae causae efficientis sequitur , id necessario fit . 
+Bonum , et malum quod attinet , nihil etiam positivum in rebus , in se scilicet consideratis , indicant , nec aliud sunt , praeter cogitandi modos , seu notiones , quas formamus ex eo , quod res ad invicem comparamus . 
+Nam una , eademque res potest eodem tempore bona , et mala , et etiam indifferens esse . 
+Ex . 
+gr . 
+Musica bona est Melancholico , mala lugenti ; surdo autem neque bona , neque mala . 
+Verum , quamvis se res ita habeat , nobis tamen haec vocabula retinenda sunt . 
+Nam quia ideam hominis tanquam naturae humanae exemplar , quod intueamur , formare cupimus , nobis ex usu erit , haec eadem vocabula eo , quo dixi , sensu retinere . 
+Per bonum itaque in seqq . 
+intelligam id , quod certo scimus medium esse , ut ad exemplar humanae naturae , quod nobis proponimus , magis magisque accedamus . 
+Per malum autem id , quod certo scimus impedire , quominus idem exemplar referamus . 
+Deinde homines perfectiores , aut imperfectiores dicemus , quatenus ad hoc idem exemplar magis , aut minus accedunt . 
+Nam apprime notandum est , cum dico , aliquem a minore ad majorem perfectionem transire , et contra , me non intelligere , quod ex una essentia , seu forma in aliam mutatur . 
+Equus namque ex . 
+gr . 
+tam destruitur , si in hominem , quam si in insectum mutetur : sed quod ejus agendi potentiam , quatenus haec per ipsius naturam intelligitur , augeri , vel minui concipimus . 
+Denique per perfectionem in genere realitatem , uti dixi , intelligam , hoc est , rei cujuscunque essentiam , quatenus certo modo existit , et operatur , nulla ipsius durationis habita ratione . 
+Nam nulla res singularis potest ideo dici perfectior , quia plus temporis in existendo perseveravit ; quippe rerum duratio ex earum essentia determinari nequit ; quandoquidem rerum essentia nullum certum , et determinatum existendi tempus involvit ; sed res quaecunque , sive ea perfectior sit , sive minus , eadem vi , qua existere incipit , semper in existendo perseverare poterit , ita ut omnes hac in re aequales sint . 
+Per bonum id intelligam , quod certo scimus nobis esse utile . 
+Per malum autem id , quod certo scimus impedire , quominus boni alicujus simus compotes . 
+De his praecedentem vide praefationem sub finem . 
+Res singulares voco contingentes , quatenus , dum ad earum solam essentiam attendimus , nihil invenimus , quod earum existentiam necessario ponat , vel quod ipsam necessario secludat . 
+Easdem res singulares voco possibiles , quatenus , dum ad causas , ex quibus produci debent , attendimus , nescimus , an ipsae determinatae sint ad easdem producendum . 
+In Schol . 
+Prop . 
+p . 
+inter possibile , et contingens nullam feci differentiam , quia ibi non opus erat haec accurate distinguere . 
+Per contrarios affectus in seqq . 
+intelligam eos , qui hominem diversum trahunt , quamvis ejusdem sint generis , ut luxuries , et avaritia , quae amoris sunt species ; nec natura , sed per accidens sunt contrarii . 
+Quid per affectum erga rem futuram , praesentem , et praeteritam intelligam , explicui in Schol . 
+et Prop . 
+p . 
+, quod vide . 
+Sed venit hic praeterea notandum , quod ut loci , sic etiam temporis distantiam non , nisi usque ad certum quendam limitem , possumus distincte imaginari ; hoc est , sicut omnia illa objecta , quae ultra ducentos pedes a nobis distant , seu quorum distantia a loco , in quo sumus , illam superat , quam distincte imaginamur , aeque longe a nobis distare , et perinde , ac si in eodem plano essent , imaginari solemus ; sic etiam objecta , quorum existendi tempus longiore a praesenti intervallo abesse imaginamur , quam quod distincte imaginari solemus , omnia aeque longe a praesenti distare imaginamur , et ad unum quasi temporis momentum referimus . 
+Per finem , cujus causa aliquid facimus , appetitum intelligo . 
+Per virtutem , et potentiam idem intelligo , hoc est ( per Prop . 
+p . 
+) virtus , quatenus ad hominem refertur , est ipsa hominis essentia , seu natura , quatenus potestatem habet , quaedam efficiendi , quae per solas ipsius naturae leges possunt intelligi . 
+Nulla res singularis in rerum natura datur , qua potentior , et fortior non detur alia . 
+Sed quacunque data datur alia potentior , a qua illa data potest destrui . 
+PARS QUINTA - DE POTENTIA INTELLECTUS , SEU DE LIBERTATE HUMANA Transeo tandem ad alteram Ethices Partem , quae est de modo , sive via , quae ad Libertatem docit . 
+In hac ergo de potentia rationis agam , ostendens , quid ipsa ratio in affectus possit , et deinde , quid Mentis Libertas seu beatitudo sit ex quibus videbimus , quantum sapiens potior sit ignaro . 
+Quomodo autem , et qua via debeat intellectus perfici , et qua deinde arte Corpus sit curandum , ut possit suo officio recte fungi , huc non pertinet ; hoc enim ad Medicinam , illud autem ad Logicam spectat . 
+Hic igitur , ut dixi , de sola Mentis , seu rationis potentia agam , et ante omnia , quantum , et quale imperium in affectus habeat , ad eosdem coercendum , et moderandum , ostendam . 
+Nam nos in ipsos imperium absolutum non habere , jam supra demonstravimus . 
+Stoici tamen putarunt , eosdem a nostra voluntate absolute pendere , nosque iis absolute imperare posse . 
+Attamen ab experientia reclamante , non vero ex suis principiis coacti sunt fateri , usum , et studium non parvum requiri ad eosdem coercendum , et moderandum ; quod quidam exemplo duorum canum ( si recte memini ) , unius scilicet domestici , alterius venatici , conatus est ostendere ; nempe quia usu efficere tandem potuit , ut domesticus venari , venaticus contra a leporibus sectandis abstinere assuesceret . 
+Huic opinioni non parum favet Cartesius . 
+Nam statuit Animam , seu Mentem unitam praecipue esse cuidam parti cerebri , glandulae scilicet pineali dictae , cujus ope Mens motus omnes , qui in corpore excitantur , et objecta externa sentit , quamque Mens eo solo , quod vult , varie movere potest . 
+Hanc glandulam in medio cerebri ita suspensam esse statuit , ut minimo spirituum animalium motu possit moveri . 
+Deinde statuit , quod haec glans tot variis modis in medio cerebro suspendatur , quot variis modis spiritus animales in eandem impingunt , et quod praeterea tot varia vestigia in eadem imprimantur , quot varia objecta externa ipsos spiritus animales versus eandem propellunt , unde fit , ut si glans postea ab Animae voluntate , illam diversimode movente , hoc , aut illo modo suspendatur , quo semel fuit suspensa a spiritibus , hoc , aut illo modo agitatis , tum ipsa glans ipsos spiritus animales eodem modo propellet , et determinabit , ac antea a simili glandulae suspensione repulsi fuerant . 
+Praeterea statuit , unamquamque Mentis voluntatem natura esse unitam certo cuidam glandis motui . 
+Ex . 
+gr . 
+si quis voluntatem habet objectum remotum intuendi , haec voluntas efficiet , ut pupilla dilatetur ; sed si de sola dilatanda pupilla cogitet , nihil proderit ejus rei habere voluntatem , quia natura non junxit motum glandis , qui inservit impellendis spiritibus versus nervum Opticum modo conveniente dilatandae , vel contrahendae pupillae cum voluntate eandem dilatandi , vel contrahendi ; sed demum cum voluntate intuendi objecta remota , vel proxima . 
+Denique statuit , quod , etsi unusquisque motus hujus glandulae videatur connexus esse per naturam singulis ex nostris cogitationibus ab initio nostrae vitae aliis tamen per habitum possunt jungi , quod probare conatur art . 
+p . 
+; de Passionibus Animae ; . 
+Ex his concludit , nullam esse tam imbecillem Animam , quae non possit , cum bene dirigitur , acquirere potestatem absolutam in suas Passiones . 
+Nam hae , ut ab eo definiuntur , sunt ; perceptiones , aut sensus , aut commotiones animae , quae ad eam speciatim referuntur , quaeque NB . 
+producuntur , conservantur , et corroborantur , per aliquem motum spirituum ; ( vide art . 
+p . 
+Pass . 
+Anim . 
+) . 
+At quandoquidem cuilibet voluntati possumus jungere motum quemcunque glandis , et consequenter spirituum ; et determinatio voluntatis a sola nostra potestate pendet ; si igitur nostram voluntatem certis , et firmis judiciis , secundum quae nostrae vitae actiones dirigere volumus , determinemus , et motus passionum , quas habere volumus , hisce judiciis jungamus , imperium acquiremus absolutum in nostras Passiones . 
+Haec est clarissimi hujus Viri sententia ( quantum ex ipsius verbis conjicio ) , quam ego vix credidissem a tanto Viro prolatam esse , si minus acuta fuisset . 
+Profecto mirari satis non possum , quod vir Philosophus , qui firmiter statuerat , nihil deducere , nisi ex principiis per se notis , et nihil affirmare , nisi quod clare , et distincte perciperet , et qui toties Scholasticos reprehenderat , quod per occultas qualitates res obscuras voluerint explicare , Hypothesin sumat omni occulta qualitate occultiorem . 
+Quid quaeso , per Mentis , et Corporis unionem intelligit ? 
+quem , inquam , clarum , et distinctum conceptum habet cogitationis arctissime unitae cuidam quantitatis portiunculae ? 
+Vellem sane , ut hanc unionem per proximam suam causam explicuisset . 
+Sed ille Mentem a Corpore adeo distinctam conceperat , ut nec hujus unionis , nec ipsius Mentis ullam singularem causam assignare potuerit ; sed necesse ipsi fuerit , ad causam totius Universi , hoc est , ad Deum recurrere . 
+Deinde pervelim scire , quot motus gradus potest glandulae isti pineali Mens tribuere , et quanta cum vi eandem suspensam tenere potest . 
+Nam nescio , an haec glans tardius , vel celerius a Mente circumagatur , quam a spiritibus animalibus , et an motus Passionum , quos firmis judiciis arcte junximus , non possint ab iisdem iterum a causis corporeis disjungi , ex quo sequeretur , ut , quamvis Mens firmiter proposuerit contra pericula ire , atque huic decreto motus audaciae junxerit , viso tamen periculo , glans ita suspendatur , ut Mens non , nisi de fuga , possit cogitare ; et sane , cum nulla detur ratio voluntatis ad motum , nulla etiam datur comparatio inter Mentis , et Corporis potentiam , seu vires ; et consequenter hujus vires nequaquam viribus illius determinari possunt . 
+His adde , quod nec haec glans ita in medio cerebro sita reperiatur , ut tam facile , totque modis circumagi possit , et quod non omnes nervi ad cavitates usque cerebri protendantur . 
+Denique omnia , quae de voluntate , ejusque libertate asserit , omitto , quandoquidem haec falsa esse , satis superque ostenderim . 
+Igitur quiia Mentis potentia , ut supra ostendi , sola intelligentia definitur , affectuum remedia , quae omnes experiri quidem , sed non accurate observare , nec distincte videre credo , sola Mentis cognitione determinabimus , et ex eadem illa omnia , quae ad ipsius beatitudinem spectant , deducemus . 
+Si in eodem subjecto duae contrariae actiones excitentur , debebit necessario vel in utraque , vel in una sola mutatio fieri , donec desinant contrariae esse . 
+Effectus potentia definitur potentia ipsius causae , quatenus ejus essentia per ipsius causae essentiam explicatur , vel definitur . 
+Patet hoc Axioma ex Prop . 
+Part . 
+Prout cogitationes , rerumque ideae ordinantur , et concatenantur in Mente , ita corporis affectiones , seu rerum imagines ad amussim ordinantur , et concatenantur in Corpore . 
+Ordo , et connexio idearum idem est ( per Prop . 
+p . 
+) , ac ordo , et connexio rerum , et vice versa , ordo , et connexio rerum idem est ( per Coroll . 
+Prop . 
+et p . 
+) , ac ordo , et connexio idearum . 
+Quare sicuti ordo , et connexio idearum in Mente fit secundum ordinem , et concatenationem affectionum Corporis ( per Prop . 
+p . 
+) , sic vice versa ( per Prop . 
+p . 
+) ordo , et connexio affectionum Corporis fit , prout cogitationes , rerumque ideae ordinantur , et concatenantur in Mente . 
+Q. E . 
+Si animi commotionem , seu affectum a causae externae cognitatione amoveamus , et aliis jungamus cogitationibus , tum Amor , seu Odium erga causam externam , ut et animi fluctuationes , quae ex his affectibus oriuntur , destruentur . 
+Id enim , quod formam Amoris , vel Odii constituit , est Laetitia , vel Tristitia , concomitante idea causae externae ( per Defin . 
+et Affect . 
+) , hac igitur sublata , Amoris , vel Odii forma simul tollitur ; adeoque hi affectus , et qui ex his oriuntur , destruuntur . 
+Q. E . 
+Affectus , qui passio est , desinit esse passio , simulatque ejus claram , et distinctam formamus ideam . 
+Affectus , qui passio est , idea est confusa ( per gen . 
+Affect . 
+Defin . 
+) . 
+Si itaque ipsius affectus claram , et distinctam formemus ideam , haec idea ab ipso affectu , quatenus ad solam Mentem refertur , non nisi ratione distinguetur ( per Prop . 
+p . 
+cum ejusdem Schol . 
+) ; adeoque ( per Prop . 
+p . 
+) affectus desinit esse passio . 
+Q. E . 
+Affectus igitur eo magis in nostra potestate est , et Mens ab eo minus patitur , quo nobis est notior . 

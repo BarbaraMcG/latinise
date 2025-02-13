@@ -1,0 +1,59 @@
+Prima experimenta circa rem , quam illustrare aggredior , in scholis de Electricitate , Galvanismo et Magnetismo proxime - superiori hiemi a me habitis instituta sunt . 
+His experimentis monstrari videbatur , acum magneticam ope apparatus galvanici e situ moveri ; idque circulo galvanico cluso , non aperto , ut frustra tentaverunt aliquot abhinc annis physici quidam celeberrimi . 
+Cum autem haec experimenta apparatu minus efficaci instituta essent , ideoque phaenomena edita pro rei gravitate non satis luculenta viderentur , socium adscivi amicum Esmarch , regi a consiliis justitiae , ut experimenta cum magno apparatu galvanico , a nobis conjunctim instructo , repeterentur et augerentur . 
+Etiam vir egregius Wleugel , eques auratus ord . 
+Dan . 
+et apud nos praefectus rei gubernatoriae , experimentis interfuit , nobis socius et testis . 
+Praeterea testes fuerunt horum experimentorum vir excellentissimus et a rege summis honoribus decoratus Hauch , cujus in rebus naturalibus scientia jam diu inclaruit , vir acutissimus Reinhardt , Historiae naturalis Professor , vir in experimentis instituendis sagacissimus Jacobson , Medicinae Professor , et Chemicus experientissimus Zeise , Philosophiae Doctor . 
+Saepius equidem solus experimenta circa materiam propositam institui , quae autem ita mihi contigit detegere phaenomena , in conventu horum virorum doctissimorum repetivi . 
+In experimentis recensendis omnia praeteribo , quae ad rationem rei inveniendam quidem conduxerunt , hac autem inventa rem amplius illustrare nequeunt ; in eis igitur , quae rei rationem perspicue demonstrant , aquiescamus . 
+Apparatus galvanicus , quo usi sumus , constat viginti receptaculis cupreis rectangularibus , quorum et longitudo et altitudo duodecim aequaliter est pollicum , latitudo autem duos pollices et dimidium vis excedit . 
+Quodvis receptaculum duabus laminis cupreis instructum est ita inclinatis , ut baculum cupreum , qui laminam zinceam in aqua receptaculi proximi sustentat , portari possint . 
+Aqua receptaculorum sui ponderis acidi sulphurici et pariter acidi nitrici continet . 
+Pars cujusque laminae Zinceae in aqua submersa Quadratum est , cujus latus circiter longitudinem pollicum habet . 
+Etiam apparatus minores adhiberi possunt , si modo filum metallicum candefacere valeant . 
+Conjungantur termini oppositi apparatus galvanici per filum metallicum , quod brevitatis causa in posterum conductorem conjiungentem vel etiam filum conjungens appellabimus . 
+Effectui autem , qui in hoc conductore et in spatio circumjacente locum habet , conflictus ecectrici nomen tribuemus . 
+Ponatur pars rectilinea hujus fili in situ horizontali super acum magneticam rite suspensam , eique parallela . 
+Si opus fuerit , filum conjungens ita flecti potest , ut pars eius idonea situm ad experimentum necessarium obtineat . 
+His ita comparatis , acus magnetica movebitur , et quidem sub ea fili conjungentis parte , quae electricitatem proxime a termino negativo apparatus galvanici accipit , occidentem versus declinabit . 
+Si distantia fili conjungentis ab acu magnetica pollices non excedit , declinatio acus angulum circiter ; efficit . 
+Si distantia augetur , anguli decrescunt ut crescunt distantiae . 
+Ceterum declinatio pro efficacia apparatus varia est . 
+Filum conjungens locum mutare potest vel orientem vel occidentem versus , dummodo situm acui parallelum teneat , sine alia effectus mutatione , quam respectu magnitudinis ; itaque effectus attractioni minime tribui potest , nam idem acus magneticae polus , qui ad filum conjungens accedit , dum ei ad latus orientale positum est , ab eadem recedere deberet , quando locum ad latus occidentale occupat , si hae declinationes ab attractionibus vel repulsionibus penderent . 
+Conductor conjungens e pluribus filis aut taeniis metallicis connexis constare potest . 
+Natura metalli effectus non mutat , nisi forte quoad quantitatem . 
+Fila ex platino , auro , argento , orichalco , ferro , taenias e plumbo et stanno , massam hydrargyri aequali cum successu adhibuimus . 
+Conductor aqua interrupta non omni effectu caret , nisi interruptio spatium plurium pollicum longitudinis complectatur . 
+Effectus fili conjungentis in acum magneticam per vitrum , per metalla , per lignum , per aquam , per resinam , per vasa figlina , per lapides transeunt ; nam interjecta tabula vitrea , metallica vel lignea minime tolluntur , nec tabulis ex vitro , metallo et ligno simul interjectis evanescunt , imo vix decrescere videntur . 
+Idem est eventus , si interjicitur discus electrophori , tabula ex porphyrita , vas figlinum , si vel aqua repletum sit . 
+Experimenta nostra etiam docuerunt , effectus jam memoratos non mutari , si acus magnetica pyxide ex orichalco aqua repleta includitur . 
+Effectuum transitum per omnes has materias in electricitate et galvanismo antea nunquam observatum fuisse , monere haud opus est . 
+Effectus igitur , qui locum habent in conflictu electrico , ab effectibus unius vel alterius vis electricae quam maxime sunt diversi . 
+Si filum conjungens in plano horizontali sub acu magnetica ponitur , omnes effectus idem sunt ac in plano super acum , tantummodo in directione inversa . 
+Acus enim magneticae polus , sub quo ea est fili conjungentis pars , quae electricitatem proxime a termino negativo apparatus galvanici accipit , orientem versus declinabit . 
+Ut facilius haec memoria retineantur , hac formula utamur : Polus super quem intrat electricitas negativa ad occidentem , infra quem ad orientem vertitur . 
+Si filum conjungens in plano horizontali ita vertitur , ut cum meridiano magnetico angulum sensim sensimque crescentem formet , declinatio acus magneticae augetur , si motus fili tendit versus locum acus deturbatae ; sed minuitur , si filum ab hoc loco discedit . 
+Filum conjungens in plano horizontali , in quo movetur acus magnetica , ope sacomatis aequilibrata , situm , et acui parallelum , eandem nec orientem nec occidentem versus deturbat , sed tantummodo in plano inclinationis nutare facit , ita ut polus , penes quem ingreditur in filum vis negative electrica deprimatur , quando ad latus occidentale , et elevetur , quando ad orientale situm est . 
+Si filum conjungens perpendiculare ad planum meridiani magnetici , vel supra vel infra acum ponitur , haec in quiete permanet ; excepto si filum sit polo admodum propinquum : tum enim elevatur polus , quando introitus fit a parte occidentali fili , et deprimitur quando ab orientali fit . 
+Quando filum conjungens perpendiculare ponitur e regione polo acus magneticae , et extremitas superior fili electricitatem a termino negativo apparatus galvanici accipit , polus orientem versus movetur ; posito autem filo e regione puncto inter polum et medium acus sito , occidentem versus agitur . 
+Quando extremitas fili superior electricitatem a termino positivo accipit , phaenomena inversa occurrunt . 
+Si filum conjungens ita flectitur , ut ad ambas flexurae partes sibi fiat parallelum , aut duo formet crura parallela , polos magneticos pro diversis rei conditionibus repellit aut attrahit . 
+Ponatur filum e regione polo alteriutri acus , ita ut planum crurum parallelorum sit ad meridianum magneticum perpendiculare , et conjungantur crus orientale cum termino negativo , occidentale cum positivo apparatus galvanici ; quibus ita instructis , polus proximus repelletur , vel ad orientem vel ad occidentem pro situ plani crurum . 
+Conjuncto crure orientali cum termino positivo et occidentali cum termino negativo , polus proximus attrahitur . 
+Quando planum crurum ponitur perpendiculare ad locum inter polum et medium acus , iidem , tantummodo inversi , occurrunt effectus . 
+Acus ex orichalco , ad instar acus magneticae suspensa , effectu fili conjungentis non movetur . 
+Etiam acus ex vitro , vel ex sic dicto gummi lacca , simili experimento subjectae in quiete manent . 
+Ex his omnibus momenta quaedam ad rationem horum phaenomenorum reddendam afferre liceat . 
+Conflictus electricus non nisi in particulas magneticas materiae agere valet . 
+Videntur omnia corpora non - magnetica per conflictum electricum penetrabilia esse ; magnetica vero , aut potius particulae eorum magneticae transitui hujus conflictus resistere , quo fit , ut impetu virium certantium moveri possint . 
+Conflictum electricum in conductore non includi , sed , ut jam diximus , simul in spatio circumjacente idque satis late dispergi , ex observationibus jam propositis satis patet . 
+Similiter ex observatis colligere licet , hunc conflictum gyros peragere , nam haec esse videtur conditio , sine qua fieri nequeat , ut eadem pars fili conjungentis , quae infra polum magneticum posita eum orientem versus ferat , supra posita eundem occidentem versus agat ; haec enim gyri est natura , ut motus in partibus oppositis oppositam habeant directionem . 
+Praeterea motus per gyros cum moto progressivo , juxta longitudinem conductoris , conjunctus , cochleam vel lineam spiralem formare debere videtur , quod tamen , nisi fallor , ad phaenomena hucusque observata explicanda nihil confert . 
+Omnes in polum septentrionalem effectus , hic expositi , facile intelliguntur , ponendo , vim vel materiam negative electricam lineam spiralem dextrorsum flexam percurrere , et polum septentrionalem propellere , in meridionalem autem minime agere . 
+Effectus in polum meridionalem similiter explicantur , si vi vel materiae positive electricae motum contrarium et facultatem in polum meridionalem non autem in septentrionalem agendi tribuimus . 
+Hujus legis cum natura congruentia melius repetitione experimentorum quam longa explicatione perspicietur . 
+Dijudicatio autem experimentorum multo fiet facilior , si cursus virium electricarum in filo conjungente signis pictis vel incisis indicatus fuerit . 
+Dictis hoc tantum adjiciam : Demonstrasse me in libro septem abhinc annis edito , calorem et lucem esse conflictum electricum . 
+Ex observationibus nuper adlatis jam concludere licet , motus per gyros in his effectibus occurrere ; quod ad phaenomena , quae polaritatem lucis appellant , illustranda perquam facere puto . 
+Dabam Hafniae d . 

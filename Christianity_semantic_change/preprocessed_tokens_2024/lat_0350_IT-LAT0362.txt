@@ -1,0 +1,20 @@
+Praefatio Schemata lexeos sunt et dianoeas , id est figurae verborum et sensuum , sed schemata dianoeas ad oratores pertinent , ad grammaticos lexeos . 
+Quae cum multa sint , ex omnibus necessaria fere sunt decem et septem , quorum haec sunt nomina : prolepsis , zeugma , hypozeuxis , syllepsis , anadiplosis , anaphora , epanalepsis , epizeuxis , paronomasia , schesis onomaton , parhomoeon , homoeoptoton , homoeoteleuton , polyptoton , hirmos , polysyndeton , dialyton . 
+Prolepsis est praesumptio rerum ordine secuturarum , ut continuo reges ingenti mole Latinus et cetera . 
+Zeugma est unius verbi conclusio diversis clausulis apte coniuncta , ut Troiugena interpres divum , qui numina Phoebi , qui tripodas , Clari lauros , qui sidera sentis et cetera . 
+Hypozeuxis est figura superiori contraria , ubi diversa verba singulis [ quibusque ] clausulis [ proprie ] subiunguntur , ut regem adit et regi memorat nomenque genusque et cetera . 
+Syllepsis est dissimilium clausularum per unum verbum conglutinata conceptio , ut ; hic illius arma , Hic currus fuit ; . 
+Hoc schema ita late patet , ut fieri soleat non solum per partes orationis , sed et per accidentia partibus orationis . 
+Item syllepsis est , cum singularis dictio plurali verbo adiungitur , ut sunt nobis mitia poma , castaneae molles et pressi copia lactis . 
+Anadiplosis est congeminatio dictionis ex ultimo loco praecedentis versus et principio sequentis , ut sequitur pulcherrimus Astur , Astur equo fidens . 
+Anaphora est relatio eiusdem verbi per principia versuum plurimorum , ut nate , meae vires , mea magna potentia solus , nate patris summi , qui tela Typhoea temnis . 
+Epanalepsis est verbi in principio versus positi in eiusdem fine repetitio , ut ante etiam sceptrum Dictaci regis et ante . 
+Epizeuxis est eiusdem verbi in eodem versu sine aliqua dilatione congeminatio , ut me , me , adsum qui feci , in me convertite ferrum . 
+Paronomasia est veluti quaedam denominatio , ut nam inceptio est amentium , haut amantium . 
+Schesis onomaton est multitudo nominum coniunctorum quodam habitu copulandi , ut Marsa manus , Peligna cohors , Vestina virum vis . 
+Parhomoeon est , cum ab isdem litteris diversa verba sumuntur , ut o Tite tute Tati tibi tanta tyranne tulisti . 
+Homoeoptoton est , cum in similes casus exeunt verba diversa , ut merentes flentes lacrimantes commiserantes . 
+Homoeoteleuton est , cum simili modo dictiones plurimae finiuntur , ut eos reduci quam relinqui , devehi quam deseri malui . 
+Polyptoton est multitudo casuum varietate distincta , ut litora litoribus contraria , fluctibus undas inprecor , arma armis , pugnent ipsique nepotesque . 
+Hirmos est series orationis tenorem suum usque ad ultimum servans , ut principio caelum ac terras camposque liquentes lucentemque globum lunae Titaniaque astra spiritus intus alit Polysyndeton est multis nexa coniunctionibus dictio , ut Acamasque Thoasque Pelidesque Neoptolemusque et cetera . 
+Dialyton vel asyndeton est figura superiori contraria carens coniunctionibus , ut ite , ferte citi flammas , date tela , impellite remos . 
