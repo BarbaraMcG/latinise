@@ -1,4 +1,6 @@
 import argparse, sys
+import os
+import json
 from cltk.tokenizers.lat.lat import LatinWordTokenizer as WordTokenizer
 from cltk.tokenizers.lat.lat import LatinPunktSentenceTokenizer as SentenceTokenizer
 from tensor2tensor.data_generators import text_encoder
@@ -14,6 +16,7 @@ class LatinBERT():
 	def __init__(self, tokenizerPath=None, bertPath=None):
 		encoder = text_encoder.SubwordTextEncoder(tokenizerPath)
 		self.wp_tokenizer = LatinTokenizer(encoder)
+		# self.wp_tokenizer = LatinTokenizer.from_pretrained(tokenizerPath)
 		self.model = BertLatin(bertPath=bertPath)
 		self.model.to(device)
 
@@ -135,12 +138,12 @@ class LatinBERT():
 
 			return batched_data, batched_mask, batched_transforms, ordering
 
-	# This is the original code, the next block changes the code to use PyTorch tensors instead of numpy arrays because of slow performance
-	# def get_berts(self, raw_sents):
-	# 	sents=convert_to_toks(raw_sents)
-	# 	batch_size=32
-	# 	batched_data, batched_mask, batched_transforms, ordering=self.get_batches(sents, batch_size, self.wp_tokenizer)
+	def get_berts(self, raw_sents):
+		sents = convert_to_toks(raw_sents)
+		batch_size = 32
+		batched_data, batched_mask, batched_transforms, ordering = self.get_batches(sents, batch_size, self.wp_tokenizer)
 
+	# This is the original code, the next block changes the code to use PyTorch tensors instead of numpy arrays because of slow performance
 	# 	ordered_preds=[]
 	# 	for b in range(len(batched_data)):
 	# 		size=batched_transforms[b].shape
@@ -150,37 +153,6 @@ class LatinBERT():
 	# 		berts=berts.cpu()
 	# 		for row in range(b_size):
 	# 			ordered_preds.append([np.array(r) for r in berts[row]])
-
-	# 	preds_in_order = [None for i in range(len(sents))]
-
-
-	# 	for i, ind in enumerate(ordering):
-	# 		preds_in_order[ind] = ordered_preds[i]
-
-
-	# 	bert_sents=[]
-
-	# 	for idx, sentence in enumerate(sents):
-	# 		bert_sent=[]
-
-	# 		bert_sent.append(("[CLS]", preds_in_order[idx][0] ))
-
-	# 		for t_idx in range(1, len(sentence)-1):
-	# 			token=sentence[t_idx]
-				
-	# 			pred=preds_in_order[idx][t_idx]
-	# 			bert_sent.append((token, pred ))
-
-	# 		bert_sent.append(("[SEP]", preds_in_order[idx][len(sentence)-1] ))
-
-	# 		bert_sents.append(bert_sent)
-
-	# 	return bert_sents
-
-	def get_berts(self, raw_sents):
-		sents = convert_to_toks(raw_sents)
-		batch_size = 32
-		batched_data, batched_mask, batched_transforms, ordering = self.get_batches(sents, batch_size, self.wp_tokenizer)
 
 		ordered_preds = []
 		for b in range(len(batched_data)):
@@ -209,6 +181,7 @@ class LatinBERT():
 
 			for t_idx in range(1, len(sentence) - 1):
 				token = sentence[t_idx]
+
 				pred = preds_in_order[idx][t_idx]
 				bert_sent.append((token, pred))
 
@@ -222,72 +195,81 @@ class LatinBERT():
 
 
 class LatinTokenizer():
-	def __init__(self, encoder):
-		self.vocab={}
-		self.reverseVocab={}
-		self.encoder=encoder
+    def __init__(self, encoder):
+        self.vocab = {}
+        self.reverseVocab = {}
+        self.encoder = encoder
 
-		self.vocab["[PAD]"]=0
-		self.vocab["[UNK]"]=1
-		self.vocab["[CLS]"]=2
-		self.vocab["[SEP]"]=3
-		self.vocab["[MASK]"]=4
+        self.vocab["[PAD]"] = 0
+        self.vocab["[UNK]"] = 1
+        self.vocab["[CLS]"] = 2
+        self.vocab["[SEP]"] = 3
+        self.vocab["[MASK]"] = 4
 
-		for key in self.encoder._subtoken_string_to_id:
-			self.vocab[key]=self.encoder._subtoken_string_to_id[key]+5
-			self.reverseVocab[self.encoder._subtoken_string_to_id[key]+5]=key
+        for key in self.encoder._subtoken_string_to_id:
+            self.vocab[key] = self.encoder._subtoken_string_to_id[key] + 5
+            self.reverseVocab[self.encoder._subtoken_string_to_id[key] + 5] = key
 
+    def convert_tokens_to_ids(self, tokens):
+        wp_tokens = []
+        for token in tokens:
+            if token == "[PAD]":
+                wp_tokens.append(0)
+            elif token == "[UNK]":
+                wp_tokens.append(1)
+            elif token == "[CLS]":
+                wp_tokens.append(2)
+            elif token == "[SEP]":
+                wp_tokens.append(3)
+            elif token == "[MASK]":
+                wp_tokens.append(4)
+            else:
+                wp_tokens.append(self.vocab[token])
+        return wp_tokens
 
-	def convert_tokens_to_ids(self, tokens):
-		wp_tokens=[]
-		for token in tokens:
-			if token == "[PAD]":
-				wp_tokens.append(0)
-			elif token == "[UNK]":
-				wp_tokens.append(1)
-			elif token == "[CLS]":
-				wp_tokens.append(2)
-			elif token == "[SEP]":
-				wp_tokens.append(3)
-			elif token == "[MASK]":
-				wp_tokens.append(4)
+    def tokenize(self, text):
+        tokens = text.split(" ")
+        wp_tokens = []
+        for token in tokens:
+            if token in {"[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"}:
+                wp_tokens.append(token)
+            else:
+                wp_toks = self.encoder.encode(token)
+                for wp in wp_toks:
+                    wp_tokens.append(self.reverseVocab[wp + 5])
+        return wp_tokens
 
-			else:
-				wp_tokens.append(self.vocab[token])
+    def save_pretrained(self, save_directory):
+        if not os.path.exists(save_directory):
+            os.makedirs(save_directory)
+        
+        vocab_file = os.path.join(save_directory, "vocab.txt")
+        encoder_file = os.path.join(save_directory, "latin.subword.encoder")
 
-		return wp_tokens
+        with open(vocab_file, "w") as f:
+            for token, index in self.vocab.items():
+                f.write(f"{token}\n")
 
-	def tokenize(self, text):
-		tokens=text.split(" ")
-		wp_tokens=[]
-		for token in tokens:
+        self.encoder.store_to_file(encoder_file)
 
-			if token in {"[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"}:
-				wp_tokens.append(token)
-			else:
+    @classmethod
+    def from_pretrained(cls, load_directory):
+        vocab_file = os.path.join(load_directory, "vocab.txt")
+        encoder_file = os.path.join(load_directory, "latin.subword.encoder")
 
-				wp_toks=self.encoder.encode(token)
+        with open(vocab_file, "r") as f:
+            vocab = {line.strip(): idx for idx, line in enumerate(f)}
+        
+        encoder = text_encoder.SubwordTextEncoder(encoder_file)
 
-				for wp in wp_toks:
-					wp_tokens.append(self.reverseVocab[wp+5])
+        tokenizer = cls(encoder)
+        tokenizer.vocab = vocab
+        tokenizer.reverseVocab = {v: k for k, v in vocab.items()}
+        
+        return tokenizer
 
-		return wp_tokens
-
-# 	# This next bit is Copilot's code (trying to make fine-tuning work but to no avail)
-# 	def encode_plus(self, text, add_special_tokens=True, max_length=512, padding='max_length', truncation=True):
-# 		tokens = self.tokenize(text)
-# 		if add_special_tokens:
-# 			tokens = ["[CLS]"] + tokens + ["[SEP]"]
-# 		if truncation and len(tokens) > max_length:
-# 			tokens = tokens[:max_length]
-# 		if padding == 'max_length' and len(tokens) < max_length:
-# 			tokens = tokens + ["[PAD]"] * (max_length - len(tokens))
-# 		input_ids = torch.tensor(self.convert_tokens_to_ids(tokens)).unsqueeze(0)  # Add batch dimension
-# 		attention_mask = torch.tensor([1 if token != "[PAD]" else 0 for token in tokens]).unsqueeze(0)  # Create attention mask
-# 		return {"input_ids": input_ids, "attention_mask": attention_mask}
-
-# #From here on is the original code
-
+    def get_encoder(self):
+        return self.encoder
 
 def convert_to_toks(sents):
 
@@ -339,28 +321,28 @@ class BertLatin(nn.Module):
 		out=torch.matmul(transforms,all_layers)
 		return out
 
-# python3 scripts/gen_berts.py --bertPath models/latin_bert/ --tokenizerPath models/subword_tokenizer_latin/latin.subword.encoder
-if __name__ == "__main__":
+# # python3 scripts/gen_berts.py --bertPath models/latin_bert/ --tokenizerPath models/subword_tokenizer_latin/latin.subword.encoder
+# if __name__ == "__main__":
 
-	parser = argparse.ArgumentParser()
-	parser.add_argument('-b', '--bertPath', help='path to pre-trained BERT', required=True)
-	parser.add_argument('-t', '--tokenizerPath', help='path to Latin WordPiece tokenizer', required=True)
+# 	parser = argparse.ArgumentParser()
+# 	parser.add_argument('-b', '--bertPath', help='path to pre-trained BERT', required=True)
+# 	parser.add_argument('-t', '--tokenizerPath', help='path to Latin WordPiece tokenizer', required=True)
 	
-	args = vars(parser.parse_args())
+# 	args = vars(parser.parse_args())
 
-	bertPath=args["bertPath"]
-	tokenizerPath=args["tokenizerPath"]			
+# 	bertPath=args["bertPath"]
+# 	tokenizerPath=args["tokenizerPath"]			
 
-	bert=LatinBERT(tokenizerPath=tokenizerPath, bertPath=bertPath)
+# 	bert=LatinBERT(tokenizerPath=tokenizerPath, bertPath=bertPath)
 
-	sents=["arma virumque cano", "arma gravi numero violentaque bella parabam"]
+# 	sents=["arma virumque cano", "arma gravi numero violentaque bella parabam"]
 	
-	bert_sents=bert.get_berts(sents)
+# 	bert_sents=bert.get_berts(sents)
 
-	for sent in bert_sents:
-		for (token, bert) in sent:
-			print("%s\t%s" % ( token, ' '.join(["%.5f" % x for x in bert])))
-		print()
+# 	for sent in bert_sents:
+# 		for (token, bert) in sent:
+# 			print("%s\t%s" % ( token, ' '.join(["%.5f" % x for x in bert])))
+# 		print()
 
-	
+
 
