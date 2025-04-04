@@ -6,9 +6,11 @@ The codes within this folder aim to use different NLP methods – static embeddi
 ## Contextual embeddings
 In order to run this code, you will need to have Latin BERT (Bamman and Burns, 2020) installed. Follow [these instructions](https://github.com/dbamman/latin-bert/tree/master).
 
-You will also need to download our own fine-tuned model of Latin BERT, further trained on [LatinISE](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-5870) (McGillivray and Kilgarriff, 2013). In order to do so, (1) clone this repo and (2) in your terminal, navigate to this folder and run this in your command line:
+You will also need to download our own fine-tuned model of Latin BERT, further trained on [LatinISE](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-5870) (McGillivray and Kilgarriff, 2013). In order to do so, (1) clone this repo and (2) in your terminal, navigate to this folder and run in your command line (in this order):
+
 
 ```sh
+chmod +x ./contextual_embeddings/download.sh
 ./contextual_embeddings/download.sh
 ```
 
