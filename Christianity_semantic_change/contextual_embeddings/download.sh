@@ -1,6 +1,6 @@
 # Download fine-tuned model from Google Drive
-LINK_ID="1KSQzhcxQsk-tWnBBANk-am-YluvypcKD"  # Replace with your file's unique ID
-OUTPUT_FILE="finetuned_latin_bert.tar"             # Replace with your model's file name
+LINK_ID="1KSQzhcxQsk-tWnBBANk-am-YluvypcKD"
+OUTPUT_FILE="finetuned_latin_bert.tar"        
 
 # Extract confirmation token and UUID (if required)
 CONFIRM=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate "https://docs.google.com/uc?export=download&id=$LINK_ID" -O- | sed -rn 's/.*name="confirm" value="([0-9A-Za-z_]+)".*/\1\n/p')
