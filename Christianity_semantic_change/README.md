@@ -8,9 +8,11 @@ In order to run this code, you will need to have Latin BERT (Bamman and Burns, 2
 
 You will also need to download our own fine-tuned model of Latin BERT, further trained on [LatinISE](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-5870) (McGillivray and Kilgarriff, 2013). In order to do so, (1) clone this repo and (2) in your terminal, navigate to this folder and run in your command line (in this order):
 
-
 ```sh
 chmod +x ./contextual_embeddings/download.sh
+```
+
+```sh
 ./contextual_embeddings/download.sh
 ```
 
