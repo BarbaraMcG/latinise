@@ -18,8 +18,4 @@ chmod +x ./contextual_embeddings/download.sh
 ./contextual_embeddings/download.sh
 ```
 
-```sh
-mkdir -p contextual_embeddings/latin-bert-finetuned
-```
-
 ## Collocational analysis
