@@ -1,6 +1,6 @@
 import torch
 from torch.utils.data import Dataset
-from torch.nn.utils.rnn import pad_sequence
+# from torch.nn.utils.rnn import pad_sequence
 
 class LatinDataset(Dataset):
     def __init__(self, texts, tokenizer, max_length=512):
@@ -33,15 +33,15 @@ class LatinDataset(Dataset):
             "attention_mask": torch.tensor(attention_mask, dtype=torch.long)
         }
 
-def collate_fn(batch):
-    input_ids = [item["input_ids"] for item in batch]
-    attention_masks = [item["attention_mask"] for item in batch]
+# def collate_fn(batch):
+#     input_ids = [item["input_ids"] for item in batch]
+#     attention_masks = [item["attention_mask"] for item in batch]
 
-    # Pad sequences to the longest in the batch
-    input_ids = torch.nn.utils.rnn.pad_sequence(input_ids, batch_first=True, padding_value=0)
-    attention_masks = torch.nn.utils.rnn.pad_sequence(attention_masks, batch_first=True, padding_value=0)
+#     # Pad sequences to the longest in the batch
+#     input_ids = torch.nn.utils.rnn.pad_sequence(input_ids, batch_first=True, padding_value=0)
+#     attention_masks = torch.nn.utils.rnn.pad_sequence(attention_masks, batch_first=True, padding_value=0)
 
-    return {
-        "input_ids": input_ids,
-        "attention_mask": attention_masks
-    }
+#     return {
+#         "input_ids": input_ids,
+#         "attention_mask": attention_masks
+#     }

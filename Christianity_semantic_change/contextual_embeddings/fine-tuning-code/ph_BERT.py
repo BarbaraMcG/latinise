@@ -1,23 +1,22 @@
 # Packages
 import os 
-import csv
-import pickle
 import numpy as np
 import pandas as pd
 import torch
-from gen_berts import LatinBERT, LatinTokenizer, BertLatin
+# from gen_berts import LatinBERT, LatinTokenizer, BertLatin
 from torch.utils.data import DataLoader, Dataset
-from torch.nn.utils.rnn import pad_sequence
-from transformers import BertForMaskedLM, BertTokenizer, AdamW, get_scheduler
+from transformers import BertForMaskedLM, AutoTokenizer, DataCollatorForLanguageModeling, get_scheduler
+from torch.optim import AdamW
 from tqdm import tqdm
-from latin_dataset import LatinDataset, collate_fn
+from latin_dataset import LatinDataset # collate_fn
 
 # Define paths, find corpus and metadata files
 dir_in = os.getcwd()
 dir_out = os.path.join(dir_in, "output")
 # data_dir = os.path.join("/Users", "valentinalunardi", "Documents", "UCLA_PhD", "Thesis", "Metadata_corrections")
-lemmas_or_tokens = "lemmas"
-files = os.listdir(os.path.join(dir_in, "preprocessed_"+lemmas_or_tokens+"_2024")) # data_dir
+# lemmas_or_tokens = "lemmas"
+# files = os.listdir(os.path.join(dir_in, "preprocessed_"+lemmas_or_tokens+"_2024")) # data_dir
+files = os.listdir(os.path.join(dir_in, "new_lemmatized_texts")) # data_dir
 files = [f for f in files[:] if ("IT" in f or "MQDQ" in f)]
 
 # Read selected metadata 
@@ -28,18 +27,19 @@ metadata_df['date'] = metadata_df['date'].astype(int)
 metadata_ph = metadata_df[(metadata_df['date'] >= -300) & (metadata_df['date'] <= 600)]
 metadata_ph = metadata_ph.copy()
 
-# Make corpus
+# Prepare corpus
 punctuation = ['.', ',', '...', ';', ':', '?', '(', ')', '-', '!', '[', ']', '"', "'", '""', '\n', '']
-
 corpus = list()
-# files_corpus = metadata_ph.head(5)  # Take only the first 20 files for testing
+
+# Read files and create corpus
+# files_corpus = metadata_ph.head(5)  # Take only the first 5 files for testing
 files_corpus = metadata_ph
 for index, df_line in files_corpus.iterrows():
     sign = "+"
     if df_line['date'] < 0:
         sign = "-"
     file_name = df_line['file']
-    file = open(os.path.join(dir_in, "preprocessed_"+lemmas_or_tokens+"_2024", file_name), 'r') # data_dir
+    file = open(os.path.join(dir_in, "new_lemmatized_texts", file_name), 'r') # data_dir
     while True:
         line = file.readline().strip()
         if line != "":
@@ -48,29 +48,43 @@ for index, df_line in files_corpus.iterrows():
             break
     file.close()
 
-# Fine tune Latin BERT
+ 
+### Fine tune Latin BERT ###
 
 # Set device (use GPU if available)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# 1. Load Corpus Data
-
 # Flatten sentences for tokenization
 corpus_texts = [" ".join(sent) for sent in corpus]
 
-# 2. Tokenize Corpus
+# Define paths to pre-trained model (huggingface-compatible: https://github.com/andbue/latin-bert-huggingface)
+bert_path = os.path.join(dir_in, "models", "latin_bert_huggingface")  # Hugging Face-compatible model
+
+# Load huggingface-compatible tokenizer
+tokenizer = AutoTokenizer.from_pretrained(bert_path)
+
+# Tokenize Corpus
 # tokenizer_path = os.path.join("/Users", "valentinalunardi", "Documents", "GitHub", "latin-bert", "models", "subword_tokenizer_latin", "latin.subword.encoder")
 # bert_path = os.path.join("/Users", "valentinalunardi", "Documents", "GitHub", "latin-bert", "models", "latin_bert")
-tokenizer_path = os.path.join(dir_in, "models", "subword_tokenizer_latin", "latin.subword.encoder") 
-bert_path = os.path.join(dir_in, "models", "latin_bert") 
 
-latin_bert = LatinBERT(tokenizerPath=tokenizer_path, bertPath=bert_path)  # Load model and tokenizer
-tokenizer = latin_bert.wp_tokenizer  # LatinTokenizer
+# tokenizer_path = os.path.join(dir_in, "models", "subword_tokenizer_latin", "latin.subword.encoder") 
+# bert_path = os.path.join(dir_in, "models", "latin_bert") 
 
+# latin_bert = LatinBERT(tokenizerPath=tokenizer_path, bertPath=bert_path)  # Load model and tokenizer
+# tokenizer = latin_bert.wp_tokenizer  # LatinTokenizer
 dataset = LatinDataset(corpus_texts, tokenizer, max_length=512)
-dataloader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=collate_fn, num_workers=4)
 
-# 3. Load LatinBERT & Prepare for Fine-Tuning
+# Data collator
+data_collator = DataCollatorForLanguageModeling(
+    tokenizer=tokenizer,
+    mlm=True,
+    mlm_probability=0.15
+)
+
+# DataLoader
+dataloader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=data_collator, num_workers=4)
+
+# Load pre-trained LatinBERT and prepare for fine-tuning
 model = BertForMaskedLM.from_pretrained(bert_path)
 model.to(device)
 model.train()  # Set to training mode
