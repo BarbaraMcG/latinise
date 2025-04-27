@@ -5,7 +5,7 @@ import pandas as pd
 import torch
 # from gen_berts import LatinBERT, LatinTokenizer, BertLatin
 from torch.utils.data import DataLoader, Dataset
-from transformers import BertForMaskedLM, AutoTokenizer, DataCollatorForLanguageModeling, get_scheduler
+from transformers import BertForMaskedLM, BertConfig, AutoTokenizer, DataCollatorForLanguageModeling, get_scheduler
 from torch.optim import AdamW
 from tqdm import tqdm
 from latin_dataset import LatinDataset # collate_fn
@@ -43,7 +43,7 @@ for index, df_line in files_corpus.iterrows():
     while True:
         line = file.readline().strip()
         if line != "":
-            corpus.append([token for token in line.split(" ") if token not in punctuation])
+            corpus.append([token.lower() for token in line.split(" ") if token not in punctuation])
         if not line:
             break
     file.close()
@@ -58,7 +58,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 corpus_texts = [" ".join(sent) for sent in corpus]
 
 # Define paths to pre-trained model (huggingface-compatible: https://github.com/andbue/latin-bert-huggingface)
-bert_path = os.path.join(dir_in, "models", "latin_bert_huggingface")  # Hugging Face-compatible model
+bert_path = os.path.join(dir_in, "models", "latin_bert_huggingface") 
 
 # Load huggingface-compatible tokenizer
 tokenizer = AutoTokenizer.from_pretrained(bert_path)
@@ -72,7 +72,8 @@ tokenizer = AutoTokenizer.from_pretrained(bert_path)
 
 # latin_bert = LatinBERT(tokenizerPath=tokenizer_path, bertPath=bert_path)  # Load model and tokenizer
 # tokenizer = latin_bert.wp_tokenizer  # LatinTokenizer
-dataset = LatinDataset(corpus_texts, tokenizer, max_length=512)
+
+dataset = LatinDataset(corpus_texts, tokenizer, max_length=256) # tried max_length=512
 
 # Data collator
 data_collator = DataCollatorForLanguageModeling(
@@ -84,18 +85,23 @@ data_collator = DataCollatorForLanguageModeling(
 # DataLoader
 dataloader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=data_collator, num_workers=4)
 
+# Adjust configuration for dropout (new)
+config = BertConfig.from_pretrained(bert_path)
+config.hidden_dropout_prob = 0.2
+config.attention_probs_dropout_prob = 0.2
+
 # Load pre-trained LatinBERT and prepare for fine-tuning
-model = BertForMaskedLM.from_pretrained(bert_path)
+model = BertForMaskedLM.from_pretrained(bert_path, config=config) # added config
 model.to(device)
-model.train()  # Set to training mode
+model.train() 
 
 # Define optimizer & learning rate scheduler
-optimizer = AdamW(model.parameters(), lr=5e-5)
-lr_scheduler = get_scheduler("linear", optimizer=optimizer, num_warmup_steps=500, num_training_steps=len(dataloader) * 3)
+optimizer = AdamW(model.parameters(), lr=3e-5, weight_decay=0.01) # tried lr=5e-5; added weight decay
+epochs = 3
+num_training_steps = len(dataloader) * epochs
+lr_scheduler = get_scheduler("linear", optimizer=optimizer, num_warmup_steps=int(0.1 * num_training_steps), num_training_steps=num_training_steps) # tried num_warmup_steps=500
 
 # 4. Fine-Tune LatinBERT
-epochs = 3  # Number of training epochs
-
 for epoch in range(epochs):
     loop = tqdm(dataloader, leave=True)
     total_loss = 0
