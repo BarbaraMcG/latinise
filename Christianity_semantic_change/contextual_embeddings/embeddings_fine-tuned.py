@@ -4,18 +4,27 @@ import pandas as pd
 import torch
 import pickle
 from transformers import AutoModel, AutoTokenizer
+from tqdm import tqdm
+import time
 
-# Define paths, find corpus and metadata files
-dir_in = os.getcwd()
-dir_out = os.path.join(dir_in, "output", "embeddings_finetuned")
-files = os.listdir(os.path.join(dir_in, "new_lemmatized_texts"))
-files = [f for f in files[:] if ("IT" in f or "MQDQ" in f)]
+# Define paths
+dir_in = os.getcwd() 
+dir_out = os.path.join(dir_in, "bert_output")  
+metadata_file = os.path.join(os.path.dirname(dir_in), 'latinise_metadata_2024.csv')  
+lemmatized_texts_dir = os.path.join(os.path.dirname(dir_in), "new_lemmatized_texts")  
+latin_bert_finetuned = os.path.join(dir_in, "latin-bert-huggingface-finetuned")
+
+# Ensure output directory exists
+os.makedirs(dir_out, exist_ok=True)
+
+# Find corpus files
+files = os.listdir(lemmatized_texts_dir)
+files = [f for f in files if ("IT" in f or "MQDQ" in f)]
 
 # Read selected metadata 
-metadata_df = pd.read_csv(os.path.join(dir_in, 'latinise_metadata_2024.csv'), sep = ",")
+metadata_df = pd.read_csv(metadata_file, sep = ",")
 metadata_df = metadata_df[metadata_df['id'].str.startswith(("IT", "MQDQ"))]
 metadata_df['date'] = metadata_df['date'].astype(int)
-
 metadata_ph = metadata_df[(metadata_df['date'] >= -300) & (metadata_df['date'] <= 600)]
 metadata_ph = metadata_ph.copy()
 
@@ -30,7 +39,7 @@ for index, df_line in files_corpus.iterrows():
     if df_line['date'] < 0:
         sign = "-"
     file_name = df_line['file']
-    file = open(os.path.join(dir_in, "new_lemmatized_texts", file_name), 'r')
+    file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
     while True:
         line = file.readline().strip()
         if line != "":
@@ -69,7 +78,7 @@ for t in range(n_intervals+1):
         if df_line['date'] < 0:
             sign = "-"
         file_name = df_line['file']
-        file = open(os.path.join(dir_in, "new_lemmatized_texts", file_name), 'r')
+        file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
         sentences_this_file = list()
         while True:
             line = file.readline().strip()
@@ -81,7 +90,6 @@ for t in range(n_intervals+1):
         file.close()
     time2corpus[t] = corpus_t
 
-# PUT IN OTHER SUBCORPORA
 # Prepare Christian subcorpus: IT
 tertullian = ['LAT0058', 'LAT0062','LAT0246', 'LAT0248', 'LAT0256', 'LAT0350', 'LAT0448', 'LAT0606', 'LAT0733', 'LAT0736', 'LAT0737', 'LAT0744', 'LAT0746', 'LAT0747', 'LAT0749', 'LAT0750', 'LAT0755', 'LAT0788']
 novatian = ['LAT0865']
@@ -184,7 +192,7 @@ for index, df_line in files_corpus_christi.iterrows():
     if df_line['date'] < 0:
         sign = "-"
     file_name = df_line['file']
-    file = open(os.path.join(dir_in, "new_lemmatized_texts", file_name), 'r')
+    file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
     sentences_this_file = list()
     while True:
         line = file.readline().strip()
@@ -204,7 +212,7 @@ for index, df_line in files_corpus_non_christi.iterrows():
     if df_line['date'] < 0:
         sign = "-"
     file_name = df_line['file'] 
-    file = open(os.path.join(dir_in, "new_lemmatized_texts", file_name), 'r')
+    file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
     sentences_this_file = list()
     while True:
         line = file.readline().strip()
@@ -216,12 +224,9 @@ for index, df_line in files_corpus_non_christi.iterrows():
     file.close()
 corpus_non_christi.append(sentences_this_file)
 
-# Extract embeddings for each time interval
-# Define path to model
-latin_bert_finetuned = os.path.join(dir_in, "output", "fine_tuned_latinbert")
 
 # Define function to extract embeddings
-def calculate_embeddings(corpus, model_name, output_path, batch_size=32):
+def calculate_embeddings(corpus, model_name, output_filename, batch_size=32):
     """
     Calculate embeddings for a given corpus using a Hugging Face-compatible tokenizer and model.
 
@@ -234,6 +239,7 @@ def calculate_embeddings(corpus, model_name, output_path, batch_size=32):
     Returns:
         list: A list of sentence embeddings, where each sentence is a list of (word, embedding) tuples.
     """
+    output_path = os.path.join(dir_out, output_filename)
 
     # Load tokenizer and model
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -247,8 +253,12 @@ def calculate_embeddings(corpus, model_name, output_path, batch_size=32):
     # Initialize list to store embeddings for all sentences
     all_embeddings = []
 
+    # Initialize progress bar
+    print(f"Processing {len(corpus)} sentences for {output_filename}...")
+    start_time = time.time()
+
     # Process sentences in batches
-    for i in range(0, len(corpus), batch_size):
+    for i in tqdm(range(0, len(corpus), batch_size), desc="Processing batches"):
         batch = corpus[i:i + batch_size]
 
         # Tokenize with word alignment
@@ -308,20 +318,30 @@ def calculate_embeddings(corpus, model_name, output_path, batch_size=32):
     with open(output_path, "wb") as f:
         pickle.dump(all_embeddings, f)
 
+    # Calculate and display elapsed time
+    elapsed_time = time.time() - start_time
     print(f"Embeddings saved to {output_path}.")
+    print(f"Processing completed in {elapsed_time:.2f} seconds.")
+
     return all_embeddings
 
+
 # Extract embeddings for first timeframe and save
-berts_finetuned_t0 = calculate_embeddings(time2corpus[0], latin_bert_finetuned, os.path.join(dir_out, "berts_finetuned_t0.pickle"))
+print("Producing embeddings for the first timeframe...")
+berts_finetuned_t0 = calculate_embeddings(time2corpus[0], latin_bert_finetuned, "berts_finetuned_t0.pickle")
+print("Embeddings for the first timeframe completed.\n")
 
 # Extract embeddings for second timeframe and save
-berts_finetuned_t1 = calculate_embeddings(time2corpus[1], latin_bert_finetuned, os.path.join(dir_out,"berts_finetuned_t1.pickle"))
+print("Producing embeddings for the second timeframe...")
+berts_finetuned_t1 = calculate_embeddings(time2corpus[1], latin_bert_finetuned, "berts_finetuned_t1.pickle")
+print("Embeddings for the second timeframe completed.\n")
 
 # Extract embeddings for Christian subcorpus and save
-berts_finetuned_christian = calculate_embeddings(corpus_christi, latin_bert_finetuned, os.path.join(dir_out,"berts_finetuned_christian.pickle"))
+print("Producing embeddings for the Christian subcorpus...")
+berts_finetuned_christian = calculate_embeddings(corpus_christi, latin_bert_finetuned, "berts_finetuned_christian.pickle")
+print("Embeddings for the Christian subcorpus completed.\n")
 
 # Extract embeddings for non-Christian subcorpus and save
-berts_finetuned_non_christian = calculate_embeddings(corpus_non_christi, latin_bert_finetuned, os.path.join(dir_out,"berts_finetuned_non_christian.pickle"))
-
-
-
+print("Producing embeddings for the non-Christian subcorpus...")
+berts_finetuned_non_christian = calculate_embeddings(corpus_non_christi, latin_bert_finetuned, "berts_finetuned_non_christian.pickle")
+print("Embeddings for the non-Christian subcorpus completed.\n")

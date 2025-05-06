@@ -106,15 +106,15 @@ for epoch in range(epochs):
     loop = tqdm(dataloader, leave=True)
     total_loss = 0
 
-    for batch in loop:
+    for batch in loop: 
         # Move batch to GPU if available
         batch = {k: v.to(device) for k, v in batch.items()}
 
         # Forward pass
         outputs = model(
             input_ids=batch["input_ids"],
-            attention_mask=batch["attention_mask"],  # Pass attention_mask here
-            labels=batch["input_ids"]  # Labels for MLM
+            attention_mask=batch["attention_mask"],  
+            labels=batch["labels"]  # this was "input_ids" – mistake?
         )
         loss = outputs.loss
         total_loss += loss.item()

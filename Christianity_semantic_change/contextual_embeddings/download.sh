@@ -1,5 +1,5 @@
 # Download fine-tuned model from Google Drive
-LINK_ID="1KSQzhcxQsk-tWnBBANk-am-YluvypcKD"
+LINK_ID="1LcmZ-G6fIfUMdWjPt3ubak9knlUhniIR"
 OUTPUT_FILE="finetuned_latin_bert.tar"        
 
 # Extract confirmation token and UUID (if required)

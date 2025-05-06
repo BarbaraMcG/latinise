@@ -3,5 +3,6 @@
 
 # Big files in Christianity_semantic_change
 Christianity_semantic_change/contextual_embeddings/bert_output/*.pickle
-Christianity_semantic_change/contextual_embeddings/latin-bert-finetuned/*.safetensors
 Christianity_semantic_change/contextual_embeddings/latin-bert-huggingface-finetuned/*.safetensors
+Christianity_semantic_change/contextual_embeddings/latin-bert-huggingface-finetuned/*.tar
+Christianity_semantic_change/contextual_embeddings/latin-bert-huggingface-finetuned-2/
