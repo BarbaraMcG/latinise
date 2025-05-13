@@ -245,7 +245,7 @@ def calculate_embeddings(corpus, dir_out, output_filename, tokenizer_path, bert_
     bert_sents = []
     
     # Process the corpus in chunks to track progress
-    chunk_size = 100  # Adjust chunk size as needed
+    chunk_size = 20  # Adjust chunk size as needed
     for i in tqdm(range(0, len(flattened_corpus), chunk_size), desc="Processing"):
         chunk = flattened_corpus[i:i + chunk_size]
         bert_sents.extend(latin_bert.get_berts(chunk))
