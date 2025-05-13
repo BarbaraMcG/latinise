@@ -30,6 +30,7 @@ metadata_ph = metadata_df[(metadata_df['date'] >= -300) & (metadata_df['date'] <
 metadata_ph = metadata_ph.copy()
 
 # Prepare corpus
+print("Preparing the corpus...")
 punctuation = ['.', ',', '...', ';', ':', '?', '(', ')', '-', '!', '[', ']', '"', "'", '""', '\n', '']
 corpus = list()
 
@@ -50,6 +51,7 @@ for index, df_line in files_corpus.iterrows():
     file.close()
 
 # Create time intervals
+print("Creating the time intervals...")
 first_date = -300
 last_date = 600
 size_interval = 450
@@ -71,6 +73,7 @@ for t in range(len(intervals)-1):
 time2corpus = dict()
 
 # Read files and create time corpora:
+print("Reading the files and creating the time corpora...")
 for t in range(n_intervals+1):
     files_corpus_t = metadata_ph.loc[metadata_ph['time_interval'] == intervals[t]]
     corpus_t = list()
