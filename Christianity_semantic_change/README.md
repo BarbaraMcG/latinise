@@ -6,7 +6,11 @@ The codes within this folder aim to use different NLP methods – static embeddi
 TODO
 
 ## Contextual embeddings
-This is the most involved set of codes in this section of the repo. There are several steps to deal with before producing and visualizing results. In order:
+This is the most involved set of codes in this section of the repo. There are several steps to deal with before producing and visualizing results. 
+
+NB: Step 3 produces embeddings from the pre-trained Latin BERT (downloaded in step 1), while step 4 produces embeddings from the fine-tuned model downloaded in step 2. 
+
+In order:
 
 1) Install Latin BERT (Bamman and Burns, 2020). Follow [these instructions](https://github.com/dbamman/latin-bert/tree/master).
 
