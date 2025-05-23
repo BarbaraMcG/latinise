@@ -73,7 +73,7 @@ tokenizer = AutoTokenizer.from_pretrained(bert_path)
 # latin_bert = LatinBERT(tokenizerPath=tokenizer_path, bertPath=bert_path)  # Load model and tokenizer
 # tokenizer = latin_bert.wp_tokenizer  # LatinTokenizer
 
-dataset = LatinDataset(corpus_texts, tokenizer, max_length=256) # tried max_length=512
+dataset = LatinDataset(corpus_texts, tokenizer, max_length=256) # tried max_length=512; remember to change this in embedding extraction as well
 
 # Data collator
 data_collator = DataCollatorForLanguageModeling(
@@ -97,7 +97,7 @@ model.train()
 
 # Define optimizer & learning rate scheduler
 optimizer = AdamW(model.parameters(), lr=3e-5, weight_decay=0.01) # tried lr=5e-5; added weight decay
-epochs = 3
+epochs = 3 # does this need changing?
 num_training_steps = len(dataloader) * epochs
 lr_scheduler = get_scheduler("linear", optimizer=optimizer, num_warmup_steps=int(0.1 * num_training_steps), num_training_steps=num_training_steps) # tried num_warmup_steps=500
 
@@ -114,7 +114,7 @@ for epoch in range(epochs):
         outputs = model(
             input_ids=batch["input_ids"],
             attention_mask=batch["attention_mask"],  
-            labels=batch["labels"]  # this was "input_ids" – mistake?
+            labels=batch["labels"]  # this was "input_ids" – mistake? or necessaty change because of collate_fn?
         )
         loss = outputs.loss
         total_loss += loss.item()

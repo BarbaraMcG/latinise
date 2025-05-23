@@ -44,7 +44,7 @@ for index, df_line in files_corpus.iterrows():
     while True:
         line = file.readline().strip()
         if line != "":
-            corpus.append([token for token in line.split(" ") if token not in punctuation])
+            corpus.append([token.lower() for token in line.split(" ") if token not in punctuation])
         if not line:
             break
     file.close()
@@ -84,7 +84,7 @@ for t in range(n_intervals+1):
         while True:
             line = file.readline().strip()
             if line != "":
-                corpus_t.append([token for token in line.split(" ") if token not in punctuation])
+                corpus_t.append([token.lower() for token in line.split(" ") if token not in punctuation])
             # if line is empty end of file is reached
             if not line:
                 break
@@ -198,7 +198,7 @@ for index, df_line in files_corpus_christi.iterrows():
     while True:
         line = file.readline().strip()
         if line != "":
-            corpus_christi.append([token for token in line.split(" ") if token not in punctuation])
+            corpus_christi.append([token.lower() for token in line.split(" ") if token not in punctuation])
         # if line is empty end of file is reached
         if not line:
             break
@@ -218,7 +218,7 @@ for index, df_line in files_corpus_non_christi.iterrows():
     while True:
         line = file.readline().strip()
         if line != "":
-            corpus_non_christi.append([token for token in line.split(" ") if token not in punctuation])
+            corpus_non_christi.append([token.lower() for token in line.split(" ") if token not in punctuation])
         # if line is empty end of file is reached
         if not line:
             break

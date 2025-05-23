@@ -43,7 +43,7 @@ for index, df_line in files_corpus.iterrows():
     while True:
         line = file.readline().strip()
         if line != "":
-            corpus.append([token for token in line.split(" ") if token not in punctuation])
+            corpus.append([token.lower() for token in line.split(" ") if token not in punctuation])
         if not line:
             break
     file.close()
@@ -83,7 +83,7 @@ for t in range(n_intervals+1):
         while True:
             line = file.readline().strip()
             if line != "":
-                corpus_t.append([token for token in line.split(" ") if token not in punctuation])
+                corpus_t.append([token.lower() for token in line.split(" ") if token not in punctuation])
             # if line is empty end of file is reached
             if not line:
                 break
@@ -197,7 +197,7 @@ for index, df_line in files_corpus_christi.iterrows():
     while True:
         line = file.readline().strip()
         if line != "":
-            corpus_christi.append([token for token in line.split(" ") if token not in punctuation])
+            corpus_christi.append([token.lower() for token in line.split(" ") if token not in punctuation])
         # if line is empty end of file is reached
         if not line:
             break
@@ -217,7 +217,7 @@ for index, df_line in files_corpus_non_christi.iterrows():
     while True:
         line = file.readline().strip()
         if line != "":
-            corpus_non_christi.append([token for token in line.split(" ") if token not in punctuation])
+            corpus_non_christi.append([token.lower() for token in line.split(" ") if token not in punctuation])
         # if line is empty end of file is reached
         if not line:
             break
@@ -263,7 +263,7 @@ def calculate_embeddings(corpus, model_name, output_filename, batch_size=32):
 
         # Tokenize with word alignment
         inputs = tokenizer(batch, return_tensors="pt", padding=True, truncation=True,
-                           is_split_into_words=True, max_length=512)
+                           is_split_into_words=True, max_length=256)
         inputs = {key: val.to(device) for key, val in inputs.items()}
 
         # Forward pass to get embeddings
