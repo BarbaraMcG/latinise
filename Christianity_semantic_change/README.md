@@ -14,7 +14,7 @@ In order:
 
 1) Install Latin BERT (Bamman and Burns, 2020). Follow [these instructions](https://github.com/dbamman/latin-bert/tree/master).
 
-2) Download our own fine-tuned model of Latin BERT, further trained on [LatinISE](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-5870) (McGillivray and Kilgarriff, 2013). In order to do so, (1) clone this repo and (2) in your terminal, navigate to this folder and run in your command line (in this order):
+2) Download our own fine-tuned model of Latin BERT, further trained on the porton of [LatinISE](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-5870) (McGillivray and Kilgarriff, 2013) up to 600 CE. In order to do so, (1) clone this repo and (2) in your terminal, navigate to this folder and run in your command line (in this order):
 
 ```sh
 chmod +x ./contextual_embeddings/download.sh
