@@ -1,0 +1,58 @@
+Praefatio Tropus est dictio translata a propria significatione ad non proprium similitudinem ornatus necessitatisve causa . 
+Sunt autem tropi tredecim : metaphora , catachresis , metalepsis , metonymia , antonomasia , epitheton , synecdoche , onomatopoeia , periphrasis , hyperbaton , hyperbole , allegoria , homoeosis . 
+Metaphora est rerum Vorumque translatio . 
+Haec fit modis quattuor , ab animali ad animale , ab inanimali ad inanimale , ab animale ad inanimale , ab inanimali ad animale : ab animali ad animale , ut Tiphyn aurigam celeris fecere carinae ; nam et et animam habent : ab inanimali ad inanimale , ut ; ut pelagus tenuere rates ; ; nam et et animam non habent : ab animali ad inanimale , ut Atlantis cinctum assidue cui nubibus atris piniferum caput ; nam ut animalis sunt , ita animam non habet , cui membra bominis ascribuntur : ab inanimali ad animale , ut ; si tantum pectore robur Concipis ; ; nam ut animam non habet , sic utique , cui haec dicuntur , animam habet . 
+Scire autem debemus esse metaphoras alias reciprocas , alias partis unius . 
+Catachresis est usurpatio nominis alieni , ut dicimus qui occiderit fratrem , et quac pisces non habet . 
+haec enim nisi extrinsecus sumerent , suum vocabulum non haberent . 
+Metalepsis est dictio gradatim pergens ad id quod ostendit , ut ; speluncis abdidit atris ; et post aliquot mea regna videns mirabor aristas . 
+Metonymia est [ dictio ] quaedam veluti transnominatio . 
+Huius multae sunt species . 
+aut enim per id quod continet id quod continetur ostendit , ut ; nunc pateras libate Iovi ; ; aut contra , ut ; vina coronant ; ; aut per inventorem id quod inventum est [ ostendit ] , ut sine Cerere et Libero friget Venus ; aut contra , ut vinum precamur , nam hic deus praesens adest . 
+haec exempli causa diligentibus posita etiam reliqua demonstrabunt . 
+Antonomasia est significatio vice nominis posita , quae fit modis tribus : ab animo , a corpore , extrinsecus : ab animo , ut ; magnanimusque Anchisiades ; ; a corpore , ut ; ipse arduus altaque pulsat Sidera ; ; extrinsecus , ut infelix puer atque impar congressus Achilli . 
+Epitheton est praeposita dictio proprio nomini . 
+Nam antonomasia vicem nominis sustinet , epitheton numquam est sine nomine , ut ; dira Celaeno ; et ; dia Camilla ; . 
+Fit etiam epitheton modis tribus : ab animo , a corpore , extrinsecus . 
+His duobus tropis vel vituperamus aliquem vel ostendimus vel ornamus . 
+Synecdoche est significatio pleni intellectus capax , cum plus minus ve pronuntiat . 
+Aut enim a parte totum ostendit , ut ; puppesque tuae pubesque tuorum ; ; aut contra , ut ; ingens a vertice pontus in puppim ferit ; et ; fontemque ignemque ferebant ; . 
+Meminisse autem debemus , cum fit a parte totum , ab insigni parte faciendum . 
+Onomatopoeia est nomen de sono factum , ut tinnitus aeris , clangor tubarum . 
+Periphrasis est circumlocutio , quae fit aut ornandae rei causa , quae pulchra est aut , vitandae , quae turpis est , ut et iam prima novo spargebat lumine terras et cetera et ; nimio ne luxu obtunsior usus sit genitali arvo ; et cetera . 
+Hyperbaton est transcensio quaedam verborum ordinem turbans , cuius species sunt quinque : hysterologia , anastrophe , parenthesis , tmesis , synchysis . 
+Hysterologia vel hysteroproteron est sententiae cum verbis ordo mutatus , ut torrere parant flammis et frangere saxo . 
+Anastrophe est verborum tantum ordo praeposterus , ut ; Italiam con - tra ; pro . 
+Parenthesis est interposita ratiocinatio divisae sententiae , ut Aeneas , neque enim patrius consistere mentem passus amor , rapidum ad naves praemittit Achaten . 
+Tmesis est unius conpositi aut simplicis verbi sectio , una dictione vel pluribus interiectis , ut ; septem subiecta trioni ; pro et ; saxo cere comminuit brum ; et Massili portabant iuvenes ad litora tanas , hoc est et . 
+Synchysis est hyperbaton ex omni parte confusum , ut tris notus abreptas in saxa latentia torquet , saxa vocant Itali mediis quae in fluctibus aras . 
+est enim ordo hic : . 
+Hyperbole est dictio fidem excedens augendi minuendive causa : augendi , ut , minuendi , ut . 
+Allegoria est tropus , quo aliud significatur quam dicitur , ut et iam tempus equum fumantia solvere colla , hoc est ; carmen finire ; . 
+Huius species multae sunt , ex quibus eminent septem : ironia , antiphrasis , aenigma , charientismos , paroemia , sarcasmos , astismos . 
+a . 
+Ironia est tropus per contrarium quod conatur ostendens , ut egregiam vero laudem et spolia ampla refertis tuque puerque tuus et cetera . 
+Hanc nisi gravitas pronuntiationis adiuverit , confiteri videbitur quod negare contendit . 
+b . 
+Antiphrasis est unius verbi ironia . 
+ut [ bellum lucus el Parcae ] bellum , hoc est minime bellum , et lucus eo quod non luceat , et Parcae eo quod nulli parcant . 
+c . 
+Aenigma est obscura sententia per occultam similitudinem rerum , ut mater me genuit , eadem mox gignitur ex me , cum significet aquam in glaciem concrescere et ex eadem rursus effluere . 
+d . 
+Charientismos est tropus , quo dura dictu gratius proferuntur , ut cum interrogantibus nobis , numquis nos quaesierit , respondetur ; bona fortuna ; ; exinde intellegitur neminem nos quaesisse . 
+e . 
+Paroemia est accommodatum rebus temporibusque proverbium , ut ; adversum stimulum calces ; et ; lupus in fabula ; . 
+f . 
+Sarcasmos est plena odio atque hostilis inrisio , ut en agros et quam bello , Troiane , petisti , Hesperiam metire iacens . 
+g . 
+Astismos est tropus multiplex numerosaeque virtutis . 
+Namque astismos putatur quidquid simplicitate rustica caret et faceta satis urbanitate expolitum est , ut est illud qui Bavium non odit amet tua carmina , Maevi , atque idem iungat vulpes et mulgeat hircos . 
+h . 
+Homoeosis est minus notae rei per similitudinem eius quae magis nota est demonstratio . 
+Huius species sunt tres : icon , parabole , paradigma . 
+a . 
+Icon est personarum inter se vel eorum quae personis accidunt conparatio , ut ; os humerosque deo similis ; . 
+b . 
+Parabole est rerum genere dissimilium conparatio , ut qualis mugitus fugit cum saucius aram taurus et cetera . 
+c . 
+Paradigma est enarratio exempli hortantis aut deterrentis : hortantis , ut Antenor potuit mediis elapsus Achivis Illyricos penetrare sinus et cetera ; deterrentis , ut at non sic Phrygius penetrat Lacedaemona pastor Ledaeamque Helenam Troianas vexit ad urbes . 

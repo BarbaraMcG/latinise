@@ -1,0 +1,938 @@
+Ars dicta est vel APO THS ARETHS , id est a virtute , quam Graeci unius cuiusque rei scientiam vocant ; vel certe ideo ars dicitur , quod artis praeceptis cuncta concludat , id est angustis et brevibus . 
+Plerique artem scribentes a litterarum tractatu inchoaverunt , plerique a voce , plerique a definitione artis grammaticae . 
+Sed omnes videntur errasse . 
+Non enim propriam rem officii sui tractaverunt , sed communem et cum oratoribus et cum philosophis . 
+Nam de litteris tractare et orator potest ; de voce nemo magis quam philosophi tractant ; definitio etiam Aristotelicorum est . 
+Unde proprie Donatus et doctius , qui ab octo partibus inchoavit . 
+Quae specialiter ad grammaticos pertinent . 
+Nomen dictum est eo , quod res nobis efficit notas ; pronomen , quia fungitur officio nominis , ut siquis dicat ' Virgilius fecit bucolica , ipse scripsit georgica ' . 
+Verbum dictum est eo , quod Verato aere motu linguae haec pars orationis inventa sit , et licet omnes orationes cum hac oratione misceantur , tamen speciale sibi haec pars hoc nomen efficit eo , quod hac frequenter utamur in elocutione , in tantum ut dicamus ' verba fecit apud populum Tullius ' , ' verba fecit Tullius in senatu ' . 
+AdVium dictum est , quia numquam recedit a verbo : sive enim dicam ' cras facio ' , ' hodie dico ' , invenias ADVia verbis cohaerentia . 
+Participium vocatur , quoniam partem tenet nominis , partem verbi , quasi particapium . 
+Nam a nomine habet genera ; et casus ; , a verbo ; tempora et ; significationes , ab utroque numerum et figuram . 
+Coniunctio dicta est , quia coniungit elocutiones , ut ' ego et tu eamus ' . 
+Praepositio dicitur , quoniam in loquendo praeponitur : dicimus enim ' ante templum est ' , non ' templum ante est ' . 
+Interiectio dicta est , quia interponitur ad exprimendos animi affectus , ut puta ' heu mortuus est ' . 
+In his autem octo partibus naturalis est ordo . 
+Rite enim nomen primum ponitur , quod ex ipso omnium rerum notitia procreatur . 
+Post hoc debet sequi pronomen , quia nominis officio fungitur nec debet ab eius significatione divelli . 
+Inde sequitur verbum , quo diximus nos frequenter uti . 
+Inde adverbium , quod a verbo numquam recedit . 
+Participium autem rite post nomen et verbum ponitur , quod ex partibus utriusque natum est . 
+Praepositio cum vel verbo vel nomini praeponitur , et ipsa iuste hoc loco posita est , illis iam ante praedictis , quibus praeponitur . 
+similiter coniunctio , quae coniungit omnia , non debet primum locum tenere . 
+Primo enim debemus scire , quae res coniungantur , tunc unde coniungantur . 
+Interiectio ideo ultima posita est , quod nihil aliud exprimit nisi affectus animi , qui raro interponuntur . 
+' Nomen est pars orationis cum casu corpus aut rem proprie communiterve significans ' . 
+In omnibus partibus orationis definitiones ita esse debent , ut et segregent ab aliis partibus et ipsius partis quam definiunt aliquam proprietatem dicant . 
+Igitur quod dixit nomen partem esse orationis , segregavit ; a ; sibilis plausibus et quidquid confusae voci datur . 
+Quod autem dixit ' cum casu ' , segregavit a verbis ADViis praepositionibus coniunctionibus . 
+quod autem dixit corpus aut rem significare , hoc ipsius proprium est . 
+Corporale autem nomen vel incorporale grammatici ita definierunt , ut corporale sit quidquid videtur et tangitur , ut lapis , incorporale quod nec videtur nec tangitur , ut pietas . 
+Item dicit aliam proprietatem , ' quod aut proprium aliquid significat aut appellativum . 
+' Nam proprium est quod unius est , ut Hector , appellativum quod multorum est , ut homo . 
+Scire debemus inveniri frequenter nomina appellativa quae fiunt propria , ut est felix , quae communi sensu facile dinoscuntur . 
+Illud etiam scire debemus , quia , si proprium est quod unius est , numerum tantum modo recipit singularem . 
+neque enim potest res unius in pluralitatem cadere . 
+Nam quod propria nomina pluraliter declinantur , sciendum est non ab unius nomine procreatum numerum pluralem , sed multitudine nominum hoc facere . 
+Rite enim dixit Virgilius Marios et Camillos , quoniam plures fuerunt . 
+Appellativum autem nomen cum sit res multorum , recipit tamen et numerum singularem . 
+In multis enim etiam unus tenetur . 
+Conparationis gradus sunt tres , positivus , ut doctus , conparativus , ut doctior , superlativus , ut doctissimus . 
+Plerique nolunt conparativum esse doctiorem , dicentes non esse conparationem , quando doctior dicimus , quia non conparet sed praeferat . 
+Sed errant : nam omnis conparatio id agit , ut alterum praeferat . 
+Illa enim quae aequat similitudo est potius quam conparatio . 
+Positivus autem omnia recipit genera , masculinum , ut hic doctus , femininum , ut haec docta , neutrum , ut hoc doctum , commune , ut docilis , omne , ut amans . 
+Conparativus vero gradus duo tantum suscipit genera , commune , ut doctior , neutrum , ut doctius ; superlativus tria tantum , masculinum , ut doctissimus , femininum , ut doctissima , neutrum , ut doctissimum . 
+Praeterea non omnia recipiunt conparationem , sed ea quae sunt qualitatis et quantitatis . 
+Qualitas autem et quantitas aut ab animo dicitur , ut doctus , aut a corpore , ut candidus niger , aut a fortuna , ut miser , aut a mensura , ut longus . 
+Quare quaesitum est , utrum Latinior diceretur , quod tunc dicitur , cum pro diserto ponitur , ut sit Latinior , quo modo disertior ; cum autem gentem significat , non potest conparari . 
+Ita enim non possumus dicere Latinior , quem ad modum ; nec ; Graecior . 
+Conparativus autem gradus iungitur casibus tribus , ablativo , septimo , et nominativo interposita particula quam : ablativo , ut ' doctior ab illo ' , septimo , ut ' doctior illo ' , nominativo , ut ' doctior hic quam ille ' . 
+Sed frequenter utimur septimo , ablativo paene numquam . 
+Superlativus vero gradus genetivo tantum plurali adiungitur , ut ' doctissimus illorum ' . 
+Quamquam et singulari cohaereat , quotiens nomen est enuntiatione singulare , intellectu plurale , ut , ' o Danaum fortissime gentis Tydide . 
+' Illud sane servandum est , quod et postea tractatum est , conparativum gradum nos et nostro et extraneo generi coniungere , superlativum autem tantum nostro . 
+Dicimus enim ' velocior homo hominibus ' et ' velocior homo canibus ' , quoniam conparativus est gradus ; superlativum vero gradum tantum nostro praeferimus generi , ut ' velocissimus homo hominum ' . 
+Nemo enim dicit ' velocissimus homo equorum ' . 
+Genera dicta sunt ab eo , quod generant , atque ideo duo sunt tantum genera principalia , masculinum et femininum . 
+Haec enim sexus tantum generat . 
+Genera autem aut naturalia sunt , aut ex auctoritate descendunt : naturalia sunt , ut vir mulier ; auctoritate descendunt , ut hic paries , haec fenestra . 
+In his enim naturalem nullum intellegimus sexum , sed eum sequimur , quem firmavit auctoritas . 
+Cetera vero genera a superioribus veniunt , ut est neutrum , quod nec masculinum est nec femininum , commune , quod et masculinum et femininum , omne , quod omnia supra dicta continet genera , epicoenon vero , quod confusum continet sexum . 
+Nam inter commune et epicoenon hoc interest , quod commune est , ubi visu secernimus sexum , ut canis ; epicoenon est e contrario , ubi visu non secernimus sexum , ut piscis . 
+Inter epicoenon et commune hoc interest , quod in communi articulo secernimus sexum , ut hic canis vel haec canis : in epicoeno vero unus articulus sumitur et utrumque sexum intellegimus , ut haec aquila . 
+Eum autem sumimus articulum , quem auctoritas dederit . 
+Nam cum naturaliter non possumus in epicoenis sexum deprehendere , debemus auctoritate firmari . 
+Numerus aut singularis est aut pluralis . 
+Dualis vero Graecus non usurpatur nisi in nominibus duobus , quae sunt haec , duo et ambo , atque ideo etiam inaequaliter declinantur . 
+Figura aut simplex est aut conposita : simplex , quae unam rem continet atque naturalis est , ut doctus ; conposita vero , quae ex arte fit et duas res habet , ut indoctus . 
+Conposita autem figura fit quattuor modis , qui in arte sunt positi . 
+Quod autem dicit ' ex corruptis ' , ita intellegere debemus , ut tunc intellegamus corrupta esse in conpositione , quotiens resoluta possunt ; esse ; integra : ut siqui dicat concipio , iure dicitur corruptum , quia , si solvatur , facit capio , quod est integrum ; et conficio facit facio et similia . 
+Ablativus singularis regit genetivum dativum et ablativum pluralem secundum regulas in arte positas . 
+Sed illud quod dicit ' ablativo e producta vel correpta terminata ' , ita intellegendum est , ut tunc producta sit , quotiens genetivus singularis ei terminatus sit ; cum vero is fuerit terminatus idem genetivus singularis , ; correpta , ; ut huius patris , ab hoc patre . 
+Ideo autem Latini voluerunt ab ablativo singulari regulas sumere , quoniam hic casus Latinus est , nec eum habent Graeci ; et ille utique casus debuit regulas Latinis nominibus dare , qui proprius Latinorum est . 
+Omnia nomina , quae in rerum natura sunt , quinque regulis continentur , quae regulae apud Donatum quidem non sunt propter conpendium , tamen tenendae sunt . 
+Colliguntur autem istae regulae de genetivo singulari : nam is casus quinque finibus terminatur , aut ae diphthongo , ut Musa Musae , aut i , ut doctus docti , aut is , ut pater patris , aut us , ut hic fluctus huius fluctus , aut ei , ut hic vel haec dies huius diei . 
+Ergo cum invenerimus aliquod nomen , de cuius declinatione dubitatur , quaerendus nobis erit praecipue genetivus ; qui inventus si ae fuerit terminatus , ad similitudinem Musae declinabitur . 
+Ita et in reliquis fiet . 
+Sed constat Graeca nomina etiam Graece posse declinari . 
+Plane duo praecipue casus in his regulis sollicite proferre debemus , vocativum secundae declinationis et ablativum tertiae , in quibus contra regulas plurimum sibi adsumpsit auctoritas . 
+Vocativus enim singularis secundae declinationis tunc in i exibit , cum nominativus singularis in ius fuerit terminatus in genere masculino in proprio nomine , ut hic Mercurius o Mercuri . 
+Hoc enim nomen et ius terminat nominativum et masculinum est et proprium . 
+Si autem nominativus us terminatur , ut hic doctus , vocativum facit o docte ; et si appellativum sit , licet ius terminatur , ut hic impius o impie facit , hic egregius o egregie . 
+Sed huic regulae contrarium est hic filius o fili . 
+Quare maiores nostri timentes ipsum vocativum similem fecerunt nominativo , ut Virgilius dicit corniger Hesperidum fluvius regnator aquarum , et ' Lucius Octavius iudex esto ' . 
+Ablativus vero tertiae declinationis , qui et i et e terminatur , multum confusus est . 
+Tamen hoc servare debemus , ut , cum [ vel ] nomen fuerit generis communis , quod in is mittit nominativum et genetivum , ablativum i terminemus , ut hic et haec docilis ab hoc et ab hac docili : item neutra omnia , quae e terminantur in nominativo , ut hoc mare ab hoc mari . 
+Ea vero quae x littera terminantur in e exeunt , ut hic calix ab hoc calice , haec paelex ab hac paelice , haec lex ab hac lege et similia . 
+Item omnia participia e terminantur , ut ab hoc calente , ab hoc furente ; quae si nomina fuerint , i magis terminabuntur : item quae or terminantur in nominativo , ut doctior clarior minor maior : facit enim a doctiore clariore minore maiore . 
+Reliqua vero sic ambigua sunt , ut vix etiam auctoritate firmentur . 
+Nam et ab hac navi et ab hac nave legimus , et ab hac puppi et ab hac puppe , et ab hoc igni et ab hoc igne . 
+In quibus omnibus meliorum auctoritas sequenda est . 
+Pronomen dictum est , quia ponitur pro nomine , ut siquis dicat ' Vergilius scripsit bucolica , ipse scripsit georgica . 
+' Nec tamen videntur pronomina , quoniam nominum funguntur officio , esse nomina . 
+Nam etsi nominum vim exprimant , non tamen plene exprimunt . 
+Nomina enim posita plenas faciunt elocutiones , pronomina semiplenas . 
+Item nomina posita velut inchoant elocutiones , pronomina autem velut conplent . 
+Qualitas pronominum principaliter bipertita est . 
+Omnia enim pronomina aut finita sunt aut infinita . 
+Finita sunt quae recipiunt personas , id est quae definiunt personas , et sunt tantum tria , ego tu ille . 
+Sed ille plerumque variat . 
+Nam si ad praesentis personam referatur , tunc vere finitum est ; si de absente dicatur , minus quam finitum est . 
+Infinita autem pronomina varias habent species . 
+Nam licet omnia quaecumque non recipiunt personas infinita sint , tamen alia dicuntur generaliter infinita , alia minus quam finita , alia articularia vel demonstrativa , alia possessiva . 
+Generaliter infinita sunt quae cuicumque personae aptari possunt , ut est quis ; et sunt haec septem tantum , quis qualis talis quantus tantus quotus totus . 
+Minus quam finita dicuntur quae commemorationem habent notarum personarum , ut est ipse : haec sunt sex tantum , ipse iste is hic idem sui . 
+Sed ex his alia sunt quae absentes personas significant , alia quae praesentes : absentes reliqua omnia ; praesentes haec tantum , iste ista istud et hic haec hoc , quae non nulli pronomina etiam articularia vocant , eo quod more Graeco cum nominibus declinantur . 
+Possessiva dicuntur pronomina quae nos aliquid possidere ostendunt , ut est meus tuus . 
+Haec in quattuor partes dividuntur . 
+Aut enim utraque parte singularia sunt , aut utraque pluralia , aut intrinsecus singularia , extrinsecus pluralia , aut intrinsecus pluralia , extrinsecus singularia . 
+Utraque parte singularia sunt , ubi et persona possidentis et possessi una est , ut meus ; utraque parte pluralia , ubi multi sunt qui possidentur et multi qui possident , ut est nostri ; intrinsecus singularia , extrinsecus pluralia sunt quae possidentis unam personam ostendunt , possessorum plurimas , ut est mei , vel e contrario , ut est noster . 
+Intrinsecus autem dicitur quod pertinet ad personam possidentis , extrinsecus quod pertinet ad personam possessi . 
+Sunt autem possessiva pronomina quinque tantum , meus tuus suus noster vester . 
+Absque his pronominibus , quae omnia sunt viginti et unum , nullum aliud , quod suam originem habeat , poterit reperiri ; sed siqua sunt , conpositione fiunt . 
+Scire autem debemus in declinatione pronominum plerumque sub una significatione casus varie proferri , ut est quis vel qui : nam possumus dicere ' quis tibi fecit iniuriam ' et ' qui tibi fecit iniuriam ' . 
+Item invenitur genetivus duplex , ut mei vel mis , tui vel tis : nam possumus dicere ' mei causa te peto ' ; et ' mis causa te peto ' et ' tui causa te peto ' et ' tis causa te peto ' ; . 
+Sed mis et tis de usu recesserunt . 
+Item ablativus singularis aliquando varie terminatur , ut a quo vel a qui . 
+Nam dicimus ' a quo venisti ' et ' a qui venisti ' ; sed a qui in usu esse desiit . 
+Dativus etiam et ablativus pluralis plerumque varii sunt : dicimus enim et a quis et a quibus . 
+Qui quidem videntur hac ratione variari , quoniam ablativus singularis inventus est varius . 
+Scimus enim quia omnia quae o terminantur in is mittunt , quae i , in bus . 
+Ergo sicut dicimus ab hoc docto ab his doctis , ita dicimus a quo a quis . 
+Item sicut dicimus a puppi a puppibus , ita dicimus a qui a quibus . 
+Sed pronomina quem ad modum in declinatione duplicant casus , ita plerumque minuunt . 
+Nam sunt pronomina ubi tantum modo genetivi sunt ut eccum eccam ellum ; sunt ubi nominativus et vocativus deest , ut sui sibi se a se ; sunt ubi vocativus tantum deest , ut in pronomine quod est ego . 
+' Verbum est pars orationis cum tempore et persona sine casu ' . 
+Quod dixit ' cum tempore et persona ' , conexum intellegendum est . 
+Neutrum enim potest in verbo ab altero separari . 
+Nam si solam personam velis intellegere , pronomen est ; si solum tempus , participium est ; si utrumque simul , tum verbum est . 
+Quod autem adiecit casu carere , non velut superflue est positum . 
+Quis enim nescit verbum casu carere ? 
+Sed timuit propter illas elocutiones , quae sic formantur , quasi casum habeant , ut ' da mihi bibere ' . 
+Sic est enim ' da mihi bibere ' , ut si dicas ' da mihi vinum ' , quod utique casum habet . 
+Ne qui ergo putarent propter similitudinem elocutionum casum modo infinito adtribui , ideo dixit penitus casum a verbo repelli . 
+Nam illae elocutiones non casum recipiunt , sed Graecam elocutionem sequuntur . 
+Qualitas verborum dividitur in modos et in formas . 
+Modi omnes sunt octo , indicativus imperativus promissivus optativus coniunctivus infinitus inpersonalis gerundi . 
+Sed ex his quinque volunt esse legitimos ; de tribus vero dubitatur , id est de promissivo inpersonali gerundi . 
+Indicativus dicitur modus , quoniam per ipsum quod gerimus indicamus , ut est lego ; imperativus , quoniam per ipsum imperamus , ut est lege ; optativus , quoniam habet adverbium optantis , ut utinam legam . 
+Coniunctivum vero modum non ideo coniunctivum dicimus , quia habet aliquid coniunctum , id est cum ( nam et optativus inciperet esse coniunctivus , quia habet adverbium coniunctum utinam ) ; sed ideo dictus est coniunctivus , quia in loquendo , cum solus locutionem inplere non poterit , coniungit sibi indicativum , ut ' cum scripsero faciam ' et ' cum dixero legam ' . 
+Infinitus dicitur modus , quia non definit personas , sed omnes tres uno modo profert , id est legere . 
+Ceteri vero modi in personis differentiam faciunt , quod probatur hac elocutione , ' legere volo , legere vis , legere vult . 
+' Nam quoniam volo vis vult indicativus est modus , differentia facta est personarum ; quoniam vero legere infinitus est , omnes uno modo prolatae sunt . 
+Hi sunt generales modi . 
+Illi vero tres , de quibus dubitatur , ita explicandi sunt . 
+Qui negant promissivum modum esse , hoc asserunt , superflue hunc modum putari , quoniam indicativi modi sit tempus futurum , id est legam scribam . 
+Qui autem dicunt proprium modum esse , negant indicativum modum tempus futurum per rerum naturam habere posse . 
+Nam si indicativus ideo dictus est , quod per ipsum indicamus , nemo autem indicat nisi quae novit , futurum non potest habere , quia nemo indicat ea quae nescit . 
+De inpersonali autem modo hoc loquuntur . 
+Plerique hunc modum dicunt , quia sic de verbo nascitur , quem ad modum ceteri modi , ut lego lege legito . 
+Sed tamen non probatur modus esse , sed verbum . 
+nam cum unus quisque modus non possit currere per modos , relinquitur ut hic non sit modus qui currit per modos . 
+Nam habet indicativum legitur , imperativum legatur , coniunctivum cum legatur . 
+Item gerundi quem dicunt modum , plerique negant eum modum esse , sed dicunt participiorum a passivo futuri et praeteriti esse declinationem . 
+Sed est modus , quia in u desinit ultimo tempore suo , in quam litteram nullum desinit participium , et significationem habet tam agentis quam patientis , quod utique non haberet , si participium passivum esset . 
+Etenim cum dicimus cantando , et agentis et patientis habet significationem , quod probatur teste Virgilio : nam ubi dicit ' cantando tu illum ' , agentis significationem ostendit ; ubi dicit ' cantando rumpitur anguis ' , patientis . 
+Formae sunt quattuor , per quas non declinatio , sed significatio verborum explicatur : quae ideo quattuor sunt , quoniam [ non ] omne quod agimus quattuor temporum officio continetur . 
+Nam aut cogitamus utrum agendum sit , aut quod placuit inchoamus , aut inchoata conplemus ; aut conpleta iteramus . 
+Idcirco etiam ipsae formae haec nomina accipiunt . 
+Una enim meditativa , quae non agere nos aliquid , sed adhuc velle agere ostendit , ut est lecturio : significat enim non lego , sed legere volo . 
+Secunda est inchoativa , quae nos aliquid initiare ostendit , ut est calesco , quod significat calere incipio . 
+Tertia est perfecta , ut lego , quae plenum ostendit actum . 
+Quarta est frequentativa , quae nos aliquid saepe agere ostendit , ut lectito : significat enim saepe lego . 
+Quas formas plerique veluti inutiles refutare volunt , sed convincuntur secundum rationem naturalem . 
+Multa enim sunt , quae proprie explicari non possunt nisi istis . 
+Meditativa autem forma in rio desinit , ut scripturio parturio . 
+Inchoativa autem verba quinque regulis continentur , quarum si una defuerit , inchoativa non erunt . 
+Debent enim in sco syllabam exire et originem ducere a neutrali verbo et tertiae esse coniugationis correptae et carere tempore perfecto et plusquamperfecto , carere etiam participio futuri temporis . 
+Ideo autem inchoativa carent tempore perfecto , quoniam quae inchoantur nihil perfectum habere debent . 
+Frequentativa forma in to quando exit , semper primae coniugationis est , ut lectito lectitas , cursito cursitas , scriptito scriptitas . 
+si autem in so exeat , etiam tertiae esse potest , ut lacesso lacessis et facesso facessis . 
+Coniugationes tres sunt nomina habentes ab ordine litterarum . 
+Quaeruntur autem quinque rebus , id est indicativo modo , tempore praesenti , numero singulari , secunda persona , ante litteras vel ante syllabas : ante litteras in verbis activis et neutralibus , ante syllabas in ceteris , id est passivis communibus deponentibus . 
+Ergo ubi a fuerit , prima coniugatio est , ut amo amas ; ubi e , secunda , ut doceo doces ; ubi i , tertia , ut lego legis : sed tertia plerumque et correpta est et producta , quod deprehenditur hac ratione . 
+Si correpta fuerit , in passivo ante ; ultimam ; syllabam e habebit , ut lego legis , legor legeris ; si autem producta fuerit , i reservabit in passivo , ut nutrio nutris , nutrior nutriris . 
+Quae varietas etiam de imperativo modo colligitur : nam tertia correpta in e exit , ut lege , tertia producta in i , ut nutri : item infiniti modi paenultima syllaba , quae si longa fuerit , productam coniugationem esse demonstrat , ut nutrire ; si brevis , correptam esse significat , ut legere . 
+Hae autem coniugationes futurum tempus indicativi modi varie mittunt . 
+Nam prima et secunda coniugationes in bo ducunt , ut amo amas amabo , doceo doces docebo . 
+Tertia vero correpta in am tantum mittit , ut lego legis legam . 
+Tertia producta duas habet regulas requirendas indicativi modi tempore praesenti : si ante o ultimam e fuerit correpta , in bo tantum mittit , ut exeo exibo ; si autem i habuerit ante o , futurum tempus et in am et in bo mittit , ut servio serviam servibo . 
+Quas regulas Probus artifex tuetur . 
+Verborum genera quinque sunt , activa passiva neutra communia deponentia . 
+quaecumque sint illis definitionibus , quae in arte lectae sunt varie , tamen , quantum ad significationes pertinet , omnia ista quinque duas habent significationes , id est aut agentis aut patientis . 
+Hinc est quod in neutrali verbo et agentis invenimus significationem , ut nato , et patientis , ut vapulo . 
+Item in deponenti verbo , ubi sola utique debuit esse passiva significatio , et agentis non numquam invenitur , ut est loquor . 
+Confusio autem communis verbi casibus segregatur . 
+Nam si accusativum casum iungas , agentis est , ut criminor illum ; si ablativum , patientis , ut criminor ab illo . 
+Tempora sunt quinque : praesens , quod agitur , ut lego ; praeteritum inperfectum , quod omissum est et non conpletum , ut legebam ; praeteritum perfectum , quod conpletum est paulo ante , ut legi ; praeteritum plusquamperfectum , quod conpletum est olim , ut legeram ; futurum , quod inminet , ut legam . 
+Unde vitiose locuntur qui dicunt ' expecta , modo egredior . 
+' nam iungunt significationem futuram et praesens tempus . 
+Item qui dicunt ' cras tibi lego lectionem ' vitiose locuntur . 
+Nam cum lego praesentis temporis sit , cras vero adverbium futurum , utique haec locutio non cohaeret . 
+Tractandum etiam illud , an sana esset locutio haec , ' cras legam ' , an ' cras lego ' . 
+' Cras lego ' , ut diximus , vitiosum est ; ' cras ' autem ' legam ' ideo non nulli vitiosum iudicant , quoniam duo futura quasi in aliud futurum nos differunt . 
+Modi varie tempora recipiunt . 
+Indicativus enim omnia quinque supra dicta habet tempora ; imperativus vero duo tantum , praesens et futurum ; optativus tria , sed geminata : nam praesens et inperfectum pro uno est : item perfectum et plusquamperfectum habet et futurum . 
+Coniunctivus tot tempora habet . 
+Quot et indicativus . 
+Infinitivus tria habet tempora , praesens praeteritum futurum . 
+Sed scire debemus in omnibus passivis verbis praeterita tempora , id est perfectum et plusquamperfectum , habere ulteriora praeterita . 
+Personas omnes modi segregatas habent absque infinito , ubi confusae sunt , ut diximus . 
+Modus autem imperativus habet difficultatem personarum , quae talis est . 
+Prima persona in tempore praesenti deficit , sed in numero singulari ; ceterum in numero plurali non deficit . 
+Ideo autem deficere creditur , quoniam omne imperativum in alium procedit , id est secunda persona nascitur . 
+In tempore vero futuro tam in numero singulari quam in numero plurali prima persona deficit ; secunda vero et tertia in numero singulari uno modo proferuntur , ut legito tu , legito ille , ut est apud Virgilium tertius Argolica hac galea contentus abito . 
+Nam si dicam legito legat , legito quidem erit tempus futurum , legat vero praesens . 
+Item tertia persona numeri pluralis his regulis continetur : indicativo modo tempore praesenti tertia persona numero plurali o accipit et facit hanc personam imperativi modi per omnes coniugationes , ut amant amanto , docent docento , legunt legunto , nutriunt nutriunto ; quod servavere maiores , ut ait Horatius et quocumque volent animum auditoris agunto . 
+Nam si diceret agant , tempus praesens ostenderet , non futurum . 
+Prima coniugatio et tertia correpta tot syllabas habere debent in secunda persona , quot in prima habent indicativo modo , ut amo amas , lego legis . 
+Quidquid autem aliter fecerit , anomalum est , ut edo es , comedo comes . 
+AdVium dictum est eo , quod necesse habet hanc partem orationis verbum sequi , ut ' cras faciam ' , ' hodie scribo ' . 
+Sed non , ut necesse est ADVio sequi verbum , ita necesse erit verbo sequi adverbium . 
+Nam quando dico ' facit orator ' , est elocutio plena , quamquam sine ADVio . 
+Potest ergo verbum sine ADVio poni ; adverbium autem sine verbo numquam ponitur . 
+In significationibus ADViorum localia ADVia diligenter advertenda sunt , quae habent quattuor species , in loco , de loco , ad locum et per locum . 
+In loco sunt haec , hic illic ibi intus foris . 
+De loco sunt haec , hinc illinc inde . 
+Intus foris uno modo tam in loco quam de loco proferuntur , id est sine coniunctione praepositionis . 
+Ad locum sunt haec , huc illuc illo istuc intro foras . 
+Per locum sunt haec , hac illac illa . 
+Ergo animadvertere debemus , ut , quotiens fuerint ADVia in loco , iungamus verba quae habent significationem in loco , ut puta , ibi sum , illic sedeo , intus ; sto ; et similia ; quotiens sunt autem ADVia quae significant ad locum , iungamus ea his verbis similiter quae habent significationem euntis , ut pergo illuc , vado illo , proficiscor intro et similia . 
+Nam siqui dicat ' venio ibi ' , vitiosum est . 
+Venio enim significationis est ad locum , ibi vero in loco est , et duo haec diversa numquam cohaerent . 
+Non omnia ADVia recipiunt conparationem , sed ea tantum , quae ducunt originem a nominibus recipientibus conparationem , ut doctus docte . 
+Iure enim dicimus doctius doctissime , quoniam et nomen ipsum doctus facit doctior doctissimus . 
+AdVia autem quae conparantur in positivo gradu duas habent regulas , e et er , ut docte et fortiter ; in conparativo unam , ut doctius fortius ; in superlativo autem unam e , quod semper productum est , ut doctissime fortissime . 
+Quando autem positivus e terminetur , quando er , dativus singularis ostendit . 
+Nam e tum terminatur adverbium positivo , cum dativus singularis o fuerit terminatus , ut docto docte , claro clare . 
+Tunc autem adverbium er terminatur , cum dativus singularis i fuerit terminatus , ut huic agili agiliter et huic forti fortiter . 
+Quae his regulis non serviunt , ADVia anomala sunt . 
+Nomina provinciarum semper recipiunt praepositiones , ut ' ad Campaniam pergo ' , ' de Campania venio ' , ' in Campania sum ' . 
+E contrario nomina civitatium numquam recipiunt praepositiones , quando funguntur vice ADViorum . 
+Verum tamen si ad locum significant , accusativi forma sequenda est , ut ' Carthaginem vado ' ; si de loco , secundum septimum loquimur , ut ' Carthagine venio ' ; si in loco , duplex regula est . 
+Nam si nomen fuerit secundae declinationis , adverbium in loco fit secundum formam genetivi : dicimus enim ' Deli fui ' , ' Beneventi fui ' , quoniam huius Deli , huius Beneventi genetivus est . 
+Si autem nomen erit alterius cuiuscumque declinationis , tunc formam sequimur dativi casus : dicimus enim ' Carthagini fui ' , ' Tiburi fui ' , quoniam huic Carthagini , huic Tiburi dativus est . 
+Sciendum est sane pauca nomina his regulis repugnare , ut est Narbone in Philippicis Ciceronis , ' cum tu Narbone mensas hospitium convomeres ' : debuerat enim dicere Narboni . 
+Item Vergilius ait ' Turia Carthagine qui nunc Exspectat ' [ inquit Carthagine ] , non Carthagini , quod erat regulae . 
+Sed Cicero antiptosin fecit figuram , Vergilius vero metri necessitatem mutata regula servavit . 
+Generaliter tenendum est quod ADViis non debet coniungi praepositio separatim . 
+Nemo enim dicit ' de sero ' , ' de modo ' ; unde nec ' de mane ' dicere debemus , quod plerique in usu habent . 
+Sed quoniam legimus ' dum mane novum ' , id est quoniam legimus hoc ipsum mane iam nomen effectum ( genus enim non recipit nisi nomen ) , videmur ei adicere posse praepositionem . 
+quare tutius loquuntur qui et solum adverbium sine praepositione ponunt , ut ' mane venit ' , et quando volunt addere praepositionem , genus coniungunt , ut ' de primo mane venio ' . 
+Iam enim non videtur iungi ei parti orationis quae est mane , sed quae est primo . 
+Participium dictum est , quasi particapium . 
+Habet enim partes a nomine duas , genus et casum , a verbo duas , tempus et significationem , ab utroque duas , numerum et figuram : ideo ab utroque , quoniam numerus et figura tam nomini accidunt quam verbo ; illa vero bina his tantum accidunt , a quibus trahuntur . 
+Genera participiorum sunt haec , masculinum femininum neutrum et omne . 
+Masculinum participium in us syllaba terminatur , femininum a , neutrum um , ut lectus lecta lectum , lecturus lectura lecturum , legendus legenda legendum . 
+Nam haec sunt duo tempora , praeteritum et futurum , quae genera secundum regulas quas diximus dividunt . 
+Praesentis autem temporis participium semper generis est omnis et duabus clauditur consonantibus , ut est legens . 
+Casus totidem sunt in participiis , quot in nomine et pronomine . 
+Participia autem masculini et neutri secundae sunt declinationis , feminini primae , omnis tertiae , in quo ablativus et i et e terminatur , ut amanti amante . 
+Sed scire convenit quod ars exigat ut e littera terminetur ; i autem ubi fuerit terminatus ablativus huius participii , necessitas est aut metri aut euphoniae . 
+Tempora in participiis Latinis tria sunt , praesens praeteritum et futurum ; regulae tamen quattuor sunt . 
+Nam praesens unam habet , quam diximus , ns , ut legens ; praeteritum unam , us , ut lectus ; futurum vero tempus duas habet regulas , rus et dus , ut lecturus legendus . 
+Ideo autem neutrale verbum tot et eadem habet participia , quae et activum , quoniam sic declinatur ut activum : nam participia declinatione noscuntur . 
+Deponens autem verbum participium futuri temporis in rus mittit , ut locuturus . 
+Nam ideo dictum est deponens , non quod r litteram non deponat , KATA ANTIFRASIN ( nam et commune deponens esset : et hoc enim r litteram non relinquit ) ; sed ideo deponens dicitur , quod deponit participium declinationis suae , id est futurum , quod dus syllaba terminatur . 
+Nemo enim potest dicere loquendus , licet inveniamus apud poetas hanc usurpationem . 
+Commune vero verbum ideo quattuor habet participia , quia commune est , id est agentis et patientis habet significationem ; et novimus quod participia duo veniant ab activo et duo a passivo . 
+Sane scire debemus quia , licet Latinitas non habeat nec praeteritum participium ab activo nec praesens a passivo , invenitur tamen apud poetas talis elocutio , ubi alterius temporis pro hac significatione ponatur , ut est et qua vectus Abas et qua grandaevus Aletes : vectus enim dixit pro eo quod est vehebatur . 
+Regulae participiorum ita se habent , ut participium futuri temporis a passivo regat participium praesentis temporis ab activo , id est ut de participio futuri temporis a passivo sublata dus syllaba et addita s littera faciamus participium praesentis temporis ab activo , vel e contrario . 
+Item participium praeteriti temporis a passivo sublata s littera et addita rus syllaba facit participium futuri temporis ab activo , ut lectus lecturus , vel e contrario . 
+Sed his regulis repugnant pauca participia nova ratione usurpata , ut est moriturus , quod nulla ratione dicitur . 
+Sublata enim rus syllaba et addita s littera moritus facit , quod Latinitas non habet : nam mortuus dicimus . 
+Et illud sciendum est , maiores nostros saepe a verbis neutralibus praeteriti temporis usurpasseparticipia , ut est regnata triumphata placita nupta pransus cenatus et similia . 
+Quibus nos ideo utimur , quoniam auctoritate firmantur ; non tamen possumus de aliis verbis neutralibus similiter quae non lecta sunt usurpare , sed debemus ea tantum quae lecta sunt dicere . 
+Coniunctiones dictae sunt ab eo , quod coniungant elocutionem . 
+Nam siqui dicat ' ego tu eamus ' , dissidet elocutio ; si interponas et et dicas ' ego et tu eamus ' , incipit cohaerere . 
+Copulativae dicuntur eo , quod et verba et sensum copulant , ut siqui dicat ' ego et tu eamus ' . 
+Nam in hac elocutione et verba coniuncta sunt et sensus : utrumque enim iturum significat . 
+disiunctiva vero penitus contra naturam sermonis fuisset inventa , nisi vel verba coniungeret . 
+Nam quid tam contrarium coniunctioni , quam habere speciem disiunctionis ? 
+Sed ideo disiunctiva dicitur , quod sensum disiungat : nam verba coniungit , ut siqui dicat ' ego aut tu eamus ' . 
+Nunc enim elocutio coniuncta est , sed sensus disiunctus : non enim utrumque , sed alterum iturum significat . 
+Expletivae dicuntur coniunctiones eo , quod additae illud quod minus fuerat explere contendunt , ut siqui dicat neglegenti lege , dicendo lege in eo eum arguit , quod non legit ; at si dicat ' saltem lege ' , in eo arguit , quod nihil omnino agit . 
+Inter causales et rationales hoc interest , quod tunc utimur causalibus , cum de causa loquimur , tunc rationalibus , cum de ratione . 
+Causa est autem , quae nos inpingit ad aliquid faciendum ; ratio autem , qua utimur in faciendo . 
+Sed plane sciendum est quod pro rationalibus causales ponere possumus ; pro causalibus numquam ponimus rationales . 
+Etenim causa non statim ratione reperitur ; ubi autem ratio est , iam causa praecessit . 
+In ordine autem hoc servandum est , quod sunt aliquae quae semper praeponuntur , ut at ast . 
+Dicimus enim ' ast ego quae divum incedo regina ' , non ' ego ast ' ; et item ' at pater Anchises ' , non ' pater at Anchises ' . 
+Postponuntur vero que autem : dicimus enim ' primusque Machaon ' , non ' que primus Machaon ' , et ' hoc autem fac ' , non ' autem hoc fac ' . 
+Igitur vero et primo et ultimo et medio convenit loco : dicimus enim et ' igitur patres conscripti censuerunt ' et ' patres igitur conscripti censuerunt ' . 
+Praepositio dicta est , quod in loquendo praeponitur ( dicimus enim ' apud amicum sum ' ) , excepta una praepositione , quae non numquam praeponitur et postponitur , ut tenus ( dicimus enim et ' pube tenus ' et ' tenus pube ' ) , et excepta altera praepositione , id est cum , scilicet in pronominibus non nullis , ut mecum tecum nobiscum vobiscum , quod contra artem ex aperto dicitur ( nemo enim dicit ' cum me ' , ' cum te ' propter cacenphaton ) . 
+Natura enim praepositionis exigebat , ut praeponeretur . 
+Accusativae praepositiones sunt XXX , quae accusativo tantum iunguntur vel singulari vel plurali . 
+Ex his ad et apud diversas habent significationes . 
+Nam ad ad locum significat , ut ' ad patrem vado ' , apud vero in loco , ut ' apud parentem sum ' . 
+Sed ad non numquam auctoritate etiam in loco reperitur , ut ' decem fiscos ad senatorem illum relictos ' , et apud Maronem ' ad Troiam pro caris gesserat Argis ' . 
+Temptaverunt plerique facere discretionem et in hac elocutione , quae fit de ad et de in , ut ' ad forum venio ' , ' in forum venio ' . 
+Etenim ' ad forum venio ' est ad forum accedo , ' in forum venio ' forum ingredior , ut sit illud prius propinquantis ad locum , hoc autem locum ipsum tenentis , sicut videtur locutus esse Salustius dicendo ' hi utrique ad urbem imperatores erant inpediti ne triumpharent calumnia paucorum ' . 
+Nam si necdum triumphaverant , urbem ingressi non fuerant . 
+Ergo ' ad urbem ' quod dixit , propinquantis significatio habetur , non ingredientis . 
+Usque etiam praepositio novo modo sibi aliam coniungit praepositionem : dicimus enim , ut Vergilius ' ad usque columnas exulat ' . 
+Nec sequi debemus quod non nulli dicunt , usque adverbium esse . 
+Multo minus enim sibi iungeret praepositionem , si adverbium fuisset : ADVio enim praepositio separatim non cohaeret . 
+Et e et ex praepositiones habent differentiam . 
+Nam si pars orationis sequatur a vocali incohans , ex praeponimus , ut ' ex amico ' ; si autem a consonanti inchoet , e , ut ' e foro ' . 
+E contrario autem positae aut hiatum faciunt aut asperitatem , hiatum ' e amico ' , asperitatem ' ex foro ' . 
+Clam praepositio , quam Donatus inter ablativas posuit , scire debemus quod indifferenter pro arbitrio dicentis et ablativo iungitur et accusativo : dicimus enim et ' clam patre ' et ' clam patrem ' . 
+In sub super et subter et accusativae sunt et ablativae ; sed apud maiores nostros indifferenter ponebantur , id est nulla lege servata . 
+Nam et Virgilius dixit ' rapuitque in fomite flammam ' pro ' in fomitem ' , et Horatius [ Naso ] destrictus ensis cui super impiacervice pendet pro ' super cervicem ' , et Cicero ' si forte in eo quaeritis ' pro ' in eum ' , et similia . 
+Verum tamen aetas posterior super et subter accusativas fecit . 
+In vero et sub coniunguntur accusativis casibus , cum mutatio est loci , ut ' in forum vado ' ; ' sub basilicam vado ' ; tunc iunguntur ablativis , cum permansio est , ' in foro sum ' , ' sub basilica sum ' . 
+Haec autem mutatio vel permansio verborum , quae ad elocutionem praeponenda sunt , ratione colligitur . 
+Nam pergo proficiscor vado et huius modi mutationem significant , sto sedeo dormio et huius modi permansionem . 
+Loquellares praepositiones ideo dicuntur , quia semper cohaerent , ut conduco recipio . 
+Cohaerere autem eas res illa significat , quod non patiuntur in significatione interpositionem : nemo enim dicit ' con tibi duco ' aut ' re illum cipio ' . 
+Praepositiones cum postpositae fuerint , si casum suum reservent , adhuc praepositiones sunt , ut ' transtra per et remos ' . 
+Si autem casum mutent , fiunt ADVia , ut ' tempore post ' . 
+Sed plerumque metrorum ratione etiam praepositae idem faciunt , ut ' longo post tempore venit ' . 
+Sciendum est etiam , praepositiones utriusque casus quotiens pro aliis praepositionibus ponuntur , illis eas casibus iungi , quibus iunguntur illae pro quibus ponuntur , ut ' in alterum ' . 
+Nam quoniam in modo contra significat , accusativo iungenda est , quia contra accusativi casus est . 
+Item ' super Priamo rogitans ' : quoniam super de significat , ablativo iungenda est . 
+Interiectiones proprie sunt affectus voce incondita expressi . 
+Sed et plenus frequenter sermo pro interiectione habetur , si affectum significet , ut ' pro dolor ' . 
+[ Sunt nomina similia participiis praesentis temporis , ut demens legens . 
+Discernuntur autem sic . 
+Si nomen fuerit , conparationem recipit , ut dementior ; si participium fuerit , non recipit conparationem . 
+Inveniuntur nomina similia participiis praeteriti temporis vel potius eadem et participia ; sed discernuntur declinatione . 
+Nam participia si fuerint , secundae sunt declinationis , ut hic visus huius visi , hic auditus huius auditi ; si autem nomina fuerint , erunt quartae declinationis , ut hic visus huius visus , hic auditus huius auditus . 
+Quamquam haec quae diximus etiam illa ratione discernimus , quod participium tunc est , cum tempus habet , ut puta ' ille auditus est ' ; cum autem non habet tempus , nomen est , ut ' auditus meus obtusus est ' , ' visus meus obtusus est ' . 
+Litteras Latinas constat Carmentem invenisse , matrem Evandri . 
+Quae ideo dictae sunt litterae , quod legentibus iter praebeant , vel quod in legendo iterentur , quasi legiterae . 
+Omnes autem litterae principaliter in duas dividuntur partes , in vocales et in consonantes . 
+Item ipsae consonantes in duas dividuntur partes , in semivocales et mutas . 
+Vocales dicuntur , quia per se sonant et per se syllabam faciunt , et nullae aliae litterae sine ipsis possunt syllabam facere . 
+Consonantes dicuntur , quia non naturaliter sonant , sed mixtae cum vocalibus proferuntur ; quae non tam videntur unum quoddam sonare , sed quasi duplex consonare . 
+Semivocales dicuntur , quia semis habent de potestate vocalium . 
+Nam cum vocales et per se sonant et per se syllabam faciunt , istae per se quidem sonant , sed per se syllabam non faciunt . 
+Mutae dictae sunt eo , quod nihil habeant de potestate vocalium . 
+Nam nec per se sonant nec per se syllabam faciunt . 
+etenim semivocalibus si detrahas naturales sonos , vel paululum sonant ; mutis si detrahas , nihil sonabunt . 
+Vocales sunt quinque , a e i o u . 
+Ex his duae , e et o , aliter sonant productae , aliter correptae . 
+Nam o productum quando est , ore sublato vox sonat , ut Roma ; quando correptum , de labris vox exprimitur , ut rosa . 
+Item e quando producitur , vicinum est ad sonum i litterae , ut meta ; quando autem correptum , vicinum est ad sonum diphthongi , ut equus . 
+I vero et u varias habent potestates : sunt enim vocales consonantes mediae nihil digammi duplices . 
+Sed ut sint vocales consonantes et mediae , utriusque litterae est ; ut autem nihil et digammos sit , u litterae est ; ut duplex sit , ad i litteram pertinet . 
+Vocales autem sunt i et u , quando vel solae positae syllabas faciunt , ut unus itur , vel quando iunguntur consonantibus , ut unda inde . 
+Consonantes autem tunc fiunt , quando ipsae praecedentes post se habent alias vocales in isdem syllabis constitutas , ut vanus Ianus . 
+Quin etiam ipsae duae si inter se iungantur , quae prior est fit consonans , ut Iuno vita . 
+Etiam sola ; u ; quando geminatur et syllabam facit , quae prior est fit consonans , ut vultus vulgus . 
+Mediae autem tunc sunt , quando naturalem sonum recipiunt , ut vir optimus : nam quod e contra sonamus ut scribimus , sed pingue nescio quid pro naturali sono usurpamus . 
+V littera nec vocalis nec consonans est , quando dicimus quoniam . 
+Etenim non est vocalis , quia eam o vocalis consequitur , et scimus , quando post se habet aliam vocalem , quod fit consonans . 
+Non autem potest esse consonans , quoniam non ipsa praecedit , nec potest esse consonans , nisi quando ipsa praecedit . 
+Fungitur etiam digammi ratione , id est pinguiorem sonum praestat partibus orationis , ut Velena . 
+Hoc ergo et nos facimus , quotienscumque consonans est , ut Venus . 
+I vero quaeritur utrum geminata possit unam syllabam facere , ut puta dii utrum iam per duo i scribatur , quod multi dicunt , multi negant . 
+Plane sciendum est quod i inter duas posita vocales in una parte orationis pro duabus est consonantibus , ut Troia . 
+Omnes vocales Latinae et produci et corripi possunt . 
+A producitur , ut acer ; corripitur , ut amor : e producitur , ut meta ; corripitur ut ego : i producitur , ut itur ; corripitur , ut ibi : o producitur , ut Roma ; corripitur , ut rosa : u producitur , ut unus ; corripitur , ut ubi . 
+Sed quod dicimus eas et produci posse et corripi , sic intellegimus , non in una parte orationis utrumque posse contingere , sed [ de ratione adspirationis ] in diversis . 
+Aspirare non debemus , nisi quando sequitur vocalis , ut homo . 
+Sed non ubicumque vocalis est , et aspiratio est ; sed ubicumque aspiratio est , necessario et vocalis . 
+Semivocales sunt septem , quae ita proferuntur , ut inchoent ab e littera et desinant in naturalem sonum , ut ef el em en er es ix ; sed x ab i inchoat et duarum consonantium fungitur loco . 
+Nam maiores nostri pro hac x aut g et s aut c et s ponebant , g et s , ut rex regis , c et s , ut pix picis . 
+De genetivi autem declinatione colligebant , quando vel c vel g uterentur . 
+Sed posteaquam inventa sunt nomina quae nec c nec g in genetivo haberent , ut nix nivis , senex senis , coepit haec littera scribi , id est x , et pro duabus haberi consonantibus . 
+S littera hanc habet naturam , ut , ubi opus est , excludatur de metro , ut in hoc versu ' ponite spes sibi quisque ' . 
+Excluditur autem , quotiens vel inchoat sermonem vel determinat ; in medio autem posita numquam excluditur , ut respira . 
+Quattuor sunt liquidae , l m n r . 
+Sed frequenter utimur duabus , prima et quarta , raro secunda , tertia numquam nisi in Graecis nominibus . 
+Sane tunc possunt istae liquescere , cum ante se habuerint in una syllaba vel quamcumque mutam vel f semivocalem . 
+Sed et hic haec ratio servanda est , quae in adspiratione praedicta est , id est non ubicumque praecedit muta vel f semivocalis , istae liquescunt ; sed ubicumque istae liquescunt , necesse est ut illae praeponantur . 
+Mutae sunt novem , quae debent inchoare a naturali sono et in vocalem e litteram desinere , ut b g et reliquae . 
+Ex quibus tres , quoniam non desinunt in e , contumeliam patiuntur , ; h k q . 
+H a ; plerisque adspirationis nota , a plerisque consonans habetur . 
+K vero et q aliter nos utimur , aliter usi sunt maiores nostri . 
+Namque illi , quotienscumque a sequebatur , k praeponebant in omni parte orationis , ut kaput et similia ; nos vero ; non ; usurpamus k litteram nisi in Kalendarum nomine scribendo . 
+Itemque illi q praeponebant , quotiens u sequebatur , ut qum ; nos vero non possumus q praeponere , nisi et u sequatur et post ipsam alia vocalis , ut quoniam . 
+Y et z Graecae sunt litterae . 
+Y vocalis est , z pro duplici , quamquam apud nos z et pro duplici sit , ut ' Mezenti ducis exuvias ' , et pro simplici , ut ' nemorosa Zacynthos ' . 
+Omnia nomina litterarum generis sunt neutri et indeclinabilia sunt . 
+Sciendum autem x litteram Latinam duplicem etiam pro simplice posse poni , quando Graeca sunt nomina , ut in hoc versu , ' implevit litora Xanthus ' . 
+Syllaba dicta est ex Graeco vocabulo , APO TOU SULLAMBANEIN TA GRAMMATA , id est a conceptione litterarum . 
+Ergo proprie illa dicitur syllaba , quae de plurimis constat , ut est post . 
+Quae autem de una vocali perficitur , abusive dicitur syllaba , ut e . 
+Omnes autem syllabae a vocalibus suis incipiunt habere tractatum , atque inde exordium sumunt . 
+Consonantes enim quae sequuntur ipsi syllabae inputantur ; praecedentes autem non ipsi , sed aut vacabunt aut superiorem brevem iuvabunt . 
+Ut puta glans : ab a considerantes n et ; s ; ipsi syllabae damus , quia secuntur vocalem ; g vero et l non ipsi inputamus , sed servamus ad auxilium superioris brevis , si forte praecedat . 
+Consonantes autem non hae solae , quae in eadem syllaba sunt , sed etiam in sequenti positae iuvant praecedentem vocalem , ut arma . 
+Syllabae breves quattuor modis considerandae sunt : primo ut habeant vocalem brevem , deinde ut non desinant in duas consonantes aut in unam duplicem aut in i inter duas vocales constitutam . 
+Quibus quattuor modis e contrario animadversis deprehendimus longas . 
+Nam si sit vocalis naturaliter producta , syllaba erit longa , ut est dos : si etiam duae consonantes secuntur brevem , similiter longa erit , ut ars ; vel si una duplex sequatur , ut est pix ; vel si ; i ; inter duas vocales , ut est Troia . 
+Plane diphthongi semper longas syllabas faciunt [ quae diphthongus sic declinatur quo modo doctus ] . 
+Sunt autem quattuor , ae , ut Aeneas ; oe , ut poena ; au , ut aurum ; eu , ut Eurus . 
+Ceterum e et i apud antiquos tantum modo deprehenditur , ut eitur . 
+Y et i in Graecis nominibus diphthongus est , ut Harpyia . 
+Plane quoniam difficilis est deprehensio circa syllabas naturaliter longas , idcirco primum debemus considerare , quem ad modum naturaliter proferantur ; deinde inflexiones considerare debemus . 
+Nam facilitas si non intellegis qualis est in nominativo , in genetivo cognosces , quia longa est et aperte producitur : facilitatis enim facit . 
+Item relegerunt : le ne dubites qualis sit , significat singularis numeri pronuntiatio ; relegit enim facit . 
+Deinde studeamus pronuntiationi , poetarum etiam exempla teneamus . 
+Deinde considerare debemus sermonum primas origines . 
+nam ; prima positio ; ut fuerit , similiter omnis derivatio sequitur , ut puta amor , a brevis est : sive postea amicus , sive amo , sive amator , sive amant , sive amantem dicas , ubique a brevis erit . 
+Pauca sunt enim nomina quae ab hac regula recedunt , ut puta lux et lucerna : nam cum lux longa sit , lucerna brevis est . 
+Et quia his rebus deficimur , superest ut ad exempla curramus , quae aput poetas per lectionem facillime deprendimus . 
+Communes syllabae modis fiunt octo . 
+Primus modus est , si correptam vocalem duae consonantes sequuntur , quarum prior muta quaepiam est vel f semivocalis et sequens liquida : est enim longa in hoc , ' vasto Cyclopis in antro ' ; brevis in hoc , ' vastosque ab rupe Cyclopas ' . 
+Secundus modus est , cum correpta vocalis in unam desinit consonantem sequente h , quae adspirationis est nota : est enim longa in hoc , ' terga fatigamus hasta ' ; brevis in hoc , ' quisquis honos tumuli ' . 
+Tertius modus est , cum correptam vocalem duae consonantes sequuntur , quarum prior s littera est : est enim longa in hoc , ' unde spissa coma ' ; brevis in hoc , ponite : spes sibi quisque , et haec quam angusta videtis . 
+Quartus modus est , cum correpta vocalis partem terminat orationis , quae in unam desinit consonantem : est enim longa in hoc , nam tibi , Thymbre , caput Evandrius abstulit ensis ; brevis in hoc , ' hoc caput o cives ' . 
+Quamquam et si in nullam desinat consonantem , videtur posse exemplo probari : invenies enim apud Vergilium dona dehinc auro gravia sectoque elephanto . 
+Sed sciendum est quod brevis syllaba potest pro brevi et pro longa poni . 
+Quintus modus est , cum diphthongum vocalis sequitur : est enim longa in hoc , ' Musae Aonides ' ; brevis in hoc , ' insulae Ionio in magno ' . 
+Sed et hoc tunc contingit , cum nulla consonans intervenit et nudam diphthongon sequitur nuda vocalis . 
+Sextus modus est , cum nudam vocalem vocalis sequitur . 
+Est enim longa in hoc , ' o ego infelix ' ; brevis in hoc , ' sub Ilio alto ' . 
+Septimus modus est , cum pronomen c littera terminatum vocalis statim subsequitur : est enim longa in hoc , ' hoc erat alma parens ' ; brevis in hoc , ' solus hic inflexit sensus ' . 
+Sed quando c pro duabus consonantibus ponitur , debet cum quadam conlisione proferri . 
+octavus modus est , cum brevem vocalem sequitur z : est enim longa in hoc , ' Mezenti ducis exuvias ' ; brevis in hoc , ' nemorosa Zacynthus ' . 
+Pes dictus est eo , quod pedis fungatur officio . 
+Nam sicut nos pedibus incedimus , ita etiam metra per pedes quodam modo incedunt . 
+Arsis dicitur elevatio , thesis positio . 
+Quotienscumque contingit ut tres sint syllabae in pede vel quinque , quoniam non licet in divisione temporum syllabam scindi , sed aut principio adplicatur aut fini , idcirco debemus considerare , media syllaba cui parti coniungi debeat . 
+Et hoc ex accentu colligimus . 
+Nam si in prima syllaba fuerit accentus , arsis duas syllabas possidebit ; si autem in media syllaba , thesi duas syllabas damus . 
+Solutio dicitur in metro , quotiens pro una longa duas ponimus breves . 
+Nam pro spondeo , qui legitimus est versus heroici , invenimus etiam dactylum positum , ut ' arma virumque cano ' , non numquam anapaestum , ut ' fluviorum rex Eridanus ' , aliquando proceleumaticum , ut ' genua labant ' et ' arietat in portas ' et ' abiete costas ' et tenuia nec lana per caelum vellera ferri . 
+Divisiones autem temporum tres sunt : aequa , quae et dactylica , dupla , quae iambica , sescupla , quae paeonica nominatur . 
+Aequa dicitur divisio , cum tot tempora habet arsis , quot thesis , ut puta unum et unum , duo et duo , tria et tria , quattuor et quattuor ; quae divisio hos recipit pedes , pyrrichium spondium dactylum anapaestum proceleumaticum dispondium diiambum ditrochaeum antispastum choriambum . 
+Dupla dicitur divisio , quotiens altera pars alteram partem duplo vincit , ut puta unum et duo , duo et quattuor ; quae divisio hos recipit pedes , iambum , trochaeum , tribrachyn , molossum , ionicum maiorem , ionicum minorem . 
+Sescupla dicitur divisio , quotiens altera pars alteram partem non duplo vincit , sed dimidietate dupli , ut puta tria et duo vel duo et tria ; quae divisio hos septem recipit pedes , bacchium , antibacchium , amphimacrum et quattuor paeones . 
+Reliqui vero pedes , id est amphibrachys et epitriti , ab his divisionibus repelluntur . 
+Nam amphibrachys cum constet aut de tribus et uno aut ex uno et tribus , nullam recipit divisionem . 
+Epitriti vero divisionis suae possident nomen : nam epitriton dicunt Graeci quattuor et tria vel tria et quattuor . 
+Legitimi dicuntur pedes metri cuiusque , qui sunt naturales in versibus , ut spondeus in heroico ; nothi autem , qui per corruptelam solutionis accedunt , ut est dactylus in versu heroico vel trochaeus . 
+Syllaba autem longa duo habet tempora , brevis unum . 
+Ideo autem unum dicimus tempus in brevi , quoniam cursim profertur ; duo autem in longa , quia tractim et cum quadam mora , et tantum possumus proferendo duas breves temporis consumere , quantum dum unam longam proferimus . 
+Accentus dictus est quasi adcantus secundum Graecos , qui PROSWDIAN vocant . 
+Nam apud Graecos PROS dicitur ad , cantus vero WDH vocatur . 
+plane sive accentum dicas sive tonum sive tenorem , idem est [ aut hoc est ] . 
+Omnis accentus aut acutus est aut circumflexus . 
+Acutus dicitur accentus , quotiens cursim syllabam proferimus , ut arma ; circumflexus vero , quotiens tractim , ut Musa . 
+Nam gravis accentus in Latino sermone paene usum non habet , nisi quod vel cum acuto vel circumflexo poni potest , in his scilicet syllabis , quae supra dictos accentus non habent . 
+Unus autem sermo unum recipit accentum , vel acutum vel circumflexum ; utrumque autem simul habere non potest . 
+Accentus in ea syllaba est , quae plus sonat . 
+Quam rem deprehendimus , si fingamus nos aliquem longe positum clamare . 
+Invenimus enim naturali ratione illam syllabam plus sonare , quae retinet accentum , atque usque eodem nisum vocis ascendere . 
+accentus autem conputantur non a prioribus syllabis , sed ab ultimis , id est retrorsum , nec possunt ascendere nisi usque ad tertiam syllabam a fine . 
+Graeci acutum accentum in tribus syllabis ponunt , id est in ultima et paenultima vel antepaenultima ; circumflexum vero in duabus , id est in ultima et paenultima . 
+Latinitas autem in ultima syllaba nullum ponit accentum . 
+Unde fit ut acutus accentus apud Latinos duos possideat locos , paenultimum et antepaenultimum , circumflexus unum paenultimum tantum . 
+In monosyllabis partibus orationis quotiens syllaba naturaliter longa est , circumflexum habet accentum , ut res dos ; quotiens vero vel naturaliter brevis est vel positione longa , acutum habet accentum , ut nec nix nox . 
+Nam in accentibus syllaba sive naturaliter brevis sive positione longa indifferenter accipitur . 
+In disyllabis vero unus modus est , qui circumflexum ostendit accentum , quotiens prior naturaliter longa est et ultima naturaliter brevis , ut meta Creta Roma . 
+Aliter vero acutum habet , sive ambae natura longae fuerint , ut leges , sive positione longae , ut princeps , sive naturaliter breves , id est duae syllabae , ut ego , ut ait Virgilius ' ast ego quae divum incedo ' . 
+Sic et sive prior positione longa sit , ut arma , sive posterior , ut Arabs , ubique acutus , ut diximus , accentus est . 
+In trisyllabis et tetrasyllabis et deinceps ( nam necesse est ut trisyllaborum rationem omnia posasyllaba sequantur , eo quod usque ad tres syllabas a fine ascendit accentus ) tertia a fine syllaba acutum semper habebit accentum . 
+numquam enim ad ipsam circumflexus ascendit . 
+Tunc autem supra dictum habebit accentum , cum secunda a fine fuerit naturaliter brevis , ut Romulus : nam ideo Ro habet accentum , quia mu syllaba brevis est . 
+Quotiens autem paenultimo loco longa est , ipsa habebit accentum ; quem autem habeat , de disyllaborum ratione cognoscimus . 
+Quattuor sunt particulae , quae corrumpunt in pronuntiando regulas accentuum hae , ve ne que ce . 
+Nam quotienscumque istae particulae sequuntur , faciunt accentus in ultimis syllabis superiorum esse sermonum , ut Musaque Musane Musave illiusce huiusce . 
+Graeca verba tunc Graecis accentibus proferimus , cum Graeca fuerit declinatio . 
+Hos Arcades quoniam Latina declinatio est , prior syllaba habebit accentum , id est tertia a fine ; quando autem dicimus hos Arcadas , media , quoniam declinatio Graeca est . 
+' Itaque ' pars orationis quaeritur utrum correpta media an producta dici debeat . 
+Scire debemus quoniam tunc corripitur media , [ id est ] cum una pars fuerit orationis ; tunc vero producitur , cum duae . 
+Hoc intellegere ex elocutionibus possumus . 
+nam siqui dicat ' itaque fecit ' , ' itaque dixit ' , pro duabus ; est ; , nec in aliqua elocutione potest esse pro duabus , nisi in ea ubi pro simplici ponitur . 
+Quotienscumque quaerimus , quae consonantes in scribendo sibi cohaereant vel cui syllabae inputentur , utrum priori an sequenti , similitudo aliorum nominum hunc solvit errorem . 
+Ut puta si dicamus aspice et dubitemus , utrum s et p dividendae sint consonantes et s danda priori syllabae , p sequenti , intellegimus hoc fieri non posse , sed ambas consonantes sequenti tantum modo dare nos debere , eo quod invenitur sermo qui a duabus istis consonantibus inchoetur , ut spica . 
+Similiter amnis : debemus m et n sequenti syllabae dare in scribendo , quoniam invenitur sermo qui ab his consonantibus inchoetur , ut Mnestheus . 
+Attulit : non possumus duo t sequenti syllabae dare , quia nullus sermo invenitur , qui a duabus t consonantibus inchoetur . 
+Et hoc in ceteris consonantibus observabimus . 
+Plane ; scire debemus ; , conexiones quod dico consonantium non eas quae Latinis syllabis congruunt , sed etiam quae Graecis , excepta scilicet ea syllaba quae constat de b et d , quae in Latinum sermonem numquam ita transit , ut cohaereat , ut est BDELLA . 
+Quando enim scribimus abditur , non possumus a in una syllaba ponere , et b et d in sequenti . 
+Tres sunt positurae vel distinctiones quas QESEIS Graeci vocant , distinctio , subdistinctio , media . 
+Distinctio est , ubi finitur plena sententia : huius punctum ad summam litteram ponimus . 
+Subdistinctio est , ubi non multum superest de sententia , quod tamen necessario separatum mox inferendum sit : huius punctum ad imam litteram ponimus . 
+Media est , ubi fere tantum de sententia superest , quantum iam diximus , cum tamen respirandum sit : huius punctum ad mediam litteram ponimus . 
+In lectione tota sententia perihodos dicitur , cuius partes sunt cola et commata . 
+Colon quidam dixerunt membrum , comma caesum . 
+Duae sunt principales partes orationis , nomen et verbum , eo quod ipsae solae faciunt elocutionem , ut ' Cicero scripsit ' , ' Virgilius fecit ' , et sine ipsis nulla alia pars inplet elocutionem . 
+Nam quando dicimus ' ipse legens ' , minus est aliquid , puta ' dixit ' , ut sit ' ipse legens dixit ' . 
+Aristotelici duas dicunt esse partes orationis , nomen et verbum , Stoici quinque , grammatici octo , plerique novem , plerique decem , plerique undecim . 
+Interiectionem Graeci non penitus non habent , sed inter partes orationis non conputant . 
+Nos articulo non penitus caremus , sed in pronomine conputamus . 
+Tres partes orationis sunt quae casibus declinantur , nomen pronomen participium , et una quae temporibus , id est verbum ; ceterae omnes quattuor non declinantur . 
+Quaesitum est , quando pars orationis ; alius partis orationis ; officio fungitur , utrum ius suum retineat an eius ; recipiat , cuius ; accipit significationem . 
+Nam frequenter invenimus et nomina pro ADViis posita , ut ' torvum clamat ' , et ADVia pro nominibus posita , ut ' mane novum ' . 
+Quare sciendum est quoniam , si nomen sit pro ADVio constitutum , incipit non posse declinari . 
+Etenim cum desinat esse quod est et transeat in adverbium , incipit iam sic non posse declinari , quem ad modum nec illud adverbium naturaliter declinatur . 
+Item adverbium si transeat in significationem nominis , non numquam declinatur , quoniam significat eam partem orationis , quae recipit declinationem . 
+unde est illud apud Plautum , ' a primo mani usque ad vesperam ' . 
+Utique modo mane nomen est , hoc mane huius manis huic mani hoc mane ab hoc mani . 
+Nam si adverbium esset , nec genus reciperet , nec praepositioni adiungeretur , nec posset i terminari . 
+Proprium nomen in quattuor dividitur partes , praenomen nomen cognomen agnomen . 
+Praenomen est quod in loquendo praeponimus , ut Publius : nomen est commune familiae , ut Cornelius : cognomen est proprium vocabulum , ut Scipio : agnomen est quod extrinsecus sumitur , vel a virtutibus , ut Africanus , vel a vitiis , ut Gurges Strabo . 
+Sed sciendum est quod plerumque contingit , ut unum tantum modo inveniatur : nam ecce Romulus unum tantum habet : plerumque duo inveniuntur , ut Numa Pompilius ; plerumque tria , ut Publius Virgilius Maro ; plerumque quattuor , ut Publius Cornelius Scipio Africanus . 
+Sane sciendum est quia , quotiens unum invenitur , cognomen est ; nemo enim potest esse sine vocabulo : quotiens duo , plerumque praenomen et cognomen , si libertus est ; nam non potest libertus habere nomen , quod familiam significat , cum ipse sine familia sit . 
+Appellativorum nominum species sunt viginti septem . 
+Sunt nomina corporalia , quae videmus et tangimus , ut terra lapis ; sunt incorporalia , quae nec videmus nec tangimus , ut pietas iustitia . 
+Sunt primae positionis , quae a natura firmata sunt , ut mons schola ; sunt derivativa , quae a primae positionis nominibus deducuntur , ut montanus scholasticus . 
+Haec autem derivativa non regulis , sed auctoritate firmantur . 
+Nam plerumque invenimus varia ab uno sermone , ut ; a ; Tuder est Tudertinus Tuders . 
+Sunt etiam diminutiva , quae sensum minuunt et non semper , sed frequenter syllabis crescunt , ut agnus agnellus . 
+Sunt etiam alia sono diminutiva , ut tabula fabula . 
+In his enim significatio principalis est , sed enuntiatio diminutiva . 
+tunc enim re vera essent diminutiva , si haberent alia principalia , ut oculus ocellus . 
+Sunt quae dicuntur tota Graeca , ut Dido Manto : haec possunt et Graece et Latine declinari , Graece , ut Dido Didus , Latine , ; ut ; Dido Didonis , Manto Mantus et Manto Mantonis . 
+Sunt quae tota Latina appellantur , quae longe aliter a Latinis proferuntur quam a Graecis . 
+Nam cum Graeci dicant Polydeuces , Latini appellant Pollux . 
+Haec autem quae tantum Latina sunt Latine declinamus . 
+Sunt quae appellantur notha , quae non primis syllabis , sed ultimis a Graeco sermone dissentiunt , ut Achilleus Achilles , Agamemnon Agamemno ; et fere omnia Graeca , quae in on exeunt , detracta n littera per brevem o proferuntur , ut Apollon Apollo , Platon Plato . 
+Sunt synonyma , quae varias habent elocutiones , sed unam significationem , ut terra humus solum tellus . 
+Sunt homonyma superioribus contraria , ut aries : nam et machinamentum , quo muri expugnantur , et sidus in caelo et animal in terra aries vocatur . 
+Sunt patronymica , quae trahuntur non tantum a patribus , sed etiam a parentibus : nam inveniuntur et a matre ducta , ut Thetideius et Letoides , et ab avo , ut Aeacides , et a maioribus , ut Dardanides Aeneas , et a vitrico , ut Amphitryoniades . 
+sic ergo dicimus patronymica non a patre tantum , sed a parentibus tracta , ut dicimus parricidam non eum qui patrem tantum , sed qui quemque parentum necaverit . 
+Haec autem patronymica , si Graeca fuerint , aut in des exeunt , ut Atrides , aut in ius , ut Atreius , aut in on , ut Atrion . 
+Sed quae in des exeunt , tantum patronymica sunt , ut Atrides Agamemnon ; quae in ius exeunt , et patronymica et possessiva , ut Atreius Agamemnon , Atreius gladius , Evandrius ensis . 
+Quae autem in on exeunt , in Latinum sermonem non transeunt . 
+Feminina autem aut in is exeunt , ut Atreis ; aut in ias , ut Atreias ; aut in ne , ut Atrine . 
+Sunt etiam nomina adiectiva , quae plerumque sensum habent , sed coniunctione laetantur , ut magnus fortis : dicimus enim ' magnus vir ' , ' fortis exercitus ' . 
+Sunt etiam qualitatis , quae trahuntur ab animo , a corpore , extrinsecus , ut doctus niger felix ; sunt quantitatis , quae trahuntur a mensura , ut longus latus ; sunt gentis , quae gentem significant , ut Graecus Hispanus ; sunt quae patriam significant , ut Romanus ; sunt quae numerum , ut unus duo tres quattuor quinque ; sunt quae ordinem , ut quintus sextus . 
+Sunt quae ad aliquid dicuntur , quae penitus non possunt sine alterius coniunctione intellegi , ut pater : non enim patrem possumus dicere , nisi filium habeat . 
+Sunt ad aliquid qualiter se habentia , quae e contrario significationem sumunt , ut dexter sinister niger candidus . 
+Sunt generalia , in quibus species continentur , ut animal : nam animal dicitur et homo et canis et equus . 
+Sunt specialia , ut sunt illa quae diximus , canis homo et equus : nam illa sunt specialia , quae ; a ; genere descendunt . 
+Sunt facta de verbo , ut doctor lector . 
+Haec autem semper in tor exeunt et oriuntur a gerundi modo ultimo tempore ultima syllaba in tor versa per omnes coniugationes , ut amatu amator , doctu doctor , auditu auditor , lectu lector . 
+Sunt etiam participiis similia , ut demens : nam sic est demens quasi legens ; sed demens nomen est , quia recipit conparationem , legens vero participium , quia non recipit similiter conparationem . 
+Sunt etiam verbo similia , ut contemplator : sed haec cum casum acceperint , nomina sunt , ut contemplator contemplatoris ; cum autem tempus habuerint , verba , ut Maro dixit ' contemplator aquas dulces ' . 
+Sed conparativus gradus generis est semper communis , excepto nomine , quod est senior : hoc enim , ut Probus dicit , tantum generis masculini est . 
+Non omnia quae sunt qualitatis et quantitatis recipiunt conparationem , sed omnia quae recipiunt conparationem qualitatis sunt et quantitatis , sic ut puta non omnes qui student causas agunt , quisquis autem causas agit studet sine dubio . 
+Recta conparatio est quae primam syllabam integram per omnes ; gradus ; servat , ut doctus doctior doctissimus . 
+Si autem integram non servat , inaequalia efficit nomina , quae sunt tantum tria , bonus malus magnus . 
+Cum constet conparativum gradum minus significare videatur , ut clarior clarissimo , doctior doctissimo . 
+Praeterea ipse conparativus non numquam positivum significat , non numquam nec positivum significat . 
+Quando dicimus ' Charon senior ' , modo non significat senior , significat tamen senex . 
+At cum Salustius dicit ' mare Ponticum dulcius quam cetera ' , modo invenitur conparativus non solum conparativus non esse , sed nec positivus : nam mare non modo dulcius non est , sed nec dulce quidem . 
+Donatus dicit quinque ADVia positivo tantum esse iungenda , tam [ quam ] magis maxime minus et minime , ea scilicet ratione , quoniam vim in se habent conparandi , atque ideo non debent conparativis gradibus iungi , ne videatur conparatio geminata . 
+Qui enim dicit ' tam doctior ' , paene hoc dicit , ' doctior doctior ' , quod Latinitas non patitur . 
+Probus autem dicit omnia ADVia , quae vim augentis aut minuentis in se habent , non debere coniungi nec conparativo nec superlativo , ut sunt ista , valde multum plurimum per et similia . 
+Nam ista omnia tantum positivis gradibus debemus adiungere . 
+Quod superlativum gradum dicit genetivo plurali coniungi , non adeo verum est . 
+Nam invenimus eum etiam singulari genetivo posse coniungi , tunc quando nomina sunt enuntiatione singularia , intellectu pluralia , ut est ' o Danaum fortissime gentis ' . 
+Quod dicit enuntiatione masculinum , intellectu esse neutrum pelagus , verum est ; vulgus falsum est : et feminino et neutro genere legimus apud Virgilium , feminino ' in vulgum ambiguam ' , neutro ' ignobile vulgus ' . 
+Balneum generis neutri est in numero singulari : ; in numero autem plurali ; feminini quidem secundum usum , ut ' occisus est ad balneas Pallicias ' ; tamen et neutraliter legimus , ut ' balnea vitat ' in Horatio . 
+Caelum in numero singulari generis neutri est , in numero autem plurali generis masculini : habemus enim in Lucretio ' quis totidem vertit caelos ' . 
+Caepe in numero singulari generis neutri est , ut ' tunicatum cum sale mordens caepe ' . 
+Et hoc nomen tres solos habet casus , hoc caepe hoc caepe o caepe ; in numero autem plurali genere feminino simpliciter declinatur . 
+Ioca et loca simillima nomina sunt . 
+Nam in numero plurali et masculino et neutro genere declinantur : dicimus enim et ioci et ioca , loci et loca ; in numero autem singulari tantum masculino , ut iocus et locus . 
+Quod dicit genera communia esse inter masculinum ; et femininum ; , ut puta pampinus , non ita intellegimus , quasi sacerdos . 
+Nam sacerdos si masculus est , hic sacerdos dicitur ; si femina , haec sacerdos : non possumus hoc pro nostra voluntate confundere , sed pro naturae qualitate discernimus . 
+Pampinus vero et dies et similia pro nostro arbitrio vel masculino vel feminino genere proferuntur . 
+Nomen nec in totum fixum nec in totum mobile dixit ; leo ; leaena secundum Vergilium , ' torva leaena lupum sequitur ' ; secundum Ovidium mobile est , qui dixit ut lea saeva sitim multa conpescuit unda . 
+Eiusdem generis debent esse deminutiva , cuius generis sunt principalia ; ut puta ideo haec domuncula generis feminini , quia et haec domus generis feminini est : exceptis scilicet paucis istis , scutum pistrinum canis rana verna scutra ; nam scutra scutrillus facit , beta betaculus . 
+Pulvis dicit quia numeri singularis est tantum ; sed legimus apud Horatium novendiales dissipare pulveres . 
+Item pax lux dicit numeri singularis ; sed legimus apud Salustium paces et luces . 
+Item Quirites dicit numero tantum plurali ; sed legimus apud Horatium hunc Quiritem , ut sit nominativus hic Quiris : item idem Horatius ' quis te Quiritem ' ; cuius nominativus erit hic Quirites , ut dicit Petronius . 
+Quadrigas dicit numeri tantum pluralis , sed Varro dicit et numero singulari . 
+Virus generis neutri est et declinatur quem ad modum doctus , hoc virus huius viri : legimus enim apud Lucretium ' tetri primordia viri ' . 
+Dicit nomina iam conposita non debere conponi , ; et idem paulo ante dixit de conpluribus posse conponi : ; ne contrarium sit , ita intellegi debet , ut liceat nobis nomen conponere bis , sed ita ut prima conpositio sensum nominis in contrarium non vertat , secunda autem vertat , ut territus inperterritus . 
+Illud enim nobis non licet facere , ut per conpositionem primam conversum in contrariam significationem nomen per secundam conpositionem valeamus revocare ad primam significationem , ut est doctus indoctus , quando utique nulla ratione dicitur . 
+Praefectus vigilum si sic dicatur , quem ad modum tribunus militum , id est si pro uno nomine accipitur uterque sermo , priore parte tantum modo declinatur . 
+Si autem voluerimus elocutionem facere , dicimus praefectus vigilibus , quo tempore licet nobis etiam in haec duo nomina aliquem adferre sermonem , ut ' praefectus est vigilibus ' . 
+Casus plerique quattuor esse dicunt , auferentes nominativum et vocativum , qui similis est nominativo . 
+Ideo autem auferunt nominativum , quoniam , cum casus sit dictus ab eo , quod faciat nomen cadere , nominativus e contrario rectum nomen ostendit . 
+Alii quinque docent , ut Graeci , qui ablativum non habent ; alii sex , ut Latini , qui ablativum addunt ; alii etiam septimum addunt casum , qui est ablativo similis sine praepositione , quamquam non in omnibus similis inveniatur . 
+Nam quando dico ' doctior illo ' et ' doctior ab illo ' , re vera eadem invenitur elocutio ; quando autem dico ' illo praesente suscepi ' et ' ab illo praesente suscepi ' , non est similis ab utroque casu elocutio . 
+Nam ' illo praesente suscepi ' admittit tertiam personam ; ' ab illo praesente suscepi ' , inter duas tantum modo res geri videtur . 
+non nulli adiungunt octavum casum , qui fit , cum quid per accusativum cum praepositione possumus dicere ; et ; dicimus per dativum sine praepositione , ut ' it clamor in caelum ' et ' it clamor caelo ' vel ' subeunt ad murum ' et ' subeunt muro ' . 
+Inflexionum autem varietates in casibus sex sunt . 
+Aliquando enim omnes casus varios exitus sumunt , ut est unus , quae dicitur forma hexaptota : item pentaptota dicitur , ubi quinque sunt varietates , ut doctus ; item tetraptota , ubi quattuor , ut est species ; triptota , ubi tres , ut est templum ; diptota , ubi duae , ut est cornu genu : nam nominativus accusativus et vocativus corripiuntur , alii tres producuntur . 
+Est etiam monoptota , quam non bene monoptotam , sed aptotam dicimus , ut est nequam . 
+Nam monoptota illa sunt , ubi unus tantum casus est , ut sponte ; aptota vero illa sunt , ubi omnes quidem sunt casus , sed nulla ratione variantur , ut est frugi . 
+Inveniuntur autem nomina unum casum habentia tantum , ut natu tabo ; aut duo tantum , ut hic Iuppiter o Iuppiter ; aut tres tantum , ut hoc nefas hoc nefas o nefas ; aut quattuor tantum , ut huius dicionis huic dicioni hanc dicionem ab hac dicione . 
+Sed horum nominum reliquos casus in usu quidem non esse manifestum est , in auctoritate autem saepius reperiuntur . 
+Inimicus dativum regit , quamquam usus vindicet nominativum : ' inimicus ' enim ' mihi est ' dico , non meus . 
+Item ' secundus ab illo est ' dicimus , non secundus illi . 
+Quamquam ista nomina , quae suis casibus serviunt , etiam aliis varia auctoritate iunguntur . 
+Nam et pactus illam rem dignus illa re . 
+Quod dicit ab his mulabus filiabus deabus nos dicere debere , sciendum est propter testamentorum necessitatem . 
+Nam haec pauca dicit Probus contra artem esse suscepta , nec nos debemus ad istorum similitudinem alia declinare . 
+Ea enim , quae arte carent , sola auctoritate firmantur . 
+vas in numero singulari tertiae est declinationis , in numero plurali secundae . 
+Dies secundum regulam tantum feminini generis est : nullum enim nomen e producto ablativo terminatum alterius potest generis inveniri . 
+quod autem dicimus genere masculino , ratio persuasit ADVii : nam hodie dicentes quasi hoc die significamus ; nec tamen dicimus hadie quasi hac die . 
+Nam quotiens nominativus singularis n et s terminatur , ablativus in e et genetivus pluralis in um exit . 
+A supra dictis regulis venit accusativus singularis . 
+Tunc in im exit , cum ablativus singularis indubitabiliter i terminatur , ut ab hac vi , ab hoc Tiberi : facit enim hanc vim , hunc Tiberim . 
+Si autem e terminetur ablativus , tunc variatur accusativus , ut ab hac puppe hanc puppem . 
+Domus et iugerum ab antiquis aliter declinabantur , quam hodie declinamus . 
+Nam domus quartae erat declinationis , iugerum tertiae . 
+Nos autem in hoc nomine , id est domus , tres [ in unum ] casus usurpamus a secunda declinatione , ablativum a domo , genetivum pluralem harum domorum , accusativum pluralem has domos . 
+In nomine autem iugeris unum tantum modo casum usurpamus , ablativum ab hoc iugero . 
+V littera tunc retinetur in dativo plurali , ut ipse dixit , cum aliqua discernenda sunt , ut artubus et arcubus . 
+Cui regulae tamen invenimus duo nomina contraria , id est nulla discretione interveniente u retinentia , ut specubus et tribubus . 
+Ab istis regulis discrepant nomina tantum pluralia , ut Vulcanalia Minervalia , ideo quod illae regulae ablativi sunt singularis , haec autem nomina numeri sunt tantum pluralis . 
+Quae licet regulas non habent , tamen ad similitudinem nominum declinanda sunt , quae [ nomina ] regulis continentur , id est ut sic declinemus hae Kalendae quem ad modum ; hae Musae , hi Manes quem ad modum ; hi agiles , hae Idus quem ad modum hae manus . 
+Quamquam dixerunt , ut , quem ad modum regulis carent , ita varie declinarentur . 
+Nam invenimus apud auctores et ancilium et anciliorum , et Vulcanalium et Vulcanaliorum . 
+Item nomina Graeca a supra dictis regulis segregantur , ut emblema poema ; et hoc iuste . 
+Nam si Graeca sunt , vel ablativo carent ; illae autem regulae ab ablativo originem sumunt , quas non possunt suscipere nomina ablativo carentia . 
+Sed haec maiores nostri aut tertia declinatione declinabant , si fuissent generis neutri , ut poema poematis ; aut prima declinatione declinabant , si fuissent generis feminini , ut haec poema huius poemae . 
+Quamquam invenimus aliquos casus nec ab illis nec ab istis regulis declinatos , id est genetivum pluralem et dativum et ablativum plurales : legimus enim apud Ciceronem horum poematorum his poematis et ab his poematis ; similiter et emblematorum et emblematis , peripetasmatorum peripetasmatis . 
+Analogia dicitur ratio declinationis nominum inter se omni parte similium ; Latine proportio vocatur . 
+Nomina autem similia sunt omni parte , si octo rebus sint similia , id est sex illis quae accidunt nomini , qualitate conparatione genere numero figura casu , deinde exitu syllabarum , deinde consonantium ratione paenultimarum . 
+Atque si una res de istis octo similibus desierit , dicimus [ enim ] nomen nulla ratione similiter declinari . 
+Cuius rei exemplum sit lepus et lupus . 
+Nam licet septem partibus consentiant , tamen , quia genere dissentiunt ( lupus enim transit in aliud genus , ut lupus lupa , lepus lepa non facit ) . 
+Probus autem pronomen in quattuor partes dividendum putavit , id est pronomen finitum infinitum minus quam finitum et possessivum ; quod non videtur habere rationem . 
+Unde Donatus melius , qui in duas partes in primo divisit . 
+Nam si ea sunt finita pronomina , quae recipiunt personas , alia omnia , quae non recipiunt personas , infinita dicenda sunt . 
+Unde apparet quod infinita et minus quam finita sunt et possessiva : in illis enim non accidit certa persona . 
+Cuias et nostras vel cuiates et nostrates ( nam utrumque dicimus secundum Plauti auctoritatem ) gentem significant , id est ' cuius gentis ' , [ optimas ] ' nostrae gentis ' . 
+Plerique accentum in ultima syllaba ponunt , quando dicimus cuias ; sed prave . 
+Nam nulla pars orationis est Latina absque praedictis , quae potest in ultima accentum tenere . 
+Sunt aliqua pronomina quae casibus crescunt : nominativo , ut quis vel qui , genetivo singulari , ut mei vel mis , tui vel tis , ablativo singulari , ut a quo vel a qui ; plurali dativo et ablativo , ut a quis vel a quibus . 
+Qua ratione fiant , superius diximus . 
+Sunt e contrario quae casibus decrescunt : nam aliquando vocativus non invenitur , ut in pronomine ego ; aliquando nominativus et vocativus , ut in pronomine sui sibi se a se ; aliquando tantum accusativus , ut eccum eccam ellum ellam ; aliquando tantum genetivus , ut cuia et cuium . 
+Quod autem dicimus sui aliud esse pronomen , verum est : non enim de possessivo nascitur , cuius nominativus est suus . 
+Nam si inde nasceretur , dativum in o mitteret , suo , non in i , sibi . 
+Praeterea est alia differentia , quod hoc pronomen , sui vel sibi , utriusque numeri est ; illud vero possessivum , suus , et singularem habet numerum et pluralem . 
+Quaesitum est apud Graecos , an o vocativi casus esset articulus , et probatur non esse . 
+Omnes enim articuli , cum de numero singulari ad pluralem transeunt , varie proferuntur , ut hic et hi , huius et horum et reliqui . 
+Quando autem dicimus o docte et o docti , in utroque numero eundem articulum ponimus . 
+Qua re non articulus videtur , quia non mutatur in numero plurali , sed potius adverbium vocantis , ut , quem ad modum dicimus ' heus vos docti ' , sic dicamus ' o tu docte ' et ' o vos docti ' . 
+Inter articulos et pronomen hoc interest , quod pronomina tunc sunt , cum sine nominibus sunt et absentium nominum videntur explere personas , ut hic haec hoc . 
+Quando autem dico hic Aeneas huius Aeneae , iam non possunt pronomina dici , cum non fungantur eorum nominum , quae praesentia sunt , officio : ipsa enim nomina per se significationem inplent . 
+Neuter uter alius et reliqua constat esse nomina , quoniam Probus viginti et unum dicit esse pronomina , in quibus ista non conputantur . 
+Ea pronomina , quae utraque parte nominativum habent , secundum formam nominum declinantur . 
+Nam utraque parte sic declinamus quisquis , quem ad modum praetor urbanus ; sic autem priore parte non declinamus aliquis , quem ad modum nec iuris peritus ; sic posteriore parte non declinamus quispiam , quem ad modum nec tribunus militum . 
+Odi novi memini quaeritur cuius sint temporis . 
+Constat esse perfecti . 
+Nam et perfectum in i semper exit , ut legi scripsi , et praesens tempus numquam in i , sed semper in o exit . 
+Illa enim verba significationem habent praesentis temporis , regulas autem praeteriti . 
+Sum defectivum verbum est in coniugatione . 
+Nam quando dicimus es , non potest esse secunda coniugatio , quia et e correptam habet et in prima persona e ante o non habet . 
+Pudet et taedet quasi defectiva posuit ; in superiore autem parte inpersonalia non contrarie sunt posita . 
+Nam hoc ipsum verbum inpersonale defectivum est . 
+Sublatis enim de primo verbo duabus personis , prima et secunda , tertia utique superest ; quae si non sibi adiungat pronomen , defectivum dicitur esse verbum , si autem adiungat , inpersonale . 
+Gaudeo et audeo a plerisque neutropassiva , ab aliis anomala , ab aliis supina verba dicuntur , quae in tempore perfecto et plusquamperfecto passivam habent declinationem , in reliquis activam . 
+Sunt alia inaequalia , quae ; et ; suam habent declinationem et contrariam , ut est placeo : nam et placui facit et placitus sum . 
+Sunt item alia inaequalia , quae ideo sunt inaequalia , quia primam syllabam non reservant , ut nolo volo : faciunt enim nolo non vis non vult , non nolo nolis nolit : item volo volis volit non dicimus , sed volo vis vult . 
+Sunt alia penitus anomala , de quibus nihil possumus dicere , nisi quod lectione detinentur , id est eas usurpare personas , quae tantum auctoritate firmantur , ut sunt haec , faxo faxis , infit , inquam et reliqua . 
+Prima persona indicativo modo semper corripitur , ut lego , absque monosyllabis , ut do sto flo , quae quidem ipsa , si fiant polysyllaba , ut reddo reflo praesto , corripiuntur . 
+Verba quorum declinatio in nostra potestate est sunt haec , tondeo lavo fabrico punio et reliqua . 
+Verum tamen debemus secundum naturam actuum vel activum vel passivum praesumere in declinatione , ut ' ego lavor ' , ' balneum lavat ' ; quando ego capillos depono , ut dicam tondeor , quando alteri capillos detraho , ut tondeo . 
+prima persona non debet ita proferri , lego ego , quoniam lego iam habet in se significationem pronominis ; nisi tamen sic tunc possumus dicere , lego ego , quando nos magis volumus ostendere lecturos quam alios , ut sit ' quasi ego magis lego quam ceteri ' . 
+' Maledico tibi ' dicimus , non te , quoniam ' tibi dico ' , non ' te dico ' dicimus . 
+Prima persona ante ultimam o septem litteras non habet , h o f k q y z ; ceteras vero habet , e , ut sedeo , i , ut audio , u , ut annuo , b , ut libo , et ; reliqua ; , sicut in arte scripta sunt . 
+K ideo non potest praeponi o litterae , quia numquam anteponitur nisi a sequente . 
+O y z ideo non possunt praeponi , quia unum tamen verbum , quod o ante o habet , ut reboo , ' reboant silvaeque et magnus O ' . 
+Ideo contra regulam venit , quia Graecum est . 
+Cetera in arte conscripta sunt . 
+AdVium dictum est , quia necesse habet semper verbum sequi . 
+Verbo tamen non necesse est egere semper ADVio . 
+Nam possum dicere sic , legit . 
+Nunc enim et plena est elocutio , et adverbium tamen non invenitur . 
+nam cum dico cras hodie , non erit integra elocutio , nisi addam verbum , ut puta dico vel facio . 
+AdVium plerumque confirmat verbum , plerumque destruit : confirmat , ut ' iam faciam ' ; destruit , ut ' non faciam ' . 
+AdVia aut a se oriuntur aut ab aliis partibus orationis veniunt , sicut in artibus positum est : nam ibi sunt exempla varia posita . 
+Horno autem nihil est aliud nisi hoc anno . 
+Unde derivatio duplex invenitur . 
+Nam Cicero dicit hornotinas fruges ; Horatius dicit hornas fruges . 
+Item meatim nihil est aliud nisi meo more , tuatim tuo more . 
+Quod dicit de participio adverbium posse deduci , verum non est . 
+Etenim illud exemplum quod protulit , id est indulgens , non tantum participium est : nam recipit conparationem ; facit enim indulgentior indulgentissimus . 
+Ergo quando dicimus indulgenter , non videmur a participio transisse ad adverbium , sed a nomine . 
+Omnia ADVia e terminata in positivo semper producuntur , ut docte , exceptis tribus regulis eorum ADViorum , quae aut non conparantur , ut rite ( nemo enim dicit ritius ritissime ) , vel quae anomale conparantur , ut bene ( nemo enim dicit benius benissime ) , vel quae a se oriuntur , ut inpune [ inpunius ] . 
+Hoc scilicet in positivo ; ceterum superlativus gradus semper producitur , ut doctissime . 
+Facile et difficile [ non ] quaeritur , utrum ADVia sint an nomina . 
+Constat autem esse nomina tantum , quia semper correpta sunt : si enim ADVia essent , ut supra diximus , producerentur : deinde , quia neutri generis formam sequuntur . 
+Sicuti enim dicimus facilis facile , ; sic ; et difficilis difficile . 
+Deinde si ADVia essent , in ter exirent : dativus enim nominis i terminatus adverbium in ter syllabam mittit , ut huic forti fortiter ; sic huic facili faciliter , huic difficili difficiliter diceremus . 
+Ergo constat esse nomina . 
+Sic autem posita sunt pro ADViis , quem ad modum fere invenimus apud poetas nomina pro ADViis constituta , ut ' torvum clamat ' pro eo quod est torve , ' horrendum resonat ' pro eo quod est horrende . 
+qua figura oratores omnino uti non debent . 
+Genus enim est soloecismi , sicut ipse Donatus paulo post de soloecismi ratione monstravit . 
+Scire autem debemus quod dativus singularis o terminatus adverbium in e mittit , ut huic docto docte , i terminatus in ter , ut huic agili , agiliter ; quas quidem regulas saepe corrumpit auctoritas . 
+Nam invenimus plerumque id esse adverbium , qui dativus est casus , ut falso . 
+Haec autem ambiguitas elocutione discernitur . 
+Quando enim dico ' falso homini dedi ' , erit nomen ; quando dico ' falso loqueris ' , erit adverbium . 
+Item plerumque in contrarium cedunt . 
+Nam Terentius ait duriter , cum dure dicere debuerit , et Virgilius lugubre , cum lugubriter recte dicamus . 
+Ea ADVia conparanda sunt , quae ducunt originem a nomine recipiente conparationem , ut est doctus . 
+Ideo enim dicimus docte doctius doctissime , quoniam dicere possumus doctus doctior doctissimus . 
+Ab eo quod est Tullius cum fit adverbium , non recipit conparationem , quia nec nomen recipit . 
+Sunt alia ADVia , quae per se non conparantur , egent autem conparatione , ut est mane : nemo enim dicit manius , nemo manissime . 
+Verum tamen hanc , quam per inflexionem non habemus , possumus facere per adiectionem illarum particularum , ut magis et maxime , ut puta sit positivus mane , conparativus magis mane , superlativus maxime mane . 
+Omnis pars orationis cum desierit esse quod est , nihil aliud est nisi adverbium . 
+Idcirco si nomen desierit esse nomen , non facit pronomen aut participium , sed solum adverbium , ut est sedulo . 
+Nam si dicas ' sedulo homini dedi ' , nomen est ; si dicas ' sedulo feci ' , adverbium est . 
+Item pronomen aliquando et adverbium est . 
+Cum enim dico ' qui est ' , erit pronomen ; cum dico ' qui scis ' , erit adverbium . 
+Item verbum plerumque et adverbium est . 
+Quando enim dico pone prima syllaba accentum habente , erit verbum ; quando ultimae syllabae do accentum , erit adverbium . 
+Item et participium aliquando adverbium est . 
+Cum enim dico ' me ad villam profecto contingit ' , participium est profecto ; cum dico ' profecto male loqueris ' , adverbium est profecto . 
+Item ante praepositio non numquam et adverbium est . 
+Praepositio in hac elocutione erit , ' ante templum ' ; casum enim habet iunctum : si autem dicas ' ante feci ' , erit adverbium , quoniam sequitur verbum . 
+Ut coniunctio est , sed plerumque et pro ADVio ponitur , ut cum dicimus ' ut te , fortissime Teucrum , Accipio ' . 
+heus si dolorem significat , interiectio est , ut heus etiam mensas consumimus , inquit Iulus ; si autem verbum sequatur , adverbium est , heus , inquit , iuvenes monstrate mearum . 
+Erit enim nomen , quo modo nominibus interdum pro ADViis utimur , ut ante dictum est . 
+Illud fideliter tenere debemus , numquam separatim praepositionem ADViis posse coniungi , veluti de mane , de noctu . 
+Quod autem invenimus indocte et infrequenter , sunt quidem praepositiones , sed non separatim , sicut sunt etiam illae particulae , quas ipse ponit artigrafus , desursum deorsum deinceps . 
+Ita enim constant duae partes orationis , ut uno ambae nitantur accentu . 
+Nec duae praepositiones interveniente ADVio sociandae sunt . 
+Praepositio etiam de non potest adiungi nomini interveniente ADVio , ut ' de trans Tiberim venio ' , quem ad modum ' illinc venio ' . 
+Participium est quasi particapium : habet enim a nomine genera et casus , a verbo tempora et significationes , ab utroque numerum et figuram et cetera , quae in superioribus dicta sunt . 
+In posterioribus illud adicit , inchoativa verba non habere nisi praesentis temporis participium , futuro autem carere . 
+Ideo autem [ in ] futuro carent , quoniam regulam futura participia a praeterito ducunt participio , praeteritum autem participium a tempore perfecto originem sumit ; et ideo , cum inchoativa verba tempus perfectum non habeant , non possunt habere id quod additur iam tempori perfecto . 
+Praeterea dicit participia ab inpersonalibus verbis nisi usurpata non venire ; quae res penes Latinitatem non erit [ et similia ] . 
+Et hoc similiter ab arte descendit . 
+Etenim participia a prima positione verbi originem trahunt . 
+Cum igitur inpersonalia primam personam non habeant , participia non iure ex se faciunt , sed tamen , ut dixi , usurpare nobis licet . 
+Invenimus enim apud varios auctores , quod puto ideo fieri , non quod de inpersonalibus usurpentur participia , sed quod ipsa inpersonalia fiunt verba plenissima . 
+Nam hoc , quod dicimus pudet taedet tantum dici , invenimus in auctoribus et pudeo et taedeo ; unde fiunt pudens et taedens : participium non ab inpersonali videbitur , sed a verbo integro . 
+Odi verbum participium habet osus , quod licet in usu non sit , tamen conponatur , et in usu erit , exosus perosus . 
+Ab eo quod est memini artis nullum participium reperitur : si ad usum , verum est ; si ad auctoritatem , falsum . 
+Nam invenimus in Plauto meminens . 
+Tunicatus galeatus dicit participia non esse , sed nomina , eo quod a verbis non trahuntur . 
+Sed si diligenter adtendas , advertens a similibus participia conprobabis . 
+Nam licet non faciat tunico galeo , tamen , quoniam tempus habent , sine dubio participia sunt . 
+Etenim ' armatus incedit ' et ' vestitus incedit ' cum dico , hoc significo , ' iam armatus , iam vestitus est ' . 
+Sic etiam dicimus ' tunicatus incedit ' , ' galeatus incedit ' , id est [ et ] ' iam tunicam habet ' , ' iam galeam habet ' . 
+Quae res tempus ostendit ; et si tempus est , participium est . 
+Pransus cenatus et reliqua constat esse participia , licet a verbo non veniant . 
+Concessum est enim regulariter , ut a neutralibus verbis liceat nobis usurpare praeterita participia . 
+Sed quoniam in his ars deficit , debemus vel auctoritate firmare neque ad istorum similitudinem alia fingere , sed illis tantum uti , quae lecta sunt . 
+Nomina similia participiis praeteriti temporis quartae sunt declinationis , ipsa autem participia secundae , ut hic visus huius visus nomen est , hic visus huius visi participium est . 
+Furibundus et moribundus ; quaesitum est ; quid essent ; et nomina esse manifestum est , quod subtracta dus syllaba et addita ; s ; littera non redeunt in participia praesentis temporis , quod regulariter dictum est nova ratione . 
+Participia , quae constat esse participia , nec positivum gradum possunt recipere , quoniam participia nullam recipiunt conparationem . 
+Tamen conparativum gradum plerumque suscipiunt , acceptior et incensior , quae res sola sensus ratione secernitur . 
+AdVium de participiis nasci Donatus adserit , plurimi negant . 
+Sed constat apud maiores quidem lecta , in usu tamen esse non possunt , ut dictum est in ADVio . 
+In coniunctione nihil penitus novi posuit , sed ita hic sicut in superiore parte tractavit . 
+Illud plane adiecit , quod licet nobis coniunctiones pro aliis coniunctionibus ponere ; quod non mirum est , cum liceat et alias partes orationis pro aliis ponere , ut nomen pro verbo , pronomen pro ADVio , et multa alia , tamen significatione mutata . 
+Praepositio est pars orationis dicta , quod in loquendo praeponitur . 
+Et haec est eius natura , puta ' ante templum ' : nemo enim dicit ' templum ante ' . 
+Sed tamen est una praepositio quae pro arbitrio nostro ponitur , ut tenus : dicimus enim et ' pube tenus ' et ' tenus pube ' . 
+Item cum plerumque sic postposita invenitur , ut praeponi omnino non possit ; quod utique contra artem videmus , ut cum dicimus mecum tecum nobiscum vobiscum . 
+Praepositio autem aut cohaeret aut utrumque efficit , con di dis . 
+Ita enim loquimur , ' conduco tibi ' , ' distraho tibi ' , non aut ' con tibi duco ' aut ' dis tibi traho ' . 
+Separantur apud et penes . 
+Etenim cum dicimus ' apud amicum ' , duae partes orationis sunt ; ' penes arbitros ' similiter duae . 
+Aliae vero et cohaerere et secerni possunt , ut prae . 
+Nam cum dico praetulit , utique cohaerens invenitur ; cum autem ' prae metu ' , segregata est . 
+In accusativis praepositionibus , quae triginta tantum sunt , illae duae possunt in quaestionem vocari , apud et ad , eo quod ; apud ; semper in loco est , ut ' apud amicum sum ' ; ad vero secundum artem semper ad locum , ut ' ad amicum vado ' . 
+Quamquam et secundum auctoritatem invenitur in loco , ut ' ad Marcum Laecam te habitare ' . 
+Usque non videtur plurimis praepositio , quoniam sic alia praepositio non potest poni . 
+Etenim dicimus ' usque ad forum vado ' , ut Vergilius ' ad usque columnas exulat ' . 
+Nam si habet alteram praepositionem , ipsa praepositio esse non potest : numquam enim praepositio alteri praepositioni cohaeret . 
+Idcirco debemus dicere usque adverbium esse , quod iterum ratio refutat : etenim ADVio praepositio separatim numquam cohaeret . 
+Si autem volueris , ut coniunctim cohaereat , non iam adverbium erit , sed potius recipit naturam suam : nam et praepositionem praepositioni sic cohaerentem , ut pro una parte orationis habeantur , invenimus saepius apud Catonem , ut circumcirca , id est circa . 
+In ablativis praepositionibus e et ex hanc habent observationem , ut , si vocalis sequatur , ex praeponamus , ut ' ex amico audivi ' ; si autem consonans , e praeponatur , ut ' e foro venio ' . 
+Illud vehementissime observare debemus , ut con et in , quotienscumque post se habent s vel f litteram , videamus quem ad modum pronuntientur . 
+Plerumque enim non observantes ; in ; barbarismos incurrimus . 
+Nam cum ipsarum natura brevis sit , tamen , si sequantur supra dictae litterae , plerumque in longitudinem transit , ut cum dicimus confit confessio , item consilium consuluit . 
+His enim locis pronuntiandae sunt ut longae ; similiter insula infula . 
+Quod magis aurium iudicio quam artis ratione colligimus . 
+praepositiones aut ipsa verba corrumpunt , ut conficio ; nam erat integrum facio : aut ipsae corrumpuntur ab integris verbis , ut affero ; nam erat integrum fero : aut utrumque , et corrumpunt et corrumpuntur , ut afficio . 
+Nam affero , quod scribebatur per a et per d , incipit scribi per a et f ; et item quod erat facio , fit ficio . 
+Praepositio et quando praeponitur et quando postponitur , si casum suum retineat , praepositio est , ut ' per transtra ' , ' transtra per ' ; si autem casum mutaverit , fit adverbium , ut ' longo post tempore venit ' . 
+Ambiguae praepositiones quattuor fuerunt , in sub super et subter , quibus maiores indifferenter utebantur ; sed hodie iam duae sunt , in et sub : nam super et subter accusativae habentur . 
+In autem et sub qua ratione serventur , in superiore arte tractatum est . 
+Plerumque eadem est praepositio , quod est et adverbium , ut ante et propter . 
+Sed quid magis dicendum sit , hac ratione colligimus . 
+Etenim si pars orationis sequatur , quae casibus servit , praepositiones erunt , ut ' ante templum ' , ' propter aquam ' : templum enim et aquam casuales partes orationis sunt . 
+Quando autem dicimus ' ante fecit ' , ' post dixit ' , ADVia sunt : sequuntur enim verba , et novimus utique ADVia semper verbis egere . 
+Interiectio nihil habet nisi solum mentis affectum , quae tunc vere interiectio dicitur , quando voce incondita profertur , ut o heu et similia . 
+Cum autem plenas ; voces ; adhibemus ad exprimendos animi affectus , non tam interiectiones dicuntur , quam pro interiectionibus , ut ' pro Iuppiter ibit hic ait ' . 
+Et haec pars non potest proprium nomen unius cuiusque significationis tenere , eo quod variae interiectiones sunt : nam o dolentis legitur , ut o mihi praeteritos referat si Iuppiter annos , et irascentis , ut ' o callidos homines ' et similia . 
+Decurso octo partium tractatu incipit iam transire ad illud , quod docet nos , vel quem ad modum possumus vitare vitia vel habere virtutes . 
+Vitia autem sunt , ut ipse dicit , tantum quattuordecim . 
+Reliquae vero virtutes vocantur , quae dividuntur in metaplasmos , in schemata , in tropos . 
+metaplasmus est res solius necessitatis , schema res solius ornatus , tropus res quae duo amplectitur superiora et vitiorum omnium , in quibus est barbarismus . 
+Quod vitium ita definiunt , barbarismus est vitium factum in una parte orationis vel in uno sermone contra regulam artis grammaticae . 
+Plinius autem dicit barbarismum esse sermonem unum , in quo vis sua est contra naturam . 
+Barbarismus autem dicitur eo , quod barbari prave locuntur , ut siqui dicat Rumam pro Roma . 
+Sed tunc barbarismus dicitur , cum in uno Romanae linguae sermone peccamus . 
+Ceterum si peregrina sint verba ( habemus enim multa et a Gallis et ab Africis et ab aliis gentibus ) , tunc barbarolexis vocatur . 
+Praeterea si in prosa oratione fiat , tunc barbarismus dicitur ; si autem in poemate , metaplasmus vocatur . 
+Quando enim dicit Virgilius relliquias , quoniam in metro est , dicimus esse metaplasmum ; si soluta esset oratio , barbarismum vocaremus . 
+Fit autem barbarismus principaliter modis duobus , pronuntiatione et scripto : ; pronuntiatione , ; si aut naturaliter longas syllabas breviter proferamus , ut Romam , aut si naturaliter breves producamus , ut rosam . 
+Scripto vero quem ad modum fit ? 
+Modis quattuor , id est per adiectionem detractionem inmutationem transmutationem ; et fit quinque rebus , littera syllaba accentu tempore adspiratione . 
+Haec omnia aut adiciuntur aut detrahuntur . 
+Adicitur littera , ut ' relliquias Danaum ' , syllaba , ut induperator pro eo quod est imperator : tempore , ut ' Italiam fato profugus ' , cum Italiam priore correpta syllaba dicere debeamus : accentu , ut hic ; aliter enim pronomen , aliter adverbium pronuntiandum est : adspiratione , horcus pro orcus ; sic enim dicebant antiqui . 
+Similiter per detractionem . 
+Aut littera detrahitur , ut Achiles pro Achilles , aut syllaba , ut vixe pro eo quod est vixisse : aut tempore , ut steteruntque comae et vox faucibus haesit pro steterunt ; media enim syllaba naturaliter produci debuit : accentus , quando dicimus deinde ; mediam enim habere debuit ; acutam ; , quia positione longa est : adspiratione , ut arena ; pro harena ; ; hoc enim verum est ; dicta est enim ab eo , quod harida sit terra . 
+Inmutatio vero et transmutatio simili ratione monstratur . 
+Quorum exempla ibi in arte sunt posita . 
+Per adspirationem quando facimus barbarismum , dubitatum est , an pronuntiationi inputaretur , an scripto , quoniam haec aliquando anhelitus et cum linguae est , scribendo esse dicitur cum anhelitu in pronuntiando . 
+Inter ; in ; mutationem et transmutationem hoc interest , quod inmutatio dicitur , ubi altera littera pro littera ponitur , ut olli pro illi ; transmutatio autem est , ubi solus ordo mutatur ipsis manentibus litteris , ut Evandre pro Evander . 
+Conversio enim facta est litterarum . 
+His ita se habentibus dicit esse quaedam vitia , quibus quidem nomen non tribuit , tamen vitanda praecepit . 
+Sunt autem iotacismi labdacismi myotacismi hiatus et collisiones . 
+Iotacismi sunt , quotiens post ti vel di syllabam sequitur vocalis , et plerumque supra dictae syllabae in sibilum transeunt , tunc scilicet , quando medium locum tenent , ut meridies . 
+Quando autem primum locum tenent , etiam sic positae , sicut dicuntur , ita etiam sonandae sunt , ut dies tiaras . 
+Labdacismi fiunt , si aut unum ; l ; tenuius dicis [ solocismum ] , ut Lucius , aut geminum pinguius , ut Metellus . 
+Myotacismus fit , quotiens post partem orationis in m littera desinentem sequitur alia pars orationis quae inchoat a vocali , ut ' hominem amicum ' . 
+Hoc vitium vitare possumus aut per suspensionem pronuntiandi aut exclusione ipsius m litterae . 
+Sed melius est ut suspensione pronuntiandi hoc vitium relinquamus . 
+Si enim voluerimus m litteram excludere , vitamus quidem myotacismum , sed cadimus in hiatum . 
+Hiatus autem est , quando vocalis vocalem sequitur in duabus partibus orationis , ut ' Musa amavit ' . 
+Quod foedius est , si eae ; dem ; vocales se sequantur ; ceterum si aliae , levius videtur , ut ' Musa optimum ' . 
+Collisiones sunt , quotiens ab iisdem syllabis inchoamus sequentes partes orationis , quibus terminantur priores , ut ' mater trahis ' . 
+Ut diximus , vitiis nomen inponere nullatenus potuerunt ; definitionem tamen intuentes possumus ita defendere . 
+Nam si barbarismus est vitium factum in una parte orationis , tantum non erit barbarismis adplicandus iotacismus et labdacismus , qui in singulis fiunt partibus orationis ; ceterum myotacismus hiatus et collisiones , quoniam non numquam in una parte orationis possunt effici . 
+De qua re se a nomine abstinuit . 
+Praeterea [ hiatum ] sunt barbarismi qui ad grammaticos pertinent ; illi vero , qui in syllabis fiunt , neque ad grammaticos pertinent neque barbarismi dici possunt . 
+Frequenter enim in duabus partibus orationis fiunt , quod contra definitionem est barbarismi , ut ' leges nostras ' , ' ergo revoco ' et similia . 
+Hae dicuntur malae compositiones . 
+Soloecismus dictus est vel ex Graeca etymologia , quasi SWOU LOGOU AIKISMOS , id est sani sermonis vitium , aut certe ideo , quod SOLOIKOI venientes Athenas et male loquentes nomen ex se vitio dederunt . 
+Soloecismi autem definitio est talis , vitium factum in contextu partium orationis , ita ut singuli sermones Latini sint , sed peccet ipsa coniunctio , ut siqui dicat ' multi mihi homines iniuriam fecit ' pro fecerunt . 
+Quaesitum est , an etiam in uno sermone possit fieri soloecismus , veluti cum dicimus uni homini salvete , aut cum virum vocantes dicimus hanc , aut cum interrogati quo eamus dicimus intus . 
+Sed cum sciamus et valete et hanc et intus Latinos esse sermones , utique ideo videntur modo soloecismum fecisse , quoniam referuntur ad aliquid . 
+Relatio autem alterius rei ad alteram rem unus sermo non est . 
+Nam quando dicimus hanc de viro , non ideo vitiosum est hanc , quia naturaliter vitiosum est , sed quia refertur ad virum . 
+Item cum dicimus ' intus eo ' , non ideo vitiosa est elocutio , quia intus omnino non dicimus , sed quia ad locum relatum est adverbium , quod in loco est . 
+Scalam scopam quadrigam et alia barbarismos esse voluerunt , quoniam singuli sermones vitium tenent , secundum supra scriptam definitionem . 
+Soloecismorum genera centum dicit esse Lucilius . 
+Plane constat brevius et melius posuisse Donatum , qui dixit duo esse genera principalia , reliqua specialia . 
+Principalia autem genera soloecismorum sunt , cum fiunt aut per partes orationis aut per accidentia partibus orationis . 
+; Per partes orationis , ; si aut aliae pro aliis ponantur , ut ' torvumque repente clamat ' , id est torve ; nomen pro ADVio posuit . 
+Quae elocutio sic hodie crebra est , ut figura putetur . 
+Nam omnes dicunt ' pulchrum legit ' , ' delicatum loquitur ' , cum utique nomina sint ista posita pro ADViis , quod in arte grammatica vitium iudicatur . 
+Item fit soloecismus per partes orationis , si ipsae per se malo ordine ponantur , ut ' intus eo ' pro intro . 
+Nam cum et intus et intro ADVia sint , tamen malo ordine posita vitium fecerunt . 
+Per accidentia vero partium orationis tot modis fiunt soloecismi , quot sunt cuiusque partis accidentia . 
+In nomine fiunt , si proprium pro appellativo ponatur , ut hauriat hunc oculis ignem crudelis ab alto Dardanus : Dardanus ait , cum Dardanius dicere debuerit ; usus est principali pro derivativo : per genera fit , ut ' amarae cortices ' , cum omnes fere et frequenter corticem genere masculino dicamus : per numeros , ut ' pars in frusta secant ' pro ' pars secat ' et cetera , quae illic in arte planissime cum exemplis suis tenentur . 
+Plane sciendum est quoniam , si in prosa oratione fiat hoc vitium , tunc soloecismus vocatur ; in poemate schema dicitur . 
+Quaesitum est apud Plinium Secundum , quid interesset inter figuras et vitia . 
+Nam cum figurae ad ornatum adhibeantur , vitia vitentur , eadem autem inveniantur exempla tam in figuris quam in vitiis , debet aliqua esse discretio . 
+Quidquid ergo scientes facimus novitatis cupidi , quod tamen idoneorum auctorum firmatur exemplis , figura dicitur . 
+Quidquid autem ignorantes ponimus , vitium putatur . 
+Nam sicut superius diximus , ; si ; sciens quis dicat ' pars in frusta secant ' et causa varietatis hoc dicat , figuram facit ; si autem nescius , cum aliud velit dicere , incongrue inter se numeros iunxerit , soloecismum fecisse iudicatur . 
+Cum barbarismo et soloecismo duodecim vitia putantur , quae in arte sunt scripta . 
+Inter quae et cacenphaton posuit , quod dixit fieri aut in uno sermone aut in pluribus . 
+Illud non adiecit , fieri cacenphaton etiam in sensu . 
+In quo reprehenditur Salustius dicens nam res ista si cogitetur , obscena est . 
+Et cum dicat Virgilius ' coniugis infusus gremio ' , et hic cacenphaton est in sensu . 
+Pleonasmos in verbis tantum fit , perissologia in sensu tantum , acyrologia in utroque . 
+Cetera vero expresse sunt posita . 
+Inter metaplasmos et schemata et tropos hoc interest , quod metaplasmi tantum necessitate excusantur , schemata ad ornatum adhibentur , tropi ad utrumque : ut cum dicimus tetulit , si in metro non poterat dici tulit , erit metaplasmus , quoniam necessitatis causa dictum est tetulit ; si autem tulit poterat in metro dici , schema fecit ille qui dixit tetulit : nam soli servit ornatui [ nominativis ] . 
+Si autem et metri ratio exegit , et cupidus alioqui novitatis hoc dixerit , tropum videtur fecisse . 
+Quare diutius lectionem debemus considerare , ut , si metri necessitas aliqua facit novitatem , tunc dicamus esse metaplasmum ; si autem scriptor ornatui tantum studuerit , tunc schema vocitemus ; si in uno utrumque factum est , ut et subveniretur necessitati et adhiberetur omni modo ; ornatus ; , tropos efficitur . 
+Metaplasmi autem quattuordecim sunt . 
+Sed primi septem aliis contrarii sunt . 
+Nam nullus est metaplasmus , qui non habeat contrarium : PROSQESIS EPENQESIS PARAGWGH , qui fiunt per additionem , contrarii sunt illis qui fiunt per detractionem , id est AFAIRESIS SUGKOPH APOKOPH ; et extra ordinem qui secuntur omnes statim contrarios habent . 
+Schematum vero et troporum exemplaria in arte planissime sunt posita . 
+Plane sciendum est quoniam schema in sermone factum ad grammaticos pertinet , in sensu factum ad oratores . 
+Nam cum dico ' pars in frusta secant ' , quoniam in verbis est quaestio , figura grammaticalis est ; quando autem dicit Virgilius quid memorem infandas caedes , id est cum dicit se non dicturum facta Mezentii et nihilo minus dicit , quoniam in sensu res est , ad oratores pertinet haec figura . 
+Praeterea hyperbaton ; et ; allegoria non in omnibus locis dicitur . 
+Nam generales sunt : quisquis enim dixerit hyperbaton , simul quinque tropos ponit ; quisquis allegoriam , simul septem . 
+Quare debemus non ipsis uti principalibus nominibus , sed potius nominibus subdivisionis , sicut in arte dispositum est . 
+Inter parabolen et paradigma hoc interest , quod parabole rerum dissimilium conparatio est , ut cum virum fortem Turnum aequiperamus leoni ; paradigma autem est rerum similium conparatio , ut cum puta hominem homini conparamus . 
+De his autem rebus , id est figuris , quaedam praelibamenta posuerunt grammatici . 
+Nam ; sunt ; ipsi auctores , qui specialiter opus inmensum de hac re multorumque librorum fecerunt . 
+SERVIUS HONORATUS AQUILINO SALUTEM . 
+Ultimarum syllabarum naturas , sicut proposueras , breviter lucideque digessi . 
+In qua re mea audacia tuo defenditur imperio . 
+Nam hoc opus , dum velut facile ac per se patens multi reliquerunt , difficilius reddiderunt . 
+Quamquam rationem litterae et syllabae in Donati artibus habeamus , tamen breviandi causa aliqua ex his decerpsimus , quae ad scientiam metrorum proficere credimus . 
+Igitur primas syllabas omnium partium orationis duobus modis considerabimus , natura et positione . 
+Natura tripertita est . 
+Nam aut diphthongo syllaba longa esse cognoscitur , ut ae oe au eu ei , aut exemplo ; quaeritur enim , utrum syllaba longa sit an brevis , ut ' Musa mihi causas memora ' : aut ex conpositione figurae , ut si nescias qualis sit pius , ex conpositione , quae est impius , qualis sit pi cognoscitur ; licet in aliquantis hoc fallat . 
+Nam cum dicimus nubere , nu longa est ; item cum dicimus innuba aut pronuba , fit brevis nu in conpositione . 
+Sed hoc inveniri raro contingit . 
+Positio est , cum correptam vocalem aut duae consonantes secuntur , ut arma ; aut una quaevis duplex , ut axis vel Mezentius vel maior ; aut altera consonans et altera vocalis loco consonantis posita , ut ' at Iuno ' et ' at Venus ' . 
+Verum si quaelibet pars orationis praepositionibus conponatur , ex his primas syllabas cognoscimus . 
+Nam talis manebit fere omnis conposita syllaba , qualis et ipsa praepositio fuerit , ut ineptus . 
+Item ex ipsis praepositionibus ad et ob et in et sub diversae in verbis ponuntur . 
+Nam corripiuntur , cum crescendo disyllabum reddunt , ut adit obit init subit ; indifferenter sunt , cum trisyllabum faciunt , ut adicit obicit inicit subicit ; producuntur tantum , cum tetrasyllabum ex se reddunt , ut adicio obicio inicio subicio . 
+Item quae per que et per pre in primis syllabis scribuntur producuntur , excepto pretium premo preces et queror , hoc est querellam depono , et quae ex his per derivationem aut declinationem fieri possunt et que coniunctione . 
+Item contra breviantur ex isdem praepositionibus in conpositione de et pro , ut dehinc deinde profectus professus profusus profanus profatus proavus pronepos et cetera . 
+Sunt item aliquanta verba , quae primas syllabas temporum ratione permutant , quae subter collecta in omni praeterito perfecto vel in omni praeterito plusquamperfecto vel in uno futuro modi tantum coniunctivi producuntur , in ceteris autem modis et temporibus breviantur , ut sunt haec , lego legi legeram legero , faveo favi faveram favero , venio veni veneram venero , fugio fugi fugeram fugero , facio feci feceram fecero , sedeo sedi sederam sedero , fodio fodi foderam fodero , video vidi videram videro , voveo vovi voveram vovero , foveo fovi foveram fovero , iuvo iuvi iuveram iuvero , ago egi egeram egero , emo emi emeram emero , lavo lavi laveram lavero , odio odi oderam odero , eo ivi iveram ivero , sino sivi siveram sivero , sero sevi severam severo , queo quivi quiveram quivero , caveo cavi caveram cavero . 
+Item contra inveniuntur verba , quae in praesenti tempore producta sunt et in praeterito breviantur , ut sunt haec , pono posui , cogo coegi , do dedi , sto steti . 
+Item omnia verba , quae in praeteritis antecrescunt , in primis syllabis breviantur , ut pendeo pependi , tondeo totondi , posco poposci , curro cucurri , tendo tetendi , pendo pependi . 
+Medias syllabas tribus modis cognoscimus , positione et diphthongis et accentu . 
+Sed de positione et diphthongis supra tractavimus . 
+Accentus autem est quasi adcantus dictus , quod ad cantilenam vocis nos facit agnoscere syllabas . 
+Qui vocis accentus duo sunt ad ea quae tractamus necessarii , correptus et productus . 
+Correptus est , quotiens sine ulla mora vocis medias syllabas enuntiamus , ut moenia tabula . 
+Productus est , quotiens medias syllabas cum aliqua mora vocis exprimimus , ut fortuna natura . 
+sciendum est tamen , quia illa quae in verbis i correpta proferuntur , cum in medium venerint et ipsam i in e mutaverint , ut legis lege legere , ubique breviantur ; excepto cum a tribus excipiuntur consonantibus b et m et t , ut legebam legemus legetur . 
+Cetera melius accentibus colliguntur . 
+Qui accentus in trisyllabis et tetrasyllabis et deinceps ita considerandus est , ut si quaeratur amicissimorum quibus syllabis constet , et dicimus primam brevem exemplo , ut ' nimium dilexit amicum ' ; secundam cum longo accentu invenimus ; tertiam positione longam ; quartam brevem accentu , quia , cum dicimus amicissimus , paeneultimam cum brevi accentu invenimus ; quintam longam accentu . 
+Ultima vero qualis sit , per singulas partes orationis monstrabunt rationes subiectae . 
+Nominativus singularis has habet breves , a ut Musa , e ut sedile , o ut virgo , u ut cornu , el ut mel , il ut vigil , ul ut consul , m ut tectum , en ut carmen , ir ut vir , or ut doctor , t ut caput . 
+Ex his producuntur in Graecis e ut Euterpe , o ut Dido , en ut lien Siren , il uno Etrusco ut Tanaquil . 
+Haec sunt item quae producuntur , i ut frugi , ol ut sol , an ut Titan , on ut Memnon , in ut delphin , as ut facultas , c ut lac et allec . 
+Sed as finitus nominativus breviatur in Graecis , cum genitivus dos habuerit , ut Arcas Arcados , Pallas Pallados . 
+Er autem in Graecis producitur , ut aether aer . 
+Item haec sunt quae in monosyllabis producuntur , in disyllabis autem et trisyllabis et tetrasyllabis et in ceteris polysyllabis corripiuntur : ar monosyllaba ut far , disyllaba ut Caesar ; er monosyllaba ut ver , disyllaba ut pater ; ur monosyllaba ut fur , disyllaba ut murmur ; is monosyllaba ut glis , disyllaba ut fortis ; al monosyllaba ut sal , trisyllaba ut Hannibal . 
+item haec sunt quae varietatem nominativi faciunt et quae sibi a genitivo suo regulam sumunt , es os us . 
+Nam es syllaba nominativus quando finitur , modis quinque producitur , duobus autem corripitur . 
+Tunc ergo producitur , cum [ aut ] nomen quintae fuerit declinationis , ut dies diei : item producitur , cum totidem syllabas genitivus habuerit quot et nominativus , ut proles prolis : tertio loco producitur , cum genitivus syllaba crescens e productam in medio obtinuerit , ut merces mercedis : quarto loco producitur , cum monosyllaba nomina fuerint vel de monosyllabis ducta , ut pes bipes sonipes : quinto loco producitur , cum i ante es in fine habuerit , ut abies paries aries quies . 
+Duobus autem modis breviatur , cum aut e mediam in genitivo correptam habuerit , ut seges segetis ; aut cum e in i mutaverit , ut miles militis . 
+Os item monosyllabum , si ora significat , producitur , ut os oris ; si ossa significat , breviatur , ut os ossis . 
+Quae tamen os syllaba cum in disyllabis vel trisyllabis venerit , et media syllaba genitivi natura producta permanserit , tum longa erit , ut nepos nepotis ; si vero correpta fuerit aut diphthongum in genitivo Graeco habuerit , breviatur , ut conpos conpotis , Delos DHLOU . 
+Us vero , cum in genitivo crescente u longa permanserit , producitur , ut virtus virtutis , tellus telluris , excepto uno palus , quod in genitivo dis terminatur , ut palus paludis : unde est ' sterilisque diu palus aptaque remis ' . 
+Si vero in genitivo crescente correpta u permanserit aut mutata fuerit aut non creverit , breviatur , ut pectus pectoris , vulgus vulgi . 
+Genitivus et dativus et ablativus producuntur . 
+Sed genitivus cum aut os in fine secundum Graecos habuerit aut tertiae fuerit declinationis , cum ablativo suo e tantum littera terminato breviatur , excepto uno quod producitur , ab hac fame , quia veteres huius famei , non huius famis declinabant . 
+Sed et dativus in Graecis i littera terminatus breviatur , ut Palladi . 
+Accusativus in Latinis brevis est semper : in Graecis tunc tantum breviatur , cum a vel on terminatur , ut Thesea Delon ; alias longus est . 
+Vocativus quoque in Latinis brevis est , excepto cum i terminatur , ut Mercuri ; in Graecis corripitur , ut Alexi . 
+Qui etiam , dum similis fuerit nominativo , regulam nominativi sequitur , ut haec paupertas et o paupertas . 
+In masculinis tantum Graecis longus est , ut Aenea . 
+Sed etiam e finitus in Graecis tunc breviatur , cum eius nominativus os fuerit terminatus , ut Phoebos Phoebe . 
+Nominativus et accusativus et vocativus pluralis in masculino et feminino genere producuntur , in neutro autem corripiuntur . 
+Contra haec sunt Graeca nomina , quae dum ante s ultimam a aut e habuerint et a genitivo singulari dos terminato venerint , tunc tantum in masculino et feminino breviantur , ut huius Arcados , has Arcades , hos Arcadas ; alias longi sunt . 
+Genitivus pluralis semper brevis est in Latinis , in Graecis vero producitur , ut Philaenon . 
+Dativus et ablativus pluralis si is terminantur , longi sunt , ut doctis ; si bus , breviantur , ut agilibus : aut si Graeca sit declinatio , in terminatus dativus corripitur , ut Arcasin . 
+Hac regula nomina pronomina participia continentur . 
+Sed pronominis declinatio in hoc tantum differt , quod in monosyllabis quae vocalibus terminantur , ut me , aut vocalibus constant , ut o , in quolibet casu producuntur . 
+sed genitivus cum us finitur , breviatur , ut illius ; dativus vero , sicut in nomine , semper longus est , excepto mihi tibi sibi , quae indifferenter poni possunt . 
+Sic reliqui quoque casus regulam sumunt ex nomine . 
+In omnibus verbis modis temporibus numeris personis coniugationibus breviantur m ut docebam , r ut legebar , t ut faceret , us ut nutriremus . 
+e vero littera verba terminata breviantur , ut lege ; sed imperativi modi secunda tantum persona a secunda quoque coniugatione tantum producitur , ut doce . 
+Es autem breviatur , ut sum es et cetera quae ex his conponi possunt , ut adsum ades , possum potes ; in aliis producitur , ut doces . 
+Is item in secunda persona indicativi modi tunc tantum producitur , cum a tertia coniugatione producta venerit , ut nutrio nutris , volo vis ; alias breviatur . 
+Producuntur autem a ut ama , i ut nutri , u ut lectu , as ut vocas , es ut legeres , c ut fac . 
+In omnibus ADViis breviantur l ut semel , r ut pariter , m ut tam . 
+N vero excepto non et en ubique breviatur , ut forsitan . 
+E dum finiuntur ADVia , illa producuntur , quae ex nomine veniunt et conparationis gradus omnino reservant , ut docte doctius doctissime ; quae autem a se nascuntur , ut saepe , aut non conparantur , ut rite , aut in conparatione deficiunt , ut bene male , breviantur . 
+I finita praeter quasi et ibi et ubi producuntur , ut heri . 
+O , sicut in omnibus partibus orationis , indifferenter ponitur , ut falso . 
+S , dum ante eam a habuerit , producitur , ut alias cras ; aliter breviatur , ut magis . 
+Producuntur autem a ut una , u ut noctu , c ut illuc . 
+AdVia monosyllaba producenda sunt , ut huc , vel quae ex his fiunt , ut illuc , exceptis bis et ter . 
+Omnes fere coniunctiones corripiuntur . 
+Sed quae a et i terminantur producuntur , excepto ita et quia et nisi . 
+Item quae in n desinunt , si ante eam i habuerint , producuntur , ut sin . 
+Accusativae praepositiones , absque his quae in a exeunt et una monosyllaba cis , breviantur . 
+Ablativae vero illae longae sunt monosyllabae , quae aut vocalibus constant , ut a , aut vocalibus terminantur , ut de . 
+Sed utriusque casus praepositiones omnes breves esse non dubium est . 
+Re autem ubique breviatur , ut remitto , excepto cum refert distat significat , ut est illud praeterea iam nec mutari pabula refert , et uno verbo reicio , ut reice ne maculis infuscet vellera pullisnascentum . 
+Omnes interiectiones , si monosyllabae fuerint producuntur , ut heu . 
+Ceterae vero exemplo similium partium orationis existimandae sunt , ut papae . 
+Haec in omnibus partibus orationis observanda sunt , exceptis his quae aut diphthongo aut positione longae sunt . 

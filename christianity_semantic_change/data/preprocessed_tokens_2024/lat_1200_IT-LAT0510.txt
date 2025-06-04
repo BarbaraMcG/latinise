@@ -1,0 +1,74 @@
+DE FINITATE MOTUS ET TEMPORIS Primum argumentum , quod ponit Aristoteles ad probandum perpetuitatem motus est hoc : Motus aut est perpetuus , aut fuit motus primus ante quem non fuit alius . 
+Si fuit motus primus ante quem non fuit alius , ergo motus alius fuit postquam non fuit . 
+Sed omne , quod est postquam non fuit , prius fuit in potentia , quia omne , quod est et prius non fuit , fuit in potentia . 
+Sed omne , quod de potentia priore exit ad actum , non exit ad actum nisi per motum praecedentem . 
+Si ergo motus primus de potentia priore exit ad actum , non exit ad actum nisi per motum praecedentem . 
+Ergo si motus primus exivit de potentia ad actum , motum primum praecessit motus alius ; et ita motus primus non est motus primus , quod est inconveniens . 
+Haec autem propositio : ; omne quod est , de potentia priore exit in actum per motum praecedentem ; sic ostenditur : Cum aliquid est in potentia et nondum egreditur in actum , aut hoc est , quia causa efficiens nondum est , aut si est , insufficiens est aut impeditur , aut quia illud in quod agit efficiens , nondum est , aut si hoc fuerit , quia agens et illud in quod agit disiuncta sunt . 
+- - Sed si agens nondum est , oportet , ut per motum fiat . 
+Si insufficiens est , oportet , ut pet , motum fiat sufficiens . 
+Similiter si illud , in quod agat agens , nondum est , aut si disiuncta sunt , necesse est , illud passim per motum fieri , aut ista disiuncta per motum coniungi . 
+Et ut ad unum dicam : Causa , quare aliquid quod est in potentia nondum egreditur ad actum , est defectus alicuius conditionis ex parte agentis , vel ex parte patientis . 
+Quam conditionem oportet acquiri per motum , antequam fiat de potentia agente actu agens . 
+Ita in omni , quod fit sub tempore , necesse est , eius fieri praecedere motum alium non disiunctum a sequente per quietem . 
+Et in hac ratiocinatione manifestum est , quod omne , quod fit , necesse est reduci ad motum continuum circularem . 
+Haec autem ratiocinatio , quae convincit , primum motum non fuisse , convincit etiam , quod non fuit motus ante motum infinitum , ita quod fuit aliquando quies absque motu intermedio . 
+Dico autem , quod haec ratiocinatio Aristotelis et philosophorum est diminuta . 
+Quod enim dicitur ; motus aliquando primo fuit , postquam non fuit ; , distinguendum est , quia , si haec dictio ; postquam ; significet ordinem temporalem , implicata est in sermone ideo contradictio , quia implicatur , quod tempus praecesserit primum principium motus et ita , quod motus fuerit ante motum primum et tempus ante tempus primum quod est impossibile . 
+Et non est hase divisio sufficiens : motus aut est perpetuus et sine initio , aut fuit postquam non fuit , quia sub neutram partem divisionis cadit mundus , vel tempus , vel motus , vel aliquid , cuius esse est ease cum tempore , quia nullum horum est sine initio . 
+Nec tamen aliquod horum habet initium sub tempore ; tamen apud imaginationem ponentem , quod idem est esse sine initio et habere esse extensum per moram inflnitam , est illa divisio necessaria . 
+- Si autem haec dictio ; postquam ; significet ordinem temporis ad aeternitatem et fuit primo positum , quod significet tempus et secundo aeternitatem , verum est , quod mundus et tempus et motus fuerunt postquam non fuerint , et priusquam essent , fuerunt in potentia , ut designetur prioritas aeternitatis ad tempus et ; potentia ; non dicat potentiam causae materials , sed solum potentiam causae efficientis . 
+Haec autem propositio : ; Omne , quod de potentia priore exit ad actum etc . 
+; vera est , si significetur prioritas temporalis . 
+Et sic tenet probatio illius . 
+Et si significetur prioritas aeternorum ad temporalia facta , haec eadem so supradicta ratiocinatio Aristotelis ostendit , quod non fuerunt mobilia prius quiescentia tempore infinito et coeperunt moveri . 
+Quia autem primum motum oporteret praecedere alium motum , quaestio est an acquiretur nova conditio motori aut mobili , aut remotio impedimenti , per quam conditionem aut impedimenti remotionem de movente et moto in potentia facerent moventem et motum in effectu . 
+- Ratio autem Averrois , qua putat , quod intentio Aristotelis sit de perpetuitate motus unius continuantis motus ceteros est hoc , quod Aristoteles in septimo ostendit , quod in motis localiter necesse est esse primum motum et primum motorem . 
+Cuius ostensioni ibi coniungitur haec ratiocinatio : convincitur primum motum moveri et primum motorem movere perpetuo secundum dispositionem eandem , qua alterum nunc movet et alterum nunc movetur ; et est intentio secundum Averroem ostendere , quod semper fuit et erit in dispositione , qua nunc est . 
+Secunda ratio Aristotelis de perpetuitate motus est haec : Si ponatur motus simpliciter generatus et habens initium : ergo eius non - esse praecessit eius esse ; quia omne , quod habet initium , eius non - esse praecessit eius esse ; alioquin , cum non - esse alicuius initiati fuerit ab aeterno et sine initio , et eius esse similiter fuit sine initio , quod est impossibile ; ergo si motus simpliciter est habens initium , eius ease et eius non - esse dividuntur prioritate et posterioritate . 
+Sed prius et posterius non sunt Sine tempore . 
+Ergo cum prioritate non - esse motus fuit tempus . 
+Sed tempus non fuit sine motu . 
+Ergo ante motum simpliciter fuit motus ; quod est impossibile . 
+Dico , quod in hac ratiocinatione est deceptio propter hoc , quod intellectus non distinguit inter prioritatem temporis et prioritatem , quae significat ordinem aeternitatis ad tempus . 
+Nonesse namque mundi et eorum , quae cum mundo coeperunt , non mensurat tempus sine initio , neque omnino tempus , sed aeternitas . 
+Non ergo fuit eorum non - esse prius i . 
+e . 
+tempore priori , quam eorum esse ; sed fuit prius i . 
+e . 
+in superiori mensura quidem eorum esse , quia eorum non - esse in aeternitate fuit et eorum esse in tempore . 
+Tertia ratio Aristotelis sumpta est a natura instantis . 
+Instans enim omne est continuatio praeteriti et futuri . 
+Non fuit ergo instans , ante quod non fuit tempus ; nec erit instans , post quod non erit tempus . 
+Et ita tempus fuit sine initio et erit sine fine . 
+Sed non est tempus sine motu , ut ostensum cst tractatu de tempore . 
+Ergo motus est perpetuus . 
+Dico autem , quod haec est falsa : ; Omne instans est continuatio praeteriti et futuri ; , sed fuit instans primum et forte erit ultimum in tempore , sicut sunt puncta in ultimo lineae , licet Aristoteles et Averroes et expositores alii habeant hoc pro inconvenicnti . 
+Sed sine dubio ipsi non habent ad hoc demonstrationem , sed sola imaginatio perpetuitatis et infinitatis temporis fecit eos hoc falsum ponere . 
+- Et quod dicunt expositores Aristotelis , quia in motu circulari non est primum in tempore , quod in eo non est primum in motu , falsum est : in motu enim circulari primum est , sicut in aliis motibus . 
+Manifestum est enim , quod omnis pars non sphaerica circulariter moti habet initium in motu sibi proprio . 
+Et dico , quod tota sphaera circulariter mota movetur per se et non solum per accidens , eo quod partes eius per se moventur , et quod moventur etiam localiter , sicut dicit Aristoteles . 
+Sed localiter moveri , sicut dicit Averroes , est duobus modis : movetur enim localiter quia transit de uno loco ad alium , et hoc est mutare locum secundum subiectum ; vel quia aliter est nunc quam prius et posterius in eodem loco , et hoc est mutare locum non secundum subiectum , sed formaliter ; et sic movetur caelum localiter et per se . 
+Et in tali motu per se est sumere initium ; et initium est modus caeli essendi in loco suo , in quo fuit in sui creatione , a quo modo essendi in loco suo continue post sui creationem recessit et omnes modos essendi in eodem loco renovavit , et in fine cuiuslibet revolutionis rediit caelum ad locum primum . 
+- Nec putet aliquis , quod Aristoteles non intendit hoc ibi probare , quia tempus et motus sunt coaequaeva , quia dicit in complemento rationis suae haec verba : ; quia igitur non verum tempus erat vel erit , quando motus non erat aut non erit , tanta dicta sint ; - quia haec dixit supponendo perpetuitatem temporis et eius infinitatem ex utraque parte . 
+Consimilibus rationibus eis , quae praedictae sunt , ostendit Aristoteles , quod motus est incorruptibilis , et iste perpetuus ex parte post , et quod non interrumpitur quiete , nec erit post motum quies in infinito tempore . 
+Si enim ponatur motus ultimus , post quem non erit alius , necesse est , ut post motum adveniat conditio aut motori , aut moto , aut utrisque , propter quam fiat de motore in actu non - motor in actu et de moto in actu non - motum in actu . 
+- Et ista etiam conditio aut est motus , aut acquisita per motum ; et ita post motum ultimum erit motus , quod est impossibile . 
+Dico , quod in hac opinione est imaginatio temporis post omne tempus ; et haec imaginatio est falsa , si stabit caelum ; et haec opinio solvitur ut supra . 
+Item : ultimum motum aut est corruptible aut non . 
+Si est ens corruptivum , aut est corruptor aut non . 
+Quod si est , erit processus in infinitum . 
+Ergo oportet ponere ultimum motum in corruptibilem et motorem incorruptibilem . 
+Si ergo aliquando cessabit motus , quaeritur ratio , quare tunc plus , quam prius . 
+Et manifestum est , quod istas quaestiones et opiniones non inducit nisi imaginatio temporis post omne tempus et impotentia intelligendi aeternitatem simplicem motoris primi secundum dispositionem unam se habentis , mutabilia tamen temporaliter variantis . 
+Nec moveat aliquem , quod Aristoteles et alii philosophi probant Deum esse incommutabilem et intemporalem et cetera talia , ut putet eum vel alios philosophos simplicitatem aeternitatis perspicue intellexisse . 
+Quare scire debemus , quod multa per discursum rationis convincimus esse vera , quorum essentiam non intelligimus , sicut multi homines sciunt ostendere firma ratione , quod intelligentiae sunt et quod Deus est , non tamen intelligunt essentiam divinam vel incorporeitatem intelligentiarum , sed ea sub phantasmatibus corporalibus quasi solem sub nube vident , et si sequantur phantasmata , multas proprietates corporales de non corporalibus false affirmant et dicunt et existimant contraria illis , quae alias per discursus rationis suae invenerunt . 
+Consimile accidit Aristoteli et aliis , qui per discursum rationis firmiter sciunt aeternitatem simplicem esse et tamen ipsam aeternitatem simplicem perspicue non intellexerunt , sed sub phantasmate extensionis temporalis quasi a longe speculantcs eam viderunt et sequentes ipsum phantasma extensionis temporalis multa inconvenientia affirmaverunt , sicut de perpetuitate motus et temporis et per consequens mundi . 
+Et necesse fuit philosophos in hunc errorem incidere , cum mentis aspectus vel intelligentia non possit superius ascendere , quam ascendunt eius affectus , et ita , cum Philosophorum affectus ligati erant plus cum transitoriis quam cum aeternis , ipsorum apprehensiva in phantasmatibus mutabilium detenta simplicitatem aeternitatis attingere non potuit . 
+Arguit autem magister Ricardus de Sancto Victore , quod tempus non sit infinitum ex parte ante : hoc scilicet totum tempus usque nunc praeteritum eat ; sed quicquid est praeteritum , aliquando fuit praesens . 
+Ergo nihil temporis eat praeteritum , quod non fuit praesens ; ergo praesens fuit , antequam aliquid esset praeteritum . 
+Et ita praeteritum finitum est . 
+Consimiliter potest esse ratio de futuro ; licet enim idem magister non retorqueat ea ad futurum , probant etiam aliqui tempus finiri ex parte post hoc modo : Omnia facta sunt , propter hominem . 
+Motus ergo caeli est , ut per ipsum sit continua generatio et corruptio , in quantum hae mutationes et aliae sunt homini adiumentum . 
+Ergo cum non egebit homo his mutationibus , non erit causa , quare caelum moveatur . 
+Stabit ergo caelum et finietur motus et tempus , cum cessabit hominum generatio . 

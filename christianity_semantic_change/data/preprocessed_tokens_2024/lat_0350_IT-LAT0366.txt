@@ -1,0 +1,31 @@
+Cum barbarismo et soloecismo vitia duodecim numerantur hoc modo : barbarismus , soloecismus , acyrologia , cacenphaton , pleonasmos , perissologia , macrologia , tautologia , eclipsis , tapinosis , cacosyntheton , amphibolia . 
+Acyrologia est inpropria dictio , ut hunc ego si potui tantum sperare dolorem sperare dixit pro timere . 
+Cacenphaton est obscena enuntiatio vel in conposita dictione vel in uno verbo , ut ; numerum cum navibus aequet ; , ; arrige aures Pamphile ; . 
+Pleonasmos est adiectio verbi supervacui ad plenam significationem , ut ; sic ore locuta est ; pro ; sic locuta est ; . 
+Perissologia est supervacua verborum adiectio sine ulla vi rerum , ut ibant qua poterant , qua non poterant non ibant . 
+Macrologia est longa sententia res non necessarias conprehendens , ut ; legati non inpetrata pace retro , unde venerant , domum reversi sunt ; . 
+Tautologia est eiusdem dictionis repetitio vitiosa , ut egomet ipse Eclipsis est defectus quidam necessariae dictionis , quam desiderata praecisa sententia , ut ; haec se cum ; ; deest enim loquebatur . 
+Tapinosis est humilitas rei magnae non id agente sententia , ut penitusque cavernas ingentes uterumque armato milite complent et ; Dulichias vexasse rates ; et Pelidae stomachum cedere nescii . 
+Cacosyntheton est vitiosa conpositio dictionum , ut ; versaque iuvencum terga fatigamus hasta ; . 
+Amphibolia est ambiguitas dictionis , quae fit aut per casum accusativum , ut siquis dicat ; audio secutorem retiarium superasse ; ; aut per commune verbum , ut siquis dicat ; criminatur Cato ; , ; vadatur Tullius ; nec addat quem vel a quo ; aut per distinctionem , ut ; vidi statuam auream hastam tenentem ; . 
+Fit et per homonyma , ut siquis aciem dicat et non addat oculorum aut exercitus aut ferri . 
+Fit praeterea pluribus modis , quos percensere omnes , ne nimis longum sit , non oportet . 
+Metaplasmus est transformatio quaedam recti solutique sermonis in alteram speciem metri ornatusve causa . 
+Huius species sunt quattuordecim : prosthesis , epenthesis , paragoge , aphaeresis , syncope , apocope , ectasis , systole , diaeresis , episynaliphe , synaliphe , ecthlipsis , antitbesis , metathesis . 
+Prosthesis est appositio quaedam ad principium dictionis litterae aut syllabae , ut gnato pro nato , tetulit pro tulit . 
+Epenthesis est appositio ad mediam dictionem litterae aut syllabae , ut relliquias pro reliquias , induperator pro imperator . 
+Hanc alii epenthesin , alii parenthesin dicunt . 
+Paragoge est appositio ad finem dictionis litterae aut syllabae , ut magis pro mage et potestur pro potest . 
+Hanc alii prosparalepsin appellant . 
+Aphaeresis esl ablatio de principio dictionis contraria prosthesi , ut mitte pro omitte , temno pro contemno . 
+Syncope est ablatio de media dictione contraria epenthesi , ut audacter pro audaciter , commorat pro commoverat . 
+Apocope est ablatio de fine dictionis paragoge contraria , ut Achilli pro Achillis et pote pro potest . 
+Ectasis est extensio syllabae contra naturam verbi , ut ; Italiam fato profugus ; , cum Italia correpte dici debeat . 
+Systole est correptio contraria ectasi , ut ; aquosus Orion ; , cum Orion producte dici debeat . 
+Diaeresis est discissio syllabae unius in duas facta , ut olli respondit rex Albai longai . 
+Episynaliphe est conglutinatio duarum syllabarum in unam facta contraria diaeresi , ut Phaethon pro Phaethon , Nerei pro Ner ; i , aeripedem pro aeripedem . 
+Synaliphe est per interceptionem concurrentium vocalium lubrica quaedam lenisque conlisio , ut atque ea diversa penitus dum parte geruntur . 
+Haec a quibusdam syncrisis nominatur . 
+Ecthlipsis est consonantium cum vocalibus aspere concurrentium quaedam difficilis ac dura conlisio , ut multum ille et terris iactatus et alto . 
+Antithesis est litterae pro littera positio , ut olli pro illi . 
+Metathesis est translatio litterarum in alienum locum , nulla tamen ex dictione sublata , ut Evandre pro Evander , Thymbre pro Thymber . 

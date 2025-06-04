@@ -1,0 +1,770 @@
+PROLOGUS . 
+AD JOHANNEM FRANCISCUM ILLUSTRISIMUM PRINCIPEM MANTUANUM . 
+Hos de pictura libros , princeps illustrissime , dono ad te deferri iussi quod intelligebam te maximum in modum his ingenuis artibus delectari , quibus quidem quantum ingenio et industria luminis et doctrinae attulerim ex libris ipsis , cum eos per otium legeris , intelliges . 
+Etenim cum ita pacatam et bene tua virtute constitutam civitatem habeas ut otium tibi quod a republica vacans litterarum studiis tua pro consuetudine tribuas interdum non desit , futurum spero ut pro tua solita humanitate , qua non minus quam armorum gloria litterarumque peritia caeteros omnes principes longe exuperas , libros nostros minime negligendos ducas . 
+Nam esse eos eiusmodi intelliges ut quae in illis tractentur cum arte ipsa auribus eruditis digna tum rei novitate facile delectare studiosos queant . 
+Sed de libris hactenus . 
+Mores meos doctrinamque si qua est et omnem vitam tum maxime poteris cognoscere cum dederis operam ut possim , prout mea fert voluntas , apud te esse . 
+Denique putabo tibi opus non displicuisse ubi me tibi deditissimum voles annumerare inter familiares tuos et non in postremis commendatum habere . 
+LIBER De pictura his brevissimis commentariis conscripturi , quo clarior sit nostra oratio , a mathematicis ea primum , quae ad rem pertinere videbuntur , accipiemus . 
+Quibus quidem cognitis , quoad ingenium suppeditabit , picturam ab ipsis naturae principiis exponemus . 
+Sed in omni nostra oratione spectari illud vehementer peto non me ut mathematicum sed veluti pictorem hisce de rebus loqui . 
+Illi enim solo ingenio , omni seiuncta materia , species et formas rerum metiuntur . 
+Nos vero , quod sub aspectu rem positam esse volumus , pinguiore idcirco , ut aiunt , Minerva scribendo utemur . 
+Ac recte quidem esse nobiscum actum arbitrabimur si quoquo pacto in hac plane difficile et a nemine quod viderim alio tradita litteris materia , nos legentes intellexerint . 
+Peto igitur nostra non ut puro a mathematico sed veluti a pictore tantum scripta interpretentur . 
+Itaque principio novisse oportet punctum esse signum , ut ita loquar , quod minime queat in partes dividi . 
+Signum hoc loco appello quicquid in superficie ita insit ut possit oculo conspici . 
+Quae vero intuitum non recipiunt , ea nemo ad pictorem nihil pertinere negabit . 
+Nam ea solum imitari studet pictor quae sub luce videantur . 
+Puncta quidem si continenter in ordine iungantur lineam extendent . 
+Erit itaque apud nos linea signum cuius longitudo sane in partes dividi possit , sed erit usque adeo latitudine tenuissima ut nusquam findi queat . 
+Linearum alia recta dicitur , alia flexa . 
+Recta linea est signum a puncto ad punctum directe in longum protensum . 
+Flexa ea est quae a puncto ad punctum non recto gressu sed facto sinu fluxerit . 
+Lineae plures quasi fila in tela adacta si cohaereant , superficiem ducent . 
+Est namque superficies extrema corporis pars quae non profunditate aliqua sed latitudine tantum longitudineque atque perinde suis qualitatibus cognoscatur . 
+Qualitatum aliae ita superficiei inhaerent ut prorsus nisi alterata superficie minime semoveri aut seiungi queant . 
+Aliae vero qualitates huiusmodi sunt , ut eadem facie superficiei manente , ita sub aspectu tamen iaceant , ut superficies visentibus alterata esse videatur . 
+Perpetuae autem superficierum qualitates geminae sunt . 
+Una quidem quae per extremum illum ambitum quo superficies clauditur notescat , quem quidem ambitum nonnulli horizontem nuncupant ; nos , si liceat , latino vocabulo similitudine quadam appellamus oram aut , dum ita libeat , fimbriam . 
+Eritque et ipsa fimbria aut unica linea aut pluribus lineis perfinita , unica ut circulari , pluribus ut altera flexa altera recta , aut etiam quae pluribus rectis aut pluribus flexis lineis ambiatur . 
+Circularis quidem linea est ipsa fimbria quae totum circulum continet . 
+Circulus vero est forma superficiei quam linea veluti corona obambit , quod si in medio aderit punctus , omnes radii ab hoc ipso puncto directe ad coronam ducti longitudine inter se equales sunt . 
+Ac is idem medius punctus centrum circuli dicitur . 
+Linea idcirco recta quae bis coronam circuli secuerit perque centrum recta ibit , ea diameter circuli apud mathematicos vocatur . 
+Nos hanc ipsam nominemus centricam . 
+Sitque hoc apud nos loco ab ipsis mathematicis persuasum quod aiunt lineam nullam aequos angulos a corona circuli signare nisi quae recta ipsum centrum attingat . 
+Sed ad superficies redeamus . 
+Ex his enim quae recensui facile intelligi potest ut , tractu fimbriae immutato , ipsa superficies et faciem et nomen quoque pristinum perdat , atque quae triangulus fortasse dicebatur nunc tetrangulus aut plurium deinceps angulorum nuncupabitur . 
+Dicetur quidem fimbria mutata si lineae aut anguli non modo plures sed obtusiores longioresve vel acutiores brevioresve quoquo pacto fiant . 
+Is locus admonet ut de angulis nonnihil recenseamus . 
+Est enim angulus extremitas superficiei a duabus lineis se invicem secantibus confectus . 
+Angulorum tria sunt genera : rectum , obtusum atque acutum . 
+Angulus rectus unus est ex quattuor angulis qui a duabus rectis lineis sese mutuo secantibus ita conscribitur ut cuivis reliquorum trium sit aequalis . 
+Hinc est quod aiunt omnes recti anguli inter se sunt aequales . 
+Obtusus angulus est qui recto maior est . 
+Acutus is est qui recto minor est . 
+Iterum ad superficiem redeamus . 
+Docuimus quo pacto una per fimbriam qualitas superficiei inhaereat . 
+Sequitur ut altera superficierum qualitas referatur , quae est , ut ita loquar , tamquam cutis per totum superficiei dorsum distenta . 
+Ea in tres divisa est , nam alia uniformis et plana , alia tuberosa et sphaerica , alia incurva et concava dicitur . 
+Quarto loco his addendae sunt superficies quae ex duabus harum superficierum compositae sunt . 
+De his postea . 
+Nunc de primis : plana superficies ea est quam in quavis parte sui recta superducta regula aeque contingat . 
+Huic persimilis erit superficies purissimae aquae . 
+Sphaerica superficies dorsum sphaerae imitatur . 
+Sphaeram diffiniunt corpus rotundum in omnes partes volubile cuius in medio punctus inest a quo extremae omnes illius corporis partes aeque distant . 
+Concava superficies ea est quae interius extremum sub ultima , ut ita dixerim , cute sphaerae subiacet , ut sunt in textis ovorum intimae superficies . 
+Composita vero superficies ea est quae una dimensione planitiem , altera aut concavam aut sphaericam superficiem imitetur , quales sunt interiores fistularum et exteriores columnarum superficies . 
+Itaque et ambitu et dorso inhaerentes qualitates cognomenta superficiebus , ut diximus , imposuerunt . 
+At vero qualitates quae non alterata superficie non tamen semper eundem aspectum exhibent , duae item sunt , nam aut loco aut luminibus mutatis tamen variatae intuentibus videntur . 
+De loco prius dicendum , postea de luminibus . 
+Ac perscrutendum quidem est quonam pacto mutato loco ipsae superficiei inhaerentes qualitates immutatae esse videantur . 
+Equidem haec ad vim oculorum spectant . 
+Nam situ mutato aut maiores aut omnino non eiusdem quam hactenus fuerant fimbriae , aut item colore fraudatae superficies appareant necesse est , quas res omnes intuitu metimur . 
+Id quidem qua ratione fiat perscrutemur , exordiamurque a philosophorum sententia , qui metiri superficies affirmant radiis quibusdam quasi visendi ministris , quos idcirco visivos nuncupant , quod per eos rerum simulacra sensui imprimantur . 
+Nam ipsi idem radii inter oculum atque visam superficiem intenti suapte vi ac mira quadam subtilitate pernicissime congruunt , aera corporaque huiusmodi rara et lucida penetrantes quoad aliquod densum vel opacum offendant , quo in loco cuspide ferientes e vestigio haereant . 
+Verum non minima fuit apud priscos disceptatio a superficie an ab oculo ipsi radii erumpant . 
+Quae disceptatio sane difficilis atque apud nos admodum inutilis pretereatur . 
+Ac imaginari quidem deceat radios , quasi fila quaedam distenta et prorsus tenuissima uno capite quasi in manipulum arctissime colligata , una simul per oculum interius , ubi sensus visus consideat , recipi , quo loco non secus atque truncus radiorum adstent , a quo quidem exeuntes in longum laxati radii veluti rectissima virgulta ad oppositam superficiem effluant . 
+Sed hos inter radios nonnulla differentia est quam tenuisse pernecessarium arbitror . 
+Differunt quidem viribus et officio , nam alii fimbrias superficierum contingentes totas quantitates superficiei metiuntur . 
+Hos autem , quod ultimas partes superficiei libando volitant , extrinsecos radios appellemus . 
+Alii quidem radii ab omni dorso superficiei seu recepti seu fluentes , intra eam pyramidem , de qua paulo post suo loco dicemus , suum quoque officium peragunt , nam coloribus et luminibus imbuuntur iisdem quibus ipsa superficies refulgeat . 
+Hos ergo medios radios nuncupemus . 
+Est quoque ex radiis mediis quidam qui similitudine quadam centricae de qua supra diximus lineae , dicatur centricus , quod in superficie ita perstet ut circa se aequales utrinque angulos reddat . 
+Itaque tres radiorum species repertae sunt : extremorum , mediorum et centrici . 
+Perscrutemur igitur quid quique radii ad visendum conferant ; ac primo de extremis , postea de mediis , tum de centrico dicendum erit . 
+Radiis quidem extremis quantitates metiuntur . 
+Est enim quantitas spatium inter duo disiuncta puncta fimbriae transiens per superficiem , quod oculus quasi circino quodam instrumento his extremis radiis metitur . 
+Suntque tot in superficie quantitates quot sunt disiuncta in fimbria sese correspicientia puncta ; nam cum proceritatem quae inter supremum et infimum , seu latitudinem quae inter dextrum et sinistrum , seu crassitudinem quae inter propinquius et remotius , seu caeteras quasvis dimensiones aspectu recognoscimus , his tantum radiis extremis utimur . 
+Ex quo illud dici solitum est visum per triangulum fieri cuius basis visa quantitas cuiusve latera sunt iidem ipsi radii qui a punctis quantitatis ad oculum protenduntur . 
+Ac illud quidem certissimum est nisi per hunc ipsum triangulum quantitatem nullam videri . 
+Latera ergo trianguli visivi patent . 
+Anguli quidem in hoc ipso triangulo duo sunt alterutra illa quantitatis capita ; tertius vero angulus est is qui basi oppositus intra oculum consistit . 
+Neque hoc loco disputandum est utrum in ipsa iunctura interioris nervi visus , ut aiunt , quiescat , an in superficie oculi quasi in speculo animato imagines figurentur . 
+Sed nec omnia quidem oculorum ad visendum hoc munera referenda sunt . 
+Satis enim erit his commentariis succinte quae ad rem pernecessaria sint demonstrasse . 
+Cum igitur in oculo consistat angulus visivus , regula deducta est haec : quo videlicet acutior sit in oculo angulus , eo quantitatem breviorem apparere . 
+Ex quo plane discitur cur sit quod multo intervallo quantitas ad punctum usque extenuata esse videatur . 
+Verum haec cum ita sint , fit tamen nonnullis superficiebus ut quo illi propinquior sit visentis oculus eo minorem , quo remotior eo longe plurimam superficiei partem videat . 
+Quod in sphaerica superficie ita esse discitur . 
+Quantitates ergo pro intervallo minores ac maiores intuentibus nonnunquam videntur . 
+Cuius rei qui probe rationem tenuerit minime dubitabit medios aliquos radios aliquando fieri extremos extremosque intervallo mutato item fieri medios ; atque idcirco intelliget ubi medii radii sint facti extremi , illico quantitatem breviorem apparere , contraque cum extremi radii intra fimbriam recipiantur , quo magis a fimbria distent , eo maiorem quantitatem videri . 
+Hic solitus sum apud familiares regulam exponere : quo plures radiorum videndo occupentur , eo quantitatem prospectam grandiorem existimari ; quo autem pauciores , eo minorem . 
+Caeterum ii radii extremi dentatim universam fimbriam superficiei comprehendentes ipsam totam superficiem quasi cavea circumducunt . 
+Unde illud aiunt visum per pyramidem radiosam fieri . 
+Dicendum idcirco est pyramis quid sit , quove pacto ea radiis construatur . 
+Eam nos nostra Minerva describamus . 
+Pyramis est figura corporis oblongi ab cuius basi omnes lineae rectae sursum protractae ad unicam cuspidem conterminent . 
+Basis pyramidis visa superficies est , latera pyramidis radii ipsi visivi quos extrinsecos nuncupari diximus . 
+Cuspis pyramidis illic intra oculum considet , ubi in unum anguli quantitatum in triangulis conveniunt . 
+Hactenus de extrinsecis radiis ex quibus pyramis concipitur , qua omni ex ratione constat multum interesse quae intervalla inter superficiem et oculum interiaceant . 
+Sequitur ut de mediis radiis dicendum sit . 
+Radii medii sunt ea multitudo radiorum quae ab radiis extrinsecis septa intra pyramidem continetur . 
+Atque hi quidem radii id agunt quod aiunt camaleonta animal et huiusmodi feras metu conterritas solere propinquarum rerum colores suscipere ne a venatoribus facile reperiantur . 
+Hoc ipsum medii radii exequuntur , nam a contactu superficiei usque ad cuspidem pyramidis toto tractu ita colorum et luminum reperta varietate inficiuntur , ut quovis loco rumperentur , eodem loco ipsum inhaustum lumen atque eundem colorem expromerent . 
+Ac de his mediis radiis re primum ipsa cognitum est eos multo intervallo deficere aciemque hebetiorem agere . 
+Demum id cur ita sit ratio reperta est , nam cum iidem ceterique omnes radii visivi luminibus et coloribus imbuti atque graves aerem pervadant sitque aer ipse nonnulla crassitudine suffusus , fit ut multa pars oneris , dum aerem perterebrant , fessis radiis deficiat . 
+Idcirco recte aiunt quo maior distantia sit , eo superficiem subobscuriorem et magis fuscam videri . 
+Restat ut de centrico radio dicamus . 
+Centricum radium dicimus eum qui solus ita quantitatem feriat ut utrinque anguli angulis sibi cohaerentibus respondeant . 
+Equidem et quod ad hunc centricum radium attinet verissimum est hunc esse omnium radiorum acerrimum et vivacissimum . 
+Neque negandum est quantitatem nunquam maiorem videri quam cum centricus in eam radius institerit . 
+Possent plura de centrici radii vi et officio referri . 
+Tantum hoc non praetermittatur , hunc unicum radium quasi unita quadam congressione a caeteris radiis constipatum foveri , ut merito dux radiorum plane ac princeps dici debeat . 
+Reliqua vero , quae ad ostentandum ingenium pertinuissent magis quam ad ea de quibus dicere instituimus , praetereantur . 
+Multa etiam de radiis suis locis accommodatius dicentur . 
+Hoc autem loco sit , quantum commentariorum brevitas postulat , satis ea retulisse ex quibus dubitet nemo hoc ita esse quod quidem satis demonstratum puto : intervallo scilicet centricique radii positione mutatis illico superficiem alteratam videri . 
+Nam ea quidem aut minor aut maior aut denique pro linearum et angulorum inter se concinnitate immutata apparebit . 
+Centrici ergo positio distantiaque ad certitudinem visus plurimum conferunt . 
+Est quoque tertium aliquid ex quo superficies difformes et variae intuentibus exhibeantur . 
+Id quidem est luminum receptio . 
+Nam videre licet in sphaerica atque concava superficie , si unicum tantum adsit lumen , una parte subobscuram alia clariorem esse superficiem , ac eodem intervallo centricaque positione pristina manente , modo ea ipsa superficies diverso quam prius lumine subiaceat , videbis fuscas illic esse partes eas quae sub diverso antea lumine sitae clarebant , atque esse easdem claras quae prius obumbratae erant . 
+Tum etiam si plura circumstent lumina , pro luminum numero et viribus variae suis locis maculae candoris et obscuritatis micabunt . 
+Haec res experimento ipso comprobatur . 
+Sed hic locus admonet ut de luminibus et coloribus aliqua referamus . 
+Colores a luminibus variari palam est , siquidem omnis color non idem conspectu est in umbra ac sub radiis luminum positus . 
+Nam umbra fuscum colorem , lumen vero clarum et apertum exhibet . 
+Dicunt philosophi posse videri nil quod ipsum non sit lumine coloreque vestitum . 
+Maxima idcirco inter colores et lumina cognatio est ad visum agendum , quae quanta sit hinc intelligitur , quod lumine pereunte colores ipsi quoque pereunt , redeunteque luce una et ipsi cum viribus luminum colores restaurantur . 
+Quae res cum ita sit , videndum est ergo de coloribus primo . 
+Dehinc investigabimus quemadmodum colores sub luminibus varientur . 
+Missam faciamus illam philosophorum disceptationem qua primi ortus colorum investigantur . 
+Nam quid iuvat pictorem novisse quonam pacto ex rari et densi aut ex calidi et sicci frigidi humidique permixtione color extet ? 
+Neque tamen eos philosophantes aspernandos putem qui de coloribus ita disputant ut species colorum esse numero septem statuant : album atque nigrum duo colorum extrema , unum quidem intermedium , tum inter quodque extremum atque ipsum medium binos , quod alter plus altero de extremo sapiat , quasi de limite ambigentes , collocant . 
+Pictorem sane novisse sat est qui sint colores et quibus in pictura modis iisdem utendum sit . 
+Nolim a peritioribus redargui , qui dum philosophos sectantur , duos tantum esse in rerum natura integros colores asserunt , album et nigrum , caeteros autem omnes ex duorum permixtione istorum oriri . 
+Ego quidem ut pictor de coloribus ita sentio permixtionibus colorum alios oriri colores paene infinitos , sed esse apud pictores colorum vera genera pro numero elementorum quattuor , ex quibus plurimae species educantur . 
+Namque est igneus , ut ita loquar , color quem rubeum vocant , tum et aeris qui celestis seu caesius dicitur , aquaeque color viridis ; terra vero cinereum colorem habet . 
+Caeteros omnes colores veluti diaspri et porphyrii lapidis ex permixtione factos videmus . 
+Genera ergo colorum quattuor quorum pro albi et nigri admixtione sunt species admodum innumerabiles . 
+Narn videmus frondes virentes gradibus deserere viriditatem quoad albescant . 
+Idque ipsum videmus in ipso aere ut circa horizontem plerunque albente vapore suffusus sensim ad proprium colorem redeat . 
+Tum et in rosis hoc videmus ut aliae plenam et incensam purpuram , aliae genas virgineas , aliae candidum ebur imitentur . 
+Terrae quoque color pro albi et nigri admixtione suas species habet . 
+Non igitur albi permixtio genus colorum immutat sed species ipsas creat Cui quidem persimilem vim niger color habet , nam nigri admixtione multae colorum species oriuntur , quod quidem pulchre ex umbra qua ipse color alteratur patet , siquidem crescente umbra coloris claritas et albedo deficit , lumine vero insurgente clarescit et fit candidior . 
+Ergo pictori satis persuaderi potest album et nigrum minime esse veros colores sed colorum , ut ita dixerim , alteratores , siquidem nihil invenit pictor quo ultimum luminis candorem referat praeter album solumque nigrum quo ultimas tenebras demonstret . 
+Adde his quod album aut nigrum nusquam invenies quod ipsum non sub aliquo genere colorum sit . 
+Sequitur de vi luminum . 
+Lumina alia siderum ut solis et lunae et luciferae stellae , alia lampadum et ignis . 
+At inter haec magna differentia est , nam lumina siderum admodum pares corporibus umbras referunt , ignis vero umbrae maiores quam ipsa corpora sunt . 
+Atqui fit umbra cum radii luminum intercipiuntur . 
+Radii intercepti aut alio flectuntur aut in se ipsos reciprocantur . 
+Flectuntur veluti cum a superficie aquae radii solis in lacunaria exiliunt , fitque omnis radiorum flexio angulis inter se , ut probant mathematici , aequalibus . 
+Sed haec ad aliam partem picturae pertinent . 
+Radii flexi eo colore imbuuntur quem in ea a qua flectuntur superficie invenerint . 
+Hoc ita videmus fieri cum facies perambulantium in pratis subvirides apparent . 
+Dixi ergo de superficiebus . 
+Dixi de radiis . 
+Dixi quo pacto visendo ex triangulis coaedificetur pyramis . 
+Probavimus quam maxime intersit intervallum centricique radii positionem ac luminum receptionem certam esse . 
+Verum cum uno aspectu non unam modo sed et plurimas quoque superficies intueamur , posteaquam de singulis superficiebus non omnino ieiune conscripsimus , nunc investigandum est quemadmodum coniunctae sese superficies efferant . 
+Singulae quidem superficies , ut docuimus , propria pyramide suis coloribus et luminibus referta gaudent . 
+Quod cum ex superficiebus corpora integantur , totae corporum prospectae quantitates unicam pyramidem referent tot minutis pyramidibus gravidam quot eo prospectu superficies radiis comprehendantur . 
+Haec cum ita sint , dicet tamen quispiam quid tanta indagatio pictori ad pingendum afferet emolumenti . 
+Nempe ut intelligat se futurum artificem plane optimum ubi optime superficierum discrimina et proportiones notarit , quod paucissimi admodum noverunt . 
+Nam si rogentur quid in ea quam tingunt superficie conentur assequi , omnia rectius possunt quam quid ita studeant respondere . 
+Quare obsecro nos audiant studiosi pictores . 
+Quae enim didicisse iuvabit , ea a quovis praeceptore discere nunquam fuit turpe . 
+Ac discant quidem dum lineis circumeunt superficiem , dumque descriptos locos implent coloribus , nihil magis queri quam ut in hac una superficie plures superficierum formae repraesententur , non secus ac si superficies haec , quam coloribus operiunt , esset admodum vitrea et perlucida huiusmodi ut per eam tota pyramis visiva permearet certo intervallo certaque centrici radii et luminis positione cominus in aere suis locis constitutis . 
+Quod ipsum ita esse demonstrant pictores dum sese ab eo quod pingunt ammovent longiusque consistunt natura duce cuspidem pyramidis quaeritantes unde omnia rectius concerni intelligunt . 
+Sed cum haec sit unica seu tabulae seu parietis superficies in quam pictor plures una pyramide comprehensas superficies studet effingere , necesse est aliquo loco sui pyramidem visivam perscindi , ut istic quales fimbrias et colores intercisio dederit , tales pictor lineis et pingendo exprimat . 
+Quae res cum ita sit , pictam superficiem intuentes intercisionem quandam pyramidis videre videntur . 
+Erit ergo pictura intercisio pyramidis visivae secundum datum intervallum posito centro statutisque luminibus in datam superficiem lineis et coloribus arte repraesentata . 
+Iam vero , quoniam picturam diximus esse intercisionem pyramidis , omnia idcirco perscrutanda sunt ex quibus nobis intercisio sit notissima . 
+Nobis ergo novissimus sermo habendus est de superficiebus a quibus pyramides pictura intercidendas manare demonstratum est . 
+Superficierum aliae prostratae iacent ut pavimenta aedificiorum et caeterae superficies aeque a pavimento distantes , aliae in latus incumbunt ut sunt parietes et caeterae superficies parietibus collineares . 
+Inter se autem aeque distare superficies dicuntur cum intermedia inter eas distantia omni loco eadem est . 
+Collineares superficies illae sunt quas eadem continuata recta linea omni in parte sui aeque contingit , uti sunt superficies quadratarum columnarum quae rectum in ordinem ad porticum adstant . 
+Haec illis quae supra de superficiebus diximus addenda sunt . 
+His vero , quae de radiis cum extrinsecis tum intrinsecis et centrico , atque his quae supra de pyramide visiva recensuimus , addenda est illa mathematicorum sententia ex qua illud probatur quod , si linea recta duo alicuius trianguli latera intersecet , sitque haec ipsa secans et novissime triangulum condens linea alterae lineae prioris trianguli aequedistans , erit tunc quidem is maior triangulus huic minori proportionalis . 
+Haec mathematici . 
+At nos quo clarior sit nostra orario , latius hanc propositionem explicabimus . 
+Intelligendum est quid sit hoc loco proportionale pictori . 
+Dicimus proportionales esse triangulos quorum latera et anguli inter se eandem admodum rationem servant , quod si alterum trianguli latus sit in longitudine bis quam basis atque semis et alterum ter , omnes hi eiusmodi trianguli seu sint illi quidem maiores hoc seu minores , modo eandem laterum ad basim , ut ita loquar , convenientiam habeant , erunt inter se apud nos proportionales . 
+Nam quae ratio partis ad partem extat in maiori triangulo , eadem in minori . 
+Ergo trianguli qui ita se habeant omnes inter se proportionales sunt . 
+Hoc quoque ut apertius intelligatur similitudine quadam utemur . 
+Est quidem homo pusillus homini maximo proportionalis , nam eadem fuit proportio palmi ad passum et pedis ad reliquas sui corporis partes in Evandro quae fuit in Hercule , quem Gelius supra alios homines procerum et magnum fuisse coniectatur . 
+Neque tamen fuit alia in membris Herculis proportio quam fuit in Antaei gigantis corpore , siquidem utrisque manus ad cubitum et cubiti ad proprium caput et caeterorum membrorum symmetria pari inter se ordine congruebat . 
+Hoc ipsum in triangulis evenit , ut sit aliqua inter triangulos commensuratio , per quam minor cum maiori caeteris in rebus praeterquam in magnitudine conveniat . 
+Haec autem si satis intelliguntur , statuamus mathematicorum sententia quantum ad rem nostram conducit , omnem intercisionem alicuius trianguli aequedistantem a basi triangulum constituere illi suo maiori triangulo proportionalem . 
+Etenim quae inter se proportionalia sunt , in his omnes partes respondent . 
+In quibus vero diversae et non congruentes partes adsunt , hae minime proportionales sunt . 
+Partes trianguli visivi sunt anguli ipsi et radii , qui quidem erunt in proportionalibus quantitatibus admodum pares ac in non proportionalibus erunt dispares ; tum et altera istarum non proportionalium visa quantitas aut pluros occupabit radios aut pauciores . 
+Nosti ergo quemadmodum minor triangulus aliquis maiori proportionalis sit , et meministi ex triangulis pyramidem visivam construi . 
+Ergo omnis noster sermo de triangulis habitus ad pyramidem traducatur , ac persuasum quidem apud nos sit nullas quantitates superficiei , quae aeque ab intercisione sui distent , in pictura alterationem aliquam facere . 
+Nam sunt illae quidem aequedistantes quantitates in omni aequedistanti intercisione suis proportionalibus pares . 
+Quae res cum ita sit , sequitur illud quod non alteratis quantitatibus ex quibus fimbria efficitur nulla fimbriae alteratio in pictura succedit . 
+Itaque illud manifestum est omnem pyramidis visivae intercisionem a visa superficie aequedistantem illi prospectae superficiei esse conproportionalem . 
+Diximus de superficiebus intercisioni proportionalibus , hoc est superficiei pictae aequedistantibus . 
+Verum cum perplurimae pingendae superficies non aequedistantes adsint , de his nobis investigatio diligens habenda est quo omnis ratio intercisionis explicetur . 
+Etenim longum esset perdifficileque atque obscurissimum in his triangulorum ac pyramidis intercisionibus omnia mathematicorum regula prosequi . 
+Idcirco nostro more ut pictores dicendo procedamus . 
+Referamus brevissime aliqua de quantitatibus non aequedistantibus , quibus perceptis facilis erit omnis non aequedistantis superficiei cognitio . 
+Quantitatum ergo non aequedistantium aliae radiis visivis collineares , aliae radiis aliquibus visivis aequedistantes sunt . 
+Quantitates radiis collineares , quoniam triangulum non efficiant radiorumque numerum non occupent , locum idcirco nullum in intercisione adipiscuntur . 
+At in quantitatibus radiis visivis aequedistantibus quanto qui maior est angulus ad basim trianguli erit obtusior , tanto ea quantitas minus radiorum excipiet atque idcirco in intercisione minus obtinebit spatii . 
+Superficiem quantitatibus contegi diximus ; at cum in superficiebus non raro eveniat ut in ea sint quantitates aliquae aeque ab intercisione distantes , caeterae vero eiusdem superficiei quantitates non aequedistent , eam ob rem fit ut quae in superficie adsunt aequedistantes quantitates , hae solae in pictura nullam alterationem faciant . 
+Quae vero quantitates non aequedistant , hae quanto angulum qui in triangulo sit ; ad basim ; maior obtusiorem habebunt , tanto plus alterationis accipient . 
+Denique his omnibus addenda illa philosophorum opinio est qua affirmant , si coelum , sidera , maria , montes , animantiaque ipsa atque deinceps corpora omnia dimidio quam sint minora , superis ita volentibus , redderentur , fore ut nobis quaeque videantur nulla ex parte ac nunc sint diminuta apparerent . 
+Nam magnum , parvum , longum , breve , altum , infimum , latum , arctum , clarum , obscurum , ; luminosum ; , tenebrosum et huiusmodi omnia , quae cum possint rebus adesse et non adesse , ea philosophi accidentia nuncuparunt , huiusmodi sunt ut omnis earum cognitio fiat comparatione . 
+Aeneam inquit Virgilius totis humeris supra homines extare , at is , si Polyphemo comparetur , pygmaeus videbitur . 
+Euryalum pulcherrimum fuisse tradunt , qui si Ganymedi a diis rapto comparetur , fortassis deformis videatur . 
+Apud Hispanos pleraeque virgines candidae putantur , quae apud Germanos fuscae et atri coloris haberentur . 
+Ebur argentumque colore alba sunt , quae si cigno aut niveis linteis comparentur , subpallentia videantur . 
+Hac ratione in pictura tersissimae ac fulgentissimae quidem superficies apparent , cum illic albi ad nigrum eadem quae est in rebus ipsis luminati ad umbrosum proportio sit . 
+Itaque comparationibus haec omnia discuntur . 
+Inest enim in comparandis rebus vis , ut quid plus , quid minus , quidve aequale adsit , intelligamus . 
+Ex quo magnum esse dicimus quod sit hoc parvo maius , maximum quod sit hoc magno maius , lucidum quod sit obscuro clarius , lucidissimum quod sit hoc claro lucidius . 
+Fit quidem comparatio ad res imprimis notissimas . 
+Sed cum sit homo rerum omnium homini notissimus , fortassis Protagoras , hominem inquiens modum et mensuram rerum omnium esse , hoc ipsum intelligebat rerum omnium accidentia hominis accidentibus recte comparari atque cognosci . 
+Haec eo spectant ut intelligamus in pictura quantulacunque pinxeris corpora , ea pro illic picti hominis commensuratione grandia aut pusilla videri . 
+Hanc sane vim comparationis pulcherrime omnium antiquorum prospexisse Timanthes mihi videri solet , qui pictor , ut aiunt , Cyclopem dormientem parva in tabella pingens fecit iuxta satyros pollicem dormientis amplectentes ut ea satyrorum commensuratione dormiens multo maximus videretur . 
+Hactenus a nobis ferme omnia dicta sunt quae ad visendi vim quaeve ad intercisionem cognoscendam spectant . 
+Sed quia non modo quid sit atque ex quibus constet intercisio , verum etiam quemadmodum eadem fiat , ad rem pertinet , dicendum est de hac intercisione quanam arte pingendo exprimatur . 
+De hac igitur , caeteris omissis , referam quid ipse dum pingo efficiam . 
+Principio in superficie pingenda quam amplum libeat quadrangulum rectorum angulorum inscribo , quod quidem mihi pro aperta finestra est ex qua historia contueatur , illicque quam magnos velim esse in pictura homines determino . 
+Huiusque ipsius hominis longitudinem in tres partes divido , quae quidem mihi partes sunt proportionales cum ea mensura quam vulgus brachium nuncupat . 
+Nam ea trium brachiorum , ut ex symmetria membrorum hominis patet , admodum communis humani corporis longitudo est . 
+Ista ergo mensura iacentem infimam descripti quadranguli lineam in quot illa istiusmodi recipiat partes divido , ac mihi quidem haec ipsa iacens quadranguli linea est proximiori transversae et aequedistanti in pavimento visae quantitati proportionalis . 
+Post haec unicum punctum quo sit visum loco intra quadrangulum constituo , qui mihi punctus cum locum occupet ipsum ad quem radius centricus applicetur , idcirco centricus punctus dicatur . 
+Condecens huius centrici puncti positio est non altius a iacenti linea quam sit illius pingendi hominis longitudo , nam hoc pacto aequali in solo et spectantes et pictae res adesse videntur . 
+Posito puncto centrico , protraho lineas rectas a puncto ipso centrico ad singulas lineae iacentis divisiones , quae quidem mihi lineae demonstrant quemadmodum paene usque ad infinitam distantiam quantitates transversae successivae sub aspectu alterentur . 
+Hic essent nonnulli qui unam ab divisa aequedistantem lineam intra quadrangulum ducerent , spatiumque , quod inter utrasque lineas adsit , in tres partes dividerent . 
+Tum huic secundae aequedistanti lineae aliam item aequedistantem hac lege adderent , ut spatium , quod inter primam divisam et secundam aequedistantem lineam est , in tres partes divisum una parte sui excedat spatium id quod sit inter secundam et tertiam lineam , ac deinceps reliquas lineas adderent ut semper sequens inter lineas esset spatium ad antecedens , ut verbo mathematicorum loquar , superbipartiens . 
+Itaque sic illi quidem facerent , quos etsi optimam quandam pingendi viam sequi affirment , eosdem tamen non parum errare censeo , quod cum casu primam aequedistantem lineam posuerint , tametsi caeterae aequedistantes lineae ratione et modo subsequantur , non tamen habent quo sit certus cuspidis ad bene spectandum locus . 
+Ex quo non modici in pictura errores facile succedunt . 
+Adde his quod istorum ratio admodum vitiosa esset , ubi centricus punctus aut supra aut infra picti hominis longitudinem adstaret . 
+Tum etiam pictas res nullas veris rebus pares , nisi certa ratione distent , videri posse nemo doctus negabit . 
+Cuius rei rationem explicabimus , siquando de his demonstrationibus picturae conscribemus , quas a nobis factas amici dum admirarentur miracula picturae nuncuparunt . 
+Nam ad eam ipsam partem haec quae dixi maxime pertinent . 
+Ergo ad rem redeamus . 
+Haec cum ita sint , ipse idcirco optimum hunc adinveni modum . 
+In caeteris omnibus eandem illam et centrici puncti et lineae iacentis divisionem et a puncto linearum ductionem ad singulas iacentis lineae divisiones prosequor . 
+Sed in successivis quantitatibus transversis hunc modum servo . 
+Habeo areolam in qua describo lineam unam rectam . 
+Hanc divido per eas partes in quas iacens linea quadranguli divisa est . 
+Dehinc pono sursum ab hac linea punctum unicum ad alterum lineae caput perpendicularem tam alte quam est in quadrangulo centricus punctus a iacente divisa quadranguli linea distans , ab hocque puncto ad singulas huius ipsius lineae divisiones singulas lineas duco . 
+Tum quantam velim distantiam esse inter spectantis oculum et picturam statuo , atque illic statuto intercisionis loco , perpendiculari , ut aiunt mathematici , linea intercisionem omnium linearum , quas ea invenerit , efficio . 
+Perpendicularis quidem linea est ea quae aliam rectam lineam dividens angulos utrinque circa se rectos habeat . 
+Igitur haec mihi perpendicularis linea suis percisionibus terminos dabit omnis distantiae quae inter transversas aequedistantes pavimenti lineas esse debeat . 
+Quo pacto omnes pavimenti parallelos descriptos habeo . 
+Est enim parallelus spatium quod intersit inter duas aequedistantes lineas de quibus supra nonnihil tetigimus . 
+Qui quidem quam recte descripti sint inditio erit , si una eademque recta continuata linea in picto pavimento coadiunctorum quadrangulorum diameter sit . 
+Est quidem apud mathematicos diameter quadranguli recta quaedam linea ab angulo ad sibi oppositum angulum ducta , quae in duas partes quandrangulum dividat ita ut ex quadrangulo duos triangulos efficiat . 
+His ergo diligenter absolutis , unam item superduco transversam aeque a ceteris inferioribus distantem lineam , quae duo stantia magni quadrati latera secet , perque punctum centricum permeet . 
+Haec mihi quidem linea est terminus atque limes , quem nulla non plus alta quam sit visentis oculus quantitas excedat . 
+Eaque quod punctum centricum pervadat , idcirco centrica dicatur . 
+Ex quo fit ut qui picti homines in ulteriori parallelo steterint , iidem longe minores sint quam qui in anterioribus adstant , quam rem quidem a natura ipsa ita ostendi palam est . 
+Nam in templis perambulantium hominum capita videmus fere in altum aequalia nutare , pedes vero eorum qui longius absint forte ad genu anteriorum respondere . 
+Haec omnis dividendi pavimenti ratio maxime ad eam picturae partem pertinet , quam nos compositionem suo loco nominabimus . 
+Et huiusmodi est ut verear ne ob materiae novitatem obque hanc commentandi brevitatem parum a legentibus intelligatur . 
+Nam , ut ex operibus priscis facile intelligimus , eadem fortassis apud maiores nostros , quod esset obscura et difficillima , admodum incognita latuit . 
+Vix enim ullam antiquorum historiam apte compositam , neque pictam , neque fictam , neque sculptam reperies . 
+Qua de re haec a me dicta sunt breviter et , ut existimo , non omnino obscure , sed intelligo qualia sint ut cum in his nullam eloquentiae laudem adipisci queam , tum eadem qui primo aspectu non comprehenderit , vix ullo unquam vel ingenti labore apprehendat . 
+Subtilissimis autem et ad picturam bene pronis ingeniis haec , quoquomodo dicantur , facillima sane et pulcherrima sunt , quae quidem rudibus et a natura parum ad has nobilissimas artes pronis , etiam si ab eloquentissimis dicantur , admodum ingrata sunt . 
+A nobis vero eadem , quod sine ulla eloquentia brevissime recitata sint , fortassis non sine fastidio leguntur . 
+Sed velim nobis dent veniam si , dum imprimis volui intelligi , id prospexi ut clara esset nostra oratio magis quam compta et ornata . 
+Quae vero sequentur minus , ut spero , tedium legentibus afferent . 
+Diximus ergo de triangulis , de pyramide , de intercisione , quae dicenda videbantur , quas res tamen consuevi apud familiares prolixius quadam geometrica ratione cur ea ita essent demonstrare , quod his commentariis brevitatis causa praetermittendum censui . 
+Hic enim sola prima picturae artis rudimenta pictor quidem pictoribus recensui . 
+Eaque idcirco rudimenta nuncupari volumus , quod ineruditis pictoribus prima artis fundamenta iecerint . 
+Sed huiusmodi sunt ut qui eadem probe tenuerit , is cum ad ingenium tum ad cognoscendam picturae definitionem , tum etiam ad ea de quibus dicturi sumus , non minimum profuisse intelligat . 
+Neque sit qui dubitet futurum pictorem nunquam bonum eum , qui quae pingendo conetur non ad unguem intelligat . 
+Frustra enim arcu contenditur , nisi quo sagittam dirigas destinatum habeas . 
+Ac velim quidem apud nos persuasum esse eum solum fore pictorem optimum , qui optime cum fimbrias tum superficierum qualitates omnes notasse didicerit . 
+Contraque eum futurum nunquam bonum arteficem affirmo , qui non diligentissime quae diximus omnia tenuerit . 
+Idcirco nobis haec de superficiebus et intercisione dicta pernecessaria fuere . 
+Sequitur ut pictorem instituamus quemadmodum quae mente conceperit ea manu imitari queat . 
+LIBER Sed quoniam hoc perdiscendi studium forte nimis laboriosum iuvenibus videri potest , idcirco hoc loco ostendendum censeo quam sit pictura non indigna , in qua omnem operam et studium consumamus . 
+Nam habet ea quidem in se vim admodum divinam non modo ut quod de amicitia dicunt , absentes pictura praesentes esse faciat , verum etiam defunctos longa post saecula viventibus exhibeat , ut summa cum artificis admiratione ac visentium voluptate cognoscantur . 
+Refert Plutarchus Cassandrum unum ex Alexandri ducibus , quod simulacrum iam defuncti Alexandri intueretur , in quo regis maiestatem cognovisset , toto cum corpore trepidasse , Agesilaumque Lacenam , quod se esse admodum deformem intelligeret , suam recusasse a posteris effigiem cognosci , eaque de re neque pingi a quoquam neque fingi voluisse . 
+Itaque vultus defunctorum per picturam quodammodo vitam praelongam degunt . 
+Quod vero pictura deos expresserit quos gentes venerentur , maximum id quidem mortalibus donum fuisse censendum est , nam ad pietatem qua superis coniuncti sumus , atque ad animos integra quadam cum religione detinendos nimium pictura profuit . 
+Phidias in Elide Iovem fecisse dicitur , cuius pulchritudo non parum receptae religioni adiecerit . 
+Iam vero ad delitias animi honestissimas atque ad rerum decus quantum conferat pictura , cum aliunde tum hinc maxime licet videre , quod nullam ferme dabis rem usque adeo pretiosam , quam picturae societas non longe cariorem multoque gratiosissimam efficiat . 
+Ebur , gemmae et istiusmodi cara omnia pictoris manu fiunt pretiosiora . 
+Aurum quoque ipsum picturae arte elaboratum longe plurimo auro penditur . 
+Quin vel plumbum , metallorum vilissimum , si Phidiae aut Praxitelis manu in simulacrum aliquod deductum sit , argento rudi atque inelaborato esse pretiosius fortassis videbitur . 
+Zeuxis pictor suas res donare ceperat , quoniam , ut idem aiebat , pretio emi non possent . 
+Nullum enim pretium existimabat inveniri quod satisfaceret huic qui fingendis aut pingendis animantibus quasi alterum sese inter mortales deum praestaret . 
+Has ergo laudes habet pictura , ut ea instructi cum opera sua admirari videant , tum deo se paene simillimos esse intelligant . 
+Quid , quod omnium artium vel magistra vel sane praecipuum pictura ornamentum est ? 
+Nam architectus quidem epistilia , capitula , bases , columnas fastigiaque et huiusmodi caeteras omnes aedificiorum laudes , ni fallor , ab ipso tantum pictore sumpsit . 
+Pictoris enim regula et arte lapicida , sculptor , omnesque fabrorum officinae omnesque fabriles artes diriguntur . 
+Denique nulla paene ars non penitus abiectissima reperietur quae picturam non spectet , ut in rebus quicquid adsit decoris , id a pictura sumptum audeam dicere . 
+Sed et hoc in primis honore a maioribus honestata pictura est ut , cum caeteri ferme omnes artifices fabri nuncuparentur , solus pictor in fabrorum numero non esset habitus . 
+Quae cum ita sint , consuevi inter familiares dicere picturae inventorem fuisse , poetarum sententia , Narcissum illum qui sit in florem versus , nam cum sit omnium artium flos pictura , tum de Narcisso omnis fabula pulchre ad rem ipsam perapta erit . 
+Quid est enim aliud pingere quam arte superficiem illam fontis amplecti ? 
+Censebat Quintilianus priscos pictores solitos umbras ad solem circumscribere , demum additamentis artem excrevisse . 
+Sunt qui referant Phyloclem quendam Aegyptium et Cleantem nescio quem inter primos huius artis repertores fuisse . 
+Aegyptii affirmant sex millibus annorum apud se picturam in usu fuisse prius quam in Graeciam esset translata . 
+E Graecia vero in Italiam dicunt nostri venisse picturam post Marcelli victorias ex Sicilia . 
+Sed non multum interest aut primos pictores aut picturae inventores tenuisse , quando quidem non historiam picturae ut Plinius sed artem novissime recenseamus , de qua hac aetate nulla scriptorum veterum monumenta quae ipse viderim extant , tametsi ferunt Euphranorem Isthmium nonnihil de symmetria et coloribus scripsisse , Antigonum et Xenocratem de picturis aliqua litteris mandasse , tum et Apellem ad Perseum de pictura conscripsisse . 
+Refert Laertius Diogenes Demetrium quoque philosophum picturam commentatum fuisse . 
+Tum etiam existimo , cum caeterae omnes bonae artes monumentis litterarum a maioribus nostris commendatae fuerint , picturam quoque a nostris Italis non fuisse scriptoribus neglectam . 
+Nam fuere quidem antiquissimi in Italia Etrusci pingendi arte omnium peritissimi . 
+Censet Trismegistus vetustissimus scriptor una cum religione sculpturam et picturam exortam : sic enim inquit ad Asclepium : humanitas memor naturae et originis suae deos ex sui vultus similitudine figuravit . 
+Sed quis negabit omnibus in rebus cum publicis tum privatis , profanis religiosisque picturam sibi honestissimas partes vendicasse , ut nullum artificium apud mortales tanti ab omnibus existimatum inveniam ? 
+Referuntur de tabulis pictis pretia paene incredibilia . 
+Aristides Thebanus picturam unicam centum talentis vendidit . 
+Rhodum non incensam a Demetrio rege , ne Protogenis tabula periret , referunt . 
+Rhodum ergo unica pictura fuisse ab hostibus redemptam possumus affirmare . 
+Multa praeterea huiusmodi a scriptoribus collecta sunt , quibus aperte intelligas semper bonos pictores in summa laude et honore apud omnes fuisse versatos , ut etiam nobilissimi ac praestantissimi cives philosophique et reges non modo pictis rebus sed pingendis quoque maxime delectarentur . 
+L. Manilius civis Romanus et Fabius homo in urbe nobilissimus pictores fuerunt . 
+Turpilius eques Romanus Veronae pinxit . 
+Sitedius pretorius et proconsularis pingendo nomen adeptus est . 
+Pacuvius poeta tragicus , Ennii poetae nepos ex filia , Herculem in foro pinxit . 
+Socrates , Plato Metrodorusque Pyrrhoque philosophi pictura claruere . 
+Nero , Valentinianusque atque Alexander Severus imperatores pingendi studiosissimi fuere . 
+Longum esset referre quot principes quotve reges huic nobilissimae arti dediti fuerint . 
+Tum etiam minime decet omnem pictorum veterum turbam recensere , quae quidem quanta fuerit hinc conspici potest quod Demetrio Phalereo , Phanostrati filio , trecentaesexaginta statuae partim equestres partim in curribus et bigis ferme intra quadringentos dies fuere consumatae . 
+Ea vero in urbe , in qua tantus fuerit sculptorum numerus , utrum et pictores non paucos fuisse arbitrabimur ? 
+Sunt quidem cognatae artes eodemque ingenio pictura et sculptura nutritae . 
+Sed ipse pictoris ingenium , quod in re longe difficillima versetur , semper praeferam . 
+Verum ad rem redeamus . 
+Ingens namque fuit et pictorum et sculptorum illis temporibus turba , cum et principes et plebei et docti atque indocti pictura delectabantur , cumque inter primas ex provinciis praedas signa et tabulas in theatris exponebant ; eoque processit res ut Paulus Aemilius caeterique non pauci Romani cives filios inter bonas artes ad bene beateque vivendum picturam edocerent . 
+Qui mos optimus apud Graecos maxime observabatur , ut ingenui et libere educati adolescentes , una cum litteris , geometria et musica , pingendi quoque arte instruerentur . 
+Quin et feminis etiam haec pingendi facultas honori fuit . 
+Martia , Varronis filia , quod pinxerit apud scriptores celebratur . 
+Ac fuit quidem tanta in laude et honore pictura ut apud Graecos caveretur edicto ne servis picturam discere liceret ; neque id quidem iniuria , nam est pingendi ars profecto liberalibus ingeniis et nobilissimis animis dignissima , maximumque optimi et praestantissimi ingenii apud me semper fuit inditium illius quem in pictura vehementer delectari intelligerem . 
+Tametsi haec una ars et doctis et indoctis aeque admodum grata est , quae res nulla fere alia in arte evenit ut quod peritos delectat imperitos quoque moveat . 
+Neque facile quempiam invenies qui non maiorem in modum optet se in pictura profecisse . 
+Ipsam denique naturam pingendo delectari manifestum est . 
+Videmus enim naturam ut saepe in marmoribus hippocentauros regumque barbatas facies effigiet . 
+Quin et aiunt in gemma Pyrrhi novem musas cum suis insignibus distincte a natura ipsa fuisse depictas . 
+Adde his quod nulla ferme ars est in qua perdiscenda ac exercenda omnis aetas et peritorum et imperitorum tanta cum voluptate versetur . 
+Liceat de me ipso profiteri . 
+Si quando me animi voluptatis causa ad pingendum confero , quod facio sane persaepius cum ab aliis negotiis otium suppeditat , tanta cum voluptate in opere perficiendo insisto ut tertiam et quartam quoque horam elapsam esse postea vix possim credere . 
+Itaque voluptatem haec ars affert dum eam colas , laudem , divitias ac perpetuam famam dum eam bene excultam feceris . 
+Quae res cum ita sit , cum sit pictura optimum et vetustissimum ornamentum rerum , liberis digna , doctis atque indoctis grata , maiorem in modum hortor studiosos iuvenes ut , quoad liceat , picturae plurimam operam dent . 
+Proxime eos moneo , qui picturae studiosissimi sunt , ut omni opera et diligentia prosequantur ipsam perfectam pingendi artem tenere . 
+Sit vobis , qui pictura praestare contenditis , cura in primis nominis et famae , quam veteres assequutos videtis , ac meminisse quidem iuvabit semper adversam laudi et virtuti fuisse avaritiam . 
+Quaestui enim intentus animus raro posteritatis fructum assequetur . 
+Vidi ego plerosque in ipso quasi flore perdiscendi illico decidisse ad quaestum et nec divitias nec laudem ullam inde fuisse adeptos , qui si ingenium studio auxissent , in laude facile conscendissent , quo in loco et divitias et voluptatem nominis accepissent . 
+Itaque de his satis hactenus . 
+Ad institutum redeamus . 
+Picturam in tres partes dividimus , quam quidem divisionem ab ipsa natura compertam habemus . 
+Nam cum pictura studeat res visas repraesentare , notemus quemadmodum res ipsae sub aspectu veniant . 
+Principio quidem cum quid aspicimus , id videmus esse aliquid quod locum occupet . 
+Pictor vero huius loci spatium circumscribet , eamque rationem ducendae fimbriae apto vocabulo circumscriptionem appellabit . 
+Proxime intuentes dignoscimus ut plurimae prospecti corporis superficies inter se conveniant ; hasque superficierum coniunctiones artifex suis locis designans recte compositionem nominabit . 
+Postremo aspicientes distinctius superficierum colores discernimus , cuius rei repraesentatio in pictura , quod omnes differentias a luminibus recipiat , percommode apud nos receptio luminum dicetur . 
+Picturam igitur circumscriptio , compositio et luminum receptio perficiunt . 
+De his ergo sequitur ut quam brevissime dicamus . 
+Et primo de circumscriptione . 
+Circumscriptio quidem ea est quae lineis ambitum fimbriarum in pictura conscribit . 
+In hac Parrhasium pictorem eum , cum quo est apud Xenophontem Socratis sermo , pulchre peritum fuisse tradunt , illum enim lineas subtilissime examinasse aiunt . 
+In hac vero circumscriptione illud praecipue servandum censeo , ut ea fiat lineis quam tenuissimis atque admodum visum fugientibus ; cuiusmodi Apellem pictorem exerceri solitum ac cum Protogene certasse referunt . 
+Nam est circumscriptio aliud nihil quam fimbriarum notatio , quae quidem si valde apparenti linea fiat , non margines superficierum in pictura sed rimulae aliquae apparebunt . 
+Tum cuperem aliud nihil circumscriptione nisi fimbriarum ambitum prosequi , in qua quidem vehementer exercendum affirmo . 
+Nulla enim compositio nullaque luminum receptio non adhibita circumscriptione laudabitur . 
+At sola circumscriptio plerunque gratissima est . 
+Circumscriptioni igitur opera detur , ad quam quidem bellissime tenendam nihil accomodatius inveniri posse existimo quam id velum quod ipse inter familiares meos sum solitus appellare intercisionem , cuius ego usum nunc primum adinveni . 
+Id istiusmodi est : velum filo tenuissimo et rare textum quovis colore pertinctum filis grossioribus in parallelas portiones quadras quot libeat distinctum telarioque distentum . 
+Quod quidem inter corpus repraesentandum atque oculum constituo , ut per veli raritates pyramis visiva penetret . 
+Habet enim haec veli intercisio profecto commoda in se non pauca , primo quod easdem semper immotas superticies referat , nam positis terminis illico pristinam pyramidis cuspidem reperies , quae res absque intercisione sane perdifficillima est . 
+Et nosti quam sit impossibile aliquid pingendo recte imitari quod non perpetuo eandem pingenti faciem servet . 
+Hinc est quod pictas res , cum semper eandem faciem servent , facilius quam sculptas aemulantur . 
+Tum nosti quam , intervallo ac centrici positione mutatis , res ipsa visa alterata esse appareat . 
+Itaque hanc non mediocrem quam dixi utilitatem velum praestabit , ut res semper eadem e conspectu persistat . 
+Proxima utilitas est quod fimbriarum situs et superficierum termini certissimis in pingenda tabula locis facile constitui possint , nam cum istoc in parallelo frontem , in proximo nasum , in propinquo genas , in inferiori mentum , et istiusmodi omnia in locis suis disposita intuearis , itidem in tabula aut pariete suis quoque parallelis divisa illico bellissime omnia collocaris . 
+Postremo hoc idem velum maximum ad perficiendam picturam adiumentum praestat , quandoquidem rem ipsam prominentem et rotundam in istac planitie veli conscriptam et depictam videas . 
+Quibus ex rebus quantam ad facile et recte pingendum utilitatem velum exhibeat , satis et iudicio et experientia intelligere possumus . 
+Nec eos audiam qui dicunt minime conducere pictorem his rebus assuefieri , quae etsi maximum ad pingendum adiumentum afferant , tamen huismodi sunt ut absque illis vix quicquam per se artifex possit . 
+Non enim a pictore , ni fallor , infinitum laborem exposcimus , sed picturam expectamus eam quae maxime prominens et datis corporibus persimilis videatur . 
+Quam rem quidem non satis intelligo quonam pacto unquam sine veli adminiculo possit quispiam vel mediocriter assequi . 
+Igitur intercisione hac , idest velo , ut dixi , utantur ii qui student in pictura proficere . 
+Quod si absque velo experiri ingenium delectet , hanc ipsam parallelorum rationem intuitu consequantur , ut semper lineam illic transversam ab altera perpendiculari persectam imaginentur , ubi prospectum terminum in pictura statuant . 
+Sed cum plerunque inexpertis pictoribus fimbriae superficierum dubiae et incertae sint veluti in vultibus , quod non decernunt quo potissimum loco tempora a fronte discriminentur , edocendi idcirco sunt quonam argumento eius rei cognitionem assequantur . 
+Natura id quidem pulchre demonstrat . 
+Nam ut in planis superficiebus intuemur ut suis propriis luminibus et umbris insignes sint , ita et in sphaericis atque concavis superficiebus quasi in plures superficies easdem diversis umbrarum et luminum maculis quadratas videmus . 
+Ergo singulae partes claritate et obscuritate differentes pro singulis superficiebus habendae sunt . 
+Quod si ab umbroso sensim deficiendo ad illustrem colorem visa superficies continuarit , tunc medium , quod inter utrunque spatium est , linea signare oportet , quo omnis colorandi spatii ratio minus dubia sit . 
+Restat ut de circumscriptione aliquid etiam referamus , quod ad compositionem quoque non parum pertinet . 
+Idcirco non ignorandum est quid sit compositio in pictura . 
+Est autem compositio ea pingendi ratio qua partes in opus picturae componuntur . 
+Amplissimum pictoris opus historia , historiae partes corpora , corporis pars membrum est , membri pars est superficies . 
+Etenim cum sit circumscriptio ea ratio pingendi qua fimbriae superficierum designantur , cumque superficierum aliae parvae ut animantium , aliae ut aedificiorum et colossorum amplissimae sint , de parvis superficiebus circumscribendis ea praecepta sufficiant quae hactenus dicta sunt , nam ostensum est ut eadem pulchre velo metiantur . 
+In maioribus ergo superficiebus nova ratio reperienda est . 
+Qua de re quae supra in rudimentis a nobis de superficiebus , radiis pyramideque atque intercisione exposita sunt , ea omnia menti repetenda sunt . 
+Denique meministi quae de pavimenti parallelis et centrico puncto atque linea disserui . 
+In pavimento ergo parallelis inscripto alae murorum et quaevis huiusmodi , quas incumbentes nuncupavimus superficies , coaedificandae sunt . 
+Dicam ergo breviter quid ipse in hac coaedificatione efficiam . 
+Principio ab ipsis fundamentis exordium capio . 
+Latitudinem enim et longitudinem murorum in pavimento describo , in qua quidem descriptione illud a natura animadverti nullius quadrati corporis rectorum angulorum plus quam duas solo incumbentes iunctas superficies uno aspectu posse videri . 
+Ergo in describendis parietum fundamentis id observo ut solum ea latera circumeam quae sub aspectu pateant ; ac primo semper a proximioribus superficiebus incipio , maxime ab his quae aeque ab intercisione distant . 
+Itaque has ego ante alias conscribo , atque quam velim esse harum ipsarum longitudinem ac latitudinem ipsis in pavimento descriptis parallelis constituo , nam quot ea velim esse bracchia tot mihi parallelos assumo . 
+Medium vero parallelorum ex utriusque diametri mutua sectione accipio . 
+Nam diametri a diametro intersectio medium sui quadranguli locum possidet . 
+Itaque hac parallelorum mensura pulchre latitudinem atque longitudinem surgentium a solo moenium conscribo . 
+Tum altitudinem quoque superficierum hinc non difficillime assequor . 
+Nam quae mensura est inter centricam lineam et eum pavimenti locum unde aedificii quantitas insurgit , eandem mensuram tota illa quantitas servabit . 
+Quod si voles istanc quantitatem ab solo esse usque in sublime quater quam est hominis picti longitudo , et fuerit linea centrica ad hominis altitudinem posita , erunt tunc quidem ab infimo quantitatis capite usque ad centricam lineam bracchia tria . 
+Tu vero qui istanc quantitatem vis usque ad bracchia xii excrescere , ter tantundem quantum est a centrica usque ad inferius quantitatis caput sursum versus educito . 
+Ergo ex his quas retulimus rationibus pingendi probe possumus omnes angulares superficies circumscribere . 
+Restat ut de circularibus superficiebus suis fimbriis conscribendis enarremus . 
+Circulares quidem ex angularibus extrahuntur . 
+Id ipse sic facio . 
+Areolam quandrangulo rectorum angulorum incircuo , huiusque quadranguli latera in partes eiusmodi divido in quales partes inferior in pictura quadranguli linea divisa est , lineasque a singulis punctis ad sibi oppositos punctos divisionum ducens parvis quadrangulis aream repleo . 
+Illicque circulum quam velim magnum super inscribo ut mutuo sese circulus et parallelae lineae secent , omnesque sectionum punctos loco adnoto , quae loca in suis parallelis pavimenti descripti in pictura consigno . 
+Sed quia esset extremus labor minutis ac paene infinitis parallelis totum circulum multis ac multis locis percidere , quoad numerosa punctorum consignatione fimbria circuli continuaretur , idcirco ipse cum octo aut quot libuerit percisiones notaro , tum ingenio eum circuli ambitum pingendo ad hos ipsos signatos terminos duco . 
+Fortassis brevior esset via hanc fimbriam ad umbram luminis circumscribere , modo corpus quod umbram efficiat certa ratione suo loco interponeretur . 
+Itaque diximus ut parallelorum adiumentis maiores superficies angulares et circulares circumscribantur . 
+Absoluta igitur omni circumscriptione , sequitur ut de compositione dicendum sit . 
+Repetendum idcirco est quid sit compositio . 
+Est autem compositio ea pingendi ratio qua partes in opus picturae componuntur . 
+Amplissimum pictoris opus non colossus sed historia . 
+Maior enim est ingenii laus in historia quam in colosso . 
+Historiae partes corpora , corporis pars membrum est , membri pars est superficies . 
+Primae igitur operis partes superficies , quod ex his membra , ex membris corpora , ex illis historia , ultimum illud quidem et absolutum pictoris opus perficitur . 
+Ex superficierum compositione illa elegans in corporibus concinnitas et gratia extat , quam pulchritudinem dicunt . 
+Nam is vultus qui superficies alias grandes , alias minimas , illuc prominentes , istuc intus nimium retrusas et reconditas habuerit , quales in vetularum vultibus videmus , erit quidem is aspectu turpis . 
+In qua vero facie ita iunctae aderunt superficies ut amena lumina in umbras suaves defluant , nullaeque angulorum asperitates extent , hanc merito formosam et venustam faciem dicemus . 
+Ergo in hac superficierum compositione maxime gratia et pulchritudo perquirenda est . 
+Quonam vero pacto id assequamur , nulla alia modo mihi visa est via certior quam ut naturam ipsam intueamur , diuque ac diligentissime spectemus quemadmodum natura , mira rerum artifex , in pulcherrimis membris superficies composuerit . 
+In qua imitanda omni cogitatione et cura versari veloque quod diximus vehementer delectari oportet . 
+Dumque sumptas a pulcherrimis corporibus superficies in opus relaturi sumus , semper terminos prius destinemus quo lineas certo loco dirigamus . 
+Hactenus de superficierum compositione . 
+Sequitur ut de compositione membrorum referamus . 
+In membrorum compositione danda in primis opera est ut quaequae inter se membra pulchre conveniant . 
+Ea quidem tunc convenire pulchre dicuntur , cum et magnitudine et officio et specie et coloribus et caeteris siquae sunt huiusmodi rebus ad venustatem et pulchritudinem correspondeant . 
+Quod si in simulacro aliquo caput amplissimum , pectus pusillum , manus perampla , pes tumens , corpus turgidum adsit , haec sane compositio erit aspectu deformis . 
+Ergo quaedam circa magnitudinem membrorum ratio tenenda est , in qua sane commensuratione iuvat in animantibus pingendis primum ossa ingenio subterlocare , nam haec , quod minime inflectantur , semper certam aliquam sedem occupant . 
+Tum oportet nervos et musculos suis locis inhaerere , denique extremum carne et cute ossa et musculos vestitos reddere . 
+Sed ( video ) hoc in loco fortassis aderunt obiicientes quod supra dixerim nihil ad pictorem earum rerum spectare quae non videantur . 
+Recte illi quidem , sed veluti in vestiendo prius nudum subsignare oportet quem postea vestibus obambiendo involuamus , sic in nudo pingendo prius ossa et musculi disponendi sunt , quos moderatis carnibus et cute ita operias , ut quo sint loco musculi non difficile intelligatur . 
+At enim cum has omnes mensuras natura ipsa explicatas in medium exhibeat , tum in eisdem ab ipsa natura proprio labore recognoscendis utilitatem non modicam inveniet studiosus pictor . 
+Idcirco laborem hunc studiosi suscipiant , ut quantum in symmetria membrorum recognoscenda studii et operae posuerint , tantum sibi ad eas res quas didicerint memoria firmandas profuisse intelligant . 
+Unum tamen admoneo , ut in commensurando animante aliquod illius ipsius animantis membrum sumamus , quo caetera metiantur . 
+Vitruvius architectus hominis longitudinem pedibus dinumerat . 
+Ipse vero dignius arbitror si caetera ad quantitatem capitis referantur , tametsi hoc animadverti ferme commune esse in hominibus , ut eadem et pedis et quae est a mento ad cervicem capitis mensura intersit . 
+Itaque uno suscepto membro , huic caetera accommodanda sunt ut nullum in toto animante membrum adsit longitudine aut latitudine caeteris non correspondens . 
+Tum providendum est ut omnia membra suum ad id de quo agitur officium exequantur . 
+Decet currentem manus non minus iactare quam pedes . 
+At philosophum orantem malo in omni membro sui modestiam quam palaestram ostentet . 
+Daemon pictor hoplicitem ( sic ) in certamine expressit , ut illum sudare tum quidem diceres , alterumque arma deponentem , ut plane anhelare videretur . 
+Fuit et qui Ulixem pingeret ut in eo non veram sed fictam et simulatam insaniam agnoscas . 
+Laudatur apud Romam historia in qua Meleager defunctus asportatur , quod qui oneri subsunt angi et omnibus membris laborare videantur ; in eo vero qui mortuus sit , nullum adsit membrum quod non demortuum appareat , omnia pendent , manus , digiti , cervix , omnia languida decidunt , denique omnia ad exprimendam corporis mortem congruunt . 
+Quod quidem omnium difficillimum est , nam omni ex parte otiosa in corpore membra effingere tam summi artificis est quam viva omnia et aliquid agentia reddere . 
+Ergo hoc ipsum in omni pictura servandum est , ut quaequae membra suum ad id de quo agitur officium ita peragant , ut ne minimus quidem articulus pro re vacet munere , ut mortuorum membra ad unguem usque mortua , viventium vero omnia viva esse videantur . 
+Vivere corpus tum dicitur cum motu quodam sua sponte agatur , mortemque aiunt esse ubi membra vitae officia , hoc est motum et sensum , amplius ferre nequeunt . 
+Ergo quae corporum simulacra pictor viva apparere voluerit , in his efficiet ut omnia membra suos motus exequantur . 
+Sed in omni motu venustas et gratia sectanda est . 
+Ac maxime hi membrorum motus vivaces et gratissimi sunt qui aera in altum petunt . 
+Tum speciem quoque diximus in componendis membris spectandam esse . 
+Nam perabsurdum esset si Helenae aut Iphigeniae manus seniles et rusticanae viderentur , aut si Nestori pectus tenerum et cervix lenis , aut si Ganymedi frons rugosa , crura athletae , aut si Miloni omnium robustissimo latera levia et gracilia adderemus . 
+Tum etiam in eo simulacro , in quo vultus sint solidi et succipleni , ut aiunt , turpe esset lacertos et manus macie absumptas agere . 
+Contraque qui Achaemenidem ab Aenea in insula inventum pingeret facie qua eum fuisse Virgilius refert , nec caetera faciei convenientia sequerentur , esset is quidem pictor perridiculus atque ineptus . 
+Itaque specie omnia conveniant oportet . 
+Tum colore quoque inter se correspondeant velim . 
+Nam quibus sint vultus rosei , venusti , nivei , his pectus ac caetera membra fusca et truculenta minime conveniunt . 
+Ergo in compositione membrorum quae de magnitudine , officio , specie et coloribus diximus tenenda sunt . 
+Tum et pro dignitate omnia subsequantur oportet . 
+Nam Venerem aut Minervam saga indutam esse minime convenit . 
+Iovem aut Martem veste muliebri indecenter vestires . 
+Castorem et Pollucem prisci pictores pingendo curabant ut , cum gemelli viderentur , in altero tamen pugilem naturam , in altero agilitatem discerneres . 
+Tum et Vulcano claudicandi vitium apparere sub vestibus volebant , tantum illis erat studium pro officio , specie et dignitate quod oportet exprimere . 
+Sequitur corporum compositio , in qua omne pictoris ingenium et laus versatur . 
+Quam quidem ad compositionem nonnulla in compositione membrorum dicta pertinent , nam officio et magnitudine corpora omnia in historia conveniant oportet . 
+Si enim centauros in cena tumultuantes pinxeris , ineptum esset in tam efferato tumultu aliquem vino sopitum accubare . 
+Tum etiam vitium esset , si homines pari distantia alii aliis multo maiores , aut si canes equis pares in pictura adessent . 
+Neque parum etiam vituperandum est , quod plerunque video , pictos in aedificio homines quasi in scrinio reclusos , in quo vix sedentes et in orbem coacti recipiantur . 
+Corpora igitur omnia et magnitudine et officio ad eam rem de qua agitur conveniant . 
+Historia vero , quam merito possis et laudare et admirari , eiusmodi erit quae illecebris quibusdam sese ita amenam et ornatam exhibeat , ut oculos docti atque indocti spectatoris diutius quadam cum voluptate et animi motu detineat . 
+Primum enim quod in historia voluptatem afferat est ipsa copia et varietas rerum . 
+Ut enim in cibis atque in musica semper nova et exuberantia cum caeteras fortassis ob causas tum nimirum eam ob causam delectant quod ab vetustis et consuetis differant , sic in omni re animus varietate et copia admodum delectatur . 
+Idcirco in pictura et corporum et colorum varietas amena est . 
+Dicam historiam esse copiosissimam illam in qua suis locis permixti aderunt senes , viri , adolescentes , pueri , matronae , virgines , infantes , cicures , catelli , aviculae , equi , pecudes , aedificia , provinciaeque ; omnemque copiam laudabo modo ea ad rem de qua illic agitur conveniat . 
+Fit enim ut cum spectantes lustrandis rebus morentur , tum pictoris copia gratiam assequatur . 
+Sed hanc copiam velim cum varietate quadam esse ornatam , tum dignitate et verecundia gravem atque moderatam . 
+Improbo quidem eos pictores , qui quo videri copiosi , quove nihil vacuum relictum volunt , eo nullam sequuntur compositionem sed confuse et dissolute omnia disseminant , ex quo non rem agere sed tumultuare historia videtur . 
+Ac fortassis qui dignitatem in primis in historia cupiet , huic solitudo admodum tenenda erit . 
+Ut enim in principe maiestatem affert verborum paucitas , modo sensa et iussa intelligantur , sic in historia competens corporum numerus adhibet dignitatem . 
+Odi solitudinem in historia , tamen copiam minime laudo quae a dignitate abhorreat . 
+Atque in historia id vehementer approbo quod a poetis tragicis atque comicis observatum video , ut quam possint paucis personatis fabulam doceant . 
+Meo quidem iudicio nulla erit usque adeo tanta rerum varietate referta historia , quam novem aut decem homines non possint condigne agere , ut illud Varronis huc pertinere arbitror , qui in convivio tumultum evitans non plus quam novem accubantes admittebat . 
+Sed in omni historia cum varietas iocunda est , tamen in primis onmibus grata est pictura , in qua corporum status atque motus inter se multo dissimiles sint . 
+Stent igitur alii toto vultu conspicui , manibus supinis et digitis micantibus , alterum in pedem innixi , aliis adversa sit facies et demissa bracchia , pedesque iniuncti , singulisque singuli flexus et actus extent ; alii consideant , aut in flexo genu morentur , aut prope incumbant . 
+Sintque nudi , si ita deceat , aliqui , nonnulli mixta ex utrisque arte partim velati partim nudi assistant . 
+Sed pudori semper et verecundiae inserviamus . 
+Obscoenae quidem corporis et hae omnes partes quae parum gratiae habent , panno aut frondibus aut manu operiantur . 
+Apelles Antigoni imaginem ea tantum parte vultus pingebat qua oculi vitium non aderat . 
+Periclem referunt habuisse caput oblongum et deforme ; idcirco a pictoribus et sculptoribus , non ut caeteros inoperto capite , sed casside vestito eum formari solitum . 
+Tum antiquos pictores refert Plutarchus solitos in pingendis regibus , si quid vitii aderat formae , non id praetermissum videri velle , sed quam maxime possent , servata similitudine , emendabant . 
+Hanc ergo modestiam et verecundiam in universa historia observari cupio ut foeda aut praetereantur aut emendentur . 
+Denique , ut dixi , studendum censeo ut in nullo ferme idem gestus aut status conspiciatur . 
+Animos deinde spectantium movebit historia , cum qui aderunt picti homines suum animi motum maxime prae se ferent . 
+Fit namque natura , qua nihil sui similium rapacius inveniri potest , ut lugentibus conlugeamus , ridentibus adrideamus , dolentibus condoleamus . 
+Sed hi motus animi ex motibus corporis cognoscuntur . 
+Nam videmus ut tristes , quod curis astricti et aegritudine obsessi sint , totis sensibus ac viribus torpeant , interque pallentia et admodum labantia membra sese lenti detineant . 
+Est quidem maerentibus pressa frons , cervix languida , denique omnia veluti defessa et neglecta procidunt . 
+Iratis vero , quod animi ira incendantur , et vultus et oculi intumescunt ac rubent , membrorumque omnium motus pro furore iracundiae in eisdem acerrimi et iactabundi sunt . 
+Laeti autem et hilares cum sumus , tum solutos et quibusdam flexionibus gratos motus habemus . 
+Laudatur Euphranor quod in Alexandro Paride et vultus et faciem effecerit , in qua illum et iudicem dearum et amatorem Helenae et una Achillis interfectorem possis agnoscere . 
+Est et Daemonis quoque pictoris mirifica laus , quod in eius pictura adesse iracundum , iniustum , inconstantem , unaque et exorabilem et clementem , misericordem , gloriosum , humilem ferocemque facile intelligas . 
+Sed inter caeteros referunt Aristidem Thebanum Apelli aequalem probe hos animi motus expressisse , quos certum quidem est et nos quoque , dum in ea re studium et diligentiam quantum convenit posuerimus , pulchre assequemur . 
+Pictori ergo corporis motus notissimi sint oportet , quos quidem multa solertia a natura petendos censeo . 
+Res enim perdifficilis est pro paene infinitis animi motibus corporis quoque motus variare . 
+Tum quis hoc , nisi qui expertus sit , crediderit usque adeo esse difficile , cum velis ridentes vultus effigiare , vitare id ne plorabundi magis quam alacres videantur ? 
+Tum vero et quis poterit sine maximo labore , studio et diligentia vultus exprimere , in quibus et os et mentum et oculi et genae et frons et supercilia in unum ad luctum aut hilaritatem conveniant ? 
+Idcirco diligentissime ex ipsa natura cuncta perscrutanda sunt , semperque promptiora imitanda , eaque potissimum pingenda sunt , quae plus animis quod excogitent relinquant , quam quae oculis intueantur . 
+Sed nos referamus nonnulla quae de motibus partim fabricavimus nostro ingenio , partim ab ipsa natura didicimus . 
+Primum reor oportere ut omnia inter se corpora , ad eam rem de qua agitur , concinnitate quadam moveantur . 
+Tum placet in historia adesse quempiam qui earum quae gerantur rerum spectatores admoneat , aut manu ad visendum advocet , aut quasi id negotium secretum esse velit , vultu ne eo proficiscare truci et torvis oculis minitetur , aut periculum remve aliquam illic admirandam demonstret , aut ut una adrideas aut ut simul deplores suis te gestibus invitet . 
+Denique et quae illi cum spectantibus et quae inter se picti exequentur , omnia ad agendam et docendam historiam congruant necesse est . 
+Laudatur Timanthes Cyprius in ea tabula qua Colloteicum vicit , quod cum in Iphigeniae immolatione tristem Calchantem , tristiorem fecisset Ulixem , inque Menelao maerore affecto omnem artem et ingenium exposuisset , consumptis affectibus , non reperiens quo digno modo tristissimi patris vultus referret , pannis involuit eius caput , ut cuique plus relinqueret quod de illius dolore animo meditaretur , quam quod posset visu discernere . 
+Laudatur et navis apud Romam ea , in qua noster Etruscus pictor Giottus undecim metu et stupore percussos ob socium , quem supra undas meantem videbant , expressit , ita pro se quemque suum turbati animi inditium vultu et toto corpore praeferentem , ut in singulis singuli affectionum motus appareant . 
+Sed decet hunc totum locum de motibus brevissime transigere . 
+Sunt namque motus alii animorum , quos docti affectiones nuncupant , ut ira , dolor , gaudium , timor , desiderium et eiusmodi . 
+Sunt et alii corporum , nam dicuntur moveri corpora plerisque modis , siquidem cum crescunt aut minuuntur , cumque valentes in aegritudinem cadunt , cumque a morbo in valetudinem surgunt , cumque locum mutant et huiusmodi causis corpora moveri dicuntur . 
+Nos autem pictores , qui motibus membrorum volumus animos affectos exprimere , caeteris disputationibus omissis , de eo tantum motu referamus , quem tum factum dicunt , cum locus mutatus sit . 
+Res omnis quae loco movetur , septem habet movendi itinera , nam aut sursum versus aut deorsum aut in dexteram aut in sinistram aut illuc longe recedendo aut contra nos redeundo . 
+Septimus vero movendi modus est is qui in girum ambiendo vehitur . 
+Hos igitur omnes motus cupio esse in pictura . 
+Adsint corpora nonnulla quae sese ad nos porrigant , alia abeant horsum , dextrorsum et sinistrorsum . 
+Tum ex ipsis corporibus nonnullae partes adversus conspectantes ostententur , aliquae retrocedant , aliae sursum tollantur , aliquae in infimum tendantur . 
+Sed cum in his expingendis motibus ratio plerunque et modus transgrediatur , iuvat hoc loco de statu et motibus membrorum referre nonnulla quae ex ipsa natura collegi , unde plane intelligatur qua moderatione his motibus utendum sit . 
+Perspexi quidem in homine quam in omni statu sui totum substituat corpus capiti , membro omnium ponderosissimo . 
+Tum si toto corpore idem in unum pedem institerit , semper is pes tamquam columnae basis est ad perpendiculum capiti subiectus , ac ferme semper eo stantis vultus porrectus est quo sit pes ipse directus . 
+Capitis vero motus animadverti vix unquam ullam in partem esse tales , ut non semper aliquas reliqui corporis partes sub se positas habeat , quo immane pondus regatur , aut certe in adversam partem tamquam alteram lancem aliquod membrum protendit quod ponderi correspondeat . 
+Namque idem videmus , dum quis manu extensa pondus aliquod sustentat , ut altero pede tamquam asse bilancis firmato alia tota corporis pars ad coaequandum pondus contrasistatur . 
+Intellexi etiam stantis caput non plus verti sursum quam quo oculi coelum medium contueantur , neque in alterum latus plus diverti quam usque quo mentum scapulam attigerit ; in ea parte vero corporis qua incingimur , vix unquam ita intorquemur ut humerum supra umbilicum ad rectam lineam super astituamus . 
+Tibiarum et bracchiorum motus liberiores sunt , modo caeteras corporis honestas partes non impediant . 
+At in his illud a natura perspexi , manus ferme nunquam supra caput neque cubitum supra humeros elevari , neque supra genu pedem in altum attolli , neque pedem a pede plus distare quam quantum pedis unius spatium intersit . 
+Tum spectavi , si quam in altum protendamus manum , eum motum caeteras omnes eius lateris partes ad pedem usque subsequi , ut etiam ipsius pedis calcaneus eiusdem bracchii motu a pavimento levetur . 
+Sunt his simillima perplurima quae diligens artifex animadvertet , et fortasse quae ipse hactenus retuli , usque adeo in promptu sunt ut superflua videri possint . 
+Sed ea idcirco non negleximus , quod plerosque in ea re vehementer errare noverimus . 
+Motus enim nimium acres exprimunt , efficiuntque ut in eodem simulacro et pectus et nates uno sub prospectu conspiciantur , quod quidem cum impossibile factu , tum indecentissimum visu est . 
+Sed hi , quo audiunt eas imagines maxime vivas videri , quae plurimum membra agitent , eo histrionum motus , spreta omni picturae dignitate , imitantur . 
+Ex quo non modo gratia et lepore eorum opera nuda sunt , sed etiam artificis nimis fervens ingenium exprimunt . 
+Suaves enim et gratos atque ad rem de qua agitur condecentes habere pictura motus debet . 
+Sint in virginibus motus et habitudo venusta simplicitate compta atque amena , quae statum magis sapiat dulcem et quietem quam agitationem , tametsi Homero , quem Zeuxis sequutus est , etiam in feminis forma validissima placuit . 
+Sint in adolescente motus leviores , iocundi cum quadam significatione valentis animi et virium . 
+Sint in viro motus firmiores et status celeri palaestra admodum ornati . 
+Sint in senibus omnes motus tardi , sintque ipsi status defessi , ut corpus non pedibus modo ambobus sustineant , sed et manibus aliquo haereant . 
+Denique pro dignitate cuique sui motus corporis ad eos quos velis exprimere motus animi referantur . 
+Tum denique maximarum animi perturbationum maximae in membris significationes adsint necesse est . 
+Atqui haec de motibus ratio in omni animante admodum comunis est . 
+Non enim convenit bovem aratorem his motibus uti quibus Bucephalum generosum Alexandri equum . 
+At celebrem illam Inachi filiam , quae in vaccam conversa sit , fortassis currentem , erecta cervice , levatis pedibus , intorta cauda , perapte pingemus . 
+Haec de animantium motu breviter excursa sufficiant . 
+Nunc vero , quoniam et rerum inanimatarum eos onmes quos dixi motus in pictura necessarios esse arbitror , quonam illa pacto moveantur dicendum censeo . 
+Sane et capillorum et iubarum et ramorum et frondium et vestium motus in pictura expressi delectant . 
+Ipse quidem capillos cupio eos omnes quos retuli septem motus agere ; etenim vertantur in girum nodum conantes , atque undent in aera flammas imitantes , modoque sub aliis crinibus serpant , modo sese in has atque has partes attollant . 
+Sintque item ramorum flexus et curvationes partim in sublime arcuati , partim inferius tracti , partim emineant , partim introcedant , partim ut funis intorqueantur . 
+Idque ipsum in plicis pannorum observetur , ut veluti trunco arboris rami in omnes partes emanent , sic ex plica succedant plicae utputa in suos ramos . 
+In hisque idem quoque omnes motus expleantur ut nullius panni extensio adsit , in qua non idem ferme omnes motus reperiantur . 
+Sed sint motus omnes , quod saepius admoneo , moderati et faciles , gratiamque potius quam admirationem laboris exhibeant . 
+Iam vero cum pannos motibus aptos esse volumus , cumque natura sui panni graves et assiduo in terram cadentes omnes admodum flexiones refugiant , pulchre idcirco in pictura Zephiri aut Austri facies perflans inter nubes ad historiae angulum ponetur , qua panni omnes adversi pellantur . 
+Ex quo gratia illa aderit ut quae corporum latera ventus feriat , quod panni vento ad corpus imprimantur , ea sub panni velamento prope nuda appareant . 
+A reliquis vero lateribus panni vento agitati perapte in aera inundabunt . 
+Sed in hac venti pulsione illud caveatur ne ulli pannorum motus contra ventum surgant , neve nimium refracti , neve nimium porrecti sint . 
+Haec igitur de motibus animantium et rerum inanimatarum dicta valde a pictore servanda sunt . 
+Tum etiam ea omnia diligenter exequenda , quae de superficierum , membrorum , corporumque compositione recensuimus . 
+Itaque duae a nobis partes picturae absolutae sunt : circumscriptio et compositio . 
+Restat ut de luminum receptione dicendum sit . 
+In rudimentis satis demonstravimus quam vim lumina ad variandos colores habeant . 
+Nam manentibus colorum generibus , modo apertiores , modo restrictiores colores pro luminum umbrarumque pulsu fieri edocuimus ; albumque et nigrum colores eos esse quibus lumina et umbras in pictura exprimamus ; caeteros vero colores tamquam materiam haberi , quibus luminis et umbrae alterationes adigantur . 
+Ergo , caeteris omissis , explicandum est quonam pacto sit pictori albo et nigro utendum . 
+Veteres pictores Polygnotum et Timanthem quattuor coloribus tantum usos fuisse , tum Aglaophon simplici colore delectatum admirantur , ac si in tanto quem putabant esse colorum numero , modicum sit eosdem optimos pictores tam paucos in usum delegisse , copiosique artificis putent omnem colorum multitudinem ad opus congerere . 
+Sane ad gratiam et leporem picturae affirmo copiam colorum et varietatem plurimum valere . 
+Sed sic velim pictores eruditi existiment summam industriam atque artem in albo tantum et nigro disponendo versari , inque his duobus probe locandis omne ingenium et diligentiam consummandam . 
+Nam veluti luminum et umbrae casus id efficit ut quo loco superficies turgeant , quove in cavum recedant , quantumve quaeque pars declinet ac deflectat ; appareat ; , sic albi et nigri concinnitas efficit illud quod Niciae pictori Atheniensi laudi dabatur quodve artifici in primis optandum est : ut suae res pictae maxime eminere videantur . 
+Zeuxim nobilissimum vetustissimumque pictorem dicunt quasi principem ipsam hanc luminum et umbrarum rationem tenuisse . 
+Caeteris vero ea laus minime attributa est . 
+Ego quidem pictorem nullum vel mediocrem putabo eum qui non plane intelligat quam vim umbra omnis et lumina in quibusque superficiebus habeant . 
+Pictos ego vultus , et doctis et indoctis consentientibus , laudabo eos qui veluti exsculpti extare a tabulis videantur , eosque contra vituperabo quibus nihil artis nisi fortassis in lineamentis eluceat . 
+conscriptam , optime coloratam compositionem esse velim . 
+Ergo ut vituperatione careant , utque laudem mereantur , in primis lumina et umbrae diligentissime notanda sunt , atque animadvertendum quam in eam superficiem in quam radii luminum feriant , color ipse insignior atque illustrior sit , tum ut dehinc sensim deficiente vi luminum idem color subfuscus reddatur . 
+Denique animadvertendum est quo pacto semper umbrae luminibus ex adverso respondeant , ut nullo in corpore superficies lumine illustretur , in quo eodem contrarias superficies umbris obtectas non reperias . 
+Sed quantum ad lumina albo et umbras nigro imitandas pertinet , admoneo ut praecipuum studium adhibeas ad superficies eas cognoscendas quae lumine aut umbra pertactae sint . 
+Id quidem a natura et rebus ipsis pulchre perdisces . 
+Eas demum cum probe tenueris , tum levissimo albo quam parcissime suo loco intra fimbrias colorem alteres , suoque contrario loco pariter nigrum illico adiunges . 
+Nam hac nigri et albi conlibratione , ut ita dicam , surgens prominentia fit perspicacior . 
+Dehinc pari parsimonia additamentis prosequere quoad quid satis sit assequutum te sentias . 
+Erit quidem ad eam rem cognoscendam iudex optimus speculum . 
+Ac nescio quo pacto res pictae in speculo gratiam habeant , si vitio careant . 
+Tum mirum est ut omnis menda picturae in speculo deformior appareat . 
+A natura ergo suscepta speculi iudicio emendentur . 
+Sed liceat hic nonnulla , quae a natura hausimus , referre . 
+Animadverti quidem ut planae superficies uniformem omni loco sui colorem servent , sphaericae vero et concavae colores variant , nam istic clarior , illic obscurior est , alio vero loco medii coloris species servatur . 
+Haec autem coloris in non planis superficiebus alteratio difficultatem exhibet ignavis pictoribus . 
+Sed si , ut docuimus , recte fimbrias superficierum pictor conscripserit luminumque sedes discriminarit , facilis tum quidem erit colorandi ratio . 
+Nam levissimo quasi rore primum usque ad discriminis lineam albo aut nigro eam superficiem , ut oporteat , alterabit . 
+Dehinc aliam , ut ita loquar , irrorationem citra lineam , post hanc aliam citra hanc , et citra eam aliam superaddendo assequetur , ut cum illustrior locus apertiori colore pertinctus sit , tum idem deinceps color quasi fumus in contiguas partes diluatur . 
+At meminisse oportet nullam superficiem usque adeo dealbandam esse ut eandem multo ac multo candidiorem nequeas efficere . 
+Ipsas quoque niveas vestes exprimendo citra ultimum candorem longe residendum est . 
+Nam habet pictor aliud nihil quam album colorem quo ultimos tersissimarum superficierum fulgores imitetur , solumque nigrum invenit quo ultimas noctis tenebras referat . 
+Idcirco in albis vestibus pingendis unum ex quattuor generibus colorum suscipere opus est , quod quidem apertum et clarum sit . 
+Idque ipsum contra in nigro fortassis pallio pingendo alium extremum quod non longe ab umbra distet , veluti profundi et nigrantis maris colorem sumemus . 
+Denique vim tantam haec albi et nigri compositio habet , ut arte et modo facta aureas argenteasque et vitreas splendidissimas superficies demonstret in pictura . 
+Ergo vehementer vituperandi sunt pictores qui albo intemperanter et nigro indiligenter utuntur . 
+Quam ideo ipse vellem apud pictores album colorem longe carius quam pretiosissimas gemmas coemi ! 
+Conduceret quidem album et nigrum ex illis unionibus Cleopatrae quos aceto colliquabat , constare quo eorum avarissimi redderentur , nam et lepidiora opera et ad veritatem proximiora essent . 
+Neque facile dici potest quantam esse oporteat distribuendi albi in pictura parsimoniam atque modum . 
+Hinc solitus erat Zeuxis pictores redarguere , quod nescirent quid esset nimis . 
+Quod si vitio indulgendum est , minus redarguendi sunt qui nigro admodum profuse , quam qui albo paulum intemperanter utantur . 
+Natura enim ipsa indies atrum et horrendum opus usu pingendi odisse discimus , continuoque quo plus intelligimus , eo plus ad gratiam et venustatem manum delinitam reddimus . 
+Ita natura omnes aperta et clara amamus . 
+Ergo qua in parte facilior peccato via patet , eo arctius obstruenda est . 
+Haec de albi et nigri usu dicta hactenus . 
+De colorum vero generibus etiam ratio quaedam adhibenda est . 
+Sequitur ergo ut de colorum generibus nonnulla referamus , non id quidem quemadmodum Vitruvius architectus quo loco rubrica optima et probatissimi colores inveniantur , sed quonam pacto selecti et valde pertriti colores in pictura componendi sint . 
+Ferunt Euphranorem priscum pictorem de coloribus nonnihil mandasse litteris . 
+Ea scripta non extant hac tempestate . 
+Nos autem qui hanc picturae artem seu ab aliis olim descriptam ab inferis repetitam in lucem restituimus , sive nunquam a quoquam tractatam a superis deduximus , nostro ut usque fecimus ingenio , pro instituto rem prosequamur . 
+Velim genera colorum et species , quoad id fieri possit , omnes in pictura quadam cum gratia et amenitate spectari . 
+Gratia quidem tunc extabit cum exacta quadam diligentia colores iuxta coloribus aderunt ; quod si Dianam agentem chorum pingas , huic nymphae virides , illi propinquae candidos , proximae huic purpureos , alteri croceos amictus dari convenit , ac deinceps istiusmodi colorum diversitate caeterae induantur ut clari semper colores aliquibus diversi generis obscuris coloribus coniungantur . 
+Nam ea quidem coniugatio colorum et venustatem a varietate et pulchritudinem a comparatione illustriorem referet . 
+Atqui est quidem nonnulla inter colores amicitia ut iuncti alter alteri gratiam et venustatem augeat . 
+Rubeus color si inter coelestem et viridem medius insideat , mutuum quoddam utrisque suscitat decus . 
+Niveus quidem color non modo inter cinereum atque croceum positus , sed paene omnibus coloribus hilaritatem praestat . 
+Obscuri autem colores inter claros non sine insigni dignitate assident , parique ratione inter obscuros clari belle collocantur . 
+Ergo quam dixi varietatem colorum in historia pictor disponet . 
+At sunt qui auro inmodice utantur , quod aurum putent quandam historiae afferre maiestatem . 
+Eos ipse plane non laudo . 
+Quin et si eam velim Didonem Virgilii expingere , cui pharetra ex auro , in aurumque crines nodabantur , aurea cui fibula vestem subnectebat , aureisque frenis vehebatur , dehinc omnia splendebant auro , eam tamen aureorum radiorum copiam , quae undique oculos visentium perstringat , potius coloribus imitari enitar quam auro . 
+Nam cum maior in coloribus sit artificis admiratio et laus , tum etiam videre licet ut in plana tabula auro posito pleraeque superficies , quas claras et fulgidas repraesentare oportuerat , obscurae visentibus appareant , aliae fortassis quae umbrosiores debuerant esse , luminosiores porrigantur . 
+Caetera quidem fabrorum ornamenta quae picturae adiiciuntur , ut sunt circumsculptae columnae et bases et fastigia , non sane vituperabo si ex ipso argento atque auro solido vel admodum purissimo fuerint . 
+Nam et gemmarum quoque ornamentis perfecta et absoluta historia dignissima est . 
+Hactenus picturae partes tres brevissime transactae a nobis sunt . 
+Diximus de circumscriptione minorum et maiorum superficierum . 
+Diximus de compositione superficierum , membrorum atque corporum . 
+Diximus de coloribus quantum ad pictoris usum pertinere arbitrabamur . 
+Omnis igitur pictura a nobis exposita est , quam quidem in tribus his rebus consistere praediximus , circumscriptione , compositione et luminum receptione . 
+LIBER Sed cum ad perfectum pictorem instituendum ut omnes quas recensuimus laudes assequi possit , nonnulla etiam supersint , quae his commentariis minime praetereunda censeo , ea quam brevissime referamus . 
+Pictoris officium est quaevis data corpora ita in superficie lineis et coloribus conscribere atque pingere , ut certo intervallo , certaque centrici radii positione constituta , quaeque picta videas , eadem prominentia et datis corporibus persimillima videantur . 
+Finis pictoris laudem , gratiam et benivolentiam vel magis quam divitias ex opere adipisci . 
+Id quidem assequetur pictor dum eius pictura oculos et animos spectantium tenebit atque movebit . 
+Quae res , quonam argumento fieri possint diximus cum de compositione atque luminum receptione supra disceptavimus . 
+Sed cupio pictorem , quo haec possit omnia pulchre tenere , in primis esse virum et bonum et doctum bonarum artium . 
+Nam nemo nescit quantum probitas vel magis quam omnis industriae aut artis admiratio valeat ad benivolentiam civium comparandam . 
+Tum nemo dubitat benivolentiam multorum artifici plurimum conferre ad laudem atque ad opes parandas . 
+Siquidem ex ea fit ut cum non nunquam divites benivolentia magis quam artis peritia moveantur , tum lucra ad hunc potissimum modestum et probum deferant , spreto alio peritiore sane , sed fortassis intemperanti . 
+Quae cum ita sint , moribus egregie inserviendum erit artifici , maxime humanitati et facilitati , quo et benivolentiam , firmum contra paupertatem praesidium , et lucra , optimum ad perficiendam artem auxilium , assequatur . 
+Doctum vero pictorem esse opto , quoad eius fieri possit , omnibus in artibus liberalibus , sed in eo praesertim geometriae peritiam desidero . 
+Assentior quidem Pamphilo antiquissimo et nobilissimo pictori , a quo ingenui adolescentes primo picturam didicere . 
+Nam erat eius sententia futurum neminem pictorem bonum qui geometriam ignorarit . 
+Nostra quidem rudimenta , ex quibus omnis absoluta et perfecta ars picturae depromitur , a geometra facile intelliguntur . 
+Eius vero artis imperitis neque rudimenta neque ullas picturae rationes posse satis patere arbitror . 
+Ergo geometricam artem pictoribus minime negligendam affirmo . 
+Proxime non ab re erit se poetis atque rhetoribus delectabuntur . 
+Nam hi quidem multa cum pictore habent ornamenta communia . 
+Neque parum illi quidem multarum rerum notitia copiosi litterati ad historiae compositionem pulchre constituendam iuvabunt , quae omnis laus praesertim in inventione consistit . 
+Atqui ea quidem hanc habet vim , ut etiam sola inventio sine pictura delectet . 
+Laudatur , dum legitur , illa Calumniae descriptio quam ab Apelle pictam refert Lucianus . 
+Eam quidem enarrare minime ab instituto alienum esse censeo , quo pictores admoneantur eiusmodi inventionibus fabricandis advigilare oportere . 
+Erat enim vir unus , cuius aures ingentes extabant , quem circa duae adstabant mulieres , Inscitia et Suspitio , parte alia ipsa Calumnia adventans , cui forma mulierculae speciosae sed quae ipso vultu nimis callere astu videbatur , manu sinistra facem accensam tenens , altera vero manu per capillos trahens adolescentem qui manus ad coelum tendit . 
+Duxque huius est vir quidam pallore obsitus , deformis , truci aspectu , quem merito compares his quos in acie longus labor confecerit . 
+Hunc esse Livorem merito dixere . 
+Sunt et aliae duae Calumniae comites mulieres , ornamenta dominae componentes , Insidiae et Fraus . 
+Post has pulla et sordidissima veste operta et sese dilanians adest Poenitentia , proxime sequente pudica et verecunda Veritate . 
+Quae plane historia etiam si dum recitatur animos tenet , quantum censes eam gratiae et amoenitatis ex ipsa pictura eximii pictoris exhibuisse ? 
+Quid tres illae iuvenculae sorores , quibus Hesiodus imposuit nomina Egle , Euphronesis atque Thalia , quas pinxere implexis inter se manibus ridentes , soluta et perlucida veste ornatas , ex quibus liberalitatem demonstratam esse voluere , quod una sororum det , alia accipiat , tertia reddat beneficium ; qui quidem gradus in omni perfecta liberalitate adesse debent . 
+Vides quam huiusmodi inventa magnam artifici laudem comparent . 
+Idcirco sic consulo poetis atque rhetoribus caeterisque doctis litterarum sese pictor studiosus familiarem atque benivolum dedat , nam ab eiusmodi eruditis ingeniis cum ornamenta accipiet optima , tum in his profecto inventionibus iuvabitur , quae in pictura non ultimam sibi laudem vendicent . 
+Phidias egregius pictor fatebatur se ab Homero didicisse qua potissimum maiestate Iovem pingeret . 
+Nostris sic arbitror nos etiam poetis legendis et copiosiores et emendatiores futuros , modo discendi studiosiores fuerimus quam lucri . 
+Sed plerunque non minus studiosos quam cupidos , quod viam perdiscendae rei ignorent , magis quam discendi labor frangit . 
+Idcirco quonam pacto in hac arte nos eruditos fieri oporteat ordiamur . 
+Caput sit omnes discendi gradus ab ipsa natura esse petendos ; artis vero perficiendae ratio diligentia , studio et assiduitate comparetur . 
+Velim quidem eos qui pingendi artem ingrediuntur , id agere quod apud scribendi instructores observari video . 
+Nam illi quidem prius omnes elementorum characteres separatim edocent , postea vero syllabas atque perinde dictiones componere instruunt . 
+Hanc ergo rationem et nostri in pingendo sequantur . 
+Primo ambitum superficierum quasi picturae elementa , tum et superficierum connexus , dehinc membrorum omnium formas distincte ediscant , omnesque quae in membris possint esse differentias memoriae commendent . 
+Nam sunt illae quidem neque modicae neque non insignes . 
+Aderunt quibus sit nasus gibbosus ; erunt qui gerant simas nares , recurvas , patulas : alii buccas fluentes porrigunt , alios labiorum gracilitas ornat , ac deinceps quaeque membra aliquid praecipuum habent , quod cum plus aut minus affuerit , tunc multo totum membrum variet . 
+Quin etiam videmus ut eadem membra pueris nobis rotunda et , ut ita dicam , tornata atque levia , aetatis vero accessu asperiora et admodum angulata sint . 
+Haec igitur omnia picturae studiosus ab ipsa natura excipiet , ac se cum ipse assiduo meditabitur quonam pacto quaeque extent , in eaque investigatione continuo oculis et mente persistet . 
+Spectabit namque sedentis gremium et tibias ut dulce in proclivum labantur . 
+Notabit stantis faciem totam atque habitudinem , denique nulla erit pars cuius officium et symmetriam , ut Graeci aiunt , ignoret . 
+At ex partibus omnibus non modo similitudinem rerum , verum etiam in primis ipsam pulchritudinem diligat . 
+Nam est pulchritudo in pictura res non minus grata quam expetita . 
+Demetrio pictori illi prisco ad summam laudem defuit quod similitudinis exprimendae fuerit curiosior quam pulchritudinis . 
+Ergo a pulcherrimis corporibus omnes laudatae partes eligendae sunt . 
+Itaque non in postremis ad pulchritudinem percipiendam , habendam atque exprimendam studio et industria contendendum est . 
+Quae res tametsi omnium difficillima sit , quod non uno loco omnes pulchritudinis laudes comperiantur sed rarae illae quidem ac dispersae sint , tamen in ea investiganda ac perdiscenda omnis labor exponendus est . 
+Nam qui graviora apprehendere et versare didicerit , is facile minora poterit ex sententia , neque ulla est usque adeo difficilis res quae studio et assiduitate superari non possit . 
+Sed quo sit studium non futile et cassum , fugienda est illa consuetudo nonnullorum qui suopte ingenio ad picturae laudem contendunt , nullam naturalem faciem eius rei oculis aut mente coram sequentes . 
+Hi enim non recte pingere discunt sed erroribus assuefiunt . 
+Fugit enim imperitos ea pulchritudinis idea quam peritissimi vix discernunt . 
+Zeuxis , praestantissimus et omnium doctissimus et peritissimus pictor , facturus tabulam quam in tempio Lucinae apud Crotoniates publice dicaret , non suo confisus ingenio temere , ut fere omnes hac aetate pictores , ad pingendum accessit , sed quod putabat omnia quae ad venustatem quaereret , ea non modo proprio ingenio non posse , sed ne a natura quidem petita uno posse in corpore reperiri , idcirco ex omni eius urbis iuventute delegit virgines quinque forma praestantiores , ut quod in quaque esset formae muliebris laudatissimum , id in pictura referret . 
+Prudenter is quidem , nam pictoribus nullo proposito exemplari quod imitentur , ubi ingenio tantum pulchritudinis laudes captare enituntur , facile evenit ut eo labore non quam debent aut quaerunt pulchritudinem assequantur , sed plane in malos , quos vel volentes vix possunt dimittere , pingendi usus dilabantur . 
+Qui vero ab ipsa natura omnia suscipere consueverit , is manum ita exercitatam reddet ut semper quicquid conetur naturam ipsam sapiat . 
+Quae res in picturis quam sit optanda videmus , nam in historia si adsit facies cogniti alicuius hominis , tametsi aliae nonnullae praestantioris artificii emineant , cognitus tamen vultus omnium spectantium oculos ad se rapit , tantam in se , quod sit a natura sumptum , et gratiam et vim habet . 
+Ergo semper quae picturi sumus , ea a natura sumamus , semperque ex his quaeque pulcherrima et dignissima deligamus . 
+Sed cavendum ne , quod plerique faciunt , ea minimis tabellis pingamus . 
+Grandibus enim imaginibus te velim assuefacias , quae quidem quam proxime magnitudine ad id quod ipse velis efficere , accedant . 
+Nam in parvis simulacris maxima vitia maxime latent , in magna effigie etiam minimi errores conspicui sunt . 
+Scripsit Galienus vidisse se in anulo sculptum Phaethontem quattuor equis vectum , quorum frena et omnes pedes et pectora distincte videbantur . 
+Concedant pictores hanc laudem sculptoribus gemmarum ; ipsi vero maioribus in campis laudis versentur . 
+Nam qui magnas figuras fingere aut pingere noverit , is perfacile atque optime unico tractu eiusmodi minuta poterit . 
+Qui vero pusillis his monilibus manum et ingenium assuefecerit , facile in maioribus aberrabit . 
+Sunt qui aliorum pictorum opera aemulentur , atque in ea re sibi laudem quaerant ; quod Calamidem sculptorem fecisse ferunt , qui duo pocula caelavit in quibus Zenodorum ita aemulatus est ut nulla in operibus differentia agnosceretur . 
+At pictores maximo in errore versantur , si non intelligunt eos qui pinxerint conatos fuisse tale simulacrum repraesentare , quale nos ab ipsa natura depictum in velo intuemur . 
+Vel si iuvat opera aliorum imitari , quod ea firmiorem quam viventes patientiam ad se ostendenda praestent , malo mediocriter sculptam quam egregie pictam rem tibi imitandam proponas , nam ex pictis rebus solum ad aliquam similitudinem referendam manum assuefacimus , ex rebus vero sculptis et similitudinem et vera lumina deducere discimus . 
+In quibus quidem luminibus colligendis plurimum confert pilis palpebrarum aciem intuitus subopprimere , quo illic lumina subfusca et quasi intercisione depicta videantur . 
+Ac fortassis conducet fingendo exerceri quam penniculo . 
+Certior enim et facilior est sculptura quam pictura . 
+Neque unquam erit quispiam qui recte possit eam rem pingere , cuius omnes prominentias non cognoscat . 
+Prominentiae vero facilius reperiuntur sculptura quam pictura . 
+Etenim sit hoc ad rem non mediocre argumentum , quod videre liceat quam omni fere in aetate mediocres aliquos fuisse sculptores invenias , pictores vero paene nullos non irridendos ac prorsus imperitos reperias . 
+Denique vel picturae studias vel sculpturae , semper tibi proponendum est elegans et singulare aliquod exemplar , quod et spectes et imiteris , in eoque imitando diligentiam celeritati coniunctam ita adhiberi oportere censeo , ut nunquam penniculum aut stilum ad opus admoveat pictor , quin prius mente quid facturus et quomodo id perfecturus sit , optime constitutum habeat . 
+Tutius est enim errores mente levare quam ex opere abradere . 
+Tum etiam dum ex composito agere omnia consueverimus , fit ut Asclepiodoro longe promptiores artifices reddamur , quem quidem omnium velocissimum pingendo fuisse ferunt . 
+Nam redditur ad rem peragendam promptum , accinctum expeditumque ingenium id quod exercitatione agitatum calet , eaque manus velocissima sequitur , quam certa ingenii ratio duxerit . 
+Si qui vero sunt pigri artifices , hi profecto idcirco ita sunt quod lente et morose eam rem tentent quam non prius menti suae studio perspicuam effecere , dumque inter eas erroris tenebras versantur , meticulosi ac veluti obcaecati , penniculo , ut caecus bacillo , ignotas vias et exitus praetentant ac perquirunt . 
+Ergo nunquam , nisi praevio ingenio atque eodem bene erudito , manum ad opus admoveat . 
+Sed cum sit summum pictoris opus historia , in qua quidem omnis rerum copia et elegantia adesse debet , curandum est ut non modo hominem , verum et equum et canem et alia animantia et res omnes visu dignissimas pulchre pingere , quoad per ingenium id liceat , discamus , quo varietas et copia rerum , sine quibus nulla laudatur historia , in nostris rebus minime desideretur . 
+Magnum id quidem atque nulli antiquorum concessum , ut omni in re , non dico praestaret , sed vel mediocriter esset doctus . 
+Tamen omni studio enitendum censeo , ne nobis negligentia nostra ea deficiant , quae et laudem afferunt permagnam si assequantur , et vituperationem si negligantur . 
+Nicias Atheniensis pictor diligentissime pinxit mulieres . 
+At Zeuxim muliebri in corpore pingendo plurimum aliis praestitisse ferunt . 
+Eraclides navibus pingendis claruit . 
+Serapion nequibat hominem pingere , caeteras plane res pulcherrime pingebat . 
+Dionysius nihil nisi hominem poterat . 
+Alexander is qui Pompeii porticum pinxit , quadrupedes omnes , maximeque canes , egregie faciebat . 
+Aurelius , quod semper amaret , solum deas , in earumque simulacris amatos vultus exprimere gaudebat . 
+Phidias in deorum maiestate demonstranda quam in hominum pulchritudine elaborabat . 
+Euphranori dignitatem heroum simulari cordi admodum erat , in eaque caeteros antecelluit . 
+Itaque cuique non aequa facultas affuit . 
+Proprias enim dotes natura singulis ingeniis elargita est , quibus non usque adeo contenti esse debemus , ut quid ultra possimus intentatum relinquamus . 
+Sed et naturae dotes industria , studio atque exercitatione colendae , augendaeque sunt , et praeterea nihil quod ad laudem pertineat , negligentia praetermissum a nobis videri decet . 
+Caeterum cum historiam picturi sumus , prius diutius excogitabimus quonam ordine et quibus modis eam componere pulcherrimum sit . 
+Modulosque in chartis conicientes , tum totam historiam , tum singulas eiusdem historiae partes commentabimur , amicosque omnes in ea re consulemus . 
+Denique omnia apud nos ita praemeditata esse elaborabimus , ut nihil in opere futurum sit , quod non optime qua id sit parte locandum intelligamus . 
+Quove id certius teneamus , modulos in parallelos dividere iuvabit , ut in publico opere cuncta , veluti ex privatis commentariis ducta , suis sedibus collocentur . 
+In opere vero perficiendo eam diligentiam adhibebimus quae sit coniuncta celeritati agendi , quam neque taedium a prosequendo deterreat , neque cupiditas perficiendi praecipitet . 
+Interlaxandus interdum negotii labor est recreandusque animus , neque id agendum quod plerique faciunt , ut plura opera assumant , hoc ordiantur , hoc inchoatum atque imperfectum abiciant . 
+Sed quae coeperis opera , ea omni ex parte perfecta reddenda sunt . 
+Cuidam , cum imaginem ostenderet , dicenti : hanc modo pinxi , respondit Apelles : te quidem tacente id sane perspicuum est , quin et miror non plures huiuscemodi abs te esse pictas . 
+Vidi ego aliquos tum pictores atque sculptores , tum rhetores et poetas , si qui nostra aetate aut rhetores aut poetae appellandi sunt , flagranti studio aliquod opus aggredi , qui postea , dum ardor ille ingenii deferbuit , inchoatum ac rude opus deserunt , novaque cupiditate aliud agendi ad novissima sese conferunt . 
+Quos ego homines profecto vitupero . 
+Nam omnes qui sua posteris grata et accepta fore opera cupiunt , multo ante meditari opus oportet , quod multa diligentia perfectum reddant . 
+Siquidem non paucis in rebus ipsa diligentia grata non minus est quam omne ingenium . 
+Sed vitanda est superflua illa , ut ita loquar , superstitio eorum qui , dum omni vitio sua penitus carere et nimis polita esse volunt , prius contritum opus vetustate efficiunt quam absolutum sit . 
+Protogenem soliti erant vituperare antiqui pictores quod nesciret manum a tabula amovere . 
+Merito id quidem , nam conari sane oportet ut pro ingenii viribus quantum sat sit diligentia rebus adhibeatur , sed in omni re plus velle quam vel possis vel deceat , pertinacis est non diligentis . 
+Ergo moderata diligentia rebus adhibenda est , amicique consulendi sunt , quin et in ipso opere exequendo omnes passim spectatores recipiendi et audiendi sunt . 
+Pictoris enim opus multitudini gratum futurum est . 
+Ergo multitudinis censuram et iudicium tum non aspernetur , cum adhuc satisfacere opinionibus liceat . 
+Apellem aiunt post tabulam solitum latitare , quo et visentes liberius dicerent , et ipse honestius vitia sui operis recitantes audiret . 
+Nostros ergo pictores palam et audire saepius et rogare omnes quid sentiant volo , quandoquidem id cum ad caeteras res tum ad gratiam pictori aucupandam valet . 
+Nemo enim est qui non sibi decorum putet suam in alienis laboribus sententiam proferre . 
+Tum minime verendum est ne vituperatorum et invidorum iudicium laudibus pictoris quicquam possit decerpere . 
+Perspicua enim ac celeberrima est pictoris laus , dicacemque testem ipsum bene pictum opus habet . 
+Ergo omnes audiat , secumque ipse rem prius pensitet atque emendet ; deinde cum omnes audiverit , peritioribus pareat . 
+Haec habui quae de pictura his commentariis referrem . 
+Ea si eiusmodi sunt ut pictoribus commodum atque utilitatem aliquam afferant , hoc potissimum laborum meorum premium exposco ut faciem meam in suis historiis pingant , quo illos memores beneficii et gratos esse ac me artis studiosum fuisse posteris praedicent . 
+Si vero expectationibus eorum minime satisfeci , non tamen quod tantam aggredi rem ausi fuerimus vituperent . 
+Nam si quod laudis est conari id perficere nostrum ingenium nequivit , meminerint tamen solere in maximis rebus laudi esse id voluisse quod difficillimum esset . 
+Aderunt fortasse qui nostra vitia emendent et in hac praestantissima et dignissima re longe magis quam nos possint esse pictoribus adiumento . 
+Quos ego , si qui futuri sunt , etiam atque etiam precor ut hoc munus alacri animo ac prompto suscipiant , in quo et ipsi ingenium exerceant suum et hanc nobilissimam artem excultissimam reddant . 
+Nos tamen hanc palmam praeripuisse ad voluptatem ducimus , quandoquidem primi fuerrimus qui hanc artem subtilissimam litteris mandaverimus . 
+Quod quidem sane difficillimum inceptum , si pro expectatione legentium perficere nequivimus , in eo natura magis quam nos inculpanda est , quae hanc legem rebus imposuisse visa est , ut nulla sit ars quae non a mendosis admodum initiis exordium sumpserit . 
+Simul enim ortum atque perfectum nihil esse aiunt . 
+Qui vero nos sequentur , si qui aderunt studio et ingenio quam nos praestantiores , hi fortasse artem picturae perfectam atque absolutam reddent . 
