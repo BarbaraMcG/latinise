@@ -2,6 +2,6 @@
 **/.DS_Store
 
 # Big files in Christianity_semantic_change
-Christianity_semantic_change/contextual_embeddings/output/*.pickle
-Christianity_semantic_change/contextual_embeddings/output/*.h5
-Christianity_semantic_change/contextual_embeddings/latin-bert-huggingface-finetuned/
+christianity_semantic_change_x/contextual_embeddings/output/*.pickle
+christianity_semantic_change_x/contextual_embeddings/output/*.h5
+christianity_semantic_change_x/contextual_embeddings/latin-bert-huggingface-finetuned/
