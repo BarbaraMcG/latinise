@@ -13,7 +13,7 @@ wget --no-check-certificate --load-cookies /tmp/cookies.txt "https://drive.userc
 mkdir -p contextual_embeddings/latin-bert-huggingface-finetuned
 
 # Move and extract the file
-mv $OUTPUT_FILE contextual_embeddings/latin-bert-huggingface-finetuned/
-cd contextual_embeddings/latin-bert-huggingface-finetuned
+mv $OUTPUT_FILE contextual_embeddings/latin-bert-finetuned/
+cd contextual_embeddings/latin-bert-finetuned
 tar -xf $OUTPUT_FILE
 rm $OUTPUT_FILE

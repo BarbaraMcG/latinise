@@ -1,7 +1,20 @@
 # Mac OS
 **/.DS_Store
 
-# Big files in Christianity_semantic_change
-christianity_semantic_change/contextual_embeddings/output/*.pickle
+# Big files in christianity_semantic_change
+christianity_semantic_change/contextual_embeddings/output/avg_emb_pretrained/*.pickle
+christianity_semantic_change/contextual_embeddings/output/avg_emb_finetuned/*.pickle
+christianity_semantic_change/contextual_embeddings/output/embeddings_pretrained/*.h5
+christianity_semantic_change/contextual_embeddings/output/embeddings_finetuned/*.h5
 christianity_semantic_change/contextual_embeddings/output/*.h5
-christianity_semantic_change/contextual_embeddings/latin-bert-huggingface-finetuned/
+christianity_semantic_change/contextual_embeddings/fine-tuned_1e-5_64batch_2epoch_LEM/
+christianity_semantic_change/contextual_embeddings/fine-tuned_1e-5_32batch_2epoch_LEM/
+christianity_semantic_change/contextual_embeddings/fine-tuned_1e-5_32batch_4epoch_NO-LEM/
+christianity_semantic_change/contextual_embeddings/fine-tuned_5e-6_32batch_2epoch_NO-LEM/
+christianity_semantic_change/contextual_embeddings/latin-bert-finetuned/
+
+# Big files in neolatin
+neolatin/bert_output/embeddings_finetuned/*.h5
+neolatin/bert_output/avg_emb_finetuned/*.pickle
+neolatin/model_1e-5_2epochs_32batch_NO-LEM/
+neolatin/model_1e-5_2epochs_32batch_LEM/

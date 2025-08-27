@@ -1,0 +1,1264 @@
+[ LNPS ] INCIPIUNT GLOSSULAE MAGISTRI PETRI ABAELARDI SUPER PORPHYRIUM Nostrorum petitioni sociorum satisfacientes scribendae logicae laborem suscepimus et quae de logica didicimus uotis eorum exponimus . 
+A Porphyrio genus sumamus . 
+Quinque igitur arbitror esse quibus proprietates logicae diligenter aperiuntur , genus scilicet eius ac proprietatem sui , partes ipsius necnon ortum et originem eius . 
+Sed quia de genere logicae tractandum est prius ad maiorem ipsius logicae et generis eius , scilicet philosophiae , declarationem de scientia quae utriusque genus est diuisio perutilis facienda est . 
+Scientia alia enim agendi , alia discernendi - - hoc est alia in rerum compositione , alia in rerum compositarum discretione consistens . 
+Multi enim sunt docti in agendo non perspicaces in discernendo , quia multi uim medicaminum experti solo usu bene mederi sciunt , nec tamen physicam in causis naturaliter bene cognoscunt . 
+Sciunt enim quae herbae quas infirmitates curare ualeant quia idem experimentis didicerunt . 
+Quare autem herbae hoc efficere ualeant rationem non deliberant , sed ; h ; erbarum potentias uel infirmitatum naturas ; p ; ractica quidem exercitati non theorica illustrati . 
+Sed et bestiae et caetera irrationabilia animalia multa bene agunt sed naturas causasque ignorant . 
+Ut canis la ; m ; bendo uulneribus optime medetur . 
+Apes quoque mira subtilitate operibus mella componere natura instruxit , quod ingenium non potest humanum . 
+Multi autem econuerso discreti sunt qui operandi gratiam non habent , et qui alios docent discrete exercere ipsi non ualent . 
+Est enim scientia alia agendi , alia discernendi . 
+Sola autem discernendi scientia philosophia dicitur . 
+Philosophiam autem non quamlibet scientiam dicimus nec quoslibet philosophos scientes uocamus sed eos tantum qui subtilitate intelligentiae praeeminentes in his quae sciunt , diligentem habent discretionem . 
+Discretus uero est ille qui causas occultas rerum comprehendere ac deliberare ualet . 
+Occultas quippe causas dicimus ex quibus quae res eueniant , magis ratione quam experimentis sensuum inuestigandum est . 
+Qui soli aeque stultis et discretis hominibus necnon et bestiis sunt communes . 
+Unde Boethius philosophiam bene Super Topica Ciceronis in magnis et maximis rebus operam suam consummare dicit , in occultis causis ratione comprehendendis , de quibus illud Vergilii existimat : Felix qui potuit rerum cognoscere causas . 
+Sub philosophia tres species contineri dicimus : physicam , ethicam , logicam . 
+Physicam naturarum dicimus scientiam , id est de speculandis causis in rerum naturis . 
+Ethicam uero magistram honestatis uocamus . 
+Logicam uero idem dicimus quod dialecticam et indifferenter utroque nomine in designatione utimur eiusdem scientiae . 
+Est autem logica Tulli auctoritate diligens ratio disserendi , id est discretio argumentorum per quae disseritur ( id est disputatur ) . 
+Non enim est logica scientia utendi argumentis siue componendi ea sed discernendi et diiudicandi ueraciter de eis , quare scilicet haec ualea nt , illa infirma sint . 
+Nemo enim aliter logicam habet nisi uniuscuiusque argumenti uim diiudicare ualeat , cum scilicet is qui illud facit , uim ei exposuerat , quam uim componendo ipse intendit . 
+Duae itaque sunt argumentorum scientiae , una componendi quam dicimus ratiocinatiuam , alia discernendi composita quam logicam appellamus . 
+Illa quippe in usu argumentorum tantum consistit , quam quiuis puer facile sibi per exercitium comparat , ista uero in discretione ac diuisione diiudicatur causarum per quam scilicet assignare sufficimus , quare hoc argumentum sit idoneum ad conclusionem inferendam , id est ita adiunctum , ut per id conclusio sit recipienda , illud uero minime . 
+Hanc autem magis ingenium quam exercitium ministrat . 
+Huius autem sunt duae species : una scientia inueniendi argumenta , altera diiudicandi eadem inuenta - - haec est in primorum argumentorum discretione , illa in secundorum discussione consistit . 
+Scientiam namque inueniendi dicimus non quod per eam argumenta inueniantur , sed quia ; causae ualetudinis eorum et inualetudinis ; aliorum dii udicantur . 
+Unde ratio diiudicandi duas habet species : confirmationem argumentorum et reprehensionem . 
+Nam sicut ualida confirmamus , ita inualida et sophistica reprehendimus . 
+Ita tamen scientia discernendi duas habet partes , quas logice appellamus scientiam inueniendi argumenta et iudicandi , id est primorum argumentorum compositionem . 
+Istae in compositione , illae in compositarum discretione consistunt . 
+Ad huiusmodi discretiones philosophi laborantes conati sunt ad certas regulas argumentationes reducere ne quis indiscretus in argumentationibus falsas pro ueris recipiat . 
+Sicut enim ex similitudine rerum decipimur , ita et in complexionibus contingit . 
+Sicut enim quam plurimos uideri pulchros contingit cum tamen faciat adornatio , ita et uersipelles sophistae falsarum complexionum fallacias polientes sophisticis argumentationibus nobis alludent ; itaque id quod in natura rerum non inuenitur concedere compellunt cum saepe contraria in conclusionibus colligi uideantur hoc modo : Socrates est corpus Corpus autem nigrum Socrates igitur est niger Rursus : Socrates est corpus Corpus autem est album Quare Socrates est albus In scribenda itaque logica hic ordo est necessarius : Cum logica sit discretio argumentorum , argumentationes uero ex propositionibus coniungantur , propositiones ex dictionibus , eum qui perfecte logicam scribit primum naturas simplicium sermonum , deinde compositorum necesse est inuestigare , et tandem in argumentationibus finem logicae consummare . 
+Sed quoniam argumentationes quaedam sunt locales , quaedam uero complexionales . 
+; Complexionales ; quidem sunt ; quae ; ex ipsa complexione , id est ex ipsorum terminorum dispositione , firmitudinem contrahunt . 
+Locales uero sunt quibus conuenienter potest assignari locus , id est euidentia conferri ex aliquo euentu rerum uel proprietate sermonis . 
+Necesse est autem eum qui plenarie doctrinam argumentationis tradere intendit duobus modis de simplicibus sermonibus tractare , tam uidelicet secundum significationem rerum quam intellectuum . 
+Duobus modis namque sermonis firmitas argumentationis consistere dicitur . 
+Aliquando enim ipsa sermonis uis iuxta intelligentiam ipsius commendationem et euidentiam argumentationis efficere potest , nulla rerum natura cooperante . 
+Verbi gratia : Homo est animal ; ergo non est chimaera uel homo cornutus Hic enim sola sermonis intelligentia necessaria est . 
+Aliquando sola uis sermonis iuxta ipsarum rerum naturam atque euentum ad confirmationem sufficit , ita scilicet ut nulla ad hoc sit intelligentiae necessaria assignatio , ueluti si dicamus : Est coruus , ergo est niger Non enim hoc nomen ' coruus ' ex ui proprie intelligentiae nigredinem in substantia denotat , cum teste Porphyrio possit subintelligi coruus sine nigredine . 
+Hunc igitur naturalem tractandi modum logicae Aristoteles insecutus est , scilicet ad doctrinam simplicium sermonum secundum significationem et rerum continentiam Praedicamenta perscripsit . 
+In prima uero parte Perihermeneias earundem naturas secundum significationes intellectuum inuestigauit . 
+In secunda autem parte naturas propositionum contrariarum et contradictoriarum ostendit quarum notitiam omnium ad argumentorum discretionem est necessaria , quod in Topicis exsequitur . 
+Nam sicut ex dictionibus argumenta trahuntur , ita ex propositionibus conuenienter eliciuntur . 
+In Prioribus uero Analyticis tractat conuersiones propositionum quae ualeant ad confirmationem earum per conuersionem . 
+Omnia autem haec - - Topica , Categorica , Analytica Priora - - gratia Secundorum Analyticorum in quibus omnium argumentorum naturas diligenter inuestigauit scripta sunt . 
+Intentio autem Porphyrii est lectorem praecipue ad Praedicamenta Aristotelis instruere ut facilius ea quae ; ibi ; non diligenter tractantur queat intelligere . 
+Quod facit tractando quinque - - genus scilicet , species et differentias , proprium et accidens - - quorum proprii praecipue cognitionem ad Praedicamenta utilem iudicauit . 
+Quod autem ut diximus ' quinque ' ad haec nomina ( genus scilicet , species , differentia , proprium et accidens ) potest referri . 
+Namque horum significata diligenter aperit ne cum ad praedicamenta uentum fuerit quid in his nominibus intelligatur ignoretur . 
+Tale autem nomina tractare ac si dicat eorum significationem aperire , siue agatur de illis siue de rebus ab ipsis significatis . 
+Materia sunt illa quinque nomina in quae sunt de quibus agit partim sunt nomina , partim sunt res . 
+Materia enim alia ex qua fit , alia in qua fit . 
+Materia ex qua fit , ut ferrum cultelli ex quo constat . 
+; Materia ; illa uero in qua fit , sicut ferrum fabri qui in ipsum agit . 
+Et hoc in loco materia accipitur pro ' in qua fit ' quia in illa quinque agit , ueluti Caesar est materia Lucani quia in ipsum agit . 
+Modus tractandi est talis : Horum quinque proprietatibus adsignatis in diuersis eorum tractatibus tandem ad maiorem eorum cognitionem ad communiones eorum simul et proprietates descendit , quoniam in istis duobus , scilicet in conuenientia rerum et differentia adsignanda , ultima rerum consistit doctrina . 
+Utilitas est , ut ipse docet , cum principaliter ad Praedicamenta dirigatur . 
+Quadrifaria tamen spargitur , quod satis in glossulis diligenter aperitur . 
+Haec autem scientia pertinet tam ad scientiam inueniendi quam iudicandi . 
+Nam enim dicit genus sine specie uel speciem sine genere subsistere non posse uel speciem ex differentiis constare , innuit necessaria argumenta conuenienter inueniri posse . 
+Ubi dicit proprium posterius fieri in specie , innuit argumenta inter proprium et speciem non esse necessaria . 
+Ubi dicit oportet esse subiectum ut ei aliquid accidat , innuit nulla argumenta inter subiecta et accidentia posse inueniri necessaria . 
+Tradit etiam hoc loco scientiam iudicandi , quia per illas proprietates quas generis et speciei et differentiae adsignat possunt conuenienter argumenta quae fiunt inter genus et speciem et differentiam et econuerso confirmari . 
+Principaliter tam ad inuentionem liber iste spectat , cum inuentio teste Tullio prior sit iudicio , quia prius necesse est argumenta inueniri quam inuenta iudicari uel confirmari . 
+Sicut igitur Boethius super Topica Ciceronis scientiam diuidendi , definiendi , colligendi partes logicae uocat atque ad inuentionem applicat , cum ex diuisionibus et ex definitionibus argumenta ducantur , ita horum quinque notitiam ab inuentione non disiunctam innuit , quia ex his conuenienter eliciuntur . 
+His itaque praelibatis litterae insistamus . 
+[ LNPS ] CUM SIT NECESSARIUM ET AD EAM QUAE EST APUD ARISTOTELEM PRAEDICAMENTORUM DOCTRINAM NOSSE QUID GENUS SIT ET QUID DIFFERENTIA QUIDQVE SPECIES ET QUID PROPRIUM ET QUID ACCIDENS , ET AD DEFINITIONUM ASSIGNATIONEM , ET OMNINO AD EA QUAE IN DIVISIONE VEL DEMONSTRATIONE SUNT UTILI HAC ISTARUM RERUM SPECULATIONE , COMPENDIOSAM TIBI TRADITIONEM FACIENS TEMPTABO BREVITER VELUT INTRODUCTIONIS MODO EA QUAE AB ANTIQUIS DICTA SUNT AGGREDI , ALTIORIBUS QUIDEM QUAESTIONIBUS ABSTINENS , SIMPLICIORES VERO MEDIOCRITER CONIECTANS . 
+Scripturus de materia sua prohemium praemittit in quo et materiam assignat et utilitatem operis et modum scribendi introductorium promittit . 
+Sunt autem huius uocabuli necessarium tres consuetae significationes : pro ineuitabili scilicet ponitur , ut necesse est deum esse immortalem ; modo pro utili , ut necesse est me ire ad forum ; modo pro determinato , ut necesse est hominem mori quandoque . 
+Duae quoque istarum significationum coartare uidentur quae harum conuenientius hic possit accipi . 
+Nam et non minima necessitas haec praenosse ut ad alia perueniatur , cum sine illis sciri non possint , et aperta utilitas . 
+Si quis tantum seriem literae diligenter attendat , necessarium tamen pro ' utile ' iudicabit potius dici quam pro ' ineuitabile ' . 
+Cum enim suppositum ad quid sit necessarium , quasi ad aliud relationem attendens utilitatem significat ; ' utile ' enim ad aliquid spectat , ' ineuitabile ' uero per se dicitur . 
+Sic construe : Tentabo breuiter aggredi ea quae dicta sunt ab antiquis , faciens tibi traditionem , id est tractatum , de speculatione istarum rerum , id est de consideratione istorum uniuersalium - - quae nomina rerum conuenienter appellauit quia ad hoc quod genus uel species oportet quod res subsistant de nominibus , quarum genus uel species ueraciter praedicari habeant . 
+Traditionem dico compendiosam , id est breuem et utilem , quod statim exponit dicens : breuiter , scilicet nimia breuitas maximam obscuritatem inferre posset , iuxta illud Horatii : Cum breuis esse laboro obscurus fio . 
+Unde ne lector deficeret ex breuitate siue confunderetur prolixitate , introductorium modum se seruare promittit in scribendo . 
+CUM SIT TAMEN ET UTILE ET NOSSE QUID SIT GENUS etc . 
+, id est cuius proprietatis sit genus , quia per ' quid ' aliquando quaeritur de substantia , ; ut ; cum dico ' quid est homo ' ; aliquando de proprietate , ut cum dico ' quid est affirmatio ' uel ' quid est negatio ' , ' quid enuntiatio ' . 
+[ Doctrina est scientia per conceptionem comparata . 
+Aristotelem , id est in libro Aristotelis . 
+] Quippe hoc nomen ' genus ' non substantiae , sed accidentis designatiuum est . 
+Unde illud ' quid ' magis secundum proprietatem , quam secundum substantiam accipimus . 
+ET AD EAM . 
+Quattuor supponit in quibus utilitatem insinuat et quadrifariam ostendit ad hoc , scilicet ad praedicamenta , ad definitiones , ad diuisiones , demonstrationes , id est argumentationes quae proposita ; m ; quaestionem demonstrant . 
+Quae , scilicet scientia praedicamentorum , est apud Aristotelem , id est in tractatu eius continetur . 
+Nam liber quandoque per nomen auctoris designatur , ut Vergilius . 
+Et ad definitionum assignationem , id est ad assignandas definitiones et componendas . 
+Et ita haec quinque ad diuisiones et demonstrationes , scilicet argumentationes , utilia sunt . 
+Qualiter autem notitia illorum quinque ad illa quattuor ualeat , diligenter superius ostensum est . 
+Quomodo introductorium modum seruet ostendit : ab arduis quaestionibus , et obscuritate implicatis abstinens , simpliciore mediocriter coniectans , uidelicet quaestiones quaesitas tractans , id est dubitabiles propositiones , quae multae sunt . 
+Multae etenim propositiones tractantur in hoc opere quae dubiae remanent nisi Porphyrius eas a dubitatione absolueret . 
+Et merito sic expositum est de quaesitis et non de quaerentibus , cum nullae quaerentes in hoc opere tractentur praeter has tres , quae non dicuntur simplices sed difficiles . 
+Nec uacat quod dicit mediocriter ; posset enim res in se facilis esse nec tamen lucide tractari . 
+MOX DE GENERIBUS ET SPECIEBUS ILLUD QUIDEM SIVE SUBSISTUNT SIVE IN SOLIS NUDIS PURISQUE INTELLECTIBUS POSITA SUNT SIVE SUBSISTENTIA CORPORALIA SUNT AN INCORPORALIA , ET UTRUM SEPARATA AN IN SENSIBILIBUS ET CIRCA EA CONSTANTIA , DICERE RECUSABO . 
+ALTISSIMUM ENIM EST HUIUSMODI NEGOTIUM ET MAIORIS EGENS INQUISITIONIS . 
+ILLUD VERO QUEMADMODUM DE HIS AC DE PROPOSITIS PROBABILITER ANTIQUI TRACTAUERINT , ET HORUM MAXIME PERIPATETICI , TIBI NUNC TEMPTABO MONSTRARE . 
+De generibus et speciebus quaestiones enodare compellimur , quas ; nec ; ipse Porphyrius ausus est soluere , cum eas tamen tangendo ad earum inquisitionem accendat lectorem . 
+Cum ista praedicta constet esse uniuersalia , ab uniuersalibus inchoandus est , definiendo scilicet quid proprie uniuersale , quid singulare ( id est particulare siue indiuiduum ) , dicendum sit . 
+Uniuersale aliter Aristoteles describere dicitur in Categoriis ; quod de subiecto dicitur ; uel in Perihermeneias ; quod natum praedicari de pluribus ; . 
+Similiter et indiuiduum cum in Categoriis , ut ; quod non dicitur de subiecto ; , in Perihermeneias uero ; quod non est aptum natum praedicari de pluribus , immo de uno solo ; . 
+Cum diuersi has diuersas definitiones ad diuersa applicent , alii uidelicet ad res , alii uero ad intellectus , alii ad sermones , tamen unusquisque tuetur se auctoritate iudice . 
+Quia quidem res uniuersales in pluribus locis reperitur quod sint , ut in eo loco ubi Aristoteles dicit : Quoniam hae rerum uniuersalia sunt . 
+. . etc . 
+Et rursus Boethius in Diuisionibus : Rerum aliae superiores . 
+. . etc . 
+Et non solummodo hic sed etiam cum dicimus speciem constare ex genere et differentia , utpote hominem , ipsam rem , ex animali et rationalitate , sicut statuam ipsam ex aere et figura . 
+Et in Hypotheticis dicutur : Causa speciei genus est . 
+Et sic ipsam rem quae est animal , in ipso homine tamquam materiam praeiacentem appellare uidetur . 
+Cui et illud consonat quod Boethius ait in Diuisionibus : Genus in quasdam procreationes diuidi et multis speciebus nomina deesse . 
+Et illud Aristotelis : Eorum quae de subiecto dicuntur , necesse est . 
+. . etc . 
+Et rursus : ' Omnis ' non significat uniuersale . 
+Et rursus : Caetera uero omnia aut de subiectis dicuntur substantiis aut cum subiectis eis sunt . 
+Et iterum : Non existentibus primis substantiis impossibile est aliquid aliorum esse . 
+Et illud Boethii : Quaecumque secundis substantiis fundantur , et in primis . 
+Et illud quod ait Boethius : Generis diuisionem pertinere ad naturam et diuisionem aequi ; uo ; cationis ad hominum impositionem . 
+Et rursus : Omne genus est aliquid eorum quae sunt species et quamlibet speciem esse suum proprium ; genus et species idem esse quod genus . 
+Sed : Non idem esse partem quod totum . 
+Non solum ista , sed etiam plura alia testimonia occurrere uidentur , quae res uniuersales esse ostendant . 
+Sunt alii qui intellectus esse uniuersales astruere uidentur . 
+Quibus illud Prisciani concordat , quod ait in Constructionibus : Quamuis quantum ad generales et speciales formas rerum quae in mente diuina constiterunt , antequam in corpora prodirent . 
+. . etc . 
+Et illud Boethii super Porphyrium ubi ait ipsam excogitationem genus esse siue speciem . 
+Et haec quidem sententia Platoni imputatur , quod scilicet genera et species , huiusmodi conceptiones , Nous , id est diuinae menti , attribuit , ideo fortasse , quod formas exemplares habuerit deus in mente ad quarum similitudinem dictus est . 
+Postea operari res ipsas , quae a generalibus et specialibus nominibus appellantur . 
+Hae quippe res operibus naturae , non artificis consistunt ; in ; Deo . 
+Quae conceptiones recte deo attribuuntur , cuius hae effectus sunt , quem hoc in loco naturam uocamus , id est originem et natiuitatem omnium . 
+Isti confirmant suas sententias huiusmodi auctoritatibus , scilicet plura loca reperimus , in quibus sermones uniuersales aperte dicuntur . 
+Hinc illud Aristotelis : Genus et species qualitatem circa substantiam determinant . 
+Et rursus : Familiarius assignabis proferendo speciem quam genus . 
+Sed et cum dicimus definitionem constare ex genere et substantiali differentia , uel cum ait Boethius animal esse ultimum genus . 
+Et rursus cum ait in Diuisionibus : Genus quodammodo multarum specierum similitudo est , quae earum omnium substantialem conuenientiam monstrat . 
+Qui etiam ubi dicit super Porphyrium idcirco tertiam significationem generis maxime ad tractandum philosophos adsumpsisse , quia hoc est quod demonstrat , quid unaquaeque res , aperte clamat sermones esse uniuersales , cum monstrare siue significare proprium sit sermonum . 
+Vel etiam cum dicit in Diuisionibus genus in diuisione totum esse speciei , in definitione uero partem , hoc idem insinuat , cum tamen definitio quam diuisio sermonum sint . 
+Et Porphyrius cum secundum Aristotelem ostendit ens non esse genus omnium eo quod de omnibus hoc nomen , ' ens ' aequiuoce praedicari dicitur , inualidam afferret rationem de nomine ad rem . 
+Non enim per praedicationem nominis hoc quod est in rerum natura permutari debet , quod non minus consisteret etiamsi nulla nominum impositio facta esset . 
+Qui etiam ; cum ; ait genus et speciem praedicari in quid et ea reddi per interrogationem facta ; m ; per ' quid est ' , plane ipsa quae respondentur sermones insinuat . 
+Sed cum Aristoteles ponat pro uniuersalibus ' dici de subiecto ' , proprie uniuersalia dici demonstrat , quibus dici conuenit , id est proferri et praedicari proprie sermonum est , cum nemo praedicatum terminum propositionis esse dubitet , ex cuius priuilegio praedicatum dicitur proprie , quod Boethius in nomen et uerbum distribuit . 
+Qui etiam cum ait in primo Topicorum hanc quaestionem ad logicam pertinere utrum affirmatio et negatio sint species enuntiationis , aperte docet species magis esse sermones quam res ; quippe si in rerum natura species magis existerent quam in proprietate sermonum , non potius hoc discutere ad logicam quam ad physicam pertin ; er ; et . 
+Nunc autem tribus sententiis de uniuersalibus positis cum testimoniis ipsarum , primam quae de rebus est , primitus exsequamur . 
+De qua etiam sunt plures opiniones , cum alii aliter res uniuersales esse affirmant . 
+Nonnulli enim ponunt decem res diuersas esse naturaliter secundum decem praedicamentorum uel generalissimorum distinctionem , cum uidelicet ita dicant res esse uniuersales , hoc est naturaliter communicabiles pluribus , quod eandem rem essentialiter in pluribus ita ponunt ut eadem quae est in hac re , essentialiter sit in illa , diuersis tamen formis affecta . 
+Verbi gratia ut animal , natura scilicet substantia animata sensibilis , ita est in Socrate et Brunello et in aliis , quod eadem quae est in Socrate et per aduenientes formas effecta est Socrates , et essentialiter tota est in Brunello ita , quod Socrates nullo modo a Brunello in essentia diuersus est sed in formis , cum eadem essentia penitus materialiter aliis formis in isto , aliis formis in illo sit occupata . 
+Quibus illud Porphyrii consentire uidetur , scilicet : Participatione speciei plures homines unus , unus autem et communis plures . 
+Et iuxta hanc sententiam praedicari de pluribus tale est , ac si diceremus : idem essentialiter ita inesse aliquibus rebus , per formas oppositas diuersificatis , ut singulis essentialiter uel adiacenter conueniat . 
+Quibus hoc obicimus : quod si hanc sententiam concedi conuenit , quippe si formas contingeret a subiecta materia discedere , ita scilicet quod subiecta his penitus carerent , in nullo penitus hic et ille differrent , sed iste et ille omnino idem efficerentur . 
+Ex quo scilicet pessimam haeresim incurrunt si hoc ponatur , cum scilicet diuinam substantiam , quae ab omnibus formis aliena est , idem prorsus oporteat esse cum substantia . 
+Sunt autem nonnulli qui illam unicam diuinitatis naturam - - de qua teste Macrobio Plato non est ausus dicere quid sit , hoc solum sciens quod qualis sit ab omnibus non possit sciri - - nec inter substantias nec inter quantitates nec inter res aliorum praedicamentorum recipiunt ; sed cum audiunt ' diuinam substantiam ' , tale est ac si dicatur : diuinam essentiam . 
+Quibus multae philosophorum auctoritates consentire uidentur maxime illorum qui dialecticam tractant , sicut Aristoteles , ubi proprie proprium substantiae assignans dicit eam , cum sit unum et idem numero , susceptibile ; m ; contrariorum . 
+Necnon Porphyrius cum ait : Unamquamque substantiam una specie participare , pluribus uero accidentibus . 
+Dicit iterum Boethius in Topicis locum a descriptione assignans : Substantia est quae omnibus accidentibus potest esse subiecta , albedo autem . 
+. . etc . 
+Cum igitur certum sit secundum philosophorum traditionem diuinam naturam nullis accidentibus subiectam esse , necesse est eam penitus a substantiis seiungi . 
+Sed si magis diuino iudicio testimonio consentire uolumus , primum quid deus esset mundo innotuit cum ad Samaritanam loquens dicit : Spiritus est Deus . 
+Oportebat nos Deum inter substantias locare , cum omnis spiritus substantia est . 
+Si quis uero diligenter substantiae definitionem considerauerit , uidebit nihil rectius posse dici substantiam quam Deum , cum ipse sit uero res per se existens qui nullo alio eget . 
+Omnia uero alia sunt per eum existentia sine quo non possunt esse . 
+Quod Aristoteles uidetur astruere cum dicit : Horum quae secundum nullam complexionem dicuntur , singulum aut significat substantiam aut qualitatem aut quantitatem . 
+. . etc . 
+Aperte ostendit hoc nomen ' deus ' designatiuum substantiae esse , cum aliam rem non designet . 
+Quomodo uero supradictae auctoritates philosophorum intelligendae sint , diligenter considerandum est . 
+Cum Aristoteles dicit proprie proprium esse quod cum sit etc . 
+, ' substantia ' hoc nomen stricte accipitur , scilicet pro re existente per se uariabili . 
+Hoc etiam Boethius innuit cum dicit : Substantia est quae omnibus accidentibus subiecta esse potest . 
+. . etc . 
+Duobus namque modis ' substantia ' hoc nomen accipitur , aliquando scilicet pro re existente per se non uariabili , secundum quam significationem philosophi non tractant de substantia ; aliquando uero pro re per se existente uariabili . 
+Vel Aristoteles accipit largius ' proprie proprium ' quam Porphyrius , dicit enim illud proprie proprium substantiae quod ei soli conuenit sed non omni . 
+Id uero quod Boethius ait in Topicis , ad opinionem potius quam sententiam referendum est , ubi saepe nonnullos locos sophisticos gratia exercendi lectoris inducit . 
+Illud autem quod Porphyrius dicit potius est exponendum negatiue quam affirmatiue hoc modo : unaquaeque substantia participat una specie , pluribus uero accidentibus , id est nulla substantia pluribus speciebus specialissimis participat , sed pluribus accidentibus . 
+Nec ; propter ; deum solum uerum est , sed etiam propter alias substantias fortasse , ut est phoenix . 
+Oportet igitur secundum praedictam sententiam substantiam diuinam idem esse cum qualibet substantia , quam constat esse ueram et simplicem et ab omni proprietate immunem . 
+Praeterea si eadem substantia essentialiter sit in omnibus , ita scilicet ; ut ; ea quae informata est rationalitate , sit irrationalitate occupata , quomodo negari potest , quin substantia rationalis sit substantia irrationalis ? 
+Quibus obiectis nullatenus refragari queunt cum eadem substantia penitus omnibus formis informari ostendatur . 
+Quis enim cum eandem substantiam albedine et nigredine et sessione occupatam uiderit , negabit substantiam albam esse sedentem ? 
+Si quis uero dicat insistens rationale esse irrationale , ueluti substantia alba est substantia sedens , cum hae oppositae formae contrariae sint , illae uero non fallitur , quia nec in essentia magis sunt oppositae istae quam illae , cum eadem essentia qualitatis sit penitus nec in adiacentia , cum eidem substantiae penitus adiaceant . 
+Sed si quis dicit formas istas oppositionem habere ex oppositis formis quibus informantur fallitur , cum eadem ratione non possit assignare unde illae oppositionem trahant . 
+Amplius . 
+Cum eadem substantia in singulis essentialiter , quomodo ueraciter dici poterit haec substantia simplex , illa uero composita , cum in substantia nulla sit diuersitas nec superabundantia . 
+Praeterea cum sola substantia sentiat , cum eadem sit penitus substantia ; huius ; animae et illius , numquid cum haec anima sentit et illa ? 
+Aut cum haec anima punitur uel tristatur , et illa ? 
+Cum hoc ad praesens aduersus praedictam sententiam dicta sufficiant . 
+Sunt alii in rebus uniuersalitatem assignantes , qui eandem rem uniuersalem et particularem esse astruunt . 
+Hi namque eandem rem in diuersis indifferenter non essentialiter esse inferioribus affirma ; n ; t . 
+Veluti cum dicunt idem esse in Socrate et Platone , ' idem ' pro indifferenti , id est consimili , intelligunt . 
+Et cum dicunt idem de pluribus praedicari uel inesse aliquibus , tale est ac si aperte diceretur : quaedam in aliqua conuenire natura , id est similia esse , ut in eo quod corpora sunt uel animalia . 
+Et iuxta hanc , ut diximus , sententiam eandem rem uniuersalem et particularem esse concedunt , diuersis tamen respectibus ; uniuersalem quidem in eo quod cum pluribus communitatem habet , particularem secundum hoc quod a caeteris rebus diuersa est . 
+Dicunt enim singulas substantias ita in propriae suae essentiae discretione diuersas esse , ut nullo modo haec substantia sit eadem cum illa , etiamsi substantiae materia penitus formis careret , quod tale secundum illos ' praedicari de pluribus ' ac si dicatur : Aliquis status est , participatione cuius multae sunt conuenientes ; ' praedicari de uno solo ' tale est ac si dicatur : Aliquis status est participatione cuius multae sunt non conuenientes . 
+Huic autem sententiae opponamus et sensum illorum diligenter inquiramus . 
+In primis inquirendum iudico quomodo Porphyrius dicit ' praedicari de pluribus ' ad exclusionem indiuiduorum , cum illa scilicet praedicentur de pluribus secundum illos . 
+Sed dicunt mihi quod cum dicitur genus de pluribus praedicari , tale est ac si dicatur : Genus in quantum est genus praedicatur de pluribus - - quod constare non potest cum secundum hoc oporteat ipsam definitionem ipso definito ignotiorem esse , cum ipsum definitum , quod adhuc dubium est , ad declarationem sui inducitur . 
+Amplius cum definitio generis sit quod praedicatur etc . 
+, oportet eum concedere quod indiuiduum ex statu indiuidui sit genus , quia ex illo quod praedicatur de pluribus est animal . 
+Propterea quomodo dicunt ' praedicari de pluribus ' ( quod generi conuenit ) genus ab indiuiduo remouere , cum idem prorsus indiuiduo conueniat ? 
+Videamus modo quae possit esse differentia inter genus et indiuidua hoc modo : conuenit generi praedicari de pluribus ex statu generis ; idem indiuiduo conuenit , scilicet praedicari de pluribus ex statu generis . 
+Item a genere remouetur praedicari de pluribus in quantum est indiuiduum ; idem ab indiuiduo remouetur , cum nullum indiuiduum ex statu indiuidui praedicari de pluribus habeat . 
+Quomodo igitur per praedicari de pluribus assignatur differentia ? 
+Sunt quidam , memini , qui differentiam assignantes dicunt genus ex statu generis praedicari de pluribus et indiuiduum ex statu indiuidui carere praedicabilitate plurium . 
+Sed miror de tanto numerosae multitudinis errore , quomodo per hoc differentiam assignare intenda ; n ; t , cum aliquid secundum sensum non attribuat ; ur ; generi quo ab indiuiduo remoueatur . 
+Quippe cum dicitur : Genus praedicatur de pluribus et indiuiduum non non simpliciter affirmatur de genere ' praedicari de pluribus ' , immo ' praedicari de pluribus ex statu generis ' generi attribuitur ; cum dicitur indiuiduum non praedicari de pluribus , non simpliciter ' praedicari de pluribus ' ab indiuiduo remouetur sed ' praedicari de pluribus ex statu indiuidui ' aufertur ab indiuiduo . 
+Nullam ergo per hoc differentiam assignant , cum etiam id quod de genere affirmatur , scilicet praedicari de pluribus ex statu generis , de indiuiduo ueraciter possit affirmari , et quod ab indiuiduo remouetur , a genere possit auferri . 
+Amplius quomodo dicit Boethius super Perihermeneias quod haec propositio : Homo ambulat de speciali falsa est , de particulari uero uera est ? 
+Numquid et de uniuersali similiter uera est , cum idem sit uniuersale et particulare ? 
+Sed fortassis inquies quod ab hoc uniuersali ambulatio prorsus remoueri potest , a particulari uero non , hoc modo : nullum uniuersale ex statu uniuersalis ambulat . 
+Sed similiter dici potest quod nullum particulare ex statu particularis ambulationem habeat . 
+Haec quippe enuntiatio : In eo quod est uniuersale non ambulat duobus modis potest intelligi , siue ' non ' interpositum siue praepositum . 
+Interpositum sic : in eo quod uniuersale est non ambulat , ac si diceretur : proprietas uniuersalis non patitur ambulationem - - quod omnino falsum est , cum eidem subiecto uniuersalitas et particularitas et ambulatio adiaceant . 
+Quod si praeponitur , intelligitur hoc modo : non in eo quod est uniuersale ambulat , sicut est illud : non in eo quod animal est , habet caput , hoc est : non exigit proprietas uniuersalis ut ambulet , sicut non exigit natura animalis quod habeat caput . 
+Sed eodem modo uerum erit de particulari , cum proprietas particularis non exigat ambulationem . 
+Quid enim est quod ait Boethius illam ultimam differentiam , scilicet ' praedicari in quid ' , poni ad exclusionem accidentium , cum accidentia saepe de substantiis in quid praedicari habeant ? 
+Nam secundum eos indiuidualitas sit quaedam forma , quae in omnibus rebus indiuidualibus accidentaliter inest ; itaque et huic indiuidualitati per accidens inest , cum secundum hoc indiuidualitas indiuiduum dicitur , quomodo et Socrates . 
+Nec tamen minus indiuidualitas de hac indiuidualitate praedicatur in quid . 
+Praeterea cum praedicationem in rebus tam secundum essentiam quam secundum adiacentiam accipiunt , quomodo regulas argumentorum ueras intelligunt ? 
+Veluti istam : Si aliquid oppositum praedicatur de aliquo , oppositum illius remouetur ab eodem . 
+Si enim ita intelligant eam quod si una res opposita conuenit alicui aliqua praedicatione , aliquod oppositum remouetur ab ea aliqua praedicatione , nulla argumentatione hoc confirmari potest , nec etiam ista : Est homo , ergo non est lapis . 
+Non enim est concedendum quod si aliqualiter oppositum non conuenit illi , tunc falsa est . 
+Quippe sessio et homo sunt oppositae species , et tamen sessio non ideo minus habet praedicari in adiacentia de illo de quo praedicatur homo in essentia . 
+Amplius . 
+Cum ' praedicari ' duobus modis accipiatur , quaeritur quomodo in definitione generis accipiatur . 
+Non enim est concedendum quod si in aliqua praedicatione remouetur , ideo in hac . 
+Si autem aliter accipimus - - hoc modo scilicet : Si aliqua res opposita conueniat alicui aliqua praedicatione , alterum oppositum non conuenit illi - - tunc plane falsa est , utrum scilicet praedicari ; accipiatur ; in essentia uel in adiacentia . 
+Si autem pro ' praedicari in essentia ' accipitur , pro nihilo in eadem definitione supponitur in quid . 
+Si uero pro ' praedicari in adiacentia ' , non omni generi conuenit , cum omne genus non habeat praedicari in adiacentia . 
+Oportet igitur ut large accipiatur , tam scilicet pro ' praedicari in essentia ' quam in adiacentia . 
+Et cum haec albedo de se in essentia praedicetur et de Socrate in adiacentia , utique de pluribus praedicatur , et ita aliquod indiuiduum de pluribus praedicatur - - quod falsum est . 
+Quod si quis dicat a Porphyrio non esse exclusa particularia accidentia sed particulares substantias , plano conuincatur errore ex eo quod post subditur : ; A ; differentia uero et ab his quae communiter sunt accidentibus . 
+. . etc . 
+quod sic nihilo communia determinaret , si aeque omnibus praedicari de pluribus concederet . 
+Sunt quidam qui cum nomina particularia excludant , ita determinant : quod uno et eodem modo de pluribus praedicatur scilicet ut uel in essentia uel in adiacentia . 
+Sed etiam post istam solutionem quaero de secunda differentia generis : quod praedicatur de pluribus differentibus specie , quomodo ad exclusionem specialissimorum et propriorum ; ualeat ; , cum albedo uno praedicationis modo , scilicet in adiacentia , de differentibus specie praedicetur , utpote de cygno et de margarita , et rationalitas de deo et de homine . 
+Haec contra illorum sententiam qui eandem rem uniuersalem et particularem esse disserunt , dicta sufficiant . 
+Sunt iterum alii qui aliter res uniuersales esse uidentur affirmare . 
+Hi rebus communitatem assignantes dicunt rem aliam uniuersalem , aliam singularem , id est alterius proprietatis esse ex hoc quod est uniuersalis , et alterius ex hoc quod est singularis . 
+Ut animal est uniuersale et corpus , nec tamen aliquod animal uel aliquod corpus . 
+Tale est enim secundum hanc sententiam animal esse uniuersale , ac si dicatur : plura sunt quorum unumquodque animal est et tale est hoc animal praedicari de uno solo , ac si dicatur : una sola res est hoc animal . 
+Nunc positam sententiam breuiter exponamus . 
+Primum quaerendum est , ut arbitror , quomodo secundum hanc sententiam indiuiduum ab uniuersali differat per praedicari de pluribus , cum indiuiduum habeat praedicari de pluribus , id est plura sunt quorum unumquodque est indiuiduum . 
+Sed fortasse inquies quod recte praedicari de pluribus in definitione uniuersalis ponitur ad exclusionem indiuiduorum , cum omne uniuersale praedicari de pluribus habeat , nullum autem indiuiduum de pluribus praedicetur . 
+Sed eodem modo inter uniuersale et animal differentia poterit assignari , cum omne uniuersale de pluribus et nullum animal de pluribus . 
+Non igitur Porphyrius conuenienter induxit argumentum cum ait : Genus est , ut animal cum animal a genere et ab aliis uniuersalibus per ; praedicari de pluribus ; differat quemadmodum indiuiduum . 
+Praeterea secundum hanc sententiam concedere oportet , quod non - uniuersale sit uniuersale et res quae non praedicatur de pluribus , praedicetur de pluribus et multos quorum unumquodque de pluribus praedicatur , concedat indiuiduum appellari . 
+Est alia de uniuersalibus sententia rationi uicinior quae nec rebus nec uocibus communitatem attribuit , sed sermones siue singulares siue uniuersales esse disserit . 
+Quod etiam Aristoteles , princeps peripateticorum , per definitionem uniuersalis quam ponit aperte insinuat cum ait : Uniuersale est quod est natum praedicari de pluribus id est a natiuitate sua hoc contrahit , ex institutione scilicet . 
+Quid enim aliud est natiuitas sermonum siue nominum quam hominum institutio ? 
+Hoc enim quod est nomen siue sermo ex hominum institutione contrahit . 
+Vocis uero siue rei natiuitas quid aliud est quam naturae creatio , cum proprium esse rei siue uocis sola operatione naturae consistat ? 
+Itaque natiuitatis uocis et sermonis diuersitas , etsi penitus in essentia identitas . 
+Quod diligentius exemplo declarari potest . 
+Cum idem penitus sit hic lapis et haec imago , alterius tamen opus est iste lapis et alterius haec imago . 
+Constat enim a diuina substantia statum lapidis solummodo posse conferri , statum uero imaginis hominum comparatione posse formari . 
+Sic ergo sermones uniuersales esse dicimus , cum ex natiuitate , id est ex hominum institutione , praedicari de pluribus habeant ; uoces uero siue res nullatenus uniuersales esse , etsi omnes sermones uoces esse constat . 
+Si enim aliqua res de pluribus praedicaretur , utique eadem in pluribus reperiretur . 
+Cui sententiae opponitur . 
+Primum enim quaeritur cur sermones et non uoces esse uniuersales astruant , cum descriptio generis tam uocibus quam sermonibus conueniat . 
+De quocumque enim praedicatur descriptio , et descriptum . 
+Sed descriptio generis praedicatur de uoce , cum uox sit illud quod praedicatur de pluribus differentibus specie etc . 
+Vox igitur est genus . 
+Quod sic soluitur . 
+Huic argumentationi : Vox est quod praedicatur de pluribus etc . 
+, ergo uox est genus non congruit haec regula , scilicet : De quocumque praedicatur etc . 
+etsi ; illud quod praedicatur de pluribus ; etc . 
+sit descriptio generis . 
+Sic enim exponenda est regula : De quocumque . 
+. . etc . 
+id est quodcumque habet illud in se in quo terminatur descriptio generis , illud habet in se rem definiti . 
+Vox uero illud non habet in quo terminatur descriptio et quod per definitionem copulatur , scilicet praedicabilitatem de pluribus , sed est illud quod praedicatur , quia est sermo praedicabilis . 
+Non igitur per regulam illam argumentatio confirmatur . 
+Apparet itaque eorum opinionem friuolam esse . 
+Si quis uero diligenter definitionem generis consideret , profecto illud quod praedicatur de pluribus etc . 
+, nullatenus definitionem generis dici posse ; inueniet ; , cum ad praedicationem illius nullo modo genus sequatur . 
+Aliter enim definitio illius esse non poterit nisi idem penitus copulare habeat . 
+Dicatur igitur definitionem generis esse praedicabile de pluribus differentibus specie etc . 
+; et de quocumque praedicatur definitio , et definitum , id est quidquid habet in se illud cuius definitio copulata est , habet in se illud cuius definitum est copulatum . 
+Si quis uero insistens dicat illam definitionem de uoce praedicari , cum uox sit praedicabilis etc . 
+, fallitur . 
+Non enim definitio generis ibi praedicatur , quia non ostenditur inesse illud , unde definitio est copulata , scilicet praedicabilitas talis , cum ipsum adiectiuum in ui substantiui ponatur . 
+Veluti cum dico : Socrates est album ( id est res alba ) per ' album ' formam cuius est copulatiuum nullo modo copulo . 
+Quod euenit ideo , quia in ui substantiui est positum , cum omne adiectiuum formae sit copulatiuum . 
+Quod uero opponitur de Porphyrio , qui uidetur dicere hoc totum ; quod praedicatur de pluribus etc . 
+; definitionem generis esse , non obest . 
+Cum enim dicit : Quod etiam describentes assignauerunt genus esse dicentes , quod praedicatur de pluribus . 
+. . etc . 
+genus ex parte praedicati , non ex parte subiecti posuit . 
+Non enim genus est , quod praedicatur de pluribus etc . 
+, sed hoc modo intellexit : Quod praedicatur de pluribus , est genus , ac si diceretur aperte : de pluribus praedicabile etc . 
+est genus . 
+Cum haec uox sit hic sermo et hic sermo sit genus , quomodo rationabiliter negari poterit , quin haec uox sit genus ? 
+Quod sic soluitur . 
+Cum dicimus : Hic sermo est genus tale est ac si dicamus : sermo huius institutionis est genus . 
+Sed cum dicimus : Haec uox est genus tale est ac si dicamus : haec essentia uocis est praedicabilis etc . 
+- - quod falsum est : oportet enim prius uni copulari et postmodum essentialiter alteri , quod nunquam fit . 
+Dictum est enim et non potest amplius sumi . 
+Concedimus itaque has esse ueras : Hoc nomen est genus Hoc nomen est uniuersale similiter : Hic sermo ' animal ' est genus Hoc uocabulum ' animal ' est genus et uniuersale et similiter omnes in quibus subicitur uox innuens institutionem , non simpliciter essentiam uel prolationem , sed significationem et praedicans communitatem , sicut est : genus , uniuersale , sermo , uocabulum , dictio , oratio . 
+Vox autem simpliciter innuens essentiam est ut animal homo , uox , sonus a ; ris etc . 
+Nota tamen quod haec propositio uera est : Genus est uox et : Species est uox Tale est enim ac ; si ; dicatur : generale uocabulum est uox uel speciale . 
+Conuersae harum , scilicet : Vox est genus uel : Vox est species non sunt concedendae , cum per illas communitas essentia ; e ; ostendatur quae similiter in omnibus reperitur . 
+Concedimus enim propositiones : Hic status animal est ; homo ; Haec materia Socratis est Socrates Utrumque istorum est aliquid conuersas uero istarum negamus omnino , scilicet : Homo est hic status animal Socrates est ; haec ; materia Socratis Aliquid est utrumque istorum His ita determinatis sciendum est genera et species nullo loquente non minus esse . 
+Cum enim dico : Genus uel species est ipsis nihil attribuo sed institutionem iam factam , ut superius dictum est , ostendo . 
+His ita praelibatis ad soluendas quaestiones de generibus et speciebus accedamus , quas nec ipse Porphyrius animatus est soluere . 
+De quibus tria sunt inquirenda : quaeritur scilicet , quare de uniuersalibus et non de singularibus fiant quaestiones , et quid eaedem quaestiones sentiant , et de ordine quem Boethius assignat . 
+Quaestiones huiusmodi de uniuersalibus et non de singularibus non immerito fiebant , cum singularia res ut discretas et ab omnibus aliis diuersas significant et quasi ad oculum proprio sensu eas capiamus . 
+Uniuersalia uero nullam personam distinguunt ; unde sanum intellectum facere non uidentur , quia omnis sanus intellectus ex aliqua persona surgere uidetur , cum ea quae sensu capimus , per intellectum recordamur . 
+Quippe quaemadmodum sensus , qui duces sunt intellectus , res ut discretas cum exterioribus formis percipiunt , ita intellectus , aemulatores sensuum , easdem res ; alio ; modo concipiunt . 
+Sed intellectus uniuersalium res ut discretas nullo modo attendunt , cum omnis res sit haec uel illa , sed neque hanc uel illam significant . 
+Quare nullomodo sanum intellectum facere uidentur , cum nulla res secundum eorum intellectus sane deliberari possit . 
+Quod aperte insinuat Boethius ubi ait : Quod enim quisque auditor intelligat , hac uoce ' homo ' nulla prolata , ideo nulla determinatione clauditur ? 
+Quod autem circa uniuersalia propter intellectus dubitatio consisteret , aperte ostendit Boethius , cum illam partem argumentationis , quam probari uniuersalium intellectus cassi et uani uidentur , soluat , aliam uero de rebus insolutam praetermittat . 
+Quam etiam dubitationem uniuersalium aperte Aristoteles insinuat cum ait in tractatu substantiae : Neque enim unum est , quod subiectum est secundis substantiis . 
+Sciendum est huiusmodi quaestiones a dubitantibus in designatione rerum fieri , in qua dubitatione ex locutionibus philosophorum inciderunt , quae huiusmodi fuerunt : Animal est genus Animal est in pluribus Homo est uniuersale Homo est species accipientes haec nomina ' animal ' et ' homo ' in propria et usitata significatione , ignorantes philosophos haec nomina ad se ipsa significanda transtulisse in hoc sensu : Animal est genus id est hic sermo ' animal ' uel hoc nomen ' animal ' est genus . 
+Qui uero ad doctrinam loquitur et ad translationem quibus usi sunt auctores , cognoscit non tantum illud ; quod ; quaerens diligenter intendit discutere , uerum et membra diuisionis quam quaerens per opposita fieri intendebat quodammodo non esse opposita adserit , uerbis tamen ; aliter ; acceptis in discussione quam ille in inquisitione , quia quaerens ita intelligit ; utrum genus et species subsistant ; , id est sint res ex subsistentibus , ; an sint posita ; etc . 
+, id est tantum sint in opinione ut chimaera ; soluens uero aliter hoc modo scilicet : genera et species subsistant , id est res subsistentes appellent , uidelicet eas quarum sunt nomina sicut et participia . 
+Eadem namque res ab uniuersali nomine et particulari continentur et hoc loco hoc uerbum ' subsistit ' de rebus ad sermonem transfertur per adiunctionem horum nominum : genus et species , quae sermonibus data sunt . 
+Veluti substantia hoc nomen quod proprie rebus conuenit , tamen in designatione nominum quando large accipitur , sicut ait Aristoteles in tractatu substantiae : Videtur autem omnis substantia hoc aliquid significare ita tamen quod magister hanc propositionem : Genera et species subsistunt falsam esse concedit , quia talis est sensus ' genera et species subsistunt ' : aliqua subsistentia sunt genera et species . 
+In quo sensu Boethius denegat aperte eam cum probat genera et species non esse nec sane intelligi . 
+Aliud membrum diuisionis , scilicet quod sunt posita in solis et nudis puris intellectibus , concedit hoc modo : ; sunt posita in solis intellectibus ; , id est sunt posita propter intellectus solos a sensu , id est significantes rem non cum aliqua forma , quae sensui subiaceat . 
+Si quis uero opponat de hac specie ' ignis ' , nihil obest , quia intellectus huius speciei rem accidentiis affectione informatam non attendit , quae tactu discernatur , sed eam cum substantiali calore intelligit , qui nullo modo a sensu percipitur . 
+Sed quia intellectus huius nominis ' filius ' hoc habet , quia ex filiatione res sensui non subiacet , adiunxit ' nudis ' ab accidentalibus proprietatibus , id est non concipientes res ut accidentalibus formis occupatas . 
+Si quis opponat , quod per hoc nomen ' homo ' , cum singulare nomen , intelligimus rem informatam unitate et ideo accidentali proprietate , dicimus , quod hoc loco proprietates accidentales pro strictis ipsis accipimus , scilicet pro talibus formis , sine quibus substantia subsistere possit . 
+Sed quia hoc habet nomen hoc , scilicet haec substantia uel haec anima , addit ' puris ' a personali discretione , id est non attendentes rem ut discretam - - id est in statu illo in quo plura participare non possunt . 
+Si quis uero dicat quod non conueniat omnibus uniuersalibus , ; quia Aeacides et uniuersale est et determinate ; facit intelligi Aeacum , fallitur . 
+Non enim facit intelligere Aeacum secundum statum in quo multa participare possint , sed filium Aeaci concipere facit secundum Aeacum . 
+Siue sint corporalia siue incorporalia . 
+Quaerens sic intelligit : cum genera et species sint res subsistentes et subsistentia alia corporalia , alia incorporalia , utrum genera et species sint corporales res an incorporales . 
+Soluens ita : genera et species sunt corporalia id est res discretas nominant , et sunt incorporalia , id est res discretas indiscrete nominant . 
+' Corporale ' enim pro discreto ponitur , qui maxime in corporalia consistit discretio , cum etiam in illis reperiatur loci circumscriptio . 
+' Incorporalia ' uero circumscriptione carent , cum eorum terminus loco definiri non ualeat . 
+Et ideo incorporale pro indiscreto ponitur . 
+Videbatur fortasse , quod aliqua incorporee , id est indiscrete , significarent , quae pluribus essent communia . 
+In quo errore sunt , qui easdem res in pluribus essentialiter ; esse affirmant ; . 
+Et nota hanc propositionem : Genera et species sunt corporalia in proprio sensu falsam esse , ueluti istam : Genera et species sunt subsistentia quae tamen in figuratiuo sensu concedimus . 
+Quaerens sic intelligit : cum sint incorporalia , et incorporeorum sint tria genera - - unum existens in corporibus quod sine illis subsistere potest , ut anima ; aliud quod sine illis existere nequit , ut albedo ; aliud nunquam existens in sensibilibus , ut diuini spiritus - - utrum genera et species sint in sensibilia an extra sensibilia . 
+Hic accipitur sensibilis pro eo quod aliquo modo sensui subiaceat . 
+Soluens ita : genera et species quaedam nomina in sensibilibus sunt posita , hoc est sensibilia habent appellare uel nominare , et ponuntur extra sensibilia , id est res habent significare et non cum aliqua forma quae sensui subiaceat , quia si res omnes formas quae sensui subiacent , amitterent , non ideo minus a genere et specie nominari possent . 
+Sunt igitur genera et species in sensibilibus posita per appellationem , extra uero per significationem . 
+In hac uero ultima quaestione Boethius Aristotelem et Platonem diuersos esse in uerbis commemorat hoc modo : Aristoteles omnia uniuersalia in sensibilibus esse ponit , extra uero intelligi ; Plato uero non modo intelligi , uerum etiam ea praeter sensibilia existere affirmat ; extra uero sic intellexisse arbitror quod genera et species in sensibilibus subsistant per appellationem , id est in se appellant , extra uero intelliguntur , quia intellectus eorum absque omni sensibilitate habentur , quia non faciunt concipere res ut informatas formis , secundum quas res sensui subiacent . 
+Plato uero dicit genera et species non solum extra intelligi , uerum etiam extra subsistere , quia si res substantiae omnibus illis formis carerent , secundum quas res sensui subiacent , non minus tam secundum intellectus generum et specierum ueraciter deliberari possent . 
+Apparet igitur in sensu non esse diuersitas , quamuis in uerbis uideatur . 
+Solutis quaestionibus ad litteram redeamus . 
+Haec supra ; posita ; de generibus et speciebus , recusabo dicere et ea quae consistunt circa ea , id est circa illas tres quaestiones , scilicet impugnationes et earum defensiones , ; uel aliter ; ita ut quartam adnectamus quaestionem hoc modo : utrum constantia sint circa illa duo , genera et species , id est necesse ; sit ; ea aliquas res subiectas per appellationem continere , an destructis rebus uniuersalia permanere possint . 
+Unde phoenix non est uniuersale , cum plures res continere non habeat , nec chimaera , cum nullam rem contineat . 
+Quod Aristoteles aperte insinuat : Rerum alia sunt uniuersalia , alia singularia . 
+Solutis quaestionibus de ordine ipsarum , qui secundum solutionem assignari non potest , quaerendum est . 
+Quod aliter ut supra dictum est , in quaestione , aliter in solutione accipitur , haec est causa , quia hae duae quaestiones a dubitantibus et ab ignorantibus translationem , qua usi sunt auctores , fiebant iuxta usitatam et propriam nominum significationem . 
+Soluens uero non proprium solum sensum sermonum aperire intendit , uerum etiam translationem , qua usi sunt auctores , diligenter discuti . 
+Boethius in commento iuxta Alexandrum generum et specierum impugnationibus et impugnationum expeditionibus diligenter insistit , de quibus tale proponit inconueniens , quod disputatio generum et specierum omnino sit postponenda , quia genera et species nec sunt nec intelliguntur sane , id est non faciunt sanum intellectum . 
+Probat de genere prius , quod non est , quia neque unum neque multa . 
+Unum non est : omne quod est , ideo est , quia unum numero est ; sed genus non est unum numero ; non est igitur unum . 
+Sed quia aliquis adsumptionem negare posset , ideo illam probat dicens , quod non est unum numero , quia neque unum commune est ut puteus [ aut unum ] neque unum non commune . 
+De uno non communi certum est , cum constet genus esse commune . 
+Probandum est ergo , quod non sit unum commune . 
+Omne enim unum commune aut per partes commune est , ut puteus , aut unum commune est per successionem temporum , ita scilicet quod transtulit in usus habentium et post in commune reducitur , aut in eodem tempore totum commune est , scilicet ita quod non constituit eorum substantiam quibus est commune , ut theatrum . 
+Genus uero secundum nullum illorum quattuor commune est . 
+Non est igitur unum numero . 
+Neque multa , quia ; neque ; multa eiusdem naturae neque multa non eiusdem naturae . 
+Sed constans est quod non est multa non eiusdem naturae . 
+Oportet igitur quod sit multa eiusdem naturae - - quod iterum falsum est . 
+Si enim hoc esset , cum omnis multitudo talis uno genere claudatur , quod eas ut conuenientes significet , et rursus illud genus erit similiter multitudo rerum conuenientium et habebit genus supra se , et illud aliud , et ita usque in infinitum - - quod est inconueniens . 
+Non est igitur multa . 
+Hoc ultimo argumento destruit Boethius sententiam ; quae dicit ; collectionem scilicet omnium substantiarum genus esse . 
+Ostenso priori inconuenienti , scilicet quod non sunt , probat aliud , scilicet quod non sane intelliguntur , hoc modo : Omnis intellectus habitus de aliqua ; re aliter ; quam res se habet , uanus et cassus est ; et intellectus generum et specierum habetur de re aliqua aliter quam res se habet ; non igitur est sanus . 
+Ex his omnibus patet genera et species nec esse nec sane intelligi . 
+Hanc ultimam partem argumentationis soluit Boethius atque expedit , quia solutione indigebat , utpote sophistica . 
+Aliam partem qua probat genera et species non esse non determinat , quia determinatione non indiget , cum uera sit . 
+Si etiam utraque pars solutione indigeret et ipse alteram tamen solueret , irrationabiliter ageret . 
+Ne igitur Boethius pro stulto teneatur dicimus hanc propositionem : Genera et species non sunt in proprio sensu ueram esse hoc modo : Aliquae subsistentiae non sunt genera et species Concedimus tamen quod genus est existentia , quia est sonus . 
+Conuersa ; m ; eius uero , scilicet quod aliqua existentia sit genus , penitus denegamus , cum nulla essentia sit uniuersalis , sicut superius ostensum est . 
+Hanc uero partem quam probat intellectus generum et specierum cassos esse determinauit utpote sophisticam , cuius argumentationis prima propositio sit uera et falsa . 
+Vera est ita : Omnis intellectus habitus de re aliter , quam res se habet , id est qui concipit rem aliter quam sit , cassus est et uanus . 
+Et in hoc sensu falsa est adsumptio , cum intellectus generum et specierum non concipiant res aliter esse quam sunt . 
+Falsa est eadem propositio ita : Omnis intellectus , habitus de re etc . 
+, id est omnis intellectus , qui habet alium modum in concipiendo quam res ; se ; habet in existendo , cassus est . 
+In hoc sensu uera est adsumptio . 
+Quippe intellectus huius uocis ; corpus ; habet alium modum in concipiendo quam corpus in existendo , quia iste intellectus concipit substantiam cum corporeitate tantum , ita scilicet , ut nullam aliam formam attendat , corpus uero cum illa forma tantum non existat . 
+Similiter cum aliquis loquens celeriter de eo qui lente currit , dicit eum currere , utique aliter dicit eum hoc facere quam ipse faciat , quia celeriter dicit quod ille celeriter non facit . 
+Constat ita intellectus uniuersalium nec uanos nec cassos esse etsi alium modum habeant in concipiendo quam res in existendo . 
+De quibus uniuersalibus tria inuestiganda hoc loco occurrunt , de significatione scilicet et intellectu eorum , quam doctrinam faciant quamque commoda sit impositio eorum . 
+Solet enim quaeri de significatione et intellectu istorum ( id est uniuersalium nominum ) quas res scilicet significare habeant . 
+Nam cum audio hoc nomen ' homo ' quod pluribus commune est rebus ad quas aequaliter se habet , quam rem in ipso intelligam quaero . 
+Quodsi sicut oportet , respondebit , quod homo ipso intelligatur , sequitur autem quaestio , quomodo hoc uerum sit , nisi hic homo uel alius intelligatur , cum scilicet omnis homo sit hic uel ille uel alius . 
+Sicut enim inquiunt : Cum homo sentitur , necesse est hunc uel illum sentiri eo quod omnis sit hic uel ille , ; ita ; et de intellectu ad similitudinem sensus ratiocinantur , ; ut uidelicet si homo intelligatur necesse sit uel hunc uel illum intelligi ; . 
+Praeterea homo nihil aliud sonat quam quidam homo . 
+Unde et qui hominem intelligit profecto quendam hominem intelligit , et ita hunc uel illum intelligit - - quod penitus falsum apparet . 
+; Ad ; quod respondendum arbitror quod si recte ratiocinari uolumus , ; oportet ; et singularum enuntiationum sensus diligenter attendere ; nullum procedit inconueniens . 
+Cum enim dicimus : Homo intelligitur talis est sensus quod aliquis per intellectum concipit humanam naturam , id est animal tale attendit . 
+Inde si postmodum procedat ita : . . sed omnis homo est hic uel alius ; igitur concipit hunc uel alium non recte procedit immo ita potius dicendum esset : . . sed omnis intellectus intelligens hominem est intelligens hunc uel illum ; tunc quippe ; recte ; medius terminus seruaretur et coniunctio terminorum extremorum per eum recte procederet . 
+Sed falsa est adsumptio . 
+Similiter cum dicitur : Ego desidero cappam , et omnis cappa est haec uel illa , non tamen sequitur quod ego desidero hanc uel illam . 
+Sed si ita diceretur : ego desidero cappam et omnis desiderans cappam est desiderans hanc uel illam , tunc equidem argumentum recte procederet . 
+Non est itaque necesse , ut si hominem intelligam , ideo hunc uel illum intelligam , cum multi alii innumerabiles conceptus sint , in quibus humana excogitatur natura , sed indifferenter , ab ; s ; que ulla scilicet certitudine personae , sicut haec ipsa conceptio simplex huius nominis ' homo ' uel huius nominis ' album ' simpliciter . 
+Qui tamen sani sunt , quia ; secundum ; eorum intellectus multa sane possunt deliberari . 
+Sicut est intellectus ' omnis ' , qui ad omnes homines pertinet , quia unumquemque secundum intellectum illius sane possumus deliberare et aliquid esse illius significare . 
+Ut si dicam : Plato est homo secundum intellectum praedicati nominis esse Platonis declaro et aperio . 
+Unde illa uox praedicata a Boethio dignior pars propositionis dicitur a priuilegio et declaratiua , quia secundum intellectum eius quid unumquodque sit , declaratur , per totalem intellectum uero non secundum ipsum , quid unumquodque sit , cognoscitur , et ideo declaratio per illum et deliberatio dicitur fieri . 
+Ostensa utriusque , rerum scilicet et intellectuum significatione , quam doctrinam faciant ostendamus . 
+Dicendum est igitur , quod omnes res discretae sunt oppositae numero , ut Socrates et Plato . 
+Eaedem etiam sunt conuenientes ex aliquo ex eo scilicet quod sunt homines . 
+Neque tamen ex socratitate uel platonitate neque ex aliqua re qua inter se participant , eos conuenire dico et tamen ex aliquo conuenire , id est aliquam conuenientiam habere , ex eo scilicet quod sunt homines . 
+Ut si dico : Volo aliquid sed quaerenti : Quid uis ? 
+optime respondebo : Aureum castrum quia ubi dixi ' Volo aliquid ' aliquam uoluntatem me dixi habere , et ubi ille dixit ' Quid uis ? 
+' quam uoluntatem haberem quaesiuit , et quaerenti eam determinaui . 
+Et quoniam ita res inter se conueniunt et differunt ex necessitate ad hanc doctrinam faciendam oportuit inueniri uocabula , quae res discretas determinarent et rerum conuenientiam significarent . 
+In his enim duobus , conuenientiam rerum uidelicet et differentias assignanda , Platone teste perutilis et necessaria consistit doctrina . 
+Assignata eorum doctrina , quam sit commoda eorum impositio uideamus . 
+Non parum commodi uniuersalium impositio contulit . 
+Si enim omnibus hominibus adesse aliquid uel abesse ostendere uelimus , per particularia nomina hoc facere non possumus : tum propter inconstantiam cum modo habent substantiam , modo non ; tum propter eorum infinitatem , quia de infinitis teste Platone nulla certa habetur doctrina . 
+Oportuit igitur uniuersalia inueniri , ut facerent , quod singula facere non poterant . 
+Quod uero de superfluitate impositionis uniuersalium nominum opponunt , ne doctrinam facere uideantur , sed potius confusionem , cum nulla res teste Boethio per uniuersale nomen attendatur - - quotiens enim sine determinatione uox illa dicitur , facit dubitationem intellectus etc . 
+- - nihil ualet . 
+Quamuis uniuersalia sint , tamen doctrinam faciunt et certitudinem , licet omnem dubitationem quae animo ingeri potest ab auditore non abstrahant sicut nec singularia . 
+Cum enim dico : Socrates currit qualiter uel quantum currit non ostendo . 
+Sic etiam cum dico : Homo currit naturam humanam quam ipse ignorabat ostendo , licet quis homo non insinuet nec omnes dubitationes abstraham quas habet . 
+Quod enim dicit Boethius : Auditor non habet quod rationabiliter intelligat hac uoce prolata ; homo ; uerum uel falsum est . 
+Si enim ita intelligat ut ostendatur quaestio de substantia nominis , ita scilicet : Nulla res est de qua intellectum habeat uerum est . 
+Si autem de substantia uerbi hoc modo : Nullum intellectum habet falsum est , sicut haec quaestio : Quid intelligis ? 
+Quid uis ? 
+de substantia nominis est hoc modo : Quae res est de qua uoluntatem habes ? 
+et secundum hoc oportet ut certa persona respondeatur de qua intellectum habes . 
+De substantia uerbi ita : Quem intellectum habes ? 
+Similiter ; Quid uis ? 
+; hos duos sensus habet : Quae res est de qua uoluntatem habes ? 
+uel : Quam uoluntatem habes ? 
+Quod autem haec quaestio ; Quid uis ? 
+; hunc sensum habeat ; Quam uoluntatem habes ? 
+; apparet ex eo quod nullo aureo castro permanente uere respondeo : Aureum castrum uolo id est talem uoluntatem habeo . 
+Similiter ad ; Quid intelligis ? 
+; uere respondetur : Chimaeram intelligo etsi chimaera nihil sit . 
+Cum igitur chimaeram intelligo , etsi nulla res sit quam intelligam , aliquid tamen intelligo . 
+[ LNPS ] DE GENERE ; . 
+. . ; Littera praetermissa quae satis in Glossulis exponitur , ad descriptionem generis nos transferamus , quae talis est : Praedicabile de pluribus differentibus specie in eo quod quid est . 
+Tres differentias ponit : praedicari scilicet de pluribus , praedicari de differentibus specie , praedicari in eo quid est . 
+Quod uero Porphyrius dicit praedicari de pluribus declarat diligentius Aristoteles in Praedicamentis , cum ait : quod aptum natum est praedicari de pluribus . 
+Quae est descriptio uniuersalis , quae sic exponenda est : uniuersale est , quod in significatione simplex ; et ; in uoce est aptum , id est aptitudinem habet , scilicet conuenientiam rerum de nominibus , quorum ueraciter habeat praedicari . 
+Per quod excluditur phoenix et caetera huiusmodi , quae res plures non continent . 
+Natum est praedicari , id est ueraciter habet coniungi . 
+Praedicari autem duobus modis dicitur , scilicet pro coniungi quoquo modo et secundum hoc omnis categorica propositio habere praedicatum dicitur ; et pro coniungi ueraciter . 
+Et in hoc sensu in definitione uniuersalis ponitur , per quod excluditur chimaera et caetera huiusmodi nomina . 
+Sed quia coniunctio uocis diuersis modis fit - - aliquando enim coniungitur per aliquam coniunctionem propositio propositioni , ut : si est homo , est animal , aliquando dictio dictioni , ut : Socrates et Plato , aliquando per uerba , ut : Socrates uidet hominem , aliquando sine omni coniunctione , ut : homo albus - - intelligenda est ui uerbi substantiui praesentis , per quod excluduntur hae iuncturae uocis : ' Socrates uidet hominem ' et caetera huiusmodi . 
+Sed quia hoc habet rosa , licet nulla rosa sit , quia uerum est : hoc corpus fuit rosa , intelligenda est ; ui ; substantiui uerbi praesentis . 
+Et quia hoc habet ' Socratem esse hominem ' , intelligendum est etiam : indicatiui . 
+Sed quia hoc habet possibile et necessarium , quia uerum ' Socratem legere est possibile ' , addendum : personaliter , id est ita ut in illa coniunctione innuatur res subiecti esse res praedicati . 
+Nota quod magister noster possibile et necessarium concedit uniuersalia , quia praedicatur de pluribus . 
+Dicendum est uniuersale illud , quod est aptum natum praedicari , id est ueraciter coniungi , ui substantiui uerbi praesentis indicatiui personaliter . 
+Sed quia hoc habent indiuidua , additur : de pluribus , id est de uocabulis res diuersas numero significantibus , per quod excluditur hic albus et hoc ueniens et haec pars et hoc totum ; quod ; de Socrate praedicatur . 
+Littera ista sic solet legi : de differentibus numero , id est de uocabulis rerum numero differentium . 
+Et secundum ; hoc ; haec sessio non includitur ibi , quia haec sessio et haec sessio , de quibus praedicatur sessio , non sunt uocabula rerum numero differentium , cum haec sessio et haec sessio non sint res . 
+Sed si hoc modo intelligatur : de uocabulis differentibus numero , bene ibi includitur , quia haec sessio et haec sessio sunt uocabula differentia numero . 
+Omnia illa enim nomina differunt numero , quorum omnium res sic sunt diuersae , quod una non est alia nec aliquid unius est alterius aliquid . 
+Quod huic sessioni conuenit , quia haec sessio et haec sessio est res huius uocabuli sessio ; non tamen est ; illa sessio ; haec sessio et haec non illa nec aliquid unius est aliquid alterius . 
+Si autem opponatur de domo , quod de omnibus partibus suis praedicetur , similiter nihil ; est ; , cum hic praedicari singillatim ad unumquodque de pluribus referatur , quod domus non habet ad suas partes . 
+Sed quia hoc conuenit speciebus specialissimis et eorum propriis , additur : de differentibus , id est de suppositis nominibus diuersis speciebus . 
+Nominum sicut et rerum quaedam differunt numero , quaedam specie , quaedam uero genere . 
+Illa uero differunt numero , quae diuersa numero significant , id est talia quae tota quantitate suae essentiae discreta sunt , ut nihil unius sit alterius . 
+Illa uero nomina differunt specie , quae sunt diuersae species uel sub diuersis speciebus continentur , id est quae apta sunt ad supponendum illis , etsi specialissima non sint inuenta , res tamen differentes specie dicuntur , quia naturaliter sub diuersis speciebus continentur specialissimis hoc modo , quia habent illos status ex quibus diuersae species possunt poni . 
+Omnia uero differre genere dicuntur , quae sunt diuersa genera uel diuersis generibus supposita . 
+Res autem genere differre dicuntur , quae naturaliter sub diuersis continentur uerum est : Quaecumque differunt genere , differunt specie , et quaecumque specie , differunt numero . 
+Quod tamen falsum uidetur , cum haec manus , quae Socratis est , et Socrates differant specie , non tamen numero , cum alterum sit de altero . 
+Et notandum est , quod quando dicimus : quaecumque differunt genere , et specie etc . 
+, plura accepimus quantum ad numerum . 
+Unde haec manus Socratis et Socrates non plura , cum numerus in eis multiplicari non ualeat . 
+Verum est igitur : quaecumque sunt diuersa numero , differunt specie et numero , sed non econuerso . 
+Vel potest dici , quod manus Socratis et Socrates sunt res diuersae numero secundum Boethium , cum largius diuersa numero accipiat , quam superius acceptum sit . 
+Dicit enim diuersa esse numero , quorum unum non est aliud . 
+Sed quia hoc habent differentiae quaedam et accidentia , additur : in eo quod quid est , per quod excluditur corporeum et caeterae differentiae et communia accidentia . 
+Cuius quaestionis est proprius sensus , si de rebus accipiatur uel exponatur : Cuius generalis status uel specialis est ? 
+Quid enim est , hoc nomen , proprie quaerit de generali statu siue speciali , sicut quis et quae et quod proprie de persona . 
+Si quis uero dicat hoc nomen corporeum praedicari in quid secundum illam sententiam , qua conceditur esse eiusdem significationis cum hoc nomine corpus , fallitur . 
+Haec enim quaestio ex propria significatione et institutione sua est petitiua generalis nominis uel specialis et propter hoc , scilicet ut respondeatur genus uel species uel ipsorum definitio , semper fieri debet , licet in ea non agatur de nominibus ipsis , sed de rebus a nominibus appellatis . 
+Quamuis enim per quaestionem de rebus agatur , tamen de cohaerentia nominum manere dubitatur . 
+Et ideo debet exponi in nominibus et est ratio quare . 
+Nam si exponatur in rebus , ut superius dixi , ut ita dicatur : quid est , id est cuius generalis uel specialis status est res , aliquando non comprehenditur albedo et sessio , quia non sunt res . 
+Nam res proprie dicimus subsistentias . 
+Quare ut melius dicatur , dicendum est ita : homo quid est , id est cui generali uel speciali uocabulo supponitur hoc nomen homo ? 
+Si uero opponat quis , quod secundum hunc sensum conuenienter definitio responderi ; potest ; , cum solummodo uideatur esse petitiua generalis uel specialis status , fallitur . 
+Quicumque enim ostendit aliquid alicui definitioni esse suppositum , aperte insinuat idem nomen suppositum esse generi uel speciei , cuius est definitio , cum quidquid sit suppositum definitioni , et definito . 
+Nota quia per illud quod praemissum in definitione excluduntur aequiuoca et orationes et sic definitiones . 
+Si enim definitiones genera esse dicamus , fallimur , cum Boethius dicat animal esse ultimum genus , cum animal rationale , quod post animal est , genus esset , nisi per quod excluderetur , ut sit sensus definitionis : genus est illud quod unum in significatione et simplex in uoce praedicatur etc . 
+Nota quod uoces sunt aemulae rerum . 
+Ut enim primo loco substituitur substantia accidentibus , sic nomen significans substantiam primo loco in constitutione ponitur et nomen adiectiuum ei additur , ut homo albus , et sic in uerbo : currit celeriter . 
+Unde quaestio alia de substantia nominis , alia de qualitate ; alia de substantia uerbi , alia de qualitate . 
+De substantia nominis est , per quam quaeritur demonstrari , quid significetur a subiecto , ut : quid est Socrates , id est quae res est Socrates uel aliud . 
+Et de qualitate , per quam quaeritur nomen responderi significatione adiectiui determinans , ut : qualis est ille ? 
+albus . 
+Et de substantia uerbi , per quam quaeritur responderi aliquid per quod uerbi est substantia , id est significatio , demonstretur , ut : quid agit Socrates ? 
+legit . 
+Quae quaestio potest esse de substantiia tam uerbi quam de substantia nominis . 
+Si enim dicatur : quid agit Socrates , id est in quam actionem habet , est de substantia uerbi . 
+Si autem dicatur : quid agit Socrates , id est quam rem agit , de substantia nominis est . 
+Et de qualitate uerbi uidetur illa esse , quae petit sibi responderi illud per quod determinatur qualitas uerbi , ut : qualiter currit ? 
+celeriter . 
+Et harum aliae sunt naturales , id est per quas natura petitur demonstrari , ut : quid est homo , aliae personales , ut illae , per quas quaeritur persona distingui a caeteris , ut : quis est in domo ? 
+Socrates . 
+Quae quandoque fit de proprietate occulta et ficta , id est quae sensu non potest percipi qualitate extrinseca et matura cognita , ut : quis pater ille uirum etc . 
+Et cum dicitur : ' quis natat in mari ' , quis ponitur pro quid . 
+Et attende , quia ordo seruandus est in responsione harum quaestionum , quia quaeuis significat idem : quid uidet Socrates et quid uidetur a Socrate ; tamen idem non est respondendum . 
+Uni enim est respondendum : hominem uel aliquid tale , alii uero : homo uel aliquid tale a Socrate uidetur . 
+Et ita hoc nomen , quid diuersis adiunctum diuersas habet quaestiones facere , inter quas istae sunt praecipue tres : Una scilicet stricta , secundum quam hic accipitur genus praedicari in quid , id est ad istam interrogationem : quid est , id est ' quid ' quaerit de generali uel speciali statu , id est quaerit , ut ostendatur , quid sit aliquid per generale uel speciale nomen . 
+Alia est , quae quaerit de re , ut ista : quid est risibile , id est ' quid ' quaerit de esse rei , per quod esse differt a caeteris rebus . 
+Tertia est de significatione , ut cum dicitur : quid est genus , quid species , id est quid significat genus , hoc nomen , uel species , sicuti idem est , ut cum ; dicitur ; homo currit , id est homo habet cursum . 
+. . Quid est : ' Dixit dominus domino meo ' etc . 
+, id est significat haec oratio ? 
+Et ita per ' quid est ' quandoque quaeritur de significatione . 
+Amplius de hac quaestione ' quid est ' quidam quaerunt , quomodo debeat exponi . 
+Quae ita exponitur in rebus : quid est homo , id est quid necesse est hanc rem esse ad hoc quod homo , id est quid exigit ad suum esse ? 
+Ad hoc quidam opponunt dicentes , quod nihil ualet haec oppositio eo quod praecessiuam quaestionem potest dinosci : quid exigat ad suum esse . 
+Quaestio autem quae praecedit , haec est : an sit homo , quae cum manifesta sit , manifestum est certe , quid sit homo , et cum scitur quid sit homo , scitur quid sit animal rationale mortale . 
+Postquam autem scitur , quid est animal rationale mortale , satis liquet , quid sit homo et quid ad suum esse exigat . 
+Et quia haec quaestio satis declarat illud , superflua uidetur esse expositio haec quae idem dicit . 
+Alia etiam de causa nihil ualet in rebus haec expositio . 
+Nam cum dicitur : quid est homo , respondeatur : animal rationale mortale . 
+Et ideo male respondetur , quia idem poscitur in responsione quod in inquisitione . 
+Idem enim est homo quod ' animal rationale mortale ' , et ideo quia idem est , non debet exponi in responsione , quia non magis certificatur quaerens per illud , et sic non fieret bona responsio ad hanc quaestionem : quid est homo , si respondeatur homo , eo quod idem respondetur . 
+Similiter in rebus non est bona responsio ' animal rationale mortale ' ad hanc quaestionem : quid est homo , eo quod idem est ' animal rationale mortale ' et homo . 
+Sed si exponatur haec quaestio in nominibus , bene poterit responderi ' animal rationale mortale ' et etiam antropos , sicut ad hanc quaestionem : quid est mucro , respondetur : gladius . 
+Sed in rebus non ita posset , cum idem sit mucro et gladius . 
+Quomodo haec quaestio debeat exponi in nominibus , uideamus . 
+Ita enim est exponenda : quid est homo , id est peto , ut respondeatur tale uocabulum mihi , per quod sim certus de isto uocabulo homo et ideo non debet responderi homo , quia non est tale uocabulum , quod expellat dubitationem ab hoc uocabulo , quia idem uocabulum est . 
+Et sciendum , quia aliter est in definitionibus rerum et aliter in definitionibus nominum . 
+Nam in definitionibus ; rerum ; datur conuenientia et differentia secundum essentiam , ut in hac definitione ' animal rationale mortale ' datur conuenientia per hoc nomen ' animal ' essentialiter . 
+Nam participatione huius nominis omnia alia conueniunt , et ita per hanc definitionem datur conuenientia secundum essentiam . 
+Et aliter est in definitionibus nominum . 
+Nam in illis definitio secundum essentiam non potest assignari , eo quod eandem uocem habens contingit esse nomen et uerbum . 
+Nam canis quod est nomen , potest esse uerbum similiter . 
+Unde potest bene dici : nomen est uox significatiua ad placitum etc , id est id quod nomen est , et econuerso uerbum est uox significatiua ad placitum etc . 
+, id est id quod uerbum est . 
+Unde si aliquis uelit inferre : ergo nomen est uerbum et uerbum est nomen , non sequitur , quia in ea significatione , qua est nomen , ; non ; est uerbum . 
+Quare cum dicitur : nomen est uox significatiua ad placitum etc . 
+sine tempore , oportet apponi : et in eadem significatione . 
+Contra sophisticas importunitates hoc idem oportet apponi in definitione generis , ut ita dicatur : genus est quod praedicatur de pluribus differentibus specie in eo quid sit , id est illud est genus , quod est coniungibile pluribus ad ueram enuntiationem reddendam ui uerbi substantiui praesentis in eadem significatione . 
+Quare cum dico : genus est quod praedicatur de pluribus etc . 
+, ; quaero ; , si illud ' quod ' sit de definitione generis . 
+Si dicis , quia est , probatur inconueniens , hoc scilicet , quod uox est genus , hoc modo : Nam possum dicere : uox est quod praedicatur de pluribus etc . 
+Vox enim est illud quod ita praedicatur , quia hoc nomen genus est genus . 
+Quare dicendum est , quia illud non est de definitione , sed appositum est ad perfectionem constructionis faciendam , sicut cum dico : creatura est id quod est creatum a deo , scilicet aes , ' id quod est creatum a deo ' non ; est ; de definitione , sed ' esse creatum a deo ' . 
+Si enim dicerem , quod hoc esset definitio creaturae , tunc posset inferri : ergo statua est creatura , quia ipsa est , quod est creatum a deo , scilicet aes . 
+Quocirca ut haec inconuenientia et multa alia uitemus , dicendum est , quia nec in hac definitione nec in illa illud ' quod ' est de definitione , sed in utraque constructionis est perfectiuum . 
+Vel aliter bene potest ; esse ; de definitione , si in subiecto ponatur ita : ' quod praedicatur sic ' est genus . 
+Sic exponitur tota definitio generis . 
+Sed ut breuiter recapitulentur omnes differentiae huius definitionis , quas in constitutione eius posuimus , reuoluendum est a capite , ut ita dicatur : uniuersale siue genus est illud quod praedicatur de pluribus differentibus specie in eo quod quid est , id est illud nomen est uniuersale siue genus , quod est coniungibile pluribus nominibus in eadem significatione ad ueram enuntiationem faciendam ui uerbi substantiui praesentis personaliter . 
+Nota quod ad esse uniuersale non est necesse aliquas esse res de nominibus , quarum praedicetur , cum assignet uniuersalia tam in nominibus existentium quam non existentium . 
+Dicit enim quod conuenit omni substantiae non esse in subiecto . 
+Per quod innuit esse uniuersale non esse in subiecto , et ' non laborat ' et possibile et impossibile et praeteritum et futurum , quibus contingit , ut praedicentur de quibusdam , in quibus non possunt diuidi . 
+Non enim potest dici aliud crastina , aliud postcrastinum , sicut color praedicatur de hac albedine et de illa in quae non diuiditur . 
+Si enim diceretur pars orationis alia hoc nomen ' homo ' , alia hoc nomen ' lapis ' , falsum esset , quia ' alia ' , ibi positum , non potest esse nisi ad manerias . 
+Econtrario uerum est , quod ' diligit se ' diuiditur in aliqua , ut cum dico : diligens se alius Socrates , alius Plato , de quibus non potest praedicari , quia non conuenit eis in eadem significatione . 
+Quare etiam si eandem significationem retineat et ; in ; diuisione et in subiectione , cum dico : ' diligens se est Socrates ' et ' quod diligit se , est Socrates ' et ' id quod diligit se , est Socrates ' . 
+Unde quia non est praemissum , unde uariet suam significationem , tamen quia nec ex significatione nec ex subiectione est uniuersale , sed ex sola praedicatione , quia in praedicato positum ex singulis praemissis uariat suam significationem , non est uniuersale . 
+Sic nec causa nec perpetuum et similia . 
+Unde cum dicitur ' omnis homo diligit se ' , non praedicatur uniuersale , sed indiuiduum . 
+Nec etiam praedicatur uniuersaliter de specie , quia nihil dicitur uniuersaliter praedicari de specie nisi in ea ui , pro qua uerum est aliquid praedicari uniuersaliter , id est in ea ui , in qua praedicatur de singulis indiuiduis . 
+Et nota , quod illa regula sic est intelligenda , scilicet quidquid de specie uniuersaliter et de indiuiduis , id est omnis illa argumentatio , ; quae ; uera est in praedicatum de specie , praedicatur de indiuiduis . 
+[ LNPS ] TRACTATUS DE SPECIE ; . 
+. . ; Nunc autem pertractata generis definitione pertractanda est speciei definitio . 
+Sed prius de specie pauca dicamus . 
+Ait enim Boethius quia in tractatu speciei duae obiectiones fiunt . 
+Quarum una haec est , quare Porphyrius de specie post genus ; tractet ; et non de differentia , cum in illorum quinque enumeratione differentiam praeposuerit speciei , cum etiam in communitatibus prius tractetur de differentia quam de specie . 
+Alia obiectio est , quod superfluus uidetur esse tractatus speciei , cum in tractatu generis satis ostendat , quid sit species , ubi dicit : genus est quod praedicatur de pluribus et differentibus specie . 
+Et alibi in tractatu eodem generis : genus quidem est ut animal , species uero ut homo etc . 
+, in quo ostendit satis , quid sit species . 
+Quas quaestiones soluit ipse Boethius dicens , quod ideo tractat Porphyrius de specie post genus , quia sunt quasi relatiua et utrorumque definitionibus oportet uti ; in ; utrisque . 
+Nam prior tractatus generis ad naturam generis ostendendam per se non sufficit , cum quid sit species , non sufficienter assignet ' per quam genus cognoscitur ' . 
+Similiter tractatus speciei non sufficit per se ad naturam speciei ostendendam , cum quid sit genus , non assignet ' per quod species cognoscitur ' . 
+Merito ergo subiungitur tractatus speciei tractatui generis , ut illa duo compleant , quorum neutrum per se poterat . 
+Hinc per has orationes : ' habens patrem ' et ' habens filium ' cognoscitur pater et filius , neutrum tamen illorum cognoscitur per alterum , sed per utrumque utriusque natura diligenter aperitur et ideo in utroque ratione oportet uti utrisque . 
+Vel secundum quosdam unus continuus generis et speciei sit tractatus , id est tractatus generis et speciei non diuisi . 
+Quod apparet ex hoc quod ista littera ' species quid ' etc . 
+praedictis continetur et quod etiam post assignatas speciei multas proprietates multas et generis exsequitur , ubi ostendit , quid sit subalternum genus et generalissimum . 
+Et sciendum , quod huius uocabuli ' species ' diuersae sunt significationes . 
+Species enim hoc uocabulum significat maneriam , significat compositionem , id est formam ex naturali membrorum compositione procedentem , significat iterum physicam speciem , quae scilicet supponitur generi , significat quoque subtilem speciem . 
+Subtilem uero speciem uocat Boethius humanitatem . 
+Ideo subtilem uocat , quia cum aliae formae aliquantulum distinguantur per sensum , ut albedo per uisum , oratio per auditum , sola humanitas non uenit ad sensum , sed sola ratione distinguitur . 
+Item sciendum est , quod genus uel species non sunt relatiua , sed quasi relatiua . 
+Proprie enim sunt nomina relatiua , quae ex relationibus conueniunt , non tantum ex habitudinibus , sicut haec nomina ' genus ' et ' species ' , et quorum unum non est prius altero et si unum non est , alterum non est . 
+Quam cito enim pater , et habet filium , et quam cito est filius , et habet patrem . 
+Sed in genere et in specie non est ita . 
+Nam genus prius est specie eo quod in constitutione speciei ponitur et species potest esse absque genere . 
+Nam ad hoc quod sit , non exigit , nisi quod sint aliqua numero differentia de nominibus , quorum praedicetur . 
+Sed si aliquis opponat : hoc nomen ' filius ' similiter posset esse , etsi numquam fuisset hoc nomen ' pater ' , falsum est , quia hoc nomen ' pater ' et hoc nomen ' filius ' data sunt ex relatione , id est semper debent referri ad aliud . 
+Sed tamen quamuis genus et species non sunt relatiua , tamen significatio unius pendet ex significatione alterius , et si nescitur significatio unius , ignoratur significatio alterius , sicut si ignoretur quid sit lux , ignorabitur , quid sint tenebrae . 
+Non tamen relatiua , cum alterum sine altero esse possit ; quippe existentibus rebus unius speciei , et ipsa species est praedicabilis , et cum non sit genus , praedicatur de differentibus specie , quia non reperiuntur differentia specie , sed differentia numero solo . 
+Consideratis quaestionibus quae erant quasi gradus ad speciei definitionem pertractandam , ostendendum est , quid sit speciei definitio . 
+Itaque sciendum est plures speciei definitiones esse , ut placet Porphyrio . 
+Quarum una haec est : species est quae sub assignato , quae sic debet exponi : illud est species , scilicet quod est sub genere , id est continetur sub genere , hoc est de qua praedicatur genus ut de suo contento . 
+Genere dico assignato , id est de qua mentio fit siue assignatio in tractatu generis . 
+Sed quia opponitur de indiuiduis , quod et ipsa continentur sub genere , ideo est addendum : proxime , id est affine . 
+Nam species proximiores sunt generi quam indiuidua eo quod species continent sub se plures res de nominibus , quarum habeant praedicari , sicut genera ; sed indiuidua hoc non habent , quia continentiam plurium non habent . 
+Quare non dicuntur contineri sub genere nisi improprie . 
+Istae determinationes sufficiunt ad expositionem alterius definitionis , quae est : ' Species est de qua genus praedicatur in eo quod quid sit ' , et haec definitio eadem est cum prima . 
+Et potest dici , quod non sunt definitiones , sed quaedam ; specierum ; non specialissimarum proprietates . 
+Porphyrius tamen uocat definitiones substantiales differentias , quae non sunt definitiones , ut in tractatu differentiae quasdam dicit definitiones differentiae substantialis , quae non sunt definitiones illius , et hoc secundum opinionem antiquorum , qui eas dictauerunt definitiones , iuxta quorum opinionem in hoc opere de his quinque agit , sicut ipse in prologo insinuat dicens : Quemadmodum antiqui de his tractauerunt etc . 
+Ad ultimum definitionem specialissimae speciei ponit , quae talis est : Species est quae uel quod praedicatur de pluribus etc . 
+Per ' praedicatur de pluribus ' excluduntur indiuidua . 
+Sed quia hoc habet genus , addendum est : ' solo numero ' , id est ita de differentibus numero , quod non de differentibus specie . 
+Quod generi non conuenit . 
+Et quia hoc habet proprium ipsius speciei , additur : in eo quod quid est . 
+Nota quod praedicari de pluribus idem dicit , quod praedicari de differentibus numero ; quare superfluum est post illud , nisi subintelligatur ' tantum ' uel ' solo ' . 
+Sunt tamen qui dicunt , quod nec de uno solo praedicantur indiuidua ; sed haec dicunt contra auctoritatem Porphyrii dicentis per praedicari de pluribus genus differre ab indiuiduis . 
+Nam nisi indiuidua praedicarentur , nequaquam hoc dixisset . 
+Nam si genus praedicatur de pluribus quam indiuiduum , oportet , ut indiuiduum praedicetur . 
+Nam praedicari de pluribus ponitur ibi comparate , ueluti ; ad ; faciendam comparationem inter duos dicimus : iste est albior illo ; oportet enim , ut ambo sint albi . 
+Nam inter album et non album talis comparatio non potest fieri . 
+Dicunt quidam esse friuolum , quod in hac definitione debet addi ' solo ' uel ' tantum ' . 
+Nam cum dicitur : Genus est quod praedicatur de pluribus , id est intelligitur de differentibus numero . 
+Sed quia hoc non erat propria sua praedicatio , ideo additum est : differentibus specie . 
+Similiter cum dicitur : Species est quod praedicatur de pluribus , inde ' pluribus ' intelligitur de differentibus numero ; sed ut ostendatur , quod non praedicatur nisi de istis , ideo additum est : de differentibus numero . 
+Sed si opponatur , quod unum superfluit post aliud , cum intelligatur : nihil est . 
+Nam etsi intelligatur , non superflue apponitur . 
+Licet enim omnis presbyter sit diaconus , cum in presbytero intelligatur diaconus , tamen potest dici de aliquo presbytero : est diaconus , et de aliquo quod est presbyter et diaconus , id est aliquando exercens officium presbyteri , aliquando diaconi . 
+Opponit Boethius de sole et phoenice , quibus haec definitio non conuenit , soluens postea duobus modis . 
+Primum dicens definitionem datam ; esse ; secundum maiorem partem specierum , secundo dicens phoenicem esse praedicabilem de pluribus in natura , ; id est ; ex tali causa datam , ex qua pluribus per praedicationem adaptari possit , licet illam aptitudinem ex subiectis rebus ; non ; contrahat . 
+Et similiter secundum eum sol , mundus , terra sunt species eo quod in natura res habent illum statum , unde praedicarentur de pluribus , si plura essent . 
+Et magister Vasletus dicit , quia neque phoenix neque sol nec mundus nec terra sunt species , sed indiuidua eo quod non sunt praedicabilia de pluribus , id est non apta coniungi pluribus ad ueram enuntiationem reddendam . 
+Non affert illos qui dicunt , quod praedicari ; de pluribus ; in materia sit praedicari . 
+Quod autem phoenix magis debeat dici species quam indiuiduum , plures auctoritates confirmare uidentur . 
+Una scilicet quod unaquaeque substantia participat una specie , sed pluribus accidentibus . 
+Sed phoenix est substantia . 
+Quare oportet , ut una specie participet . 
+Per quod uolunt habere , quod phoenix sit species . 
+Rursus quod ait : Omne ante indiuidua speciem esse ; quippe phoenix praeest huic phoenici , quod est indiuiduum , et ita phoenix est species . 
+Rursus cum phoenix sit animal , substantialiter differt a caeteris animalibus , et differentias aliud facientes uocat Porphyrius specificas , quia speciales status faciunt . 
+Oportet itaque differentiam , quae eum aliud facit , esse specificam , et ita speciem facere . 
+Et sic uel phoenicem uel aliam ; sed aliam non , ergo phoenicem . 
+Et ita phoenix est species . 
+Cui sententiae etiam uidetur consentire , quod Boethius dicit super Porphyrium speciem uno indiuiduo esse contentam , cum postmodum dicat genus non esse contentum una specie . 
+Illud etiam astruere uidetur , quod phoenix sit species , quod Boethius dicit in Diuisionibus omne genus sufficienter diuidi in duas species . 
+Auis igitur cum genus ; est ; , per duas sibi proximas species diuidi potest , sed quia nominibus caremus , ponamus illa nomina b c etc . 
+Phoenix itaque cum eis erit in diuisione uel sub aliquo illorum ponetur . 
+Sed si cum eis ponatur , iam diuisio illa non erit sufficiens per illa duo . 
+Quodsi sub aliquo illorum continetur , illud quod continebit merulam uel coruum cum phoenice , uel erit species specialissima uel genus . 
+Sed species specialissima esse non potest , quia habet speciem sub se , nec genus est , cum non habeat duas proximas species sibi , quibus sufficienter diuidatur , nisi phoenix sit species . 
+Unde species dici debet etiam , cum ipse Porphyrius in sequentibus dicat semper genus in plures species diuidi . 
+Rursus species esse uidetur ex eo quod ait Porphyrius : Substantia alia prima , alia secunda . 
+Vel haec diuisio ; non ; sufficiens erit uel sub altero diuidentium continebitur . 
+Sed prima substantia esse non potest , cum hoc aliquid , id est rem suam , discrete non significet . 
+Erit igitur secunda substantia et sic genus uel species . 
+Solutio primi argumenti : Quod Porphyrius dicit unamquamque substantiam etc . 
+, negatiue intelligendum est hoc modo : substantia ; non ; pluribus speciebus specialissimis participat , pluribus uero accidentibus . 
+Rursus quod dictum est , differentias facientes aliud specificas esse , tale est , ac si dicat : facientes specialem statum , quod differentiae phoenicis conuenit , cum phoenix specialem statum significet . 
+Vel potest dici , quod haec est etimologia nominis ' specifica ' , quod aliquando excedit , aliquando exceditur . 
+Quod uero dicit Boethius speciem esse contentam uno indiuiduo et genus non , alterum per opinionem oportet eum dicere , alterum secundum rei ueritatem . 
+Secundum rei ueritatem est dictum , quod genus non est contentum una specie ; secundum opinionem uero dictum est de specie , quod est contenta uno indiuiduo , quia opinabantur quidam , quod posset esse in natura , quod species esset contenta uno indiuiduo , quod falsum est . 
+Nam similiter posset esse genus contentum una specie in natura . 
+Ne igitur Boethium stultum faciamus , oportet , quod dicamus eum dixisse speciem esse contentam uno indiuiduo secundum eos qui duobus modis uniuersale et particulare accipiebant , scilicet quantum ad naturam et quantum ad actum continentiae iuxta opinionem eorum qui dicunt omne genus per duas species sibi proximas posse diuidi sufficienter , cum in praedicamento ' ad aliquid ' subalterna genera non possint esse . 
+Vel potest dici quod cum Boethius dicat omne genus posse diuidi per proximas duas species , sibi tale est , ac si dicatur : in duos proximos status speciales , quod bene competit uniuersali , quod solummodo phoenicem et merulam continet , cum phoenix sit specialis status . 
+Quod autem Porphyrius dicit OMNE QUOD EST PROXIMUM ANTE INDIVIDUUM specialissimum est , nil obest , cum phoenix ante indiuiduum et non ante indiuidua proximum sit . 
+De ultima quaestione restat , scilicet : Substantia alia prima , alia secunda , sed phoenix non est prima substantia , scilicet quia hoc aliquid non significat . 
+Ad quod dicendum est quod ideo non remouet , quod phoenix non sit prima substantia . 
+Nam hoc , scilicet significare hoc aliquid , non est definitio primae substantiae . 
+Vel aliter secundum Porphyrium bene conuenit , quod sit indiuiduum . 
+Nam Porphyrius uocat indiuiduum quod habet continentiam unius solius rei , sicuti phoenix . 
+Sed Aristoteles aliter accepit indiuiduum , scilicet secundum continentiam unius rei tantum et significationem unius rei discretae , scilicet secundum hoc quod hoc aliquid significat . 
+Et ita haec auctoritas non iuuat ad hoc quod phoenix sit species . 
+Quod autem ; nec ; phoenix nec aliud uniuersale dicatur in natura , plane ostendit Porphyrius : Sophronici filius esset indiuiduum , si solus Socrates sit ei filius . 
+Nam si uellet , quod uniuersalia dicerentur in natura , non dixisset , quod Sophronici filius esset indiuiduum , si solus Socrates sit ei filius , cum in natura bene posset esse , quod esset uniuersale . 
+Sed quia ad naturam rei non respexit , sed ad continentiam unius rei , ideo ; dixit ; , quod est indiuiduum . 
+Si enim quantum ad naturam genera et species dicerentur , homo genus dici posset , cum in natura praedicabilis sit de pluribus differentibus specie in quid ; quippe plura animalia creari possint , quibus tota definitio hominis conueniret et quibusdam de illorum numero quaedam substantialis differentia adueniret , secundum quam a caeteris habentibus substantialiter differrent , et de omnibus hoc nomen ' homo ' praedicabile esset in natura , sicut phoenix . 
+Non igitur est in tanta ueritate , ut phoenix sit species , quod tam Boethius quam Porphyrius asserit . 
+Species tamen dicitur secundum opinionem eorum , quos Boethius sequitur , ubi dicit : data est secundum maiorem partem . 
+Nulla igitur inter eos contrarietas , cum illud Porphyrius secundum rei ueritatem asserat et Boethius aliud secundum opinionem aliorum , non secundum se astruat . 
+Quaeritur an homo compositus ex anima et corpore sit corporea substantia an incorporea . 
+Si est incorporea , tunc est spiritus , et si est corporea , tunc est corpus . 
+Ad quod quidam dicunt quod corporeum est et non est corpus , ut scilicet corporeum sit uel corpus uel compositum a corpore , sicut incorporeum est uel spiritus uel substantia confecta ex spiritu . 
+Secundum autem alios rationabilius dici potest , quod haec diuisio : substantia alia corporea , alia incorporea non sit sufficiens , et est apponendum tertium membrum , scilicet permixta substantia , sicut homo compositus . 
+Si autem quaeratur , an sit rationale animal , dicunt : minime , cum non animal . 
+Dicunt alii quod non omnis substantia est corpus uel corpores ut mixta naturae , ideo est sufficiens haec diuisio , cum nulla substantia alia numero ab incorporea et corporea relinquatur , quomodo ista : domus aliud paries etc . 
+, non est insufficiens , licet quasdam partes domus non amplectatur , ut dimidiam domum , quod tamen non est diuersum numero ab illis . 
+Mixtam substantiam uocamus compositum ex anima et corpore , quod non est corpus , quia iam anima esset pars corporis ; corpus tamen quod est pars illius substantiae , est homo . 
+Quod a philosophis dicitur : suppositum animali et corpori , pars illius compositi , est homo et illud compositum homo est , ergo homo est pars hominis , falsum est , quia oportet , quod in eadem significatione poneretur ' homo ' et ' hominis ' . 
+Et attende quod hic homo non significat corpus , quia non facit intelligere hoc corpus , et cum hoc corpus et hic homo idem sint , differunt tamen proprietate , neque quidquid est substantiale uni , et alii ; aliud enim exigit aliquid ad hoc quod sit hic homo , quam ad hoc ut sit hoc corpus ; potest esse hoc corpus , etsi non hic homo . 
+Nota quod Socrates significat hanc substantiam , quia hunc hominem , nec tamen significat hanc substantiam , quae assidue uariatur per influxum et effluxum , quia si significaret hanc substantiam , quae modo est Socrates et cras essentiam , quae cras erit Socrates , cum non eadem essentia hodie et cras sit Socrates , saepe mutaret significationem , quod est inconueniens . 
+Item Socrates significat substantiam quae constat ex decem partibus , ergo significat substantiam ex decem partibus , falsum est , si per coniunctionem accipias . 
+Item nullus homo est , qui non sit albus uel niger uel medio colore coloratus ; sed homo significat hominem , ergo uel album uel nigrum uel medio colore coloratum . 
+Falsum est . 
+Item omnis homo est sedens uel non sedens ; sed homo currit ; igitur sedens uel non sedens currit . 
+Bonum est argumentum . 
+Cum omnibus namque aliis uerbis bonum est argumentum ; cum istis significare petit , non est bonum . 
+Quaerunt quidam an illud compositum sit homo et si sit animal rationale mortale . 
+De hoc dicunt quod non est homo neque rationalis neque mortalis , quia non est animal , et quod animal non sit , percipitur ex hoc quod animal non dicitur aliquid nisi pro parte , id est pro sola animatione et non pro corpore . 
+Item hoc compositum non est animal , quia ad hoc quod compositum esset animal , oporteret quod corpus huius compositi pars esset animalis , quod esse non potest . 
+Quocirca quia istud compositum non est animal , non est rationale mortale . 
+Nam haec nomina : ' rationale ' ' mortale ' data sunt pro parte , scilicet pro anima . 
+Nam anima rationalis est et non corpus . 
+Mortalis autem dicitur anima , non quod ipsa moriatur , sed ab effectu , quia mortem confert suo recessu . 
+Unde cum dicimus : homo est rationalis , homo est mortalis , figuratiuae sunt istae propositiones , quae sic resoluuntur : homo est rationalis , id est habens animam rationalem , homo est mortalis , id est habens animam quae confert ei mori suo recessu . 
+Et sciendum quod secundum eos bene dicitur : homo est compositus , hoc compositum , etsi hoc loco hoc nomen ' homo ' sit designatiuum totius , id est interioris hominis . 
+Et primitus alio modo accipiebatur , cum dicebatur : hoc compositum non est homo . 
+Homo enim non erat tunc nisi designatiuum unius partis , scilicet corporis , quod quidem ex institutione habet significare secundum eius etimologiam . 
+Nam homo dicitur ab humo . 
+Sed quia de anima mentionem fecimus , de ipsa aliquid dicamus . 
+Itaque omnes actiones animae esse dicuntur , quamuis sint quaedam nomina et uerba quae significant alias actiones , cum non possint construi cum hoc nomine ' anima ' , immo cum nominibus rerum , quae sunt instrumenta animae . 
+Nam aliquando dicimus : anima uidet uel odorat ; sed dicimus : oculus uidet , naris odorat , et est sensus : anima uidet per oculum , odorat per narem . 
+Item sciendum quod anima localis non est , cum non conueniat ei localis definitio . 
+Nam locale est id cuius interpositione partium circa adiacentium fit distantia . 
+Veluti si quis ponat stilum uel aliquid tale in medio huius ligni , huius interpositione partium fit distantia . 
+Unde colligimus , quod albedo non locale quid , quia interpositione eius nulla partium adiacentium fit distantia . 
+Quod ita percipi potest : Nam cum in eboris medio sit albedo , non tamen facit distantiam partium eboris circa adiacentium . 
+Similiter dicitur , quod anima non est localis et hoc ex Augustino habemus dicente : Est spiritus creator , est spiritus creatus , est corpus . 
+Spiritus creator est qui nec loco nec tempore circumscribi potest : loco non potest , quia non est localis ; tempore non , quia non habet aliquas qualitates . 
+Corpus autem et loco et tempore circumscribi potest , quare nullam habitudinem habet cum spiritu creatore . 
+Sed spiritus creatus habet aliquam . 
+Nam sicut spiritus creator non circumscribitur loco , ita nec spiritus creatus . 
+Et spiritus ; habet ; habitudinem ad corpus , quia sicut corpus mouetur , ita anima mouetur , cum irascitur . 
+Item sciendum est , quod istae locutiones sunt figuratiuae : anima recedit a corpore , anima uadit apud inferos . 
+Quod uero anima recedit a corpore , nihil aliud est , nisi quod desinit uegetare corpus , et anima uadit apud inferos , id est : patitur perpetuam poenam . 
+; . 
+. . ; OMNE QUOD ANTE INDIVIDUA PROXIMUM EST , SPECIES ERIT SOLUM , NON ETIAM GENUS . 
+Istud capitulum sic intellige : OMNE QUOD EST PROXIMUM etc . 
+, id est de generibus et speciebus praedictis propter ' homo albus ' . 
+Si opponitur de illo uniuersali , quod continet phoenicem et coruum , quia scilicet est proximum ante indiuiduum , nihil obest , quia si intelligatur ante indiuiduum proximum , id est magis simile unicuique illorum quam aliud , non habebit hoc illud uniuersale , quia coruus est magis similis alicui illorum quam illud . 
+Etenim potest concedi aliquod esse utrumque , scilicet et quod sit species et quod non sit species ; quod non sit species , ideo , quod est proximum ad utrumque . 
+Nam coruus est proximus ad hunc coruum . 
+Quod sit species , bene potest concedi eo quod ante duo illa non est proximum uniuersale . 
+Sed si opponatur quod illud uniuersale non est species specialissima , non est uerum . 
+Nam species potest praedicari de specie specialissima , sed non de alia a se . 
+Item opponitur : Si ad hoc esset redactum , quod non esset nisi una merula et unus coruus , an illud uniuersale esset species specialissima , quod illam contineret . 
+Probatur , quod esset species specialissima eo quod praedicaretur de substantialiter differentibus . 
+Nulla enim species praedicatur de substantialiter differentibus . 
+Quod quidem secundum quosdam falsum est . 
+Nam species bene potest praedicari de substantialiter differentibus . 
+Sed aliter accipitur differre substantialiter quam differre substantiali differentia . 
+Substantialiter , id est essentialiter . 
+Unde quidam dicunt : non quidquid differt substantialiter , et substantiali differentia , sed quidquid substantiali differentia , et substantialiter . 
+Hoc argumentum differt substantialiter , ergo substantiali differentia , sic fallitur : Albedo et nigredo differunt substantialiter , ergo substantiali differentia , falsum est . 
+Non enim habent substantiales differentias . 
+Conuenit igitur secundum eos illud uniuersale , quamuis praedicetur de differentibus substantialiter , tamen speciem bene esse . 
+; . 
+. . ; EXTREMA VERO UNAM HABENT HABITUDINEM ; NAM ET GENERALISSIMUM AD EA QUIDEM QUAE POSTERIORA SUNT HABET HABITUDINEM , CUM GENUS SIT OMNIUM ID QUOD EST SUPREMUM , EAM VERO QUAE EST AD SUPERIORA NON HABET , CUM SIT SUPREMUM ET PRIMUM PRINCIPIUM ; SPECIALISSIMUM AUTEM UNAM HABET HABITUDINEM , EAM QUAE EST AD SUPERIORA QUORUM EST SPECIES , EAM UERO QUAE EST AD POSTERIORA NON DIVERSAM HABET SED ETIAM INDIVIDUORUM SPECIES DICITUR ( SED SPECIES QUIDEM INDIVIDUORUM VELUT EA CONTINENS , SPECIES AUTEM SUPERIORUM VELUT QUAE AB EIS CONTINETUR ) . 
+EXTREMA VERO . 
+Hac auctoritate dicunt quidam indiuiduum non esse in praedicamento adhaerentes Porphyrio , qui specialissimum uocat extremum et huic nomini ' praedicamentum ' , quod a praedicando dicitur , cum a prima substantia nulla fit praedicatio . 
+Quibus cum dicitur quod Porphyrius ; quoque ; ponat indiuidua in praedicamento , dicunt ea induci , ut ostendat , de quibus species habeat praedicari , non quod de praedicamento esse asserat . 
+Et secundum hoc generalissimum et specialissimum recte extrema in praedicamento dici possunt . 
+Vel ideo uocat extrema , quia inter generalissimum et specialissimum non sunt aliqua substantialiter inter se diuersa . 
+Diuersas familias dicit ad unum referri principium , ; ut ; ad Iouem , sed non diuersa genera ad unum genus , quia neque ; ad ; ens , de quo magis uideretur , neque ad aliud . 
+' Fortasse ' dicit , quia secundum quosdam philosophos erat unum principium , secundum alios plura . 
+Quod ens non sit genus , ostendit , quia aequiuoce praedicatur . 
+Aequiuoce hic large accipitur secundum Aristotelem , scilicet praedicari nomine et non eadem ratione substantiae , id est non uniuoce . 
+Quod non conuenit huic nomini res et ens , licet in specie contineatur ; non enim ex causa impositionis in specie continetur , sed ex necessitate , cum sine illis esse non possit . 
+Ex hoc maxime apparet , quod non genus , quia non praedicatur in quid . 
+Primum enim ; oportet ; scire rem esse , antequam de ea quae res sit , quaeritur . 
+Vel potest dici secundum quosdam , quod Porphyrius hoc participium ' ens ' pro uerbo suo posuit , scilicet ' est ' , et dicit ipsum uerbum praedicari aequiuoce , ideo scilicet , quod in praedicato positum significationem suam uariet et rem substantiae copulet . 
+Veluti cum dicitur : Socrates est , tale est ac si dicatur : Socrates est ipse Socrates ; et cum dicitur : Socrates fuit , tale , est : Socrates fuit Socrates , et sic in aliis huiusmodi . 
+Secundum hos autem euenit , ut haec consequentia sit bona : Si Socrates est Plato , Socrates est Socrates . 
+Si enim est Plato , est aliquid , et si est aliquid , et est , et si est , ; est ; ipse Socrates , secundum hanc maximam : Quidquid . 
+. . etc . 
+Et ita secundum eos exponuntur aequiuoce , id est in diuersis significationibus . 
+Vel melius , quia iste introductorius est ad opus Aristotelis , more Aristotelico ponit aequiuoce , id est non uniuoce , uidelicet non cum ratione substantiae , licet in eadem significatione , ut album praedicatur aequiuoce retentum in eadem significatione Ensautem non praedicatur uniuoce , cum sit responsiuum ad primam quaestionem . 
+Prima quaestio est , an sit ; quod uero ei responsiuum est , nullum substantiale ostendit . 
+; . 
+. . ; DECEM QUIDEM GENERALISSIMA SUNT , SPECIALISSIMA VERO IN NUMERO QUIDEM QUODAM SUNT NON TAMEN INFINITO , INDIVIDUA AUTEM QUAE SUNT POST SPECIALISSIMA INFINITA SUNT . 
+QUAPROPTER USQUE AD SPECIALISSIMA A GENERALISSIMIS DESCENDENTEM IUBET PLATO QUIESCERE , DESCENDERE AUTEM PER MEDIA DIVIDENTEM SPECIFICIS DIFFERENTIIS ; INFINITA , INQUIT , RELINQUENDA SUNT , NEQUE ENIM HORUM POSSE FIERI DISCIPLINAM . 
+DECEM QUIDEM . 
+Superius ostendit in numero habitudinum conuenire specialissima cum generalissimis . 
+Et ne uideantur similiter numero siue multitudine conuenire , dicit numerum generalissimorum esse definitum , illorum uero indefinitum . 
+Ubi dicit Porphyrius : Cum NUMERO QUODAM SUNT SPECIES , INDIVIDUA VERO NON , infinita indicat indiuidua respectu specierum , quarum licet non sit numerus cognitus nobis , numerabiles tamen sunt . 
+Indiuidua uero innumerabilia sunt tum ex eorum multitudine , cum unaquaeque species multa indiuidua continere habeat , tum ex magna eorum inconstantia , cum indiuidua frequentius pereant , quam indiuidua species , quia indiuiduum perit et pereunte specie et non pereunte , species uero non perit sine destructione indiuidui . 
+Vel frequentius pereunt , quia cum species perit , unumquodque illorum perit et species non perit aliquo illorum pereunte . 
+Si ergo species pereunt ut rosae , non ideo sunt infinitae , cum non tantam uarietatem habeant quantam indiuidua . 
+Tale est enim , ut dictum est , et indiuidua esse infinita , ac si diceretur : Manere nobis incerta et inconstantia quantum ad species . 
+Videtur tamen posse probari , quod indiuidua sint certa hoc modo : aliquis est cui haec omnia sunt certa . 
+Vel aliter secundum hanc regulam : quotiens singulare habens plurale praedicatur de aliquo singulari habente plurale , ; plurale ; praedicati praedicatur de plurali subiecti . 
+Unde si omne indiuiduum est finitum , omnia indiuidua finita , non sequitur , cum regula illa sit falsa . 
+Quippe existentibus duabus animabus , tamen uera est : omnis anima est anima , et falsa est : omnes animae sunt animae , id est omnis collectio animarum est collectio animarum , cum una tantum collectio sit et non plures . 
+DESCENDENTIBUS IGITUR AD SPECIALISSIMA NECESSE EST DIVIDENTEM PER MULTITUDINEM IRE , ASCENDENTIBUS VERO AD GENERALISSIMA NECESSE EST COLLIGERE MULTITUDINEM . 
+DESCENDENTIBUS IGITUR . 
+Ecce hic Porphyrius causam impositionis uniuersalium et singularium diligenter distinguit . 
+Dicit enim ea esse inuenta , ut per illa rerum diuersitas et conuenientia ostendatur , in quibus duobus omnis rerum doctrina consistit innuens uim continentiae et diuersitatis semper in praedicatis consistere hoc modo : In ascensu multa sub uno colligimus , id est diuersorum unionem ostendimus per praedicatum , in quo est uis et declaratio conuenientiae et diuersitatis , ut hic : Socrates et Plato sunt animalia uel homines . 
+Ex quo apparet nil ualere , quod opponitur hoc loco , quod scilicet tam bene ostendimus per subiectum similitudinem rerum quam per praedicatum , ut cum dicitur : Animal est Socrates et Plato Non enim cum ; dico ; ' Animal est Socrates et Plato ' ostendo eos esse similes , id est non dico esse animalia uel homines etc . 
+, quod est ostendere eos esse similes . 
+Innuitur tamen eos esse similes per subiectum . 
+In descensu uero unitorum in aliquo differentiam ostendimus , ut si dicam : animal aliud rationale , aliud irrationale . 
+Hic unitorum in animali diuersitas et differentia ostenduntur , cuius diuersitatis uis in praedicatis maxime consistit , ut dictum est . 
+Hic ascensus et descensus per similitudinem terrae dictus est . 
+Terra enim est stabilitas et firmitas , a qua quanto aliquid recedit sursum altius , tanto magis est mobile , instabile . 
+Quanto uero magis ad terram accedit , tanto magis ad stabilitatem appropinquat . 
+Similiter autem uocabulum ' aliquot ' , quanto plura continet in appellatione quam aliud , tanto magis est altius illo , id est minus stabile et minus certum in significatione quam aliud . 
+Quanto minus continet quam aliud , tanto minus est confusum et magis stabile , id est magis certum in significatione quam aliud . 
+COLLECTIVUM ENIM MULTORUM IN UNAM NATURAM SPECIES EST , ET MAGIS ID QUOD GENUS EST . 
+COLLECTIVUM ENIM . 
+Duo dixerat , duo probat : Quod in ascensu colligimus , in descensu dispergimus , quia genera et species , per praedicationem quorum inferiora iunguntur , collectiua sunt , ipsa uero inferiora ; eorum ; distributiua sunt . 
+A causa . 
+Et hoc est : SPECIES EST COLLECTIVUM MULTORUM IN UNAM NATURAM , id est speciale uocabulum res subiectas nominat secundum hoc quod conueniunt ex creatione naturae . 
+Natura ; enim ; teste Boethio est similitudo nascentium . 
+PARTICULARIA VERO ET SINGULARIA SEMPER IN MULTITUDINEM E CONTRARIO DIVIDUNT QUOD UNUM EST . 
+PARTICULARIA VERO ET SINGULARIA , ; id est ; indiuidua , DIVIDUNT QUOD ; UNUM ; EST , id est res illas appellant ; ut ; differentes , quas sua superiora notant ut conuenientes . 
+PARTICIPATIONE ENIM SPECIEI PLURES HOMINES UNUS . 
+Nam PLURES HOMINES etc . 
+, id est collectiuum species est multorum , quia hoc nomen ' homo ' hominem a parte ; significat ; , et hoc est : PLURES HOMINES UNUS est , id est unusquisque plurium est unus . 
+Vel ita : PLURES HOMINES sunt UNUS , id est iste est unus et iste unus etc . 
+PARTICIPATIONE SPECIEI , quasi dicat : quod potest ostendi ex participatione speciei , id est quod ex hoc speciali uocabulo participant , cum speciale uocabulum illis conueniat secundum hoc quod unusquisque illorum est unus . 
+PARTICULARIBUS AUTEM UNUS ET COMMUNIS PLURES ; DIVISIVUM ENIM EST SEMPER QUOD SINGULARE EST , COLLECTIVUM AUTEM ET ADUNATIVUM QUOD COMMUNE EST ) . 
+PARTICULARIBUS AUTEM etc . 
+, hoc est unus homo est iste et iste , et ne unus personali discretione accipiatur , additur ' communis ' non intransitiue iunctum cum ' unus homo ' , sed determinans hanc orationem ; non ; esse accipiendam circa personam in hoc sensu : Unus homo est iste et ideo homo est iste , sed quantum ad identitatem definitionis hoc modo : unus homo est iste , et unus homo est iste . 
+Tale est enim : UNUS ET COMMUNIS PLURES , ac si diceretur : Unus homo est iste et unus homo est iste et unus homo ; est iste alius ; . 
+Ista oratio communiter attenditur , sed simpliciter , ut circa personam , non accipitur . 
+Sic enim dicitur : anima mouetur simpliciter et uniuersaliter , id est anima mouetur . 
+Illud enim ' uniuersaliter ' iunctum est ' mouetur ' . 
+Vel simpliciter innuit sensum eius propositionis , scilicet hoc uerbum ' mouetur ' accipitur simpliciter non secundum aliquam suam speciem . 
+Huic autem expositioni congruit illud , quod ait Priscianus : Cursum lyncis quidam a communi accipiunt , id est bis ponunt cursum dicentes : Cursum lyncis cursum apri . 
+Sic igitur dicimus : scilicet unus homo est plures , id est unus homo est iste et unus homo est iste alius . 
+Sic etiam dicitur ' alterum opponitur alteri quadrupliciter ' , et ' alterum alio prius quadrupliciter ' , id est alterum alteri uno modo , alterum alteri secundo modo et tertio et quarto modo . 
+PARTICULARIBUS etc . 
+Dico unum hominem esse plures , ut expositum est , et haec particularitas , id est discretio , demonstratur per particularia nomina uel particularibus , id est ad diuersitatem ostendendam inuenta particularia nomina , ut diximus . 
+Amplius DESCENDENTIBUS etc . 
+Ille ; it ; per multitudinem , qui plura distinguit ; qui uero descendit plura distinguit , sed qui ascendit , quae distincta erant per diuidentia , ostendit conuenire in diuiso . 
+Siquidem per praedicationem speciei ostenduntur plura contineri sub eodem speciali statu . 
+Qui specialis status habet esse ex operatione naturae . 
+Sed plurium ostenditur conuenientia praedicatione generis , quia non solum differentium numero , sed specie . 
+PARTICIPATIONE SPECIEI etc . 
+, id est praedicatione speciei homines distincti praedicatione indiuiduorum ostenduntur conuenire in una natura , id est in eodem speciali statu uel generali , quia licet praedicatione huius nominis ' domus ' et huius ' album ' ostenduntur conuenientia , non tamen ostenduntur aliqua conuenire in una natura . 
+PARTICULARIBUS , id est praedicatione indiuiduorum unus et communis plures , id est illa quae ostenduntur conuenire praedicatione speciei , sunt plures , id est distinguuntur . 
+COLLECTIVUM , scilicet quia ' plures ' est collectiuum , quo ostenduntur plura distributa colligi et congregari , scilicet praedicatione eius non ostenditur conuenientia rerum , ideo subiungit : ET ADUNATIVUM . 
+ASSIGNATO AUTEM GENERE ET SPECIE QUID EST UTRUMQUE , CUMQUE SIT GENUS UNUM , SPECIES VERO PLURIMAE ( SEMPER ENIM IN PLURES SPECIES DIVISIO GENERIS EST ) , GENUS QUIDEM SEMPER DE SPECIE PRAEDICATUR ET OMNIA SUPERIORA DE INFERIORIBUS , SPECIES AUTEM NEQUE DE PROXIMO SIBI GENERE NEQUE DE SUPERIORIBUS ( NEQUE ENIM CONVERTITUR ) . 
+ASSIGNATIO etc . 
+Hoc loco de praedicatione nos instruit , quod ad argumentationes maxime ualet , ut scilicet ad eas exponendas suam praedicationem terminorum sciamus disnoscere . 
+Quod ideo determinat , quia in definitionibus eorum dixerat genus et speciem de pluribus praedicari . 
+OPORTET AUTEM AEQUA DE AEQUIS PRAEDICARI UT HINNIBILE DE EQUUO , AUT MAIORA DE MINORIBUS UT ANIMAL DE HOMINE ; MINORA VERO DE MAIORIBUS MINIME ( NEQUE ENIM ANIMAL DICIS ESSE HOMINEM QUEMADMODUM HOMINEM DICIS ESSE ANIMAL ) . 
+Hic praedicari ut de contento tantum accipitur uel de aequali , quod solummodo superioribus et aequalibus conuenit . 
+Quod aperte insinuat , ubi dicit : OPORTET AUTEM etc . 
+, id est superiora de inferioribus praedicantur , inferiora uero de superioribus minime . 
+; . 
+. . ; INDIVIDUA ERGO DICUNTUR HUIUSMODI QUONIAM EX PROPRIETATIBUS CONSISTIT UNUMQUODQUE EORUM QUORUM COLLECTIO NUMQUAM IN ALIO EADEM ERIT ; SOCRATIS ENIM PROPRIETATES NUMQUAM IN ALIO QUOLIBET ERUNT PARTICULARIUM . 
+INDIVIDUA QUOQUE . 
+Superius ; dixerat ; genera et species de pluribus praedicari posse , indiuidua uero non . 
+Quod ostendit conuenienter esse dictum , cum proprietates indiuidui uni conueniant , proprietates uero specierum pluribus . 
+Proprietates uocat nomina siue sumpta siue substantialia , per quae simul iuncta uniuersale nomen uel singulare determinatur . 
+Vocabula ideo proprietates uocamus , quia definitionem siue descriptionem faciunt . 
+Quae dicuntur proprietates pro eo quod conuersim praedicantur . 
+Unde Boethius in Topicis : Quibusdam accidentibus unam proprietatem efficientibus . 
+Vel in hoc loco uocabula proprietates dicimus , quia si ad naturam rerum aspiciamus , nulla erit proprietas Socratis quae non sit hominis uel quae sit hominis , quae non sit alicuius hominis . 
+Continuatio . 
+Superius dixi indiuidua tantum de uno solo praedicari . 
+Et merito , quod ex eo patet , quia proprietates indiuiduorum , id est nomina sumpta a proprietatibus efficientibus unam descriptionem , quae afferuntur ad significationem indiuiduorum proprie et integre demonstrandam , numquam omnes simul per praedicationem alii aptari possint , quia scilicet nullus alius inuenitur , qui sit caluus , simus , senex , Sophronici filius etc . 
+Hoc loco haec coniunctio ergo magis approbatiua est quam illatiua est intelligenda , sicut in Prisciano frequenter inuenitur . 
+UNUMQUODQUE EORUM CONSISTIT , id est habet in suo esse siue in substantia sua , id est in definitione tot proprietates etc . 
+Esse rei siue substantiam uocamus hoc loco definitionem . 
+Unde Boethius in Topicis . 
+Locus a definitione dicitur a substantia . 
+Iuxta quod ait Boethius in Commento : Quid enim est aliud esse rei quam definitio ? 
+Quasi dicat : nil aliud . 
+Nota quod ait INDIVIDUA HUIUSMODI , ut per ' huiusmodi ' intelligeret tantum indiuidua substantiae . 
+Quippe caeterorum praedicamentorum indiuidua non ita formantur proprietatibus , ne infinite proprietates extendantur . 
+HAE VERO QUAE SUNT HOMINIS ( DICO AUTEM EIUS QUI EST COMMUNIS ) PROPRIETATES ERUNT EAEDEM IN PLURIBUS , MAGIS AUTEM ET IN OMNIBUS PARTICULARIBUS HOMINIBUS IN EO QUOD HOMINES SUNT . 
+HAE AUTEM PROPRIETATES QUAE SUNT HOMINIS . 
+Et ne hominem in designatione rei acciperes , addidit : DICO AUTEM EIUS QUI EST COMMUNIS , id est uniuersalis nominis . 
+EAEDEM IN PLURIBUS sunt simul , haec scilicet nomina ' animal , rationale , mortale ' et quia possent in pluribus , non tamen in omnibus , subdit : MAGIS , id est melius possem dicere IN OMNIBUS . 
+CONTINETUR IGITUR INDIVIDUUM QUIDEM SUB SPECIE , SPECIES AUTEM SUB GENERE ; TOTUM ENIM QUIDDAM EST GENUS , INDIVIDUUM AUTEM PARS , SPECIES VERO ET TOTUM ET PARS ( SED PARS QUIDEM ALTERIUS , TOTUM AUTEM NON ALTERIUS SED ALIIS ; PARTIBUS ENIM TOTUM EST ) . 
+DE GENERE QUIDEM ET SPECIE , ET QUID GENERALISSIMUM ET QUID SPECIALISSIMUM ET QUAE GENERA EADEM ET SPECIES SUNT , QUAE ETIAM INDIVIDUA , ET QUOT MODIS GENUS ET SPECIES DICATUR , SUFFICIENTER DICTUM EST . 
+CONTINENT ERGO . 
+Quia confuse de supradictis egimus , breuiter recolligamus . 
+A causa dicit hoc loco speciem esse partem et totum , sed PARS QUIDEM ALTERIUS est , TOTUM AUTEM NON ALTERIUS , sed aliis , quasi dicat : Pars respectu unius totius , totum uero non respectu unius , sed plurium . 
+Non enim totum una parte contentum est , sicut pars uno toto . 
+Attende quod ' semper ' ex adiunctis mutat significationem . 
+Cum dico : ' mundus est semper ' , ' semper ' ibi significat : in omni tempore . 
+Cum dico : Socrates est semper homo ; uerum est ; quamdiu Socrates est homo . 
+Si uero dicam : Socrates qui non semper est , semper est risibilis hoc est falsum , quia ex isto adiuncto reduceretur ad priorem significationem , ut sic diceretur : Qui non semper est , id est in omni tempore est , semper , id est in omni tempore , est risibilis , quod falsum est . 
+Nota quod : Omnis phoenix est est falsa . 
+Ergo uera est : Non omnis phoenix est . 
+Si non omnis phoenix est , non omne animal est . 
+Et si non omne animal est , non omne animal est animal . 
+Et ita quoddam animal non est animal ! 
+Quod uidetur posse confirmari per illam regulam : Quidquid a parte et toto particulariter . 
+Sed haec regula non est in hac auctoritate . 
+Quae si esset , non tamen confirmaret praedictam argumentationem , quia non dicitur aliquid remoueri ab aliquo , si particulariter remoueatur . 
+Haec de specie sufficiant . 
+[ LNPS ] TRACTATUS DE DIFFERENTIA DIFFERENTIA VERO COMMUNITER ET PROPRIE ET MAGIS PROPRIE DICATUR . 
+DIFFERENTIA VERO . 
+Cur post speciem tractet de d ifferentia , superfluum est quaerere , cum de differentia ante speciem tractaret , nisi essent praedictae causae . 
+Ante proprium et accidens conuenienter tractat de differentia , cum eis naturaliter prior sit , quia etiam speciem quam complet , naturaliter praecedit . 
+Cum autem de substantialibus intendat differentiis , tamen hic non tantum de substantialibus , sed ad discretionem substantialium naturas accidentalium diligenter aperit . 
+Cum autem sit rei diuersitas differentia , dicendum est , quae sint diuersa et quot modis dicatur diuersum , et gratia horum dicendum est , quot modis dicatur idem . 
+Multis modis idem dicitur . 
+Nam idem dicitur in essentia , quorum unumquodque est eadem essentia , ita scilicet , ut haec essentia non sit illa , sicut hic homo et Socrates . 
+Quae identitas idem uidetur esse cum identitate praedicationis quibusdam , quod falsum est , cum multa sint eadem essentialiter et non praedicatione , sicut nomen et uerbum et caetera huiusmodi . 
+Et haec omnia quidem quae eadem sunt essentialiter , eadem sunt numero , sed non conuertitur , quia omnis pars cum suo toto est eadem numero , id est non diuersa numero ab eo , sed non essentialiter eadem sunt , cum nulla partis essentia sit essentia totius . 
+Nulla enim dicimus diuersa numero , nisi quae tota quantitate suae essentiae discreta sunt , ut nec unum sit aliud nec aliquid de uno sit aliquid de alio . 
+Sic igitur diuersa numero dicimus , quorum diuersitas numerando ualet assignari . 
+Quod nullo modo parti et toti conuenit , cum nullo modo numerus ualeat multiplicari . 
+Nemo enim de toto dicit ' unum ' et addendo partem illius dicit ' duo ' , cum in numero totius pars comprehensa sit . 
+Sunt itaque non diuersa numero , id est eadem , quaecumque non quantitate suae essentiae tota discreta sunt . 
+Eadem definitione dicuntur , quaecumque penitus eadem definitione terminantur , ita scilicet quod mutuo se exigant , sicut ensis et mucro , quia ex eo quod est ensis est , mucro et econuerso . 
+Eadem igitur definitione sunt , quaecumque adeo sunt coniuncta , ut non solum hoc sit illud et econuerso , uerum etiam quod hoc exigat illud , quod animal et corpus non habet . 
+Definitio enim hoc loco accipitur , quae integram sententiam definiti aperit , ita scilicet , quod mutuo non excedit nec exceditur . 
+Omnia igitur eadem definitione eadem sunt numero et essentialiter , sed non conuertitur . 
+Hoc autem modo accipit idem Boethius in Topicis , cum ait quaestionem de definitione esse de eodem , ueluti cum quaeritur , utrum idem sit utile quod honestum . 
+Econtrario uero diuersa definitione dicimus , scilicet quae eadem definitione terminari non possunt , id est quae talia sunt , ut se mutuo non exigant . 
+Et hoc ; est ; quod Boethius in Topicis aperte insinuat , cum ait : Idem est propositio , quaestio et conclusio , scilicet differunt modo supradicto , id est definitionibus , cum singula propriis definitionibus terminentur . 
+Idem in Libro diuisionum ostendit , cum ait : Infinitum aliud secundum mensuram , aliud secundum tempus , cum idem sit infinitum hoc modo et hoc modo . 
+Illud etiam ad hanc diuersitatem pertinere uidetur , quod ait Porphyrius : ' Differentia alia diuisiua , alia constitutiua ' , cum eadem penitus sit constitutiua et diuisiua . 
+Ex similitudine eadem quaelibet dicuntur , quae discreta essentialiter in aliquo sunt similia , ut species in genere uel indiuidua in specie uel quaelibet in aliqua proprietate conuenientia , iuxta illud Porphyrii : Participatione speciei plures homines sumus unus etc . 
+Econtrario diuersa similitudine dicuntur , quaecumque in aliquo sunt dissimilia . 
+Idem etiam pro incommutabili dicimus , ut deus semper idem dicitur , id est non in aliquo alteratus . 
+Et econtrario diuersum mutatione dicimus , quod in aliquo diuersificatum est ab aliquo , quod primitus erat , ut si Socrates modo taceat , modo loquatur . 
+Illud etiam secundum effectum uel secundum pretium dicimus , quod idem ualet ad efficiendum aliquid , sicut eosdem sermones dicimus , qui ad efficiendum eundem intellectum ualent . 
+Econtrario diuersa secundum effectum dicimus , quae uel diuersa agunt uel ad agenda diuersa ualent . 
+Sic idem et diuersum his multis modis dicitur et fortasse pluribus . 
+Loca namque diuersa solemus dicere non secundum aliquem praedictorum modorum , sed magis secundum rerum continentiam , ueluti cum dicimus nullum corpus esse in diuersis locis eodem tempore . 
+Sciendum est , quod hoc nomen differentia tam rerum nomen est quam uocum . 
+Hoc nomen aliquando large acceptum sumitur pro re , quae facit differre , siue sit substantia siue forma ; quandoque stricte , pro omni scilicet forma siue sit substantialis siue accidentalis . 
+Vocabulorum uero nomen acceptum idem sonat uocabulum , quod adiacet substantiuo ostendens differentiam unitorum in substantiuo . 
+Et in hac significatione diuidi potest per communes et proprias et magis proprias . 
+Quippe communis differentia est uocabulum significans separabile accidens , propria significans inseparabile , magis propria differentia est uocabulum quod adiacet generi in definitione speciei ostendens differentiam unitorum in genere . 
+Et in hac significatione hoc nomen differentia accipitur determinate , cum ait : differentia est qua abundat species a genere . 
+Vel potest dici , quod cum de uocabulis intendat in principio , tamen gratia uocabulorum de rebus agit , tandem transfert se ad nomina , ubi ait : Differentia est qua abundat species a genere et secundum hoc erit praedicta diuisio uocis in modos . 
+Tale est enim , ac si dicat : differentia , id est forma quae facit differre , alia communis , id est communiter facit differre , id est ita quod separabiliter accidit , alia propria , ita scilicet quod inseparabiliter etc . 
+Hanc expositionem uidetur maxime uelle positio aduerbiorum , quae proprie modi sunt . 
+; . 
+. . ; QUAS ETIAM DETERMINANTES DICUNT : ; DIFFERENTIA EST QUA ABUNDAT SPECIES A GENERE ; . 
+HOMO ENIM AB ANIMALI PLUS HABET RATIONALE ET MORTALE . 
+QUAS DETERMINANTES DICUNT etc . 
+. 
+Inuestigatis tam substantialium quam accidentalium proprietatibus differentiarum tandem substantialium definitionem ponit , de quibus intendit dicens : DIFFERENTIA QUA ABUNDAT SPECIES A GENERE , id est in significatione cuius species abundat a genere , id est quam continet in sententia sua species , ita quod genus non continet eam in sua . 
+Per hoc nomen ' differentia ' ex parte praedicati positum excluditur ' quale ' , cum nulla species ab alia differat per ' quale ' et animal in hoc a corpore et caetera huiusmodi . 
+Et definitiones etiam remouentur , quia nulla definitio est differentiale uocabulum . 
+De rebus uero ita : DIFFERENTIA EST QUA ABUNDAT SPECIES A GENERE , id est qua abundat species constitutiua sui ita , quod genus non abundet constitutiua sui . 
+Et hoc probat secundum utramque sententiam . 
+De nominibus hoc modo : Vere speciale uocabulum abundat a generali differentiis , quia homo ab animali his nominibus : ' rationale ' ' mortale ' . 
+Vel ideo quia res illorum nominum tenet in sententia ita quod non animal . 
+Vel ideo , quia esse illius nominis in definitione ita ponitur , secundum quod in definitione generis non ponitur . 
+ANIMAL ENIM NEQUE IPSUM NIHIL HORUM EST . 
+ANIMAL ENIM . 
+dixi : hoc nomen ' homo ' a differentiis ab hoc nomine ' animal ' abundat , quia hoc nomen ' animal ' in sententia sua non continet eas differentias . 
+Probat per naturam rerum , quia animal autem nihil horum est , id est hic status animal neutrum exigit . 
+De rebus uero ita probari potest : specialis status abundat a generali in differentiis , id est habet illas constitutiuas sui , quae genus non habet , quia homo animali , et quia animal non habet eas sui constitutiuas , consequenter ostendit , quia animal nihil horum est , id est hic status animal neutrum exigit . 
+Suprapositae uero definitioni uel huic propositioni , quia dixit : ANIMAL NIHIL HORUM EST , grauissima quaestio occurrit , quomodo scilicet uerum sit . 
+Quae quidem exordium habet ex propositionibus per se notis , quarum una est , quod contraria simul in eodem esse non possunt , alia uero , quod nihil fit ex nihilo . 
+Hae uero propositiones mouent quaestionem . 
+Si enim dicamus quod species abundat ; in ; differentiis a genere , oportet genus differentias non habere . 
+Et ita differentiae non sunt in genere . 
+Quodsi ; ibi ; non sunt , cum constet eas alibi non esse , nullo modo sunt . 
+Cum igitur species ex his quae non sunt , conficitur , aliquid ex nihilo constitui conuincitur , quod non potest esse . 
+Unde ; et ; illud falsum est , ex quo illud sequitur . 
+Sed si hoc falsam est , uidemur aliud inconueniens incurrere , scilicet quod sint duo contraria in eodem . 
+Si enim ; species ; non abundat a genere in differentiis , oportet ipsum genus differentias habere , sicuti et species , ut scilicet sicut homo exigit rationale nec potest esse sine rationalitate , ita nec animal . 
+Sic igitur si animal non potest esse sine rationalitate , oportet contraria esse in eodem . 
+Possunt eadem inconuenientia duci ex hoc , scilicet : ANIMAL IPSUM NIHIL HORUM EST . 
+Si enim ita intelligatur ' animal ipsum ' etc . 
+, id est ex natura sua repugnat utrisque , aliquid ex nihilo constitui monstratur , quod est inconueniens . 
+Unde etiam illud ; falsum esse ; conuincitur , ex quo illud sequitur . 
+Sed hoc falsum est . 
+Oportet namque animal ipsum esse aliquid horum - - et ita duo sunt contraria in eodem . 
+Solutio primae argumentationis : Cum dicimus speciem a genere in differentiis abundare , per haec nomina genus et species possumus a genere agere de nominibus , ut supra dictum . 
+Si de nominibus agatur , sic determinanda est argumentatio : si speciale uocabulum abundat a generali in differentiis , id est si species tenet in sententia sua differentias et genus non , tunc differentiae non sunt in genere . 
+Si dicit : Non sunt in genere , id est in re generis , mentitur , quia uerum est antecedens et falsum est consequens . 
+Sed si dicit : Non sunt in genere , id est non denotantur per generale uocabulum , sequitur . 
+Ecce quomodo argumentatio adnihiletur , si de uocabulis agatur . 
+Si uero de rebus , sic adnihilatur : Si specialis status a generali abundat in differentiis , id est si specialis status habet eas constitutiuas sui , ita quod generalis non habeat , tunc differentiae non sunt in genere , ; non sequitur ; . 
+Si dicit : non sunt in genere , id est in aliqua re generis , falsum est . 
+Sed si dicit : non sunt in genere , id est res generis non habet eas ut sui constitutiuas , tunc est uerum . 
+Et si hoc est , tunc ' Non sunt in genere ' non sequitur , quia uerum est antecedens et falsum est consequens . 
+Solutio secundae argumentationis : Haec propositio : ANIMAL IPSUM NIHIL HORUM EST , extinctiue et separatiue intelligi potest . 
+Extinctiue sic : Non animal ipsum aliquid horum est , id est non ex natura animal aliquid horum est exigit , quod uerum est , nec sequitur ex ea ; quod ; aliquid fit ex nihilo . 
+Separatiue ita : Animal ipsum nihil horum est , id est animal ex natura animalis utrique repugnat , quod falsum est . 
+Et in hoc sensu bene sequitur inconueniens , ut supra ostensum est . 
+Et nota quod nec uerum est : ANIMAL IPSUM ALIQUID HORUM EST , cum neutrum ex natura animal exigat nec ' animal ipsum etc . 
+' , si separatiue intelligatur , et tunc sunt contrariae . 
+Si uero extinctiue intelligatur , uera erit , sicut inter has duas contrarias falsas : Omnis homo est albus et : Nullus homo est albus quaedam media est , quae uera est , scilicet : Non omnis homo est albus quae est diuidens primae : ' Omnis homo est albus ' . 
+Cum igitur non recipiatur haec affirmatiua : Animal ipsum aliquid horum est nec ista negatiua : ANIMAL IPSUM NIHIL HORUM EST , hic est nisi extinctiua , quae uera est , nullo modo potest ostendi ex nihilo aliquid confici uel duo contraria ; esse ; in eodem . 
+NAM UNDE HABEBUNT SPECIES DIFFERENTIAS ? 
+NAM UNDE . 
+Dixi , quod genus non ex natura generis exigit eas , sed tantum species illas ex genere contrahit , ita scilicet eas habet , quod genus causa est earum et uere eas ; species ; habet ex genere ; nam aliunde non . 
+Ab immediatis . 
+Et hoc est : NAM UNDE etc . 
+, quasi dicat : a nullo . 
+NEQUE AUTEM OMNES OPPOSITAS HABENT ( NAM IN EODEM SIMUL HABEBUNT OPPOSITA ) . 
+NEQUE ENIM . 
+Supple extra : sed iterum a genere non possunt habere , quia genus non habet illas . 
+SED QUEMADMODUM PROBANT , POTESTATE QUIDEM OMNES HABENT SUB SE DIFFERENTIAS , ACTU VERO NULLAM . 
+SED QUEMADMODUM . 
+Ostenso inconuenienti solutionem ponit , per quam utrumque uitemus inconueniens , scilicet quod animal ipsum potestate continet eas differentias , quae sub se sunt , id est diuisibiles , actu uero nulla , cum nullam in sententia sua contineat , quod est hoc loco continere eas actu . 
+De rebus uero ita : generalis ; status ; continet differentias potestate , id est nulli illarum ex statu generali repugnat , id est utrique consentit , actu uero nullam , quasi dicat : generalis status nullam exigit . 
+AC SIC NEQUE EX HIS QUAE NON SUNT ALIQUID FIT , NEQUE OPPOSITA CIRCA IDEM SUNT . 
+AC SIC diceret , id est per istam solutionem utrumque uitamus inconueniens . 
+Nam per hoc quod concedimus genus continere differentias potestate , ut expositum est , uitamus , quod aliquid constet ex nihilo . 
+Et per hoc quod concedimus : genus non habet differentias actu , effugimus contraria esse in eodem . 
+DEFINIUNT AUTEM EAM ET HOC MODO : DIFFERENTIA EST QUOD DE PLURIBUS ET DIFFERENTIBUS SPECIE IN EO QUOD QUALE SIT PRAEDICATUR . 
+RATIONALE ENIM ET MORTALE , DE HOMINE PRAEDICATUM IN EO QUOD QUALE QUIDDAM EST HOMO DICITUR SED NON IN EO QUOD QUID EST ; ; QUID EST ; ENIM ; HOMO ? 
+; INTERROGATIS NOBIS CONVENIENS EST DICERE ; ANIMAL ; ; QUALE AUTEM ANIMAL INQUISITI , QUONIAM RATIONALE ET MORTALE EST CONVENIENTER ASSIGNABIMUS . 
+DEFINIUNT . 
+Haec definitio data est secundum opinionem cum non solum substantialibus differentiis conueniat . 
+REBUS ENIM EX MATERIA ET FORMA CONSTANTIBUS VEL AD SIMILITUDINEM MATERIAE SPECIEIQUE CONSTITUTIONEM HABENTIBUS ( QUEMADMODUM STATUA EX MATERIA EST AERIS , FORMA AUTEM FIGURA ) , SIC ET HOMO COMMUNIS ET SPECIALIS EX MATERIA QUIDEM SIMILITER CONSISTIT GENERE , EX FORMA AUTEM DIFFERENTIA . 
+REBUS ENIM . 
+Quia superius dixit : ' duo ' , illis duobus probationem subiungit , quia genus bene praedicatur in quid et differentia in quale , quia animal hoc nomen praedicatur in quid et rationale in quale , quia hoc quod significatur hoc nomine animal est quasi materia , et quod significatur hoc nomine ' rationale ' quasi forma . 
+A causa . 
+Ut autem ostendat , quomodo genus quasi materia significet et differentia quasi forma , transfert se ad constitutionem rerum generaliter demonstrandam tam operibus artificis quam naturae dicens : quaedam constare ex proprie materia et forma , quaedam ad similitudinem materiae et formae . 
+Proprie materia est quae materiatum tempore praecedit , sicut aes statuam aeream et in materiato ideo in sua natura remanet . 
+Proprie forma est , quae ex aliqua dispositione partium innascitur , sicuti forma , quae in statua consideratur , ex prauis scilicet oculis , ex curuo naso et ex aliis quae pertinent ad compositionem . 
+Corpus autem proprie est materia hominis , quia tempore praecedit hominem et subiectum formas hominis praecedit , quod habet proprie materia . 
+Sed animal quasi materia hominis est , non proprie materia , quia animal tempore non praecedit hominem nec etiam generatur in homine . 
+Omnis enim materia in materiato generatur . 
+Rationalitas quoque non proprie forma dicitur , quia ex partium dispositione non innascitur . 
+Unde homo ex proprie materia et forma constare non dicitur ex animalitate et rationalitate , sicut ex corpore et compositione , uel sicut statua ex aere , sed similitudinem tenet homo cum statua , quae constat ex proprie materia et forma . 
+Nam sicut aes suscepta forma transit in statuam , sic animal susceptione rationalitatis et mortalitatis et caeterarum differentiarum transit in hominem naturaliter praecedens hominem . 
+Rationale enim hominem non tempore , sed naturaliter praecedit , sicut aes statuam praecedit tempore . 
+Et est proportio trium ad tria . 
+Sicut enim aes ut materia propria praeiacet , figura uero superadditur , ut adiunctione ipsius ipsum aes statua fiat , ita animal praeiacet naturaliter et differentia ei aduenit , ut per aduentum eius in hominem transeat . 
+Est autem proportio habitudinum similitudo , quando sicut quaedam res inter se ad inuicem se tenent , eodem modo aliae res se habent inter se . 
+Sicut enim aes et figura uel inter se uel ad statuam , ita animal et rationale uel inter se uel ad hominem . 
+Nota quod substantia nec materia nec quasi materia nec forma nec quasi forma dicta est , quia simul natura sunt , cum neutrum sine altero esse possit . 
+Hoc tamen nomen substantia prius est secundum conuersionem consequentiae isto nomine , quod est deus , secundum philosophos . 
+Color quasi materia albedinis , non quia color formas albedinis suscipiat uel quia aliquid possit esse color , quod deserat esse albedo , sed quia color sine albedine esse potest , albedo sine colore nunquam . 
+Continuatio . 
+Uniuersale hoc nomen ' animal ' praedicatur in quid et ' rationale ' in quale et quia illud significat quasi materiam rei huius nominis ' homo ' , et istud quasi formam . 
+Quaeritur autem cur quasi formam et quasi materiam dicat . 
+Praemittit res quasdam constare ex proprie materia et proprie forma , et hoc ; est ; : REBUS QUIBUSDAM CONSTANTIBUS etc . 
+Quaedam res constant ex proprie materia et forma , quibusdam ad similitudinem earum proportio est . 
+Verum est quod quaedam quemadmodum statua ex aere constat ut ex proprie materia , ex figura uero ut ex proprie forma , sic homo communis et specialis constat ex genere , id est ex re generis , ut ex materia et differentia substantiali ut ex forma . 
+TOTUM AUTEM HOC ANIMAL RATIONALE MORTALE HOMO EST QUEMADMODUM ILLIC STATUA . 
+TOTUM etc . 
+superius dixi hominem constare ex re generis materialiter et ex differentia formaliter , et HOC TOTUM ANIMAL RATIONALE MORTALE , id est res huius definitionis . 
+Quae scilicet definitio totum est ad genus et ad differentias , ex quibus constituta EST HOMO , QUEMADMODUM ILLIC STATUA . 
+In constitutione statuae res huius orationis ' aes figuratum ' est statua . 
+Vel ita quod HOC TOTUM , id est homo , quod est totum ad haec tria : ad hunc statum animal et ad rationale et ad mortale , est ANIMAL RATIONALE MORTALE , QUEMADMODUM STATUA ibi est aes cum forma ; et tale est illa tria esse partes hominis , quale est : conficere hominem , naturaliter praecedendo ipsum . 
+Tria autem dixi definitione , non numero . 
+Sed quia secundum hanc expositionem idem sui totum et pars esse uidetur , primam approbamus , quippe iudicantes totum uoces ad alias uoces , non res ad alias res . 
+Cum enim aes , quod in statua ponitur , idem est quod statua , quomodo pars ipsius uidetur esse , cum idem respectu eiusdem totum et pars esse non possit ? 
+At uero haec definitio ' animal rationale mortale ' totum est eorum tam compositione quam intellectu , cum ex illis coniungatur , id est singulorum significationem contineat . 
+Est igitur homo pars illorum singulorum quantum ad nominationem , totum uero quantum ad intellectum . 
+Dicunt igitur nonnulli qui ut hominem illum possint uocare totum ad animal et ad differentias , hominem dicunt animal et differentias , non animal formatum illis . 
+Et similiter statuam uocant aes et formam , non aes formatum , quod falsum est . 
+Si enim sit animal simul et rationale mortale , et non aliquid illorum per se , quomodo animal esse conceditur uel rationale dicitur ? 
+Quod enim aliqua plura simul est , nullum illorum esse potest . 
+Praeterea si homo sit rationalis , oportet illa tria simul rationalitate formata esse . 
+Amplius Porphyrius dicit : Secundum quas ea quae diuisa sunt specificantur . 
+Sed ea quae diuisa sunt , tantum sunt genera et non differentiae , ubi plane auctoritatem habemus genera specificari , non genera et differentias . 
+Amplius cum conceditur animal rationale risibile esse animal , et uerum sit animal rationale esse animal risibile , uerum erit illa duo esse . 
+Praeterea si forma statuae transeat in essentiam statuae , ut scilicet ipsa sit pars eius in essentia , quomodo dicit Boethius in Diuisionibus aliter constare statuam ex partibus , aliter ex aere et figura ? 
+Ex his igitur patet animal rationale mortale non esse materiam et formam , sed potius animal informatum illis . 
+Sunt tamen quidam qui secundum hoc quod animal rem ipsam in homine dicimus , opponunt hoc modo : Si animal est mortale , aut homo aut non homo ; uel si animal , aut rationale aut irrationale , cum omne animal sit hoc uel illud . 
+Sed neutrum est materia illius , quia neque animal rationale , cum idem status se ipsum non praecedat ; neque irrationale , cum omnis materia de suo materiato praedicetur . 
+Sic et de corpore procedunt . 
+Si enim corpus est subiectum albedini , aut corpus album aut corpus non album . 
+Sed neutrum est , cum nec corpus album album praecedat nec in corpore non albo reperiatur . 
+Ad quod dico quod animal est materia animalis rationalis , non tamen hoc uel illud . 
+Si quis igitur dicat non esse uerum quod Aristoteles dicit , scilicet quaecumque fundantur in secundis substantiis , et in primis , fallitur . 
+Non enim cum dico : animal est materia animalis rationalis , aliquid animali attribuo , sed potius animali rationale confero . 
+Tale est ac si dicatur enim : Animal rationale sic est animal , quod ex eo quod est animal rationale , animal exigit , ex eo uero quod animal est , non exigit animal rationale , quod uerum est . 
+Hac igitur determinatione de supradictis et similibus eorum oppositiones friuolas esse apparet . 
+Aliter de nominibus legitur . 
+REBUS ENIM . 
+Uniuersale hoc nomen ' animal ' praedicatur in quid de hoc nomine ' homo ' et hoc nomen ' rationale ' in quale , quia hoc nomen ' homo ' constat ex istis , ex hoc nomine ' animal ' ut ex materia et ex alio ut ex forma . 
+A causa . 
+Sed ne aliquis putaret hanc quaestionem constitutionem solam esse , quae ex nominibus est , innuit aliam ad similitudinem huius quae dicitur . 
+Quod ostendit , ubi dicit quod QUEMADMODUM STATUA etc . 
+, sic et homo . 
+Et ne aliquis putaret quod de re loqueretur , addit : COMMUNIS ET SPECIALIS . 
+Hoc autem nomen ; ' homo ' ; commune et speciale consistit ex genere quasi ex materia et differentia quasi ex forma , hoc est illius et substantialis differentiae illius . 
+Quod esse et substantia cuiuslibet rei , ut dicit Boethius , ut supra ostendit , ex generali ; nomine ; et differentiali constituitur , ex generali ut ex materia , ex differentiali ut ex forma , cum genus in definitione naturaliter ut materia proprie praeiaceat et post genus differentia ut proprie forma subsequi habeat . 
+Compositor namque nominum rerum naturas secutus est . 
+Sicut enim generalem statum ut priorem in natura consistere , sic generale nomen in definitione uoluit praemittere et differentialia ei addere . 
+Et exemplum simile est huic expositioni , quam superius in tractatu speciei fecimus , ubi ait : ; Indiuiduum est quod consistit . 
+. . ; etc . 
+Et nota quia secundum hanc expositionem animal res ipsa proprie materia hominis dicitur et rationalitas proprie forma , cum essentiam humanam constituere habeant . 
+Sed hoc nomen animal quasi materia huius nominis ' homo ' recte dicitur et hoc nomen ' rationale ' quasi forma , cum essentiam ipsius nominis non constituant , sed definitione eius dicitur ; contineri ; et hoc nomen ' animal ' ex illis consistere secundum intellectum , cum in intellectu suo eorum intellectus contineat , intellectum huius nominis ' animal ' ut materiam et intellectum huius ; nominis ; ' rationale ' ut formam . 
+Similiter et proportionaliter dicit , quia ' homo ' hoc nomen non ita constat ex illis nominibus , ut illi soni in constitutione eius sint , sicut ipsa essentia aeris cum forma est in constitutione statuae , sed dicitur ex eis consistere siue secundum intellectum , ut dictum est , siue quia definitio eius ex illis constituitur . 
+TOTUM AUTEM HOC ANIMAL RATIONALE MORTALE . 
+Ostensa constitutione huius nominis ' homo ' quam habet quantum ad intellectum siue quantum ad definitionem eius , ostendit , quid nominare habeat . 
+Hoc , ut supra expositum est , legatur . 
+De intellectu etiam legi potest ; ostendit enim quaedam ueraciter constare ex materia et forma , quaedam imaginarie . 
+Nam sicut in rebus quaedam est actualis constitutio et est uera , ita in animo quaedam intellectualis et imaginaria . 
+Veluti cum audio ' homo ' , cuiusdam rei formam concipio intelligibilem quasi ex intelligibilibus quibusdam aliis coniunctam , quam fortasse compositionem Plato communem siue specialem uocauit , quae quidem intelligibilis constitutio ad similitudinem uerae constitutionis componi et confingi ab animo dicitur . 
+Et secundum hanc sententiam sic legitur : REBUS ENIM etc . 
+Dixi quod hoc nomen ' animal ' ; praedicatur ; in quid de hoc nomine ' homo ' et ' rationale ' in quale . 
+Et merito quia res quaedam intelligibiles , quas genus et differentiae significant , rem quandam intelligibilem ab hoc nomine ' homo ' significatam constituunt ut materia et forma , id est ad earum similitudinem . 
+Et ne aliquis si praeter illam constitutionem alia esset , quaereret , praemittit quaedam constare ueraciter ex materia et forma , quaedam fingi ad similitudinem illarum . 
+Quod ostendit cum dicit quod QUEMADMODUM STATUA etc . 
+, sic homo COMMUNIS ET SPECIALIS , id est illa conceptio communis , quae ad plura pertinet , quae plura secundum eam sane possunt deliberari , consistit ex genere et differentia , id est ex re intelligibile concepta per genus genus et differentiam . 
+TOTUM AUTEM . 
+Postquam ostendit constitutionem huius nominis ' homo ' quantum ad intellectum , ostendit quid nominare habeat dicens quod animal rationale mortale ' homo ' nominatur , quemadmodum aes formatum ex statua . 
+DESCRIBUNT AUTEM HUIUSMODI DIFFERENTIAM ET HOC MODO : DIFFERENTIA EST QUOD APTUM NATUM EST DIVIDERE QUAE SUB EODEM SUNT GENERE . 
+RATIONALE ENIM ET IRRATIONALE HOMINEM ET EQUUM , QUAE SUB EODEM SUNT GENERE QUOD EST ANIMAL , DIVIDUNT . 
+DESCRIBUNT . 
+Haec descriptio data est secundum opinionem , quod in sequentibus culpabitur . 
+ASSIGNANT AUTEM ETIAM HOC MODO : DIFFERENTIA EST QUA DIFFERUNT A SE SINGULA . 
+NAM SECUNDUM GENUS NON DIFFERUNT ; SUMUS ENIM MORTALIA ANIMALIA ET NOS ET IRRATIONABILIA SED ADDITUM RATIONABILE SEPARAVIT NOS AB ILLIS ; RATIONABILES SUMUS ET NOS ET DII SED MORTALE APPOSITUM DISIUNXIT NOS AB ILLIS . 
+ASSIGNANT AUTEM . 
+Alia descriptio differentiae , qua differunt a se singula , substantialiter intelligenda est . 
+INTERIUS AUTEM PERSCRUTANTES ET SPECULANTES DIFFERENTIAM , DICUNT NON QUODLIBET EORUM QUAE SUB EODEM SUNT GENERE DIVIDENTIUM ESSE DIFFERENTIAM SED QUOD AD ESSE CONDUCIT ET QUOD EIUS QUOD EST ESSE REI PARS EST ; NEQUE ENIM QUOD APTUM NATUM EST NAVIGARE ERIT HOMINIS DIFFERENTIA , ETSI PROPRIUM SIT HOMINIS . 
+DICIMUS ENIM : ANIMALIUM HAEC QUIDEM APTA NATA SUNT AD NAVIGANDUM , ILLA VERO MINIME . 
+DIVIDENTES AB ALIIS , SED APTUM NATUM ESSE AD NAVIGANDUM NON ERAT COMPLETIVUM SUBSTANTIAE NEC EIUS PARS SED APTITUDO QUAEDAM EIUS EST ( IDCIRCO QUONIAM NON EST TALIS QUALES SUNT QUAE SPECIFICAE DICUNTUR DIFFERENTIAE ) . 
+ERUNT IGITUR SPECIFICAE DIFFERENTIAE QUAECUMQUE ALTERAM FACIUNT SPECIEM ET QUAECUMQUE IN EO QUOD QUALE EST ACCIPIUNTUR . 
+ET DE DIFFERENTIIS QUIDEM ISTA SUFFICIUNT . 
+INTERIUS AUTEM . 
+Dixi differentiam esse qua differunt etc . 
+Sed haec descriptio non solum differentiis conuenit . 
+Et hoc est : sed qui perscrutantur inferius uel interius , id est diligentius naturam differentiae inquirunt , DICUNT NON ESSE DIFFERENTIAM quamlibet de diuidentibus etc . 
+, sed illud tantum , quod speciem ad esse conducit , id est illud cuius res specialem statum complet . 
+Unde bene dixit non ' ducit ' , sed ' CONDUCIT ' , quia sola non sufficit ad constitutionem speciei , sed ipsam materiam quae in genere denotatur , praeiacere oportet . 
+Aliter de uocibus . 
+Sed illud tantum differentia est quod CONDUCIT , id est cum genere ducit , speciem ad esse , id est ad significationem et intellectum speciei . 
+Quippe esse speciei est esse intellectus et significatio illius . 
+ET QUOD EST , id est illud est differentia , quod est pars eius , quod ; est ; esse rei , id est , quod est ; pars ; substantialis definitionis . 
+Quae scilicet definitio est esse siue substantia ipsius speciei . 
+Unde Boethius in Topicis definitionem uocat substantiam rei et locum a definitione uocat locum a substantia . 
+Dicit enim idem in Commento : Quid enim est aliud esse rei quam definitio quasi dicat : nihil aliud . 
+Ex quibus uerbis aperte differentiam substantialem , quam dicit esse partem definitionis , uocem esse insinuat . 
+Si quis illas supradictas differentiae proprietates definitiones uoluerit facere , oportet , ut hoc nomen ' differentia ' , sicut in superiori definitione dictum est , ex parte praedicati ponatur , ita : Differentia est illa differentia quae conducit ad esse et est pars esse etc . 
+Si quis uero dicat esse definitionem generis , nihil obest , cum hic substantialem differentiam non intendat definire , sed eam ab accidentalibus diuidere . 
+Quibusdam differentiarum proprietatibus inuestigatis caeteras diligenter prosequamur , ut omnium tam substantialium quam accidentalium proprietates integre distinguantur . 
+Primum igitur differentiarum aliae substantiales , aliae accidentales sunt . 
+Substantiales quidem quae generi aduenientes constituunt speciem , ut rationale adueniens animali rationale facit et corporeum adueniens substantiae corpus facit et omnes aliae aduenientes substantiae corpus faciunt et omnes aliae aduenientes generi species faciunt . 
+Sunt itaque huiusmodi substantiales , quaecumque generi aduenientes aliquam eius speciem constituunt . 
+Unde specificae recte uocantur , quia omnia substantialia naturaliter communia esse dicimus . 
+Unde cum rationalitatem substantialem esse concedimus , neque hanc neque illam substantialem esse concedimus , sed accidentalem . 
+Tale est , ac si diceret rationalitatem esse substantialem , ac si diceretur : Ratio sic est alicui speciei , quod ab ea non potest recedere , quin ipsa species corrumpatur . 
+Sic dicatur igitur rationalitas substantialis esse homini , id est sic inesse homini , quod nullo modo permanere possit sine rationalitate . 
+Sed nec istam nec illam substantialem esse homini dicamus , sed potius accidentalem , et hoc corrumpere hominem non potest quod commune ipsum constituit . 
+Non enim necesse est , ut si superiora sint substantialia , et inferiora , sed econuerso uerum est . 
+Unde Boethius in libro Diuisionum potentiam discendi geometriam substantialem esse homini negat , quae propter speciem constituendam generi aduenit , cum Porphyrius potentiam discendi esse substantialem homini dicit . 
+Igitur non est necesse , ut cum aliquid superius sit substantiale , et inferius illius sit substantiale , ita non est necesse , ut cum inferius accidens sit , et superius . 
+Quod Boethius in Topicis falsam esse aperit , cum probat colorem accidens esse eo quod album et nigrum accidentia sint . 
+Hoc eadem ratione de rationalitate probari potest , cum omnia , ut dicimus , sint accidentia . 
+Ad quod dicimus multa in Boethio , ut ipse dicit , gratia exercendi lectoris induci aut secundum aliorum opinionem . 
+Praeterea non est necesse ut sicut per speciem genus esse in substantia conuincitur , ita per indiuidua species . 
+Nihil etiam fortassis impedit si rationalitatem ; substantialem ; et non substantialem esse dicimus et rursus accidens esse et non esse homini , secundum hoc quod propositiones diuersis modis exponi possint . 
+Si enim ita dicamus : Rationalitas est substantialis homini id est sic inest homini quod natura humana absque rationalitate non potest esse , uerum est . 
+Si uero ita rationalitas est substantialis homini , id est rationalitas aliquando constituit hominem , ut sine illa esse non potest , falsum est , cum absque omni quae inest ei , possit esse homo , ut supra diximus . 
+Duobus itaque modis relatiuum pronomen accipi potest , cum dicitur : rationalitas ita inest homini , quod homo sine ea esse non potest , ut scilicet fiat resolutio pronominis simpliciter ad praemissum nomen secundum intellectum , ut scilicet penitus eundem intellectum habeat cum nomine praemisso , ut dicatur : sine ea , ; scilicet ; rationalitate . 
+Vel ut relatio fiat ad praedictum nomen secundum identitatem numeri , ita scilicet ut oporteat unam eandemque rationalitatem esse , sine qua homo esse non possit . 
+Et sic omnes formas accidens possumus dicere , si uim relatiui pronominis ad identitatem numeri accomodamus . 
+Sunt uero nonnulli omnem rationalitatem substantialem esse astruentes et omnem formam , quaecumque in specialem statum aliquid promouet , ut haec rationalitas uel haec potentia numerandi siue discendi geometriam aliquid in hominem promouet . 
+Huic autem sententiae aduersarium uidetur , quod Boethius dicit in Diuisionibus : Non enim idcirco homo est , quia hoc facere potest , sed quia est rationalis et aduersum hoc quod dicimus uegetationem huius animae esse substantialem , illud Diuisionum : Indiuidua definiri substantialiter non possunt , quia differentiis substantialibus carent . 
+Si enim uegetatio huius animae siue haec rationalitas Socrati substantialis esset et uegetatio huius animae siue haec rationalitas Platoni , oportet , ut Socrates et Plato substantialiter differant , cum diuersis substantialibus differentiis participarent . 
+Notandum aliud esse uegetationem , aliud esse uiuificationem . 
+Vegetatio enim , ut Boethius dicit , ad crescere et non crescere pertinet ; uiuificatio uero ; ad ; id quod est animatio . 
+Unde quaecumque uiuificantur , et uegetantur , sed non conuertitur . 
+Nam aliquando rationem substantialem dicimus , etsi non tamen rationalitatem . 
+Cui sententiae opponitur hoc modo : omnis substantialis qualitas est qualitas ; sed omnis qualitas est haec uel illa ; omnis igitur substantialis qualitas est haec uel illa , et ita haec uel illa est substantialis qualitas . 
+Ad quod dicimus quod haec propositio , scilicet ' Omnis substantialis qualitas est qualitas ' , omnes manerias colligit , sicut cum dicitur : ' Omnis species est cum diuisibili differentia ' , quia de omni maneria tam subalternarum quam specialissimarum inuenitur species cum diuisibili differentia . 
+Si enim unaquaeque species esset cum diuisibili differentia et unaquaque ex differentiis substantialibus constaret , iam ultima species inueniri non posset , sicuti alibi ostensum est . 
+Item opponitur : Rationalitas et haec substantialis qualitas paria sunt ; sed haec rationalitas est rationalitas ; ergo est substantialis qualitas et ita est substantialis . 
+Item rationalitas est haec rationalitas ; igitur uel rationalitas non substantialis uel substantialis . 
+Sed si rationalitas substantialis est haec , haec est substantialis . 
+Item rationalitas substantialis est haec rationalitas , et ita est illud quod nullo modo est substantiale , quia est rationalitas . 
+Ad quod dicimus quod si per hoc ' substantiale ' tantum uelimus significare , quantum per rationalitas , concedimus : haec rationalitas est substantialis , id est rationalitas naturae tantum est substantiale . 
+Item concedimus quod rationalitas , non est substantialis , est haec , cum illae duae uoces , scilicet ' rationalitas ' et ' non substantiale ' ad eandem personam iungantur . 
+Tale est enim ' rationalitas quae est non substantialis , est haec ' , quod uerum est , cum illud pronomen ad identitatem personae referatur . 
+Item concedimus , quod rationalitas est , quod nullo modo est substantiale et id quod aliquo modo est substantiale , sicut cum dicimus : Paries est sine quo domus esse non potest , si nomen praemissum ad identitatem definitionis referatur , et paries est id sine quo domus esse non potest , si illud pronomen ad identitatem numeri referatur . 
+Sic igitur dicemus rationalitatem nec tamen hanc uel illam , cum ita dicemus : forma alia substantialis , alia accidentalis , ibi alia et alia non ad diuersitatem numeri ponitur , sed magis ad diuersitatem definitionum siue proprietatum , cum nulla possit reperiri quae sit substantialis . 
+Hoc autem modo aliud et idem sumitur , cum dicitur res alia uniuersalis , alia singularis , uel cum dicitur infinitum aliud secundum tempus , aliud secundum numerum etc . 
+, uel cum dicitur differentia alia diuisiua , alia constitutiua . 
+Notandum est quod bene potest concedi : rationalitas est accidens animali , nec tamen simpliciter est accidens , uel haec rationalitas est substantialis Socrati , non tamen substantialis , quia Porphyrius et Aristoteles nec substantiale nec accidentale dicunt esse , nisi quod substantiale alicui speciei est . 
+Quod aperte insinuat Aristoteles in Categoriis , ubi probat rationale non esse in subiecto , quia nec in homine nec in aliqua specie specialissima , sicut potest concedi etiam , quod album et nigrum sunt immediata circa corpus non medio colore coloratum , non tamen simpliciter immediata , cum semper mediatum et immediatum , ut Aristoteles testatur , gratia proprii susceptibilis dicantur . 
+Et ad praesens dicta de substantialibus sufficiant . 
+Accidentales uero dicimus , quaecumque aduenientes non efficiunt speciem . 
+Omnes namque formas , cuiuscumque praedicamenti sint , praeter substantiales inter accidentia numeramus eo , quod sint aduentitiae naturae et extra substantiam speciei , quam communes constituunt , quarum proprietates in accidentis tractatu diligenter inquiremus . 
+Haec ad documenta omnium differentiarum in rebus breuiter perstrinximus . 
+Nunc de uocabulis dicendum est . 
+Sunt igitur substantiales differentiae illa sumpta uocabula quae adiacent generi in definitione speciei ostendentia differentiam unitorum in genere ; accidentales uero differentiae sunt illa uocabula sumpta quae in substantia non praedicantur . 
+Et haec de differentia sufficiant . 
+[ LNPS ] TRACTATUS DE PROPRIO PROPRIUM VERO QUADRIFARIAM DIUIDUNT . 
+NAM ET ID QUOD SOLI ALICUI SPECIEI ACCIDIT , ETSI NON OMNI ( UT HOMINI MEDICUM ESSE VEL GEOMETREM ) , ET QUOD OMNI ACCIDIT , ETSI NON SOLI ( QUEMADMODUM HOMINI ESSE BIPEDEM ) , ET QUOD SOLI ET OMNI ET ALIQUANDO ( UT HOMINI IN SENECTUTE CANESCERE ) , QUARTUM UERO IN QUO CONCURRIT ET SOLI ET OMNI ET SEMPER ( QUEMADMODUM HOMINI ESSE RISIBILE ; NAM , ETSI NON RIDET , TAMEN RISIBILE DICITUR , NON QUOD IAM RIDEAT SED QUOD APTUS NATUS SIT ; HOC AUTEM EI SEMPER EST NATURALE ; ET EQUO HINNIBILE ) . 
+HAEC AUTEM PROPRIE PROPRIA PERHIBENT , QUONIAM ETIAM CONVERTUNTUR ; QUICQUID ENIM EQUUS , ET HINNIBILE , ET QUICQUID HINNIBILE , EQUUS . 
+PROPRIUM VERO . 
+Ante accidens tractat de proprio , quia dignius est caeteris accidentibus et familiarius adhaeret speciei , cum scilicet nullum proprium actu separari contingat , ut dicit Boethius in Diuisionibus , et sicut caeterorum supradictorum sic diuersas proprii ostendit significationes . 
+De nominibus maxime intendit et gratia nominum de rebus . 
+Continuatio . 
+Genus dicitur duobus modis secundum philosophos , sed proprium quadrifarie . 
+MEDICUM ESSE ; VEL ; GEOMETREM , id est haec nomina medicus et geometer de sola specie praedicantur . 
+BIPEDEM ESSE , id est hoc nomen ' bipes ' . 
+UT HOMINI CANESCERE IN SENECTUTE . 
+Omni homini non uidetur conuenire actus ille in senectute , cum non omnes ueniant ad senectutem nec omnes etiam , qui ad senectutem perueniunt , actum illum habent , quod falsum est . 
+Ibi namque conuenire pro ' conuenire naturaliter ' accipitur , ut sit sensus : Tale omni homini conuenit et soli conuenit , in senectute canescere , id est unusquisque homo talis naturae est , quod , nisi praepediatur aliquo euentu , ad senectutem perueniens et actum illum habebit . 
+Quem actum canescendi proprium hoc loco dicimus , non potentiam canescendi , quae semper inest . 
+Vel etiam hoc nomen ' homo canescens ' proprium dicimus , scilicet quia hoc nomen indeterminato tempore unicuique homini conuenit . 
+Hoc etiam non solum homini conuenire uidetur . 
+Nam et lupi canescere dicuntur . 
+Sed nihil ; obest ; , quia capillorum tantum proprie dicitur canescere . 
+Iterum proprium dicitur , quod omni et soli conuenit et semper , ut risibile . 
+Speciem specialissimam ubique intellige , quia aliarum propria non tractat . 
+Super hunc ; locum ; dicit Boethius in Commento : Risibile praedicari in quid de homine . 
+Sed profecto nihil aliud assignare uoluit nisi mutuam conuersionem , et tale est haec in quid praedicari de illa , quod sic inter se conuenire habent , quod mutuo conuerti possint . 
+Quaeritur hoc loco , utrum potentia discendi geometriam proprie proprium sit hominum , cum omni et soli et semper conueniat homini . 
+Quod falsum uidetur esse , cum iam Boethius sibimet , uidetur contrarius et , cum in Communitatibus dicat : speciem ante subsistere quam proprium , proprium uero posterius fieri in specie . 
+Oportet enim hominem esse , ut sit risibilis . 
+Hoc namque proprium quod ad uim rationis non attinet , sine homine esse minime potest , cum habitudo ridendi ex humana natura innascitur . 
+Homo uero sine risibilitate esse potest , cum non minus humana natura permaneret , si uultus hominis ad risum flexibilis non esset . 
+Sed non ita inter hominem et potentiam discendi geometriam , cum homo sit posterior naturaliter et illa prior . 
+Ad quod dicimus illud non esse generaliter dictum , cum Porphyrius quandoque speciem proprio naturaliter esse dicat priorem . 
+Vel potest dici , quod non est proprium proprie , cum secundum Platonicos soli homini non conueniat , quia et planetis . 
+Sunt etiam fortassis plures aliae formae , quae minime substantiales sunt nec proprie propria , sine quibus tamen illud non ualet esse , ut in homine habitus cordis et potentia non sedendi etc . 
+huiusmodi , cum substantiale semper , quia et quando sedet et quando non sedet . 
+Sed his quidem uerbis aperte insinuat risibile conuenire non ex potentia ridendi simpliciter , sed ex habitudine quam habet iam res promota in hominem , quod generi non conuenit . 
+[ LNPS ] TRACTATUS DE ACCIDENTE ACCIDENS VERO EST QUOD ADEST ET ABEST PRAETER SUBIECTI CORRUPTIONEM . 
+ACCIDENS . 
+Cum in tractatibus aliorum diuisiones proposuerit , in hoc tractatu definitionem praemittit . 
+Quod ideo facit , quia hoc nomen ' accidens ' aequiuoce non sumit . 
+Ut scilicet aequiuocatio ; impedimento ; definitioni non esset , dicit : ACCIDENS EST QUOD ADEST ET ABEST PRAETER SUBIECTI CORRUPTIONEM , id est forma illa , quae ita inest , ut cum prius insit , postmodum abesse possit praeter subiecti corruptionem . 
+Subiectum cuiuslibet formae dicimus , quod eam ad esse suum non requirit . 
+Omne namque subiectum formae prius est naturaliter . 
+Quod uero ait : PRAETER SUBIECTI CORRUPTIONEM tale est ac : Praeter egressum a substantia . 
+Est enim corrumpere : substantiam quam constituebat , recessu suo destruere . 
+Aliquando mors et corruptio , ex qua corrumpi dicitur recedens , corrumperet , quam tamen accidentalem potius quam substantialem constat esse . 
+Tale est ergo ' praeter subiecti corruptionem ' , ac si diceret : Ita quod non sit corruptio per ipsam formam in eo quod prius ipsa adsit et postmodum absit . 
+Nisi enim hunc ordinem seruemus , ut scilicet prius adsit et postmodum absit , non ualet definitio , quia fortassis potest quaelibet forma prius abesse et post adesse absque omni corruptione non solum accidentalium , sed etiam substantialium . 
+Sic intellige igitur QUOD ADEST ET ABEST , ac si diceret : Quod prius adesse et postmodum abesse a suo subiecto potest , ita ut subiectum ipsum nullam per eorum recessum corruptionem patiatur , id est nullum generalem statum uel specialem amittat , quem aduentu suo contulisset . 
+' Abesse ' autem a subiecto negatiue accipitur , nullam scilicet positionem subiecti faciens , ut unitas est forma quae possibilis est adesse subiecto et abesse , id est non esse cum illo , absque egressu a substantia quam unitam faciat . 
+Positio autem subiecti fieri non potest , ut scilicet subiecti remaneat intacta substantia post recessum illius , quia tunc unitatem non contineret secundum hoc quod sine unitate nulla res esse potest . 
+Sed dicis mihi quod sicut rationalitas corrumpit animal rationale , sic quaelibet forma suum proprium statum , ut albedo corpus album . 
+Ad quod respondeo quod haec destructio nequaquam est corruptio , ut superius exposuimus . 
+DIVIDITUR AUTEM IN DUO , IN SEPARABILE ET IN INSEPARABILE ; NAMQUE DORMIRE EST SEPARABILE ACCIDENS , NIGRUM VERO ESSE INSEPARABILITER CORVO ET AETHIOPI ACCIDIT ( POTEST AUTEM SUBINTELLEGI ET CORVUS ALBUS ET AETHIOPS AMITTENS COLOREM PRAETER SUBIECTI CORRUPTIONEM ) . 
+Accidentium uero teste Porphyrio alia sunt separabilia , alia inseparabilia . 
+Separabilia sunt quae leuiter separari possunt , ut sessio et caetera huiusmodi . 
+Inseparabilia uero econtrario , ut albedo cygno , quia leuiter separari non potest , ita quod tota essentia , quae prius erat , remaneat et ipsa sit cygnus . 
+Separabiliter huic corpori accidit , cum corpus effluat et particulare albedinis cum particulari corporis discedat . 
+Videatur itaque idem accidens separabile et inseparabile , cum haec nigredo huic coruo inseparabiliter accidat , huic uero corpori separabiliter . 
+Quod tamen non est inconueniens , cum ex diuersis subiectis eueniat haec uel aliter . 
+Separabilia quae sic alicui insunt , ut antequam illud corrumpatur , abscedant , ut sessio et dormitio . 
+Inseparabilia uero econtrario . 
+DEFINITUR AUTEM SIC QUOQUE : ACCIDENS EST QUOD CONTINGIT EIDEM ESSE ET NON ESSE ; VEL : QUOD NEQUE GENUS NEQUE DIFFERENTIA NEQUE SPECIES NEQUE PROPRIUM , SEMPER AUTEM EST IN SUBIECTO SUBSISTENS . 
+Data definitione accidentalium formarum ad ultimum ponit differentiam accidentalium nominum dicens : ACCIDENS , id est accidentale uocabulum , EST QUOD NEQUE GENUS NEQUE SPECIES NEQUE DIFFERENTIA NEQUE PROPRIUM , SEMPER tamen IN SUBIECTO SUBSISTENS . 
+Quod positum est ad differentiam horum nominum ' ens ' et ' res ' et similium , quae in subiecto non subsistunt , id est non habent res significare ut in subiecto subsistentes . 
+[ LNPS ] TRACTATUS DE COMMUNITATIBUS OMNIBUS IGITUR DETERMINATIS QUAE PROPOSITA SUNT , DICO AUTEM GENERE , SPECIE , DIFFERENTIA , PROPRIO , ACCIDENTI , DICENDUM EST QUAE EIS COMMUNIA ADSUNT ET QUAE PROPRIA . 
+Quinque propositis singillatim pertractatis tandem ad communitates et ad differentias eorum , in quibus duobus , scilicet conuenientia rerum et differentia assignanda , ultima rerum doctrina consistit , transit . 
+. . ; . 
+. . ; ACCIDENS SEPARABILE SED PRINCIPALITER QUIDEM DE INDIVIDUIS , SECUNDUM POSTERIOREM VERO RATIONEM DE HIS QUAE CONTINENT INDIVIDUA . 
+SED PRINCIPALITER QUIDEM . 
+Dicit accidentia de indiuiduis principaliter praedicari , de speciebus secundario . 
+Maiorem namque notitiam accidentium faciunt indiuidua quam indiuidua uniuersalia ex discretione nostra , quia cum audio ' Socrates ' simum ; uel ; crispum intelligo , sed non ita cum audio ' homo ' . 
+Vel ideo , quia plura sunt indiuidua accidentium significata quam uniuersalia . 
+; De communibus generis et differentiae ; Tunc assignat conuenientiam inter genus et differentiam in hoc quod quemadmodum quaecumque praedicantur de genere ut genus et de sibi oppositis ut genus , sic et quaecumque praedicantur ut differentia de differentia et de sibi suppositis eodem modo . 
+Quae conuenientiae assignatio friuola uidetur esse , cum ibi diuersa praedicantur . 
+Sed profecto quamuis diuersa praedicantur , tamen quaedam similitudo monstratur , ut in eo quod unumquodque eorum proprium modum praedicationis habet ad sua inferiora , licet modo illi sint diuersi . 
+Talis enim similitudo multotiens assignatur , ueluti dicamus : Socrates et Plato conueniunt in hoc quod unumquodque diligit suum filium , licet illorum filii sunt diuersi . 
+Item genus unum est secundum unumquamque speciem , differentiae uero plures , id est nulla species diuersas habet materias , secundum quas diuersorum generum praedicationi subiaceat , sicut diuersas formas , pro quibus differentiis diuersis praedicationi subiaceat . 
+Vel ita in nominibus : In definitione uniuscuiusque speciei sic unum genus preadicatur , quod numquam plura , sed quandoque plures differentiae ponuntur . 
+; De propriis differentiae et speciei ; ; . 
+. . ; AMPLIUS DIFFERENTIA QUIDEM COMPONITUR CUM ALIA DIFFERENTIA ( RATIONALE ENIM ET MORTALE COMPOSITUM EST IN SUBSTANTIA HOMINIS ) , SPECIES VERO SPECIEI NON COMPONITUR UT GIGNAT ALIQUAM ALIAM SPECIEM ( QUIDAM ENIM EQUUS CUIDAM ASINO PERMISCETUR AD MULI GENERATIONEM , EQUUS AUTEM SIMPLICITER ASINO NUMQUAM CONVENIENS PERFICIET MULUM ) . 
+DIFFERENTIA COMPONITUR CUM ALIA DIFFERENTIA ad speciem constituendam , cum species numquam componat aliam speciem , ut gignat aliam speciem , ac si diceret : Uniuersale differentiae sic conuenit ad speciem constituendam , quod unaquaeque differentia est illius . 
+Sed non ita duae species ad constituendam tertiam speciem conueniunt , ut unaquaeque species sit illius . 
+Quod per mulum ostendit , de quo magis uidetur , qui ex equo et asino conficitur , dicens : Equa cum asino , numquam simpliciter conueniens perficeret mulum , quasi dicat : isti duo speciales status . 
+Ad mulum conficiendum enim species non conueniunt , quia tunc oporteret , utrumque esse mulum et utrumque de mulo posse praedicari , quod est inconueniens . 
+; De communibus differentiae et proprii ; ; . 
+. . ; ET SEMPER ET OMNI ADESSE COMMUNE UTRISQUE EST ; SIVE ENIM CURTETUR QUI EST BIPES , NON SUBSTANTIAM PERIMIT SED AD QUOD NATUM EST SEMPER DICITUR ; NAM ET RISIBILE , EO QUOD NATUM EST HABET ID QUOD EST SEMPER SED NON EO QUOD SEMPER RIDEAT . 
+Item . 
+NAM SI CURTETUR etc . 
+curtatus bipes dicitur . 
+Non enim bipes ex actu dicitur , sed ex potentia . 
+Aptus est igitur ad habendum duos pedes uel ex essentia sua factos uel essentiae suae aliunde appositos . 
+Curtato igitur aliquo , idem homo , idem animal , sed non idem totum remanet , quod quibusdam minime uidetur . 
+Oporteret enim constitutum sufficienter ex quinque atomis sufficienter ex quattuor constitui , quod falsum est , quia secundum hoc contingit idem esse totum et partem , quod negat Boethius in Diuisionibus , ubi dicit : Et aeris uirgula . 
+. . etc . 
+Non igitur dicemus idem totum , sed eundem hominem remanere , si per idem fiat animae discretio . 
+Dicimus enim hominem esse partem hominis et Socratem Socratis , ut id quod est a genibus supra , homo et Socrates dicatur nec ille qui eum curtabit , dicat se hominem facere , quod solius dei est opus , non hominis . 
+Et cum Socrates sit pars Socratis , non tamen in Socrate sunt plures homines , cum in eo pluribus animabus uegetata non reperiantur . 
+Nec Socrates de pluribus praedicatur , cum non sint diuersa numero . 
+Item cum Socrates sit pars Socratis , uerum est , quod Socrates alius hic , alius ille , ut corpus aliud simplex , aliud compositum , cum tamen simplex sit de composito . 
+Cur itaque non est uerum : Omnis ( uel : Quidam ) Socrates est homo ? 
+[ Quidam Socrates est homo , ] quia docet hoc loco quendam de multis naturaliter sub hac uoce contentum esse hominem . 
+Sed ad hoc dicitur : Si falsa est : Omnis Socrates est homo falsum est : Nullus Socrates est homo et ita pars illius falsa est : Nullus non homo est Socrates et ita uera est : Quoddam non homo est Socrates diuidens illius quod falsum est . 
+Ad quod dicimus quod inter supradictas quaestiones , id est propositiones , nulla nisi in rebus plurimis existentibus aequiperantia consistit . 
+Quaeritur hoc loco quid proprie ' curtatum ' dicatur , utrum scilicet essentia , quae prius erat composita ex pedibus et caeteris membris , quod falsum uidetur esse , cum illa non sit , an illa , quae remanet , quod iterum falsum est , cum illa tot partes modo habeat quot primitus habuit . 
+Ad quod dicimus , quod illa quae remanet , curtata est , hoc est ab illa diiuncti sunt pedes sibi naturaliter prius adhaerentes . 
+; De propriis differentiae et accidentis ; ; . 
+. . ; ET IMPERMIXTAE QUIDEM SUNT CONTRARIAE DIFFERENTIAE , MIXTA VERO CONTRARIA ACCIDENTIA . 
+ET IMPERMIXTAE SUNT CONTRARIAE DIFFERENTIAE , MIXTA VERO , hoc est aliquid ex contrariis accidentibus est mixtum , ut medius color ex albo et nigro , scilicet ex impermixtis differentiis nihil potest iungi . 
+Item : UNAQUAEQUE etc . 
+, id est nulla est substantia , quae plurimis specialissimis speciebus participet , sed quaedam pluribus accidentibus , quod non solum propter phoenicem , sed propter deum dicimus . 
+Haec ad definitionem supradictorum sufficiant . 
+; . 

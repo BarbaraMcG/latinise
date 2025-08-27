@@ -11,10 +11,16 @@ import time
 dir_in = os.path.dirname(os.getcwd())
 dir_out = os.path.join(dir_in, "output")  
 metadata_file = os.path.join(os.path.dirname(dir_in), 'latinise_metadata_2024.csv')  
-lemmatized_texts_dir = os.path.join(os.path.dirname(dir_in),"data", "new_lemmatized_texts")  
+lemmatized_texts_dir = os.path.join(os.path.dirname(dir_in),"data", "preprocessed_tokens_2024")  
 github_dir = os.path.abspath(os.path.join(os.path.dirname(dir_in), "..", ".."))
 tokenizer_path = os.path.join(github_dir, "latin-bert", "models", "subword_tokenizer_latin", "latin.subword.encoder")
 bert_path = os.path.join(github_dir, "latin-bert", "models", "latin_bert")
+# dir_in = os.getcwd()
+# dir_out = os.path.join(dir_in, "output", "embeddings_pretrained_2") 
+# metadata_file = os.path.join(dir_in, 'latinise_metadata_2024.csv')  
+# lemmatized_texts_dir = os.path.join(dir_in, "preprocessed_tokens_2024")
+# tokenizer_path = os.path.join(dir_in, "models", "subword_tokenizer_latin", "latin.subword.encoder")
+# bert_path = os.path.join(dir_in, "models", "latin_bert")
 
 # Ensure output directory exists
 os.makedirs(dir_out, exist_ok=True)
@@ -82,7 +88,7 @@ for t in range(n_intervals+1):
             sign = "-"
         file_name = df_line['file']
         file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
-        sentences_this_file = list()
+        # sentences_this_file = list()
         while True:
             line = file.readline().strip()
             if line != "":
@@ -196,7 +202,7 @@ for index, df_line in files_corpus_christi.iterrows():
         sign = "-"
     file_name = df_line['file']
     file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
-    sentences_this_file = list()
+    # sentences_this_file = list()
     while True:
         line = file.readline().strip()
         if line != "":
@@ -205,7 +211,7 @@ for index, df_line in files_corpus_christi.iterrows():
         if not line:
             break
     file.close()
-corpus_christi.append(sentences_this_file)
+# corpus_christi.append(sentences_this_file)
 
 # Read files and create non-Christian subcorpus
 corpus_non_christi = list()
@@ -216,7 +222,7 @@ for index, df_line in files_corpus_non_christi.iterrows():
         sign = "-"
     file_name = df_line['file'] 
     file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
-    sentences_this_file = list()
+    # sentences_this_file = list()
     while True:
         line = file.readline().strip()
         if line != "":
@@ -225,7 +231,7 @@ for index, df_line in files_corpus_non_christi.iterrows():
         if not line:
             break
     file.close()
-corpus_non_christi.append(sentences_this_file)
+# corpus_non_christi.append(sentences_this_file)
 
 # Define function to extract embeddings
 def calculate_embeddings(corpus, dir_out, output_filename, tokenizer_path, bert_path, max_seq_length=256):
@@ -266,20 +272,20 @@ def calculate_embeddings(corpus, dir_out, output_filename, tokenizer_path, bert_
 
 # # Extract embeddings for first timeframe and save
 print("Producing embeddings for the first timeframe...")
-bert_sents_t0_path = calculate_embeddings(time2corpus[0], dir_out, "bert_t0_results.h5", tokenizer_path, bert_path)
+bert_sents_t0_path = calculate_embeddings(time2corpus[0], dir_out, "berts_t0_no-lem.h5", tokenizer_path, bert_path)
 print("Embeddings for the first timeframe completed.\n")
 
 # Extract embeddings for second timeframe and save
 print("Producing embeddings for the second timeframe...")
-bert_sents_t1_path = calculate_embeddings(time2corpus[1], dir_out, "bert_t1_results.h5", tokenizer_path, bert_path)
+bert_sents_t1_path = calculate_embeddings(time2corpus[1], dir_out, "bert_t1_no-lem.h5", tokenizer_path, bert_path)
 print("Embeddings for the second timeframe completed.\n")
 
 # Extract embeddings for Christian subcorpus and save
 print("Producing embeddings for the Christian subcorpus...")
-bert_sents_christi_path = calculate_embeddings(corpus_christi, dir_out, "bert_christi_results.h5", tokenizer_path, bert_path)
+bert_sents_christi_path = calculate_embeddings(corpus_christi, dir_out, "bert_christi_no-lem.h5", tokenizer_path, bert_path)
 print("Embeddings for the Christian subcorpus completed.\n")
 
 # Extract embeddings for non-Christian subcorpus and save
 print("Producing embeddings for the non-Christian subcorpus...")
-bert_sents_non_christi_path = calculate_embeddings(corpus_non_christi, dir_out, "bert_non_christi_results.h5", tokenizer_path, bert_path)
+bert_sents_non_christi_path = calculate_embeddings(corpus_non_christi, dir_out, "bert_non_christi_no-lem.h5", tokenizer_path, bert_path)
 print("Embeddings for the non-Christian subcorpus completed.\n")

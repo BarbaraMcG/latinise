@@ -1,0 +1,61 @@
+quidam , de musicus scribo , Pythagoras dico hic res inuenio primordium ex malleus sonitus et cordus extensio percutio . 
+ qui uir disertus Mutianus transfero in latinus , ut ingenium is assumo opus qualitas indico . 
+ Clemens uero Alexandrinus presbyter , in liber qui contra paganus edo , musica ex Musa dico sumo principium , musa que ipse qui de causa  sum , diligenter expono . 
+ nam Musa ipse appello sum apo tu masus , is sum ab quaerendus , qui per ipse , sicut antiquus uolo , uolo carminus et uox modulatio quaero . 
+ inuenio etiam Censorinus , qui ad Quintus Cerellius scribo de Natalis is dies , ubi de musicus disciplina uel de alius pars mathesis non neglegendus dissero ; quoniam utiliter lego , ut res ipse penetralis anima frequens meditatio condo . 
+ Musicus ergo disciplina per omnis actus uita noster hic ratio diffundo ; primus , si creator mandatum facio et pura mens statuo ab is regula seruio . 
+ quisquis enim loquor uel intrinsecus uena pulsus commoueo , per musicus rithmus armonia uirtus probo sum socio . 
+ musicus quippe sum scientia bene modulo ; quod si nos bonus conuersatio tracto , talis disciplina probo semper sum socio . 
+ quando uero iniquitas gero , musica non habeo . 
+ caelum quoque et terra , uel omnis qui in is dispensatio supernus perago , non sum sine musicus disciplina ; nam Pythagoras hic mundus per musica condio et guberno possum testor . 
+ in ipse quoque religio ualde permisceo sum , ut sum Decalogus decacordus , tinnitus cythara , tympanum , organum melodia , cymbalum sonus . 
+ ipse quoque psalterium ad instar instrumentum musicus nomino sum non dubius sum , is quod in ipse contineo caelestis uirtus suauis nimis et gratus modulatio . 
+ nunc de musicus pars , sicut sum ab maior trado , prosequor . 
+ musicus scientia sum disciplina qui de numerus loquor , qui ad aliquis sum hic qui inuenio in sonus , ut duplus , triplus , quadruplus , et hic similis qui dico ad aliquis . 
+ Musicus pars sum tres : armonicum - rithmicus - metricus . 
+ armonicus sum scientia musicus qui decerno in sonus acutus et grauis . 
+ rithmicus sum qui requiro incursio uerbum , uter bene sonus an male cohaereo . 
+ metricus sum qui mensura diuersus metrum probabilis ratio cognosco , ut uerbum gratia heroicon ,  , heleiacon , et ceterus . 
+ instrumentum musicus genus sum tres : percussionalis - tensibilis - inflatilius . 
+ percussionalis sum acitabulum aeneus et argenteus , uel alius qui metallicus rigor percutio reddo cum suauitas tinnitum . 
+ tensibilis sum cordus filum sub ars religo , qui ammotus plectrum percutio mulcio auris delectabiliter sentio , in qui sum species cythara diuersus . 
+ inflatilius sum qui spiritus reflao completus in sonus uox animo , ut sum tuba , calamus , organum , pandorium et ceterus huiuscemodi . 
+ resto nunc ut de symphonia dico debeo . 
+ symphonia sum temperamentum sonitus grauis ad acutus uel acus ad grauis , modulamen efficio siue in uox siue in flatus siue in percussio . 
+ symphonia autem sum sex : primus diatessaron , secundus diapens , tertius  , quartus diapason simul et diatessaron , quintus diapason simul et diapens , sextus  . 
+ diatessaron symphonia sum qui consto ex ratio epitritus et fio ex sonus quattuor , unde et nomen accipio . 
+ diapo symphonia sum qui consto ex ratio emiole et fio sonitus quinque . 
+ diapason symphonia sum qui etiam dioco dico . 
+ consto ex ratio diplasia , hic sum , duplus ; facio autem per sonitus octo , unde et nomen accipio siue dioco siue  , quia apud uetus cythara ex octo cor consto ;  ergo dico sum quasi ex omnis sonus consto . 
+ diapason simul et diatessaron symphonia sum qui consto ex ratio qui habeo xxiiii numerus ad octonarius numerus ; facio autem per sonitus xi . 
+ diapason simul et diapens symphonia sum qui consto ex ratio triplasius ; facio autem per sonitus xii . 
+  , is sum duplus  , symphonia sum qui consto ex ratio tetraplasius ; facio autem per sonus xv . 
+ tonus sum totus constitutio armonicus differentia et quantitas , qui in uox accentus siue tenor consisto . 
+ tonus uero sum quindecim : hypodorius hypoiastis hypophrygius hypoaeolius hypolydius dorius iastius phrygius aeolius lydius hyperdorus hyperiaster hyperphrygus hyperaeolius hiperlydius . 
+ hypodorius tonus sum omnis grave sono , propter qui et inferior nuncupo . 
+ hypoiastis autem hypodoris hemitonium praecedo . 
+ hypophrygius sum hypoiastis hemitonium , hypodoris tono praecedo . 
+ hypoaeolius sum hypophrygium hemitonium , hypoiastis tono , hypodoris tono semis praecedo . 
+ hypolydius sum hypoaeolium hemitonium , hypophrygium tono , hypoiastis tono semis , hypodoris ditonus praecedo . 
+ dorus sum hypolydius hemitonium , hypoaeolium tono , hypophrygium tono semis , hypoiastis ditonus , hypodoris duo semis tonus , hic sum diatessaron symphonia , praecedo . 
+ iass sum dorium hemitonium , hypolydius tono , hypoaeolium tono semis , hypophrygium ditonus , hypoiastis duo semis tonus , hic sum diatessaron symphonia , hypodoris tres tonus praecedo . 
+ phrygius sum iastis hemitonium , dorium tono , hypolydius tono semis , hypoaeolium ditonus , hypophrygium duo semis tonus , hic sum diatessaron symphonia , hypoiastis tres tonus , hypodoris tres semis tonus , hic sum diapens symphonia , praecedo . 
+ aeolius phrygius hemitonium , iass tono , dorius tono semis , hypolydius duo tonus , hypoaeolium duo semis tonus , hic sum diatessaron symphonia , hypophrygium tres tonus , hypoiastis tres semis tonus , hic sum diapens symphonia , hypodoris quattuor tonus praecedo . 
+ lydius sum aeolium hemitonium , phrygius tono , iastis tono semis , dorium duo tonus , hypolydis duo semis tonus , hic sum diatessaron symphonia , hypoaeolium tres tonus , hypophrygium tres semis tonus , hic sum diapens symphonia , hypoiastis quattuor tonus , hypodoris quattuor semis ; tonus ; praecedo . 
+ hyperdorus sum lydium hemitonium , aeolius tono , phrygius tono semis , iass duo tonus , dorium duo semis tonus , hic sum diatessaron symphonia , hypolydium tres tonus , hypoaeolium tres semis tonus , hic sum diapens symphonia , hypophrygium quattuor tonus , hypoiastis quattuor semis , hypodoris quinque ; tonus praecedo ; . 
+ hyperiass sum hyperdorium hemitonium , lydium tono , aeolius tono semis , phrygius duo tonus , iass duo semis tonus , hic sum diatessaron symphonia , dorium tres tonus , hypolydium tres semis tonus , hic sum diapens symphonia , hypoaeolium quattuor tonus , hypophrygium quattuor semis , hypoiastis quinque tonus , hypodoris quinque semis ; praecedo ; . 
+ hyperphrygus sum hyperiastis hemitonium , hyperdorium tono , lydium tono semis , aeolium duo , phrygis duo semis , hic sum diatessaron symphonia , iass tres tonus , dorium tres semis , hic sum diapens symphonia , hypolydium quattuor tonus , hypoaeolium quattuor semis , hypophrygium quinque , ; hypoiastis quinque ; semis , hypodoris sex , hic sum diapason symphonia , praecedo . 
+ hyperaeolius sum hyperphrygium hemitonium , hyperiastis tono , hyperdorium tono semis , lydium duo tonus , aeolium duo semis , hic sum diatessaron symphonia , ;  tres tonus , iass tres semis tonus , hic sum diapens symphonia ; , dorium quattuor tonus , hypolydium quattuor semis , hypoaeolium quinque tonus , hypophrygium quinque semis , hypoiastis sex tonus , hic sum diapason symphonia , hypodoris sex semis tonus ; praecedo ; . 
+ hyperlydius sum nouissimus et acutissimus omnis , hyperaeolium hemitonium , hyperphrygium tono , hyperiastis tono semis , hyperdorium duo tonus , lydium duo semis , hic sum diatessaron symphonia , aeolium tres , phrygis tres semis tonus , hic sum diapens symphonia , iass quattuor tonus , dorium quattuor semis , hypolydius quinque , hypoaeolium quinque semis , hypophrygium sex tonus , hic sum diapason symphonia , hypoiastis sex semis tonus , hypodorium septem tonus ; praecedo ; . 
+ unde claro quoniam hyperlydius tonus omnis acutus septem tonus praecedo hypodoris omnis grauis . 
+ in qui , ut Uarro memini , tantus utilitas uirtus ostensus sum ut excito animus sedo , ipse quoque bestia , necnon et serpens , uolucer atque delfinus ad audio suus modulatio attraho . 
+ nam ut Orpheus lyra , Syrena cantus tamquam fabulosus taceo , quis de Dauid dico , qui ab spiritus immundus Saul disciplina saluberrimus modulatio eripio , nouus que modo per audio sanitas confero rex , qui medicus non possum herba potestas operor ? 
+ Asclepiades quoque , medicus maius attestatio doctus , freneticus quidam per symphonia pristinus sanitas reddo memoro . 
+ multus sum autem , qui in aeger homo per hic disciplina lego facio miraculum . 
+ caelum ipse , sicut supra memoro , dico sub armonia dulcedo reuoluo ; et ut breuiter cunctus complector , quisquis in supernus siue terrenus res conuenienter secundum auctor suus dispositio gero , ab hic disciplina non refero excipio . 
+ gratissimus ergo nimis utilis que cognitio , qui et sentio noster ad supernus erigo et auris suauis modulatio permulceo . 
+ quam apud Graeci Alypius , Euclides , Ptolomeus et ceterus probabilis institutio doceo ; apud Latinus autem uir magnificus Albinus liber de hic res compendiosus breuitas conscribo , qui in bibliotheca Roma nos habeo atque studiosus lego retineo . 
+ qui si forte gentilis incursio sublaueo sum , habeo gaudeo , qui si sollicitus intentio relego , hic scientia uos atrium patefacio . 
+ fero etiam Latinus sermo et Apuleius Madaurensis institutum hic opus efficio . 
+ scribo etiam et pater Augustinus de Musicus sex liber , in qui humanus uox rithmicus sonus et armonia modulabilis in longus syllabum atque breuis naturaliter habeo possum monstro . 
+ Censorinus quoque de accentus qui uox noster ualde necessarius sum , suptiliter disputo , qui pertineo dico ad musica disciplina ; qui uos inter ceterus transscribo relinquo .

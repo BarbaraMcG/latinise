@@ -2,17 +2,23 @@
 import os 
 import pandas as pd
 import torch
-import pickle
+import h5py
 from transformers import AutoModel, AutoTokenizer
 from tqdm import tqdm
 import time
 
 # Define paths
-dir_in = os.path.dirname(os.getcwd())
-dir_out = os.path.join(dir_in, "output")  
-metadata_file = os.path.join(os.path.dirname(dir_in), 'latinise_metadata_2024.csv')  
-lemmatized_texts_dir = os.path.join(os.path.dirname(dir_in),"data", "new_lemmatized_texts")  
-latin_bert_finetuned = os.path.join(dir_in, "latin-bert-huggingface-finetuned")
+# dir_in = os.path.dirname(os.getcwd())
+# dir_out = os.path.join(dir_in, "output")  
+# metadata_file = os.path.join(os.path.dirname(dir_in), 'latinise_metadata_2024.csv')  
+# lemmatized_texts_dir = os.path.join(os.path.dirname(dir_in),"data", "new_lemmatized_texts")  
+# latin_bert_finetuned = os.path.join(dir_in, "latin-bert-huggingface-finetuned")
+dir_in = os.getcwd()
+dir_out = os.path.join(dir_in, "output", "embeddings_finetuned_2") 
+metadata_file = os.path.join(dir_in, 'latinise_metadata_2024.csv')  
+lemmatized_texts_dir = os.path.join(dir_in, "new_lemmatized_texts")
+latin_bert_finetuned = os.path.join(dir_in, "output", "fine_tuned_latinbert_2")
+
 
 # Ensure output directory exists
 os.makedirs(dir_out, exist_ok=True)
@@ -80,7 +86,7 @@ for t in range(n_intervals+1):
             sign = "-"
         file_name = df_line['file']
         file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
-        sentences_this_file = list()
+        # sentences_this_file = list()
         while True:
             line = file.readline().strip()
             if line != "":
@@ -194,7 +200,7 @@ for index, df_line in files_corpus_christi.iterrows():
         sign = "-"
     file_name = df_line['file']
     file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
-    sentences_this_file = list()
+    # sentences_this_file = list()
     while True:
         line = file.readline().strip()
         if line != "":
@@ -203,7 +209,7 @@ for index, df_line in files_corpus_christi.iterrows():
         if not line:
             break
     file.close()
-corpus_christi.append(sentences_this_file)
+# corpus_christi.append(sentences_this_file)
 
 # Read files and create non-Christian subcorpus
 corpus_non_christi = list()
@@ -214,7 +220,7 @@ for index, df_line in files_corpus_non_christi.iterrows():
         sign = "-"
     file_name = df_line['file'] 
     file = open(os.path.join(lemmatized_texts_dir, file_name), 'r')
-    sentences_this_file = list()
+    # sentences_this_file = list()
     while True:
         line = file.readline().strip()
         if line != "":
@@ -223,7 +229,7 @@ for index, df_line in files_corpus_non_christi.iterrows():
         if not line:
             break
     file.close()
-corpus_non_christi.append(sentences_this_file)
+#
 
 
 # Define function to extract embeddings
@@ -340,17 +346,17 @@ print("Producing embeddings for the first timeframe...")
 berts_finetuned_t0 = calculate_embeddings(time2corpus[0], latin_bert_finetuned, "berts_finetuned_t0.h5")
 print("Embeddings for the first timeframe completed.\n")
 
-# Extract embeddings for second timeframe and save
-print("Producing embeddings for the second timeframe...")
-berts_finetuned_t1 = calculate_embeddings(time2corpus[1], latin_bert_finetuned, "berts_finetuned_t1.h5")
-print("Embeddings for the second timeframe completed.\n")
+# # Extract embeddings for second timeframe and save
+# print("Producing embeddings for the second timeframe...")
+# berts_finetuned_t1 = calculate_embeddings(time2corpus[1], latin_bert_finetuned, "berts_finetuned_t1.h5")
+# print("Embeddings for the second timeframe completed.\n")
 
-# Extract embeddings for Christian subcorpus and save
-print("Producing embeddings for the Christian subcorpus...")
-berts_finetuned_christian = calculate_embeddings(corpus_christi, latin_bert_finetuned, "berts_finetuned_christian.h5")
-print("Embeddings for the Christian subcorpus completed.\n")
+# # Extract embeddings for Christian subcorpus and save
+# print("Producing embeddings for the Christian subcorpus...")
+# berts_finetuned_christian = calculate_embeddings(corpus_christi, latin_bert_finetuned, "berts_finetuned_christian.h5")
+# print("Embeddings for the Christian subcorpus completed.\n")
 
-# Extract embeddings for non-Christian subcorpus and save
-print("Producing embeddings for the non-Christian subcorpus...")
-berts_finetuned_non_christian = calculate_embeddings(corpus_non_christi, latin_bert_finetuned, "berts_finetuned_non_christian.h5")
-print("Embeddings for the non-Christian subcorpus completed.\n")
+# # Extract embeddings for non-Christian subcorpus and save
+# print("Producing embeddings for the non-Christian subcorpus...")
+# berts_finetuned_non_christian = calculate_embeddings(corpus_non_christi, latin_bert_finetuned, "berts_finetuned_non_christian.h5")
+# print("Embeddings for the non-Christian subcorpus completed.\n")

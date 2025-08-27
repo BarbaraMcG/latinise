@@ -1,0 +1,936 @@
+ars dico sum uel apo   , is sum ab uirtus , qui Graeci unus quisque res scientia uoco ; uel certe ideo ars dico , quod ars praeceptum cunctus concludo , is sum angustus et breuis . 
+ Plerusque ars scribo ab littera tractatus inchoo , plerusque ab uox , plerusque ab definitio ars grammaticus . 
+ sed omnis uideo erro . 
+ non enim proprius res officium suus tracto , sed communis et cum orator et cum philosophus . 
+ nam de littera tracto et orator possum ; de uox nemo magis quam philosophus tracto ; definitio etiam Aristotelicor sum . 
+ unde proprie Donatus et doctior , qui ab octo pars inchoo . 
+ Qui specialiter ad grammaticus pertineo . 
+ nomen dico sum is , quod res nos efficio noto ; pronomen , quia fungor officium nomen , ut siquis dico ' Uergilius facio bucolicus , ipse scribo georgica ' . 
+ uerbum dico sum is , quod uero aer motus lingua hic pars oratio inuenio sum , et licet omnis oratio cum hic oratio misceo , tamen specialis sui hic pars hic nomen efficio is , qui hic frequenter utor in elocutio , in tantum ut dico ' uerbum facio apud populus Tullius ' , ' uerbum facio Tullius in senatus ' . 
+ AdVius dico sum , quia numquam recedo ab uerbum : siue enim dica ' cras facio ' , ' hodie dico ' , inuenio ADVius uerbum cohaerentia . 
+ participium uoco , quoniam pars teneo nomen , pars uerbum , quasi particapium . 
+ nam ab nomen habeo genus ; et casus ; , ab uerbum ; tempus et ; significatio , ab uterque numerus et figura . 
+ coniunctio dico sum , quia coniungo elocutio , ut ' ego et tu eo ' . 
+ praepositio dico , quoniam in loquor praepono : dico enim ' ante templum sum ' , non ' templum ante sum ' . 
+ interiectio dico sum , quia interpono ad exprimo animus affectus , ut puta ' heu morior sum ' . 
+ in hic autem octo pars naturalis sum ordo . 
+  enim nomen primus pono , qui ex ipse omnis res notitia procreo . 
+ post hic debeo sequor pronomen , quia nomen officium fungor neque debeo ab is significatio diuello . 
+ inde sequor uerbum , qui dico nos frequenter utor . 
+ Inde aduerbium , qui ab uerbum numquam recedo . 
+ participium autem rite post nomen et uerbum pono , qui ex pars uterque nascor sum . 
+ praepositio cum uel uerbum uel nomen praepono , et ipse iustus hic locus pono sum , ille iam ante praedico , qui praepono . 
+ similiter coniunctio , qui coniungo omnis , non debeo primus locus tenere . 
+ primo enim debeo scio , qui res coniungo , tunc unde coniungo . 
+ interiectio ideo ultimus pono sum , quod nihil alius exprimo nisi affectus animus , qui rarus interpono . 
+ ' Nomen sum pars oratio cum casus corpus aut res proprie communiterve significo ' . 
+ in omnis pars oratio definitio ita sum debeo , ut et segrego ab alius pars et ipse pars qui definio aliqui proprietas dico . 
+ igitur qui dico nomen pars sum oratio , segrego ; ab ; sibilus plausus et quidquid confudo uox do . 
+ qui autem dico ' cum casus ' , segrego ab uerbum ADVius praepositio coniunctio . 
+ quod autem dico corpus aut res significo , hic ipse proprius sum . 
+ corporalis autem nomen uel incorporalis grammaticus ita definio , ut corporalis sum quidquid uideo et tango , ut lapis , incorporalis qui neque uideo neque tango , ut pietas . 
+ item dico alius proprietas , ' qui aut proprius aliquis significo aut appellatiuus . 
+ ' nam proprius sum quod unus sum , ut Hector , appellatiuus quod multus sum , ut homo . 
+ scio debeo inuenio frequenter nomen appellatiuus qui facio proprius , ut sum felix , qui communis sensus facile dinosco . 
+ ille etiam scio debeo , quia , si proprius sum quod unus sum , numerus tantum modo recipio singularis . 
+ neque enim possum res unus in pluralitas cado . 
+ nam quod proprius nomen pluraliter declino , scio sum non ab unus nomen procreo numerus pluralis , sed multitudo nomen hic facio . 
+  enim dico Uergilius Marius et Camilli , quoniam plus sum . 
+ Appellatiuus autem nomen cum sum res multus , recipio tamen et numerus singularis . 
+ in multus enim etiam unus teneo . 
+ comparatio gradus sum tres , positiuus , ut doceo , conparatiuus , ut doctus , superlatiuus , ut doctus . 
+ Plerusque nolo conparatiuus sum doctior , dico non sum comparatio , quando doctus dico , quia non comparo sed praefero . 
+ sed erro : nam omnis comparatio is ago , ut alter praefero . 
+ ille enim qui aequo similitudo sum potior quam comparatio . 
+ positiuus autem omnis recipio genus , masculinus , ut hic doceo , femininus , ut hic doceo , neuter , ut hic doceo , communis , ut docilis , omnis , ut amo . 
+ Conparatiuus uero gradus duo tantum suscipio genus , communis , ut doctus , neuter , ut doctior ; superlatiuus tres tantum , masculinus , ut doctus , femininus , ut doctissimus , neuter , ut doctissimus . 
+ praeterea non omnis recipio comparatio , sed is qui sum qualitas et quantitas . 
+ qualitas autem et quantitas aut ab animus dico , ut doceo , aut ab corpus , ut candidus niger , aut ab fortuna , ut miser , aut ad mensura , ut longus . 
+ quare quaesio sum , uter Latinus dico , qui tunc dico , cum pro disertus pono , ut sum Latinus , qui modus disertis ; cum autem gens significo , non possum comparo . 
+ ita enim non possum dico  , qui ad modus ; neque ; Graecior . 
+ Conparatiuus autem gradus iungo casus tres , ablatiuus , septimus , et nominatiuus interpono particula quam : ablatiuus , ut ' doctus ab ille ' , septimus , ut ' doctus ille ' , nominatiuus , ut ' doctus hic quam ille ' . 
+ sed frequenter utor septimus , ablatiuus paene numquam . 
+ superlatiuus uero gradus genetiuus tantum pluralis adiungo , ut ' doctus ille ' . 
+ quamquam et singularis cohaereo , quotiens nomen sum enuntiatio singularis , intellectus pluralis , ut , ' o Danaum fortiter gens Tydis . 
+ ' ille sane servo sum , qui et postea tracto sum , conparatiuus gradus nos et noster et extraneus genus coniungo , superlatiuum autem tantum noster . 
+ dico enim ' uelocior homo homo ' et ' uelocior homo canis ' , quoniam conparatiuus sum gradus ; superlatiuus uero gradus tantum noster praefero genus , ut ' uelocissimus homo homo ' . 
+ nemo enim dico ' uelocissimus homo equus ' . 
+ Genus dico sum ab is , qui genero , atque ideo duo sum tantum genus principalis , masculinus et femininus . 
+ hic enim sexus tantum genero . 
+ Genus autem aut naturalis sum , aut ex auctoritas descendo : naturalis sum , ut uir mulier ; auctoritas descendo , ut hic pario , hic fenestra . 
+ in hic enim naturalis nullus intellego sexus , sed is sequor , qui firmo auctoritas . 
+ ceterus uero genus ab superior uenio , ut sum neuter , qui neque masculinus sum neque femininus , communis , qui et masculinus et femininus , omnis , qui omnis supra dico contineo genus , epicoenon uero , qui confudo contineo sexus . 
+ nam inter communis et epicoenon hic intersum , qui communis sum , ubi uideo secerno sexus , ut cano ; epicoenon sum ex contrarius , ubi uideo non secerno sexus , ut piscis . 
+ inter epicoenon et communis hic intersum , qui in communis articulus secerno sexus , ut hic canis uel hic canis : in epicoenus uero unus articulus sumo et uterque sexus intellego , ut hic aquila . 
+ Eos autem sumo articulus , qui auctoritas do . 
+ nam cum naturaliter non possum in epicoenum sexus deprehendo , debeo auctoritas firmo . 
+ numerus aut singularis sum aut pluralis . 
+ dualis uero Graeci non usurpo nisi in nomen duo , qui sum hic , duo et ambo , atque ideo etiam inaequaliter declino . 
+ figura aut simplex sum aut compositus : simplex , qui unus res contineo atque naturalis sum , ut doceo ; compositus uero , qui ex ars fio et duo res habeo , ut indoctus . 
+ compositus autem figura fio quattuor modus , qui in ars sum pono . 
+ qui autem dico ' ex corrumpo ' , ita intellego debeo , ut tunc intellego corrumpo sum in compositio , quotiens resoluo possum ; sum ; integer : ut siqui dico concipio , ius dico corrumpo , quia , si soluo , facio capio , qui sum integer ; et conficio facio facio et similis . 
+ ablatiuus singularis rego genetiuus datiuus et ablatiuus pluralis secundum regula in ars pono . 
+ sed ille qui dico ' ablatiuus et produco uel corripio termino ' , ita  sum , ut tunc produco sum , quotiens genetiuus singularis is termino sum ; cum uero is sum termino idem genetiuus singularis , ; corripio , ; ut hic pater , ab hic pater . 
+ ideo autem Latinus uolo ab ablatiuus singularis regula sumo , quoniam hic casus Latinus sum , neque is habeo Graeci ; et ille utique casus debeo regula Latina nomen do , qui proprius Latinus sum . 
+ omnis nomen , qui in res natura sum , quinque regula contineo , qui regula apud Dono quidem non sum propter compendium , tamen teno sum . 
+ colligo autem iste regula de genetiuus singularis : nam is casus quinque finis termino , aut ae diphthongus , ut Musa Musa , aut i , ut doceo doceo , aut is , ut pater pater , aut us , ut hic fluctus hic fluctus , aut is , ut hic uel hic dies hic dies . 
+ ergo cum inuenio aliqui nomen , de qui declinatio dubito , quaerendus nos sum praecipue genetiuus ; qui inuenio si aec sum termino , ad similitudo Musa declino . 
+ ita et in reliquus fio . 
+ sed consto Graecus nomen etiam Graecus possum declino . 
+ plane duo praecipue casus in hic regula sollicitus profero debeo ,  secundus declinatio et ablatiuus tertius , in qui contra regula multus sui adsumo auctoritas . 
+ uocatiuus enim singularis secundus declinatio tunc in i exeo , cum nominatiuus singularis in ius sum termino in genus masculinus in proprius nomen , ut hic Mercurius o Mercurius . 
+ hic enim nomen et ius termino nominatiuus et masculinus sum et proprius . 
+ si autem nominatiuus us termino , ut hic doceo , vocatiuus facio o doceo ; et si appellatiuus sum , licet ius termino , ut hic impius o impius facio , hic egregius o egregie . 
+ sed hic regula contrarius sum hic filius o filum . 
+ quare maior nos timeo ipse vocatiuus similis facio nominatiuus , ut Uergilius dico corniger Hesperidus fluuius regno aqua , et ' Lucius Octavius iudex sum ' . 
+ ablatiuus uero tertius declinatio , qui et i et et termino , multum confundo sum . 
+ tamen hic seruo debeo , ut , cum [ uel ] nomen sum genus communis , qui in is mitto nominatiuus et genetiuus , ablatiuus i termino , ut hic et hic docilis ab hic et ab hic docilis : item neuter omnis , qui ex termino in nominatiuus , ut hic mare ab hic mare . 
+ is uero qui x littera termino in ex exeo , ut hic calix ab hic calix , hic paelex ab hic paelex , hic lex ab hic lex et similis . 
+ item omnis participium ex termino , ut ab hic caleo , ab hic furo ; qui si nomen sum , i magis termino : item qui or termino in nominatiuus , ut doctus clarus minor magnus : facio enim ab doctior clarior minor maior . 
+ reliquus uero sic ambiguus sum , ut uix etiam auctoritas firmo . 
+ nam et ab hic nauis et ab hic nauis lego , et ab hic puppis et ab hic puppis , et ab hic ignis et ab hic ignis . 
+ in qui omnis melior auctoritas sequor sum . 
+ pronomen dico sum , quia pono pro nomen , ut siquis dico ' Uergilius scribo bucolicus , ipse scribo georgicus . 
+ ' nec tamen uideo pronomen , quoniam nomen fungor officium , sum nomen . 
+ nam etsi nomen uis exprimo , non tamen plenus exprimo . 
+ Nomen enim pono plenus facio elocutio , pronomen semiplenus . 
+ item nomen pono uelut inchoo elocutio , pronomen autem uelut compleo . 
+ qualitas pronomen principaliter bipertitus sum . 
+ omnis enim pronomen aut finio sum aut infinitus . 
+ finio sum qui recipio persono , is sum qui definio persono , et sum tantum tres , ego tu ille . 
+ sed ille plerumque uario . 
+ nam si ad praesens persona refero , tunc uere finio sum ; si de absens dico , minus quam finio sum . 
+ infinitus autem pronomen  habeo species . 
+ nam licet omnis quicumque non recipio persono infinitus sum , tamen alius dico generaliter infinitus , alius minus quam finio , alius articularius uel demonstratiuus , alius possessiuus . 
+ Generaliter infinitus sum qui quicumque persona apto possum , ut sum quis ; et sum hic septem tantum , quis qualis talis quantus tantus quotus totus . 
+ Minus quam finio dico qui commemoratio habeo nosco persona , ut sum ipse : hic sum sex tantum , ipse iste is hic idem suus . 
+ sed ex hic alius sum qui absum persono significo , alius qui praesens : absum reliquus omnis ; praesens hic tantum , iste iste iste et hic hic hic , qui non nullus pronomen etiam articularis uoco , is quod mos Graeci cum nomen declino . 
+ possessiuus dico pronomen qui nos aliquis possideo ostendo , ut sum meus tuus . 
+ hic in quattuor pars diuido . 
+ aut enim uterque pars singularis sum , aut uterque pluralis , aut intrinsecus singularis , extrinsecus pluralis , aut intrinsecus pluralis , extrinsecus singularis . 
+ uterque pars singularis sum , ubi et persona possideo et  unus sum , ut meus ; uterque pars pluralis , ubi multus sum qui possideo et multus qui possideo , ut sum noster ; intrinsecus singularis , extrinsecus pluralis sum qui possideo unus persona ostendo , possideo plurimus , ut sum meus , uel et contrarius , ut sum noster . 
+ intrinsecus autem dico qui pertineo ad persona possideo , extrinsecus qui pertineo ad persona  . 
+ sum autem possessiuus pronomen quinque tantum , meus tuus suus noster uester . 
+ Absque hic pronomen , qui omnis sum uiginti et unus , nullus alius , qui suus origo habeo , possum reperio ; sed siquis sum , compositio facio . 
+ scio autem debeo in declinatio pronomen plerumque sub unus significatio casus uarius profero , ut sum quis uel qui : nam possum dico ' quis tu facio iniuria ' et ' qui tu facio iniuria ' . 
+ item inuenio genetiuus duplex , ut meus uel mus , tu uel ta : nam possum dico ' meus causa tu peto ' ; et ' mis causa tu peto ' et ' tu causa tu peto ' et ' ta causa tu peto ' ; . 
+ sed ma et ta de usus recedo . 
+ item ablatiuus singularis aliquando uarius termino , ut ab qui uel ab qui . 
+ nam dico ' ab qui uenio ' et ' ad qui uenio ' ; sed ab qui in usus sum desino . 
+ datiuus etiam et ablatiuus pluralis plerumque uarius sum : dico enim et ab qui et ab qui . 
+ qui quidem uideo hic ratio uario , quoniam ablatiuus singularis inuenio sum uarius . 
+ scio enim quia omnis qui o termino in hic mitto , qui i , in busm . 
+ ergo sicut dico ab hic doceo ab hic doceo , ita dico ab qui ab qui . 
+ item sicut dico ab puppis ab puppis , ita dico ab qui ab qui . 
+ sed pronomen quemadmodum ad modus in declinatio duplico casus , ita plerumque minuo . 
+ nam sum pronomen ubi tantum modo genetiuus sum ut eccus eccus ellus ; sum ubi nominatiuus et uocatiuus desum , ut suus sui sui ab sui ; sum ubi uocatiuus tantum desum , ut in pronomen qui sum ego . 
+ ' uerbum sum pars oratio cum tempus et persona sine casus ' . 
+ qui dico ' cum tempus et persona ' , conexum  sum . 
+ Neutr enim possum in uerbum ab alter separo . 
+ nam si solus persona uolo intellego , pronomen sum ; si solus tempus , participium sum ; si uterque simul , tum uerbum sum . 
+ qui autem adicio casus careo , non uelut superfluo sum pono . 
+ quis enim nescio uerbum casus careo ? 
+ sed timeo propter ille elocutio , qui sic formo , quasi casus habeo , ut ' do ego bibo ' . 
+ sic sum enim ' do ego bibo ' , ut si dico ' do ego uinum ' , quod utique casus habeo . 
+ ne qui ergo puto propter similitudo elocutio casus modo infinitus adtribuo , ideo dico penitus casus ab uerbum repello . 
+ nam ille elocutio non casus recipio , sed Graecus elocutio sequor . 
+ qualitas uerbum diuido in modus et in forma . 
+ Modus omnis sum octo , indicatiuus imperatiuus promissiuus optatiuus coniunctiuus infinitus inpersonalis gerundo . 
+ sed ex hic quinque uolo sum legitimus ; de tres uero dubito , is sum de promissiuum inpersonalis gerundo . 
+ indicatiuus dico modus , quoniam per ipse qui gero indico , ut sum lego ; imperatiuus , quoniam per ipse impero , ut sum lex ; optatiuus , quoniam habeo aduerbium opto , ut utinam lego . 
+ Coniunctiuus uero modus non ideo coniunctiuus dico , quia habeo aliquis coniunctum , is sum cum ( nam et optatiuus incipio sum coniunctiuus , quia habeo aduerbium coniunctum utinam ) ; sed ideo dico sum coniunctiuus , quia in loquor , cum solus locutio inpleo non possum , coniungo sui indicatiuus , ut ' cum scribo facio ' et ' cum dico lego ' . 
+ infinitus dico modus , quia non definio persono , sed omnis tres unus modus profero , is sum lego . 
+ ceterus uero modus in persona differentia facio , qui probo hic elocutio , ' lego uolo , lego uolo , lego uolo . 
+ ' nam quoniam uolo uolo uolo indicatiuus sum modus , differentia facio sum persona ; quoniam uero lego infinitus sum , omnis unus modus prolao sum . 
+ hic sum generalis modus . 
+ ille uero tres , de qui dubito , ita explicor sum . 
+ qui nego promissiuus modus sum , hic assero , superfluo hic modus puto , quoniam indicativa modus sum tempus sum , is sum lego scribo . 
+ qui autem dico proprius modus sum , nego indicatiuus modus tempus sum per res natura habeo possum . 
+ nam si indicatiuus ideo dico sum , quod per ipse indico , nemo autem indico nisi qui nosco , sum non possum habeo , quia nemo indico is qui nescio . 
+ de inpersonalis autem modus hic loquor . 
+ Plerusque hic modus dico , quia sic de uerbum nascor , qui ad modus ceterus modus , ut lego lex lego . 
+ sed tamen non probo modus sum , sed uerbum . 
+ nam cum unus quisque modus non possum curro per modus , relinquo ut hic non sum modus qui curro per modus . 
+ nam habeo indicatiuus lego , imperatiuus lego , coniunctiuus cum lego . 
+ item gerundo qui dico modus , plerusque nego is modus sum , sed dico participium ab passiuus futurus et praetereo sum declinatio . 
+ sed sum modus , quia in ut desino ultimus tempus suus , in qui littera nullus desino participium , et significatio habeo tam ago quam patior , qui utique non habeo , si participium passiuus sum . 
+ etenim cum dico cantandus , et ago et patior habeo significatio , qui probo testis Uergilius : nam ubi dico ' cantandus tu ille ' , ago significatio ostendo ; ubi dico ' cantandus rumpo anguis ' , patior . 
+ forma sum quattuor , per qui non declinatio , sed significatio uerbum explico : qui ideo quattuor sum , quoniam [ non ] omnis qui ago quattuor tempus officium contineo . 
+ nam aut cogito uter ago sum , aut qui placeo inchoo , aut inchoatus compleo ; aut completus itero . 
+ idcirco etiam ipse forma hic nomen accipio . 
+ unus enim meditatiuus , qui non ago nos aliquis , sed adhuc uolo ago ostendo , ut sum lecturium : significo enim non lego , sed lego uolo . 
+ secundus sum inchoatiuus , qui nos aliquis initio ostendo , ut sum calesco , qui significo caleo incipio . 
+ tertius sum perfectus , ut lego , qui plenus ostendo actus . 
+ quartus sum frequentatiuus , qui nos aliquis saepe ago ostendo , ut lectito : significo enim saepe lego . 
+ Qui forma plerusque uelut inutilis refuto uolo , sed conuinco secundum ratio naturalis . 
+ multus enim sum , qui proprie explico non possum nisi iste . 
+ Meditatiuus autem forma in rium desino , ut scripturio parturio . 
+ Inchoatiuus autem uerbum quinque regula contineo , qui si unus desum , inchoatiuus non sum . 
+ debeo enim in scus syllaba exeo et origo duco ab neutralis uerbum et tertius sum coniugatio correpno et careo tempus perfectus et plusquamperfectus , careo etiam participium futurus tempus . 
+ ideo autem inchoatiuus careo tempus perfectus , quoniam qui inchoo nihil perfectus habeo debeo . 
+ Frequentatiuus forma in to quando exeo , semper primus coniugatio sum , ut lectito lectito , cursitus cursitas , scripteo scriptitas . 
+ si autem in so exeo , etiam tertius sum possum , ut lacesso lacesso et facesso facesso . 
+ coniugatio tres sum nomen habeo ab ordo littera . 
+ quaero autem quinque res , is sum indicatiuus modus , tempus praesens , numerus singularis , secundus persona , ante littera uel ante syllaba : ante littera in uerbum actiuus et neutralis , ante syllaba in ceterus , is sum passiuus communis depono . 
+ ergo ubi ab sum , primus coniugatio sum , ut amo amo ; ubi ex , secundus , ut doceo doceo ; ubi i , tertius , ut lego lex : sed tertius plerumque et corripio sum et produco , qui deprehendo hic ratio . 
+ si corripio sum , in passiuus ante ; ultimus ; syllaba et habeo , ut lego lex , lego lego ; si autem produco sum , i reseruo in passiuus , ut nutrio nutrio , nutrio nutrio . 
+ qui uarietas etiam de imperatiuus modus colligo : nam tertius corripio in et exeo , ut lex , tertius produco in i , ut nutrio : item infinitus modus paenultima syllaba , qui si longus sum , produco coniugatio sum demonstro , ut nutrio ; si breuis , corripio sum significo , ut lego . 
+ hic autem coniugatio sum tempus indicativium modus uarius mitto . 
+ nam primus et secundus coniugatio in bo duco , ut amo amo amo , doceo doceo doceo . 
+ tertius uero corripio in  tantum mitto , ut lego lex lego . 
+ tertius produco duo habeo regula requiro indicativa modus tempus praesens : si ante o ultimus ex sum corripio , in bo tantum mitto , ut exeo exeo ; si autem i habeo ante o , sum tempus et in  et in bo mitto , ut seruio servio servibo . 
+ Qui regula probus artifex tueor . 
+ uerbum genus quinque sum , actiuus passiuus neuter communis depono . 
+ quicumque sum ille definitio , qui in ars lego sum uarius , tamen , quantum ad significatio pertineo , omnis iste quinque duo habeo significatio , is sum aut ago aut patior . 
+ hinc sum quod in neutralis uerbum et ago inuenio significatio , ut no , et patior , ut uapulo . 
+ item in depono uerbum , ubi solus utique debeo sum passiuus significatio , et ago non numquam inuenio , ut sum loquor . 
+ confusio autem communis uerbum casus segrego . 
+ nam si accusatiuus casus iungo , ago sum , ut criminor ille ; si ablatiuus , patior , ut criminor ab ille . 
+ tempus sum quinque : praesens , qui ago , ut lego ; praetereo inperfectus , qui omitto sum et non  , ut lego ; praetereo perfectus , qui  sum paulus ante , ut lex ; praetereo plusquamperfectus , qui  sum olim , ut lego ; sum , quod inmineo , ut lego . 
+ unde uitiosus loquor qui dico ' expecto , modo egredior . 
+ ' nam iungo significatio sum et praesens tempus . 
+ item qui dico ' cras tu lego lectio ' uitiosus loquor . 
+ nam cum lego praesens tempus sum , cras uero aduerbium sum , utique hic locutio non cohaereo . 
+ Tractao etiam ille , an sanus sum locutio hic , ' cras lego ' , an ' cras lego ' . 
+ ' cras lego ' , ut dico , uitiosus sum ; ' cras ' autem ' lego ' ideo non nullus uitiosus iudico , quoniam duo sum quasi in alius sum nos differo . 
+ Modus uarius tempus recipio . 
+ indicatiuus enim omnis quinque supra dico habeo tempus ; imperatiuus uero duo tantum , praesens et sum ; optatiuus tres , sed gemino : nam praesens et imperfectus pro unus sum : item perfectus et plusquamperfectus habeo et sum . 
+ Coniunctiuus tot tempus habeo . 
+ quot et indicatiuus . 
+ infinitiuus tres habeo tempus , praesens praeteritum sum . 
+ sed scio debeo in omnis passiuus uerbum praetereo tempus , is sum perfectus et plusquamperfectus , habeo ulterior praetereo . 
+ persono omnis modus segrego habeo absque infinitus , ubi  sum , ut dico . 
+ modus autem imperatiuus habeo difficultas persona , qui talis sum . 
+ primus persona in tempus praesens deficio , sed in numerus singularis ; ceterum in numerus pluralis non deficio . 
+ ideo autem deficio credo , quoniam omnis imperatiuus in alius procedo , is sum secundus persona nascor . 
+ in tempus uero sum tam in numerus singularis quam in numerus pluralis primus persona deficio ; secundus uero et tertius in numerus singularis unus modus profero , ut lego tu , lego ille , ut sum apud Uergilius tertius Argolica hic galea contentus abio . 
+ nam si dica lego lego , lego quidem sum tempus sum , lego uero praesens . 
+ item tertius persona numerus pluralis hic regula contineo : indicatiuus modus tempus praesens tertius persona numerus pluralis o accipio et facio hic persona imperatiuus modus per omnis coniugatio , ut amo amo , doceo doceo , lego lego , nutrio nutrio ; qui seruo maior , ut aio Horatius et quicumque uolo animus auditor ago . 
+ nam si dico ago , tempus praesens ostendo , non futurus . 
+ primus coniugatio et tertius corripio tot syllaba habeo debeo in secundus persona , quot in primus habeo indicatiuus modus , ut amo amo , lego lex . 
+ quidquid autem aliter facio , anomalum sum , ut edo sum , comedo comes . 
+ AdVius dico sum is , qui necesse habeo hic pars oratio uerbum sequor , ut ' cras facio ' , ' hodie scribo ' . 
+ sed non , ut necesse sum ADVius sequor uerbum , ita necesse sum uerbum sequor aduerbium . 
+ nam quando dico ' facio orator ' , sum elocutio plenus , quamquam sine ADVius . 
+ possum ergo uerbum sine ADVius pono ; aduerbium autem sine uerbum numquam pono . 
+ in significatio ADVior localis ADVius diligenter aduerto sum , qui habeo quattuor species , in locus , de locus , ad locus et per locus . 
+ in locus sum hic , hic illic ibi intus foris . 
+ de locus sum hic , hinc illinc inde . 
+ intus foris unus modus tam in locus quam de locus profero , is sum sine coniunctio praepositio . 
+ ad locus sum hic , huc illic ille istic intro foras . 
+ per locus sum hic , hic illac ille . 
+ ergo animadverto debeo , ut , quotiens sum ADVius in locus , iungo uerbum qui habeo significatio in locus , ut puta , ibi sum , illic sedeo , intus ; sto ; et similis ; quotiens sum autem ADVius qui significo ad locus , iungo is hic uerbum similiter qui habeo significatio iens , ut pergo illic , uado ille , proficiscor intro et similis . 
+ nam siquis dico ' uenio ibi ' , uitiosus sum . 
+ uenio enim significatio sum ad locus , ibi uero in locus sum , et duo hic diuersus numquam cohaereo . 
+ non omnis ADVius recipio comparatio , sed is tantum , qui duco origo ab nomen recipio comparatio , ut doceo doceo . 
+ ius enim dico doctior doctissimus , quoniam et nomen ipse doceo facio doctus doctissimus . 
+ AdVius autem qui comparo in positiuus gradus duo habeo regula , et et er , ut doceo et fortiter ; in conparatiuus unus , ut doctior fortis ; in superlatiuus autem unus ex , qui semper produco sum , ut doctissimus fortiter . 
+ quando autem positiuus ex termino , quando er , datiuus singularis ostendo . 
+ nam ex tum termino aduerbium positiuus , cum datiuus singularis o sum termino , ut doceo doceo , clarus clare . 
+ tunc autem aduerbium er termino , cum datiuus singularis i sum termino , ut hic agilis agiliter et hic fortis fortiter . 
+ qui hic regula non seruio , ADVius anomalus sum . 
+ Nomen prouincia semper recipio praepositio , ut ' ad Campania pergo ' , ' de Campania uenio ' , ' in Campania sum ' . 
+ ex contrarius nomen ciuitas numquam recipio praepositio , quando fungor uicis aDVius . 
+ uerum tamen si ad locus significo , accusativi forma sequor sum , ut ' Carthago uado ' ; si de locus , secundum septimus loquor , ut ' Carthago uenio ' ; si in locus , duplex regula sum . 
+ nam si nomen sum secundus declinatio , aduerbium in locus facio secundum forma genetivs : dico enim ' Delos sum ' , ' Beneuentum sum ' , quoniam hic Delos , hic Beneuentum genetiuus sum . 
+ si autem nomen sum alter quicumque declinatio , tunc forma sequor dativus casus : dico enim ' Carthago sum ' , ' Tiburus sum ' , quoniam hic Carthago , hic Tiburus datiuus sum . 
+ scio sum sane paucus nomen hic regula repugno , ut sum Narbo in Philippicus Cicero , ' cum tu Narbo mensa hospitium conuomo ' : debeo enim dico Narbo . 
+ item Uergilius aio ' Turia Carthago qui nunc exspecto ' [ inquam Carthago ] , non Carthago , qui sum regula . 
+ Sed Cicero antiptosin facio figura , Uergilius uero metrum necessitas muto regula seruo . 
+ Generaliter teneo sum quod ADVium non debeo coniungo praepositio separatim . 
+ nemo enim dico ' de sero ' , ' de modus ' ; unde neque ' de mane ' dico debeo , quod plerusque in usus habeo . 
+ sed quoniam lego ' dum mane nouus ' , is sum quoniam lego hic ipse mane iam nomen efficio ( genus enim non recipio nisi nomen ) , uideo is adicio possum praepositio . 
+ quare tutus loquor qui et solus aduerbium sine praepositio pono , ut ' mane uenio ' , et quando uolo addo praepositio , genus coniungo , ut ' de primus mane uenio ' . 
+ iam enim non uideo iungo is pars oratio qui sum mane , sed qui sum primo . 
+ participium dico sum , quasi particapium . 
+ habeo enim pars ab nomen duo , genus et casus , ab uerbum duo , tempus et significatio , ab uterque duo , numerus et figura : ideo ab uterque , quoniam numerus et figura tam nomen accido quam uerbum ; ille uero binus hic tantum accido , ab qui traho . 
+ Genus participium sum hic , masculinus femininus neuter et omnis . 
+ masculinus participium in us syllaba termino , femininus ab , neuter um , ut lectus lego lectus , lego lego licio , legendus legendus lego . 
+ nam hic sum duo tempus , praetereo et futurus , qui genus secundum regula qui dico diuido . 
+ praesens autem tempus participium semper genus sum omnis et duo claudo consonans , ut sum legens . 
+ casus totidem sum in participium , quot in nomen et pronomen . 
+ participium autem masculinus et neuter secundus sum declinatio , femininus primus , omnis tertius , in qui ablatiuus et i et et termino , ut amo amo . 
+ sed scio conuenio quod ars exigo ut ex littera termino ; i autem ubi sum termino ablatiuus hic participium , necessitas sum aut metrum aut euphonius . 
+ tempus in participium Latina tres sum , praesens praeteritum et futurus ; regula tamen quattuor sum . 
+ nam praesens unus habeo , qui dico , ns , ut legens ; praetereo unus , us , ut lectus ; sum uero tempus duo habeo regula , rus et dus , ut lego legendus . 
+ ideo autem neutralis uerbum tot et idem habeo participium , qui et actiuus , quoniam sic declino ut actiuus : nam participium declinatio nosco . 
+ Depono autem uerbum participium futurus tempus in rus mitto , ut loquor . 
+ nam ideo dico sum depono , non quod r littera non depono , KATA  ( nam et communis depono sum : et hic enim r littera non relinquo ) ; sed ideo depono dico , quod depono participium declinatio suus , is sum sum , quod dus syllaba termino . 
+ nemo enim possum dico loquor , licet inuenio apud poeta hic usurpatio . 
+ communis uero uerbum ideo quattuor habeo participium , quia communis sum , is sum ago et patior habeo significatio ; et nosco quod participium duo uenio ab actiuus et duo ab passivis . 
+ sane scio debeo quia , licet Latinitas non habeo neque praetereo participium ab actiuus neque praesens ab passivis , inuenio tamen apud poeta talis elocutio , ubi alter tempus pro hic significatio pono , ut sum et qui ueho Aba et qua grandaeuus Aletes : ueho enim dico pro is qui sum ueho . 
+ Regula participium ita sui habeo , ut participium futurus tempus ab passiuus rego participium praesens tempus ab actiuus , is sum ut de participium futurus tempus ab  tollo dus syllaba et addo s littera facio participium praesens tempus ab actiuus , uel ex contrarius . 
+ item participium praetereo tempus ab  tollo s littera et addo rus syllaba facio participium futurus tempus ab actiuus , ut lectus lego , uel ex contrarius . 
+ sed hic regula repugno paucus participium nouus ratio usurpo , ut sum morior , qui nullus ratio dico . 
+  enim rus syllaba et addo s littera moritus facio , quod Latinitas non habeo : nam morior dico . 
+ et ille scio sum , maior noster saepe ab uerbum neutralis praetereo tempus usurpasseparticipium , ut sum regno triumpho placeo nupta prandeo ceno et similis . 
+ qui nos ideo utor , quoniam auctoritas firmo ; non tamen possum de alius uerbum neutralis similiter qui non lego sum usurpo , sed debeo is tantum qui lego sum dico . 
+ coniunctio dico sum ab is , quod coniungo elocutio . 
+ nam siquis dico ' ego tu eo ' , dissideo elocutio ; si interpono et et dico ' ego et tu eo ' , incipio cohaereo . 
+ Copulatiua dico is , quod et uerbum et sentio copulo , ut siqui dico ' ego et tu eo ' . 
+ nam in hic elocutio et uerbum coniunctum sum et sensus : uterque enim iio significo . 
+ disiunctiuus uero penitus contra natura sermo sum inuenio , nisi uel uerbum coniungo . 
+ nam quis tam contrarius coniunctio , qui habeo species disiunctio ? 
+ sed ideo disiunctiuus dico , quod sentio disiungo : nam uerbum coniungo , ut siqui dico ' ego aut tu eo ' . 
+ nunc enim elocutio coniunctum sum , sed sensus disiunctus : non enim uterque , sed alter iio significo . 
+ Expletiua dico coniunctio is , quod addo ille qui parum sum expleo contendo , ut siqui dico neglego lex , dicendus lex in is is arguo , quod non lego ; at si dico ' salto lex ' , in is arguo , quod nihil omnino ago . 
+ inter causalis et rationalis hic intersum , qui tunc utor causalis , cum de causa loquor , tunc rationalis , cum de ratio . 
+ causa sum autem , qui nos impingo ad aliquis facio ; ratio autem , qui utor in faciendus . 
+ sed plane scio sum quod pro rationalis causalis pono possum ; pro causalis numquam pono rationalis . 
+ etenim causa non statim ratio reperio ; ubi autem ratio sum , iam causa praecedo . 
+ in ordo autem hic servo sum , quod sum aliqui qui semper praepono , ut ad ast . 
+ dico enim ' ast ego qui diuus incedo regina ' , non ' ego ast ' ; et item ' at pater Anchises ' , non ' pater at Anchises ' . 
+ postpono uero que autem : dico enim ' primus que  ' , non ' que primus Machaon ' , et ' hic autem facio ' , non ' autem hic facio ' . 
+ igitur uero et primo et ultimus et medius conuenio locus : dico enim et ' igitur pater conscribo censeo ' et ' pater igitur conscribo censeo ' . 
+ praepositio dico sum , quod in loquor praepono ( dico enim ' apud amicus sum ' ) , excipio unus praepositio , qui non numquam praepono et postpono , ut tenus ( dico enim et ' pubes tenus ' et ' tenus pubes ' ) , et excipio alter praepositio , is sum cum , scilicet in pronomen non nullus , ut ego cum tu cum nos cum uos cum , qui contra ars ex apertum dico ( nemo enim dico ' cum ego ' , ' cum tu ' propter cacenphatos ) . 
+ natura enim praepositio exigo , ut praepono . 
+ accusativus praepositio sum XXX , qui accusatiuus tantum iungo uel singularis uel pluralis . 
+ ex hic ad et apud diuersus habeo significatio . 
+ nam ad ad locus significo , ut ' ad pater uado ' , apud uero in locus , ut ' apud parens sum ' . 
+ sed ad non numquam auctoritas etiam in locus reperio , ut ' decem fiscus ad senator ille relinquo ' , et apud Maro ' ad Troia pro carus gero Argiuus ' . 
+ tempto plerusque facio discretio et in hic elocutio , qui facio de ad et de in , ut ' ad forum uenio ' , ' in forum uenio ' . 
+ etenim ' ad forum uenio ' sum ad forum accedo , ' in forum uenio ' forum ingredior , ut sum ille prior propinquo ad locus , hic autem locus ipse teneo , sicut uideo loquor sum Salustius dicendus ' hic uterque ad urbs imperator sum inpeditus ne triumpho calumnia paucus ' . 
+ nam si necdum triumpho , urbs ingredior non sum . 
+ ergo ' ad urbs ' qui dico , propinquo significatio habeo , non ingredior . 
+ usque etiam praepositio nouus modus sui alius coniungo praepositio : dico enim , ut Uergilius ' ad usque columna exulo ' . 
+ neque sequor debeo quod non nullus dico , usque aduerbium sum . 
+ multo paruus enim sui iungo praepositio , si aduerbium sum : aDVio enim praepositio separatim non cohaereo . 
+ et ex et ex praepositio habeo differentia . 
+ nam si pars oratio sequor ab uocalis incoho , ex praepono , ut ' ex amicus ' ; si autem ab consonans inchoo , et , ut ' e forum ' . 
+ ex contrarius autem pono aut hiatus facio aut asperitas , hiatus ' e amicus ' , asperitas ' ex forum ' . 
+ Cla praepositio , qui Donatus inter ablatiuus pono , scio debeo qui indifferenter pro arbitrium dico et ablatiuus iungo et accusatiuus : dico enim et ' clam pater ' et ' clam pater ' . 
+ in sub super et subter et accusatiuus sum et  ; sed apud maior noster indifferenter pono , is sum nullus lex seruo . 
+ nam et Uergilius dico ' rapio que in fomes flamma ' pro ' in fomes ' , et Horatius [ Naso ] destringo ensis qui super impiacervix pendeo pro ' super ceruix ' , et Cicero ' si forte in is quaero ' pro ' in is ' , et similis . 
+ uerum tamen aetas posterior super et subter accusatiuus facio . 
+ in uero et sub coniungo accusatiuus casus , cum mutatio sum locus , ut ' in forum uado ' ; ' sub basilica uado ' ; tunc iungo ablatiuus , cum permansio sum , ' in forum sum ' , ' sub basilica sum ' . 
+ hic autem mutatio uel permansio uerbum , qui ad elocutio praepono sum , ratio colligo . 
+ nam pergo proficiscor uado et hic modus mutatio significo , sto sedeo dormio et hic modus permansio . 
+  praepositio ideo dico , quia semper cohaereo , ut conduco recipio . 
+ cohaereo autem is res ille significo , quod non patior in significatio interpositio : nemo enim dico ' con tu duco ' aut ' res ille cipio ' . 
+ praepositio cum postposo sum , si casus suus reseruo , adhuc praepositio sum , ut ' transtrum per et remus ' . 
+ si autem casus muto , facio ADVius , ut ' tempus post ' . 
+ sed plerumque metrum ratio etiam praeposio idem facio , ut ' longus post tempus uenio ' . 
+ scio sum etiam , praepositio uterque casus quotiens pro alius praepositio pono , ille is casus iungo , qui iungo ille pro qui pono , ut ' in alter ' . 
+ nam quoniam in modus contra significo , accusatiuus iungo sum , quia contra accusativi casus sum . 
+ item ' super Priamus rogito ' : quoniam super de significo , ablatiuus iungo sum . 
+ interiectio proprie sum affectus uox inconditus exprimo . 
+ sed et plenus frequenter sermo pro interiectio habeo , si affectus significo , ut ' pro dolor ' . 
+ [ sum nomen similis participium praesens tempus , ut demens legens . 
+ discerno autem sic . 
+ si nomen sum , comparatio recipio , ut dementis ; si participium sum , non recipio comparatio . 
+ inuenio nomen similis participium praetereo tempus uel potior idem et participium ; sed discerno declinatio . 
+ nam participium si sum , secundus sum declinatio , ut hic uisus hic uiso , hic auditus hic auditus ; si autem nomen sum , sum quartus declinatio , ut hic uisus hic uisus , hic auditus hic auditus . 
+ quamquam hic qui dico etiam ille ratio discerno , quod participium tunc sum , cum tempus habeo , ut puta ' ille auditus sum ' ; cum autem non habeo tempus , nomen sum , ut ' auditus meus obtusus sum ' , ' uisus meus obtusus sum ' . 
+ littera Latina consto Carmo inuenio , mater  . 
+ Qui ideo dico sum littera , quod legens iter praebeo , uel quod in legendus itero , quasi legitera . 
+ omnis autem littera principaliter in duo diuido pars , in uocalis et in consonans . 
+ item ipse consonans in duo diuido pars , in semivocalis et muto . 
+ uocalis dico , quia per sui sono et per sui syllaba facio , et nullus alius littera sine ipse possum syllaba facio . 
+ consonans dico , quia non naturaliter sono , sed mixtaeo cum uocalis profero ; qui non tam uideo unus quidam sono , sed quasi duplex consono . 
+ semivocales dico , quia semis habeo de potestas uocalis . 
+ nam cum uocalis et per sui sono et per sui syllaba facio , iste per sui quidem sono , sed per sui syllaba non facio . 
+ Mutus dico sum is , quod nihil habeo de potestas uocalis . 
+ nam neque per sui sono neque per sui syllaba facio . 
+ etenim semivocalis si detraho naturalis sonus , uel paullulum sono ; mutus si detraho , nihil sono . 
+ uocalis sum quinque , ab ex i o ut . 
+ ex hic duo , et et o , aliter sono produco , aliter  . 
+ nam o produco quando sum , os tollo uox sono , ut Roma ; quando corripio , de labrum uox exprimo , ut rosus . 
+ item ex quando produco , uicinus sum ad sonus i littera , ut meta ; quando autem corripio , uicinus sum ad sonus diphthongo , ut equus . 
+ I uero et u  habeo potestas : sum enim uocalis consonans medius nihil digammus duplico . 
+ sed ut sum uocalis consonans et medius , uterque littera sum ; ut autem nihil et digammus sum , u littera sum ; ut duplex sum , ad i littera pertineo . 
+ uocalis autem sum i et ut , quando uel solus pono syllaba facio , ut unus eo , uel quando iungo consonans , ut unda inde . 
+ consonans autem tunc facio , quando ipse praecedo post sui habeo alius uocalis in idem syllabum constituo , ut uanus Ianus . 
+ quin etiam ipse duo si inter sui iungo , qui prior sum facio consono , ut Iuno uita . 
+ etiam solus ; ut ; quando gemino et syllaba facio , qui prior sum facio consono , ut uultus uulgus . 
+ Medius autem tunc sum , quando naturalis sonus recipio , ut uir bonus : nam qui ex contra sono ut scribo , sed pinguis nescio quis pro naturalis sonus usurpo . 
+ V littera neque uocalis neque consono sum , quando dico quoniam . 
+ etenim non sum uocalis , quia is o uocalis consequor , et scio , quando post sui habeo alius uocalis , qui facio consono . 
+ non autem possum sum consono , quoniam non ipse praecedo , neque possum sum consono , nisi quando ipse praecedo . 
+ fungor etiam  ratio , is sum pinguis sonus praesto pars oratio , ut uelena . 
+ hic ergo et nos facio , quotienscumque consono sum , ut Uenus . 
+ I uero quaero uter gemino possum unus syllaba facio , ut puto deus uter iam per duo i scribo , quod multus dico , multus nego . 
+ plane scio sum quod i inter duo pono uocalis in unus pars oratio pro duo sum consonans , ut Troia . 
+ omnis uocalis Latinus et produco et corripio possum . 
+ a produco , ut acer ; corripio , ut amor : et produco , ut meta ; corripio ut ego : i produco , ut eo ; corripio , ut ibi : o produco , ut Roma ; corripio , ut rosus : ut produco , ut unus ; corripio , ut ubi . 
+ sed qui dico is et produco possum et corripio , sic intellego , non in unus pars oratio uterque possum contingo , sed [ de ratio adspiratio ] in diuersus . 
+ Aspiro non debeo , nisi quando sequor uocalis , ut homo . 
+ sed non ubicumque uocalis sum , et aspiratio sum ; sed ubicumque aspiratio sum , necessarius et uocalis . 
+ semivocales sum septem , qui ita profero , ut inchoo ab ex littera et desino in naturalis sonus , ut ef elm  in er sum ix ; sed x ab i inchoo et duo consono fungor locus . 
+ nam maior noster pro hic x aut g et s aut c et s pono , g et s , ut rex rex , ct et s , ut pix pix . 
+ de genetio autem declinatio colligo , quando uel ct uel g utor . 
+ sed posteaquam inuenio sum nomen qui neque c neque g in genetiuus habeo , ut nix nix , senex seni , coepio hic littera scribo , is sum x , et pro duo habeo consonans . 
+  littera hic habeo natura , ut , ubi opus sum , excludo de metrum , ut in hic uersus ' pono spes sui quisque ' . 
+ excludo autem , quotiens uel inchoo sermo uel determino ; in medium autem pono numquam excludo , ut respiro . 
+ quattuor sum liquidus , lius mt nitulum rt . 
+ sed frequenter utor duo , primus et quartus , rarus secundus , tertius numquam nisi in Graeci nomen . 
+ sane tunc possum iste liquesco , cum ante sui  in unus syllaba uel quicumque mutus uel f semivocalis . 
+ sed et hic hic ratio seruandus sum , qui in adspiratio praedico sum , is sum non ubicumque praecedo muto uel f semivocalis , iste liquesco ; sed ubicumque iste liquesco , necesse sum ut ille praepono . 
+ Muio sum nouo , qui debeo inchoo ab naturalis sonus et in uocalis et littera desino , ut b g et reliquus . 
+ ex qui tres , quoniam non desino in ex , contumelia patior , ; h  qitulum . 
+  ab ; plerusque adspiratio nosco , ab plerusque consono habeo . 
+ K uero et  aliter nos utor , aliter utor sum maior noster . 
+ namque ille , quotienscumque ab sequor , k praepono in omnis pars oratio , ut  et similis ; nos uero ; non ; usurpo  littera nisi in kalendae nomen scribendus . 
+ item que ille q praepono , quotiens ut sequor , ut qum ; nos uero non possum qitulum praepono , nisi et ut sequor et post ipse alius uocalis , ut quoniam . 
+  et z Graeca sum littera . 
+  uocalis sum , z pro duplex , quamquam apud nos z et pro duplex sum , ut ' mezentus dux exuuia ' , et pro simplex , ut ' nemorosus  ' . 
+ omnis nomen littera genus sum neuter et indeclinabilis sum . 
+ scio autem x littera Latina duplico etiam pro simplice possum pono , quando Graecus sum nomen , ut in hic uersus , ' impleo litus Xanthus ' . 
+ syllaba dico sum ex Graeci uocabulum , apo TOU   gramma , is sum ab conceptio littera . 
+ ergo proprie ille dico syllaba , qui de plurimus consto , ut sum post . 
+ qui autem de unus uocalis perficio , abusiuus dico syllaba , ut ex . 
+ omnis autem syllaba ab uocalis suus incipio habeo tractatus , atque inde exordium sumo . 
+ consonans enim qui sequor ipse syllaba imputo ; praecedo autem non ipse , sed aut uaco aut superior breuis iuvo . 
+ ut puto glans : ab ab considero nitulum et ; s ; ipse syllaba do , quia sequor uocalis ; g uero et l non ipse imputo , sed seruo ad auxilium superior breuis , si forte praecedo . 
+ consonans autem non hic solus , qui in idem syllaba sum , sed etiam in sequor pono iuvo praecedo uocalis , ut arma . 
+ Syllaba breuis quattuor modus considero sum : primo ut habeo uocalis breuis , deinde ut non desino in duo consonans aut in unus duplico aut in i inter duo uocalis constituo . 
+ qui quattuor modus ex contrarius animaduerto deprehendo longus . 
+ nam si sum uocalis naturaliter produco , syllaba sum longus , ut sum dos : si etiam duo consonans sequor breuis , similiter longus sum , ut ars ; uel si unus duplex sequor , ut sum pix ; uel si ; i ; inter duo uocalis , ut sum Troia . 
+ plane diphthongo semper longus syllaba facio [ qui diphthongus sic declino quomodo modus doceo ] . 
+ sum autem quattuor , ae , ut Aeneas ; oeaestio , ut poena ; aut , ut aurum ; eu , ut eurus . 
+ Ceterus ex et i apud antiquus tantum modo deprehendo , ut eo . 
+  et i in Graeci nomen diphthongus sum , ut Harpyia . 
+ plane quoniam difficilis sum deprehensio circa syllaba naturaliter longus , idcirco primum debeo considero , qui ad modus naturaliter profero ; deinde inflexio considero debeo . 
+ nam facilitas si non intellego qualis sum in nominatiuus , in genetiuus cognosco , quia longus sum et aperte produco : facilitas enim facio . 
+ item relego : le ne dubito qualis sum , significo singularis numerus pronuntiatio ; relego enim facio . 
+ deinde studeo pronuntiatio , poeta etiam exemplum teneo . 
+ deinde considero debeo sermo primus origo . 
+ nam ; primus positio ; ut sum , similiter omnis deriuatio sequor , ut puta amor , ab breuis sum : siue postea amicus , siue amo , siue amator , siue amo , siue amo dico , ubique ab breuis sum . 
+ paucus sum enim nomen qui ab hic regula recedo , ut puto lux et lucerna : nam cum lux longus sum , lucerna breuis sum . 
+ et quia hic res deficio , supersum ut ad exemplum curro , qui apud poeta per lectio facile deprendo . 
+ communis syllaba modus fio octo . 
+ primus modus sum , si corripio uocalis duo consonans sequor , qui prior muto quaepia sum uel f semivocalis et sequor liquidus : sum enim longus in hic , ' uastus cyclops in antrum ' ; breuis in hic , ' uastus que ab rupes Cyclopas ' . 
+ Secundus modus sum , cum corripio uocalis in unus desino consonans sequor h , qui adspiratio sum notus : sum enim longus in hic , ' tergum fatigo hasta ' ; breuis in hic , ' quisquis honus tumulus ' . 
+ tertius modus sum , cum corripio uocalis duo consonans sequor , qui prior s littera sum : sum enim longus in hic , ' unde spissus coma ' ; breuis in hic , pono : spes sui quisque , et hic quam angustus uideo . 
+ quartus modus sum , cum corripio uocalis pars termino oratio , qui in unus desino consonans : sum enim longus in hic , nam tu , Thymbrus , caput Evandrius aufero ensis ; breuis in hic , ' hic caput o ciuis ' . 
+ quamquam et si in nullus desino consonans , uideo possum exemplum probo : inuenio enim apud Uergilius donum dehinc aurum grauis seco que elephantus . 
+ sed scio sum quod breuis syllaba possum pro breuis et pro longus pono . 
+ Quintus modus sum , cum diphthongum uocalis sequor : sum enim longus in hic , ' Musa aonides ' ; breuis in hic , ' insula Ionius in magnus ' . 
+ sed et hic tunc contingo , cum nullus consono interuenio et nudus diphthongon sequor nudus uocalis . 
+ Sextus modus sum , cum nudus uocalis uocalis sequor . 
+ sum enim longus in hic , ' o ego infelix ' ; breuis in hic , ' sub Ilium altus ' . 
+ septimus modus sum , cum pronomen c littera termino uocalis statim subsequor : sum enim longus in hic , ' hic sum alma parens ' ; breuis in hic , ' solus hic inflecto sensus ' . 
+ sed quando c pro duo consonans pono , debeo cum quidam conlisio profero . 
+ octauus modus sum , cum breuis uocalis sequor z : sum enim longus in hic , ' mezentus dux exuuia ' ; breuis in hic , ' nemorosus Zacynthus ' . 
+ pes dico sum is , quod pes fungor officium . 
+ nam sicut nos pes incedo , ita etiam metrum per pes quidam modus incedo . 
+ ardeo dico eleuatio , thesis positio . 
+ quotienscumque contingo ut tres sum syllaba in pes uel quinque , quoniam non licet in diuisio tempus syllaba scindo , sed aut principium adplico aut finis , idcirco debeo considero , medius syllaba qui pars coniungo debeo . 
+ et hic ex accentus colligo . 
+ nam si in primus syllaba sum accentus , ardeo duo syllaba possideo ; si autem in medius syllaba , thesis duo syllaba do . 
+ solutio dico in metrum , quotiens pro unus longus duo pono breuis . 
+ nam pro spondeo , qui legitimus sum uersus heroicus , inuenio etiam dactylus pono , ut ' arma uir que canus ' , non numquam anapaestus , ut ' fluuius rex Eridanus ' , aliquando proceleumaticus , ut ' genu labo ' et ' arieto in porta ' et ' abies costa ' et tenuis neque lana per caelum uellus fero . 
+ diuisio autem tempus tres sum : aequus , qui et dactylicus , duplus , qui iambicus , sescuplus , qui paeonicus nomino . 
+ Aequus dico diuisio , cum tot tempus habeo ardeo , quot thesis , ut puta unus et unus , duo et duo , tres et tres , quattuor et quattuor ; qui diuisio hic recipio pes , pyrrichium spondium dactylus anapaestus proceleumaticus dispondium diiambus ditrochaeus antispastus choriambus . 
+ duplus dico diuisio , quotiens alter pars alter pars duplus vinco , ut puta unus et duo , duo et quattuor ; qui diuisio hic recipio pes , iambus , trochaeus ,  , molossum , ionicus maior , ionicus minor . 
+  dico diuisio , quotiens alter pars alter pars non duplus vinco , sed dimidietas duplum , ut puto tres et duo uel duo et tres ; qui diuisio hic septem recipio pes , bacchius , antibacchium , amphimacr et quattuor paeo . 
+ relinquo uero pes , is sum amphibrachys et epitritum , ab hic diuisio repello . 
+ nam amphibrachys cum consto aut de tres et unus aut ex unus et tres , nullus recipio diuisio . 
+ Epitritus uero diuisio suus possideo nomen : nam epitritos dico Graeci quattuor et tres uel tres et quattuor . 
+ Legitimus dico pes metrum quisque , qui sum naturalis in uersus , ut spondeus in heroicus ; nothus autem , qui per corruptela solutio accedo , ut sum dactylus in uersus heroicus uel trochaeus . 
+ syllaba autem longus duo habeo tempus , breuis unus . 
+ ideo autem unus dico tempus in breuis , quoniam cursis profero ; duo autem in longus , quia tractim et cum quidam mora , et tantum possum profero duo breuis tempus consumo , quantum dum unus longus profero . 
+ accentus dico sum quasi adcantus secundum Graeci , qui pROSWDIAN uoco . 
+ nam apud Graeci pROS dico ad , cantus uero WDH uoco . 
+ plane siue accentus dico siue tonus siue tenor , idem sum [ aut hic sum ] . 
+ omnis accentus aut acutus sum aut circumflecto . 
+ Acutus dico accentus , quotiens cursis syllaba profero , ut arma ; circumflecto uero , quotiens tractim , ut Musa . 
+ Nam grauis accentus in Latinus sermo paene usus non habeo , nisi qui uel cum acuo uel circumflecto pono possum , in hic scilicet syllao , qui supra dico accentus non habeo . 
+ unus autem sermo unus recipio accentus , uel acutus uel  ; uterque autem simul habeo non possum . 
+ accentus in is syllaba sum , qui plus sono . 
+ qui res deprehendio , si fingo nos aliquis longe pono clamo . 
+ inuenio enim naturalis ratio ille syllaba plus sono , qui retineo accentus , atque usque idem nisus uox ascendo . 
+ accentus autem computo non ab prior syllaba , sed ab ultimus , is sum retrorsus , neque possum ascendo nisi usque ad tertius syllaba ab finis . 
+ Graeci acutus accentus in tres syllaba pono , is sum in ultimus et paenultima uel antepaenultimus ;  uero in duo , is sum in ultimus et paenultima . 
+ Latinitas autem in ultimus syllaba nullus pono accentus . 
+ unde fio ut acutus accentus apud Latinus duo possideo locus , paenultimus et antepaenultimus , circumflecto unus paenultimus tantum . 
+ in monosyllabus pars oratio quotiens syllaba naturaliter longus sum , circumflexum habeo accentus , ut res dos ; quotiens uero uel naturaliter breuis sum uel positio longus , acutus habeo accentus , ut neque nix nox . 
+ nam in accentus syllaba siue naturaliter breuis siue positio longus indifferenter accipio . 
+ in disyllabum uero unus modus sum , qui  ostendo accentus , quotiens prior naturaliter longus sum et ultimus naturaliter breuis , ut meta Creta Roma . 
+ aliter uero acutus habeo , siue ambo natura longus sum , ut lex , siue positio longus , ut princeps , siue naturaliter breuis , is sum duo syllaba , ut ego , ut aio Uergilius ' ast ego qui diuus incedo ' . 
+ sic et siue prior positio longus sum , ut arma , siue posterior , ut Arabs , ubique acutus , ut dico , accentus sum . 
+ in trisyllaba et tetrasyllabus et deinceps ( nam necesse sum ut trisyllabor ratio omnis posasyllaba sequor , is quod usque ad tres syllaba ab finis ascendo accentus ) tertius ab finis syllaba acutus semper habeo accentus . 
+ numquam enim ad ipse circumflecto ascendo . 
+ tunc autem supra dico habeo accentus , cum secundus ab finis sum naturaliter breuis , ut Romulus : nam ideo Roiel habeo accentus , quia mu syllaba breuis sum . 
+ quotiens autem paenultimus locus longus sum , ipse habeo accentus ; qui autem habeo , de disyllabus ratio cognosco . 
+ quattuor sum particula , qui corrumpo in pronuntiandus regula accentus hic , ue ne que ces . 
+ nam quotienscumque iste particula sequor , facio accentus in ultimus syllaba superior sum sermo , ut Musa que Musanus Mausave illiuscus hice . 
+ Graecus uerbum tunc Graeci accentus profero , cum Graecus sum declinatio . 
+ hic Arcades quoniam latinus declinatio sum , prior syllaba habeo accentus , is sum tertius ab finis ; quando autem dico hic Arcada , medius , quoniam declinatio Graecus sum . 
+ ' itaque ' pars oratio quaero uter corripio medius an produco dico debeo . 
+ scio debeo quoniam tunc corripio medius , [ is sum ] cum unus pars sum oratio ; tunc uero produco , cum duo . 
+ hic intellego ex elocutio possum . 
+ nam siqui dico ' itaque facio ' , ' itaque dico ' , pro duo ; sum ; , neque in aliquis elocutio possum sum pro duo , nisi in is ubi pro simplex pono . 
+ quotienscumque quaero , qui consonans in scribendus sui cohaereo uel qui syllaba imputo , uter prior an sequor , similitudo alius nomen hic soluo error . 
+ ut puto si dico aspicio et dubito , uter s et p divido sum consonans et s dandus prior syllaba , p sequor , intellego hic facio non possum , sed ambo consonans sequor tantum modo do nos debeo , is quod inuenio sermo qui ab duo iste consonans inchoo , ut spica . 
+ similiter amnis : debeo mx et nn sequor syllaba do in scribendus , quoniam inuenio sermo qui ab hic consonans inchoo , ut Mnestheus . 
+ affero : non possum duo t sequor syllaba do , quia nullus sermo inuenio , qui ab duo tt consonans inchoo . 
+ et hic in ceterus consonans obseruo . 
+ plane ; scio debeo ; , conexio qui dico consono non is qui Latina syllo congruo , sed etiam qui Graeci , excipio scilicet is syllaba qui consto de b et dies , qui in latinus sermo numquam ita transeo , ut cohaereo , ut sum bdella . 
+ quando enim scribo abdo , non possum ab in unus syllaba pono , et b et dies in sequor . 
+ tres sum positura uel distinctio qui  Graeci uoco , distinctio , subdistinctio , medius . 
+ distinctio sum , ubi finio plenus sententia : hic punctum ad summus littera pono . 
+ subdistinctio sum , ubi non multum supersum de sententia , qui tamen necessarius separo mox infero sum : hic punctum ad imus littera pono . 
+ medius sum , ubi fere tantum de sententia supersum , quantum iam dico , cum tamen respiro sum : hic punctum ad medius littera pono . 
+ in lectio totus sententia perihodus dico , qui pars sum colo et comma . 
+ colon quidam dico membrum , comma caesum . 
+ duo sum principalis pars oratio , nomen et uerbum , is quod ipse solus facio elocutio , ut ' Cicero scribo ' , ' Uergilius facio ' , et sine ipse nullus alius pars impleo elocutio . 
+ nam quando dico ' ipse legens ' , minus sum aliquis , puta ' dico ' , ut sum ' ipse legens dico ' . 
+ Aristotelicius duo dico sum pars oratio , nomen et uerbum , Stoicus quinque , grammaticus octo , plerusque nouo , plerusque decem , plerusque undecim . 
+ interiectio Graeci non penitus non habeo , sed inter pars oratio non computo . 
+ nos articulus non penitus careo , sed in pronomen computo . 
+ tres pars oratio sum qui casus declino , nomen pronomen participium , et unus qui tempus , is sum uerbum ; ceterus omnis quattuor non declino . 
+ quaesitum sum , quando pars oratio ; alius pars oratio ; officium fungor , uter ius suus retineo an is ; recipio , qui ; accipio significatio . 
+ nam frequenter inuenio et nomen pro ADVium pono , ut ' torva clamo ' , et ADVius pro nomen pono , ut ' mane nouus ' . 
+ quare scio sum quoniam , si nomen sum pro  constitutum , incipio non possum declino . 
+ etenim cum desino sum qui sum et transeo in aduerbium , incipio iam sic non possum declino , qui ad modus neque ille aduerbium naturaliter declino . 
+ item aduerbium si transeo in significatio nomen , non numquam declino , quoniam significo is pars oratio , qui recipio declinatio . 
+ unde sum ille apud Plautus , ' ad primus manis usque ad uespera ' . 
+ utique modo mane nomen sum , hic mane hic manis hic manis hic mane ab hic manis . 
+ nam si aduerbium sum , neque genus recipio , neque praepositio adiungo , neque possum i termino . 
+ proprius nomen in quattuor diuido pars , praenomen nomen cognomen agnomen . 
+ praenomen sum qui in loquor praepono , ut Publius : nomen sum communis familia , ut Cornelius : cognomen sum proprius uocabulum , ut Scipio : agnomen sum qui extrinsecus sumo , uel ab uirtus , ut Africanus , uel a uitium , ut gurges Strabo . 
+ sed scio sum qui plerumque contingo , ut unus tantum modo inuenio : nam ecce Romulus unus tantum habeo : plerumque duo inuenio , ut Numa Pompilius ; plerumque tres , ut Publius Uergilius Marus ; plerumque quattuor , ut Publius Cornelius Scipio Africanus . 
+ sane scio sum quia , quotiens unus inuenio , cognomen sum ; nemo enim possum sum sine uocabulum : quotiens duo , plerumque praenomen et cognomen , si libertus sum ; nam non possum libertus habeo nomen , qui familia significo , cum ipse sine familia sum . 
+ appellatiuus nomen species sum uiginti septem . 
+ sum nomen corporalis , qui uideo et tango , ut terra lapis ; sum incorporalis , qui neque uideo neque tango , ut pietas iustitia . 
+ sum primus positio , qui ab natura firmo sum , ut mons schola ; sum deriuatiuus , qui ab primus positio nomen deduco , ut montanus scholasticus . 
+ hic autem deriuatiuus non regula , sed auctoritas firmo . 
+ nam plerumque inuenio uarius ab unus sermo , ut ; ab ; Tuder sum Tudertinus Tudoers . 
+ sum etiam diminutiuus , qui sentio minuo et non semper , sed frequenter syllabum cresco , ut agnus agnellus . 
+ sum etiam alius sonus diminutiuus , ut tabula fabula . 
+ in hic enim significatio principalis sum , sed enuntiatio diminutiuus . 
+ tunc enim res uerus sum diminutiuus , si habeo alius principalis , ut oculus ocellus . 
+ sum qui dico totus Graecus , ut Dido Mantus : hic possum et Graecus et latine declino , Graecus , ut Dido Dido , latine , ; ut ; Dido Dido , Mantus Mantus et Mantus Mantones . 
+ sum qui totus latinus appello , qui longe aliter ab Latina profero quam ab Graeci . 
+ nam cum Graeci dico Polydeux , Latinus appello pollux . 
+ hic autem qui tantum latinus sum latine declino . 
+ sum qui appello nothus , qui non primus syllabum , sed ultimus ab Graeci sermo dissentio , ut Achilleus Achilles , Agamemnon Agamemnus ; et fere omnis Graecus , qui in on exeo , detracto nn littera per breuis o profero , ut Apollon Apollo , Platon Plato . 
+ sum synonymos , qui  habeo elocutio , sed unus significatio , ut terra humus solum tellus . 
+ sum homonyma superior contrarius , ut aries : nam et machinamentum , qui murus expugno , et sidus in caelum et animal in terra aries uoco . 
+ sum patronymicus , qui traho non tantum ab pater , sed etiam ab parens : nam inuenio et ab mater duco , ut Thetideius et  , et ab auus , ut Aeacides , et ab maior , ut Dardanides Aeneas , et ab uitricus , ut amphitryoniades . 
+ sic ergo dico patronymicus non ab pater tantum , sed ab parens traho , ut dico parricida non is qui pater tantum , sed qui quisque parens neco . 
+ hic autem patronymicus , si Graecus sum , aut in do exeo , ut Atrides , aut in ius , ut Atreius , aut in on , ut Atrion . 
+ sed qui in do exeo , tantum patronymicus sum , ut Atrides Agamemnon ; qui in ius exeo , et patronymicus et possessiuus , ut Atreius Agamemnon , Atreius gladius , Evandrius ensis . 
+ qui autem in on exeo , in latinus sermo non transeo . 
+ femininus autem aut in hic exeo , ut Atrees ; aut in ia , ut Atreia ; aut in ne , ut Atrina . 
+ sum etiam nomen adiectiuus , qui plerumque sentio habeo , sed coniunctio laeto , ut magnus fortis : dico enim ' magnus uir ' , ' fortis exercitus ' . 
+ sum etiam qualitas , qui traho ab animus , ab corpus , extrinsecus , ut doceo niger felix ; sum quantitas , qui traho ab mensura , ut longus latus ; sum gens , qui gens significo , ut Graeci hispanus ; sum qui patria significo , ut Romanus ; sum qui numerus , ut unus duo tres quattuor quinque ; sum qui ordo , ut quintus sextus . 
+ sum qui ad aliquis dico , qui penitus non possum sine alter coniunctio intellego , ut pater : non enim pater possum dico , nisi filius habeo . 
+ sum ad aliquis qualiter sui habeo , qui ex contrarius significatio sumo , ut dexter sinister niger candidus . 
+ sum generalis , in qui species contineo , ut animal : nam animal dico et homo et canis et equus . 
+ sum specialis , ut sum ille qui dico , canis homo et equus : nam ille sum specialis , qui ; ab ; genus descendo . 
+ sum facio de uerbum , ut doctor lector . 
+ hic autem semper in tor exeo et orior ab gerundo modo ultimus tempus ultimus syllaba in tor uerto per omnis coniugatio , ut amo amator , doceo doctor , auditus auditor , lego lector . 
+ sum etiam participium similis , ut demens : nam sic sum demens quasi legens ; sed demens nomen sum , quia recipio comparatio , legens uero participium , quia non recipio similiter comparatio . 
+ sum etiam uerbum similis , ut contemplator : sed hic cum casus accipio , nomen sum , ut contemplator contemplator ; cum autem tempus  , uerbum , ut Marus dico ' contemplator aqua dulcis ' . 
+ sed conparatiuus gradus genus sum semper communis , excipio nomen , qui sum senior : hic enim , ut probus dico , tantum genus masculinus sum . 
+ non omnis qui sum qualitas et quantitas recipio comparatio , sed omnis qui recipio comparatio qualitas sum et quantitas , sic ut puta non omnis qui studeo causa ago , quisquis autem causa ago studeo sine dubius . 
+ rego comparatio sum qui primus syllaba integer per omnis ; gradus ; seruo , ut doceo doctus doctissimus . 
+ si autem integer non seruo , inaequalis efficio nomen , qui sum tantum tres , bonus malus magnus . 
+ cum consto conparatiuus gradus minus significo uideo , ut clarus clarissimus , doctus doctissimus . 
+ praeterea ipse conparatiuus non numquam positiuus significo , non numquam neque positiuus significo . 
+ quando dico ' Charon senior ' , modo non significo senior , significo tamen senex . 
+ at cum Salustius dico ' mare Ponticus dulcis quam ceterus ' , modo inuenio conparatiuus non solum conparatiuus non sum , sed neque positiuus : nam mare non modo dulcis non sum , sed neque dulcis quidem . 
+ Donatus dico quinque ADVius positiuus tantum sum iungo , tam [ qui ] magis magis paruus et parum , is scilicet ratio , quoniam uis in sui habeo comparo , atque ideo non debeo conparatiuus gradus iungo , ne uideo comparatio gemino . 
+ qui enim dico ' tam doctus ' , paene hic dico , ' doctus doctus ' , qui Latinitas non patior . 
+ probus autem dico omnis ADVius , qui uis augeo aut minuo in sui habeo , non debeo coniungo neque conparatiuus neque superlatiuus , ut sum iste , ualde multum multus per et similis . 
+ nam iste omnis tantum positiuus gradus debeo adiungo . 
+ Quod superlatiuus gradus dico genetiuus pluralis coniungo , non adeo uerus sum . 
+ nam inuenio is etiam singularis genetiuus possum coniungo , tunc quando nomen sum enuntiatio singularis , intellectus pluralis , ut sum ' o Danaum fortiter gens ' . 
+ qui dico enuntiatio masculinus , intellectus sum neuter pelagus , uerus sum ; uulgus falsum sum : et femininus et neuter genus lego apud Uergilius , femininus ' in uulgus ambiguus ' , neuter ' ignobilis uulgus ' . 
+ balneum genus neuter sum in numerus singularis : ; in numerus autem pluralis ; femininus quidem secundum usus , ut ' occido sum ad balneum Pallicius ' ; tamen et neutraliter lego , ut ' balneum uito ' in Horatius . 
+ caelum in numerus singularis genus neuter sum , in numerus autem pluralis genus masculinus : habeo enim in Lucretius ' qui totidem uerto caelus ' . 
+ caepe in numerus singularis genus neuter sum , ut ' tunico cum sal mordeo caepe ' . 
+ et hic nomen tres solus habeo casus , hic caepe hic caepe o caepe ; in numerus autem pluralis genus femininus simpliciter declino . 
+ ioco et locus simillimus nomen sum . 
+ nam in numerus pluralis et masculinus et neuter genus declino : dico enim et iocus et ioco , locus et locus ; in numerus autem singularis tantum masculinus , ut iocus et locus . 
+ qui dico genus communis sum inter masculinus ; et femininus ; , ut puto pampinus , non ita intellego , quasi sacerdos . 
+ nam sacerdos si masculus sum , hic sacerdos dico ; si femina , hic sacerdos : non possum hic pro noster uoluntas confundo , sed pro natura qualitas discerno . 
+ pampinus uero et dies et similis pro noster arbitrium uel masculinus uel femininus genus profero . 
+ Nomen neque in totus figo neque in totus mobilis dico ; leo ; leaena secundum Uergilius , ' toruus leaena lupus sequor ' ; secundum Ouidius mobilis sum , qui dico ut lea saeuus sitis multus compesco unda . 
+ idem genus debeo sum deminutiuus , qui genus sum principalis ; ut puto ideo hic domuncula genus femininus , quia et hic domus genus femininus sum : excipio scilicet paucus iste , scutum pistrinum canis rana uerna scutra ; nam scutra scutrillus facio , beta betaculus . 
+ puluis dico quia numerus singularis sum tantum ; sed lego apud Horatius novendialis dissipo puluis . 
+ item pax lux dico numerus singularis ; sed lego apud Salustii pax et lux . 
+ item Quiris dico numero tantum pluralis ; sed lego apud Horatius hic quiris , ut sum nominatiuus hic Quiris : item idem Horatius ' quis tu quiris ' ; qui nominatiuus sum hic Quiris , ut dico Petronius . 
+ quadriga dico numerus tantum pluralis , sed Uarro dico et numerus singularis . 
+ Virus genus neuter sum et declino qui ad modus doceo , hic uirus hic uir : lego enim apud Lucretius ' teter primordium uir ' . 
+ dico nomen iam compositus non debeo compono , ; et idem paulus ante dico de complures possum compono : ; ne contrarius sum , ita intellego debeo , ut licet nos nomen compono bis , sed ita ut primus compositio sentio nomen in contrarius non uerto , secundus autem uerto , ut terreo inperterreo . 
+ ille enim nos non licet facio , ut per compositio primus converto in contrarius significatio nomen per secundus compositio ualeo reuoco ad primus significatio , ut sum doceo indoctus , quando utique nullus ratio dico . 
+ praefectus uigil si sic dico , qui ad modus tribunus miles , is sum si pro unus nomen accipio uterque sermo , prior pars tantum modo declino . 
+ si autem uolo elocutio facio , dico praefectus uigil , qui tempus licet nos etiam in hic duo nomen aliquis adfero sermo , ut ' praeficio sum uigil ' . 
+ casus plerusque quattuor sum dico , aufero nominatiuum et  , qui similis sum nominatiuus . 
+ ideo autem aufero nominatiuum , quoniam , cum casus sum dico ab is , quod facio nomen cado , nominatiuus ex contrarius rego nomen ostendo . 
+ alium quinque doceo , ut Graeci , qui ablatiuus non habeo ; alium sex , ut Latinus , qui ablatiuus addo ; alium etiam septimus addo casus , qui sum ablatiuus similis sine praepositio , quamquam non in omnis similis inuenio . 
+ nam quando dico ' doctus ille ' et ' doctus ab ille ' , res uerus idem inuenio elocutio ; quando autem dico ' ille praesens suscipio ' et ' ab ille praesens suscipio ' , non sum similis ab uterque casus elocutio . 
+ Nam ' ille praesens suscipio ' admitto tertius persona ; ' ab ille praesens suscipio ' , inter duo tantum modo res gero uideo . 
+ non nullus adiungo octauus casus , qui facio , cum quis per accusatiuus cum praepositio possum dico ; et ; dico per dativus sine praepositio , ut ' eo clamor in caelum ' et ' eo clamor caelum ' uel ' subeo ad murus ' et ' subeo murus ' . 
+ inflexio autem uarietas in casus sex sum . 
+ aliquando enim omnis casus uarius exitus sumo , ut sum unus , qui dico forma hexaptoueo : item pentaptotus dico , ubi quinque sum uarietas , ut doceo ; item tetraptoueo , ubi quattuor , ut sum species ; triptoueo , ubi tres , ut sum templum ; diptotum , ubi duo , ut sum cornu genu : nam nominatiuus accusatiuus et uocatiuus corripio , alium tres produco . 
+ sum etiam monoptoueo , qui non bene monoptotus , sed aptotus dico , ut sum nequam . 
+ nam monoptoueo ille sum , ubi unus tantum casus sum , ut spons ; aptotus uero ille sum , ubi omnis quidem sum casus , sed nullus ratio uario , ut sum frux . 
+ inuenio autem nomen unus casus habeo tantum , ut natus tabum ; aut duo tantum , ut hic Iuppiter o Iuppiter ; aut tres tantum , ut hic nefas hic nefas o nefas ; aut quattuor tantum , ut hic dicio hic dicio hic dicio ab hic dicio . 
+ sed hic nomen reliquus casus in usus quidem non sum manifestus sum , in auctoritas autem saepe reperio . 
+ inimicus datiuus rego , quamquam usus uindico nominatiuus : ' inimicus ' enim ' ego sum ' dico , non meus . 
+ item ' secundus ab ille sum ' dico , non secundus ille . 
+ quamquam iste nomen , qui suus casus seruio , etiam alius varius auctoritas iungo . 
+ nam et pactus ille res dignus ille res . 
+ qui dico ab hic mula filia dea nos dico debeo , scio sum propter testamentum necessitas . 
+ nam hic paucus dico probus contra ars sum suscipio , neque nos debeo ad iste similitudo alius declino . 
+ is enim , qui ars careo , solus auctoritas firmo . 
+ uas in numerus singularis tertius sum declinatio , in numerus pluralis secundus . 
+ dies secundum regula tantum femininus genus sum : nullus enim nomen ex produco ablatiuus termino alter possum genus inuenio . 
+ qui autem dico genus masculinus , ratio persuadeo ADVii : nam hodie dico quasi hic dies significo ; neque tamen dico  quasi hic dies . 
+ nam quotiens nominatiuus singularis n et s termino , ablatiuus in ex et genetiuus pluralis in  exeo . 
+ a supra dico regulis uenio accusatiuus singularis . 
+ tunc in ims exeo , cum ablatiuus singularis indubitabiliter i termino , ut ab hic uis , ab hic Tiberis : facio enim hic uis , hic Tiberis . 
+ si autem ex termino ablatiuus , tunc uario accusatiuus , ut ab hic puppis hic puppis . 
+ domus et iugerum ab antiquus aliter declino , quam hodie declino . 
+ nam domus quartus sum declinatio , iugerum tertius . 
+ nos autem in hic nomen , is sum domus , tres [ in unus ] casus usurpo ab secundus declinatio , ablatiuus ab domus , genetiuus pluralis hic domus , accusatiuus pluralis hic domus . 
+ in nomen autem iugerum unus tantum modo casus usurpo , ablatiuus ab hic iugerum . 
+ V littera tunc retineo in datiuus pluralis , ut ipse dico , cum aliquis discerno sum , ut artus et arcus . 
+ qui regula tamen inuenio duo nomen contrarius , is sum nullus discretio interuenio ut retineo , ut specus et tribus . 
+ ab iste regulum discrepo nomen tantum pluralis , ut Vulcanalia Mintervalia , ideo quod ille regula ablatiuus sum singularis , hic autem nomen numerus sum tantum pluralis . 
+ qui licet regula non habeo , tamen ad similitudo nomen declino sum , qui [ nomen ] regula contineo , is sum ut sic declino hic kalendae quemadmodum ad modus ; hic Musa , hic man qui ad modus ; hic agilis , hic idus qui ad modus hic manus . 
+ quamquam dico , ut , qui ad modus regula careo , ita uarius declino . 
+ nam inuenio apud auctor et ancilium et ancilius , et Uulcanalius et Vulcanalia . 
+ item nomen Graecus ab supra dico regulis segrego , ut emblema poema ; et hic iustus . 
+ nam si Graecus sum , uel ablatiuus careo ; ille autem regula ab ablatiuus origo sumo , qui non possum suscipio nomen ablatiuus careo . 
+ sed hic maior noster aut tertius declinatio declino , si sum genus neuter , ut poema poema ; aut primus declinatio declino , si sum genus femininus , ut hic poema hic poema . 
+ quamquam inuenio aliquis casus neque ab ille neque ab iste regulum declino , is sum genetiuus pluralis et datiuus et ablatiuus pluralis : lego enim apud Cicero hic poemator hic poema et ab hic poema ; similiter et emblematus et emblema , peripetasmatum peripetasma . 
+ analogia dico ratio declinatio nomen inter sui omnis pars similis ; latine proportio uoco . 
+ Nomen autem similis sum omnis pars , si octo res sum similis , is sum sex ille qui accido nomen , qualitas comparatio genus numerus figura casus , deinde exitus syllaba , deinde consono ratio paenultima . 
+ Atque si unus res de iste octo similis desio , dico [ enim ] nomen nullus ratio similiter declino . 
+ qui res exemplum sum lepus et lupus . 
+ nam licet septem pars consentio , tamen , quia genus dissentio ( lupus enim transeo in alius genus , ut lupus lupa , lepus lepa non facio ) . 
+ probus autem pronomen in quattuor pars divido puto , is sum pronomen finio infinitus paruus quam finio et possessiuus ; qui non uideo habeo ratio . 
+ unde Donatus melior , qui in duo pars in primus diuido . 
+ nam si is sum finio pronomen , qui recipio persono , alius omnis , qui non recipio persono , infinitus dicendus sum . 
+ unde appareo quod infinitus et minus quam finio sum et possessiuus : in ille enim non accido certus persona . 
+ cuias et noster uel cuias et nostraet ( nam uterque dico secundum Plautus auctoritas ) gens significo , is sum ' qui gens ' , [ optimas ] ' noster gens ' . 
+  accentus in ultimus syllaba pono , quando dico cuias ; sed prauus . 
+ Nam nullus pars oratio sum latinus absque praedico , qui possum in ultimus accentus tenere . 
+ sum aliquis pronomen qui casus cresco : nominatiuus , ut qui uel qui , genetiuus singularis , ut meus uel mus , tu uel o , ablatiuus singularis , ut ab qui uel ab qui ; pluralis datiuus et ablatiuus , ut ab qui uel ab qui . 
+ qui ratio fio , superior dico . 
+ sum ex contrarius qui casus decresco : nam aliquando uocatiuus non inuenio , ut in pronomen ego ; aliquando nominatiuus et uocatiuus , ut in pronomen suus sui sui ab sui ; aliquando tantum accusatiuus , ut eccus eccus ellus ella ; aliquando tantum genetiuus , ut cuius et cuius . 
+ qui autem dico suus alius sum pronomen , uerus sum : non enim de possessiuus nascor , qui nominatiuus sum suus . 
+ nam si inde nascor , datiuus in o mitto , suus , non in i , sui . 
+ praeterea sum alius differentia , quod hic pronomen , suus uel sui , uterque numerus sum ; ille uero possessiuus , suus , et singularis habeo numerus et pluralis . 
+  sum apud Graeci , an o uocativus casus sum articulus , et probo non sum . 
+ omnis enim articulus , cum de numerus singularis ad pluralis transeo , uarius profero , ut hic et hic , hic et hic et relinquo . 
+ quando autem dico o doceo et o doceo , in uterque numerus idem articulus pono . 
+ qui re non articulus uideo , quia non muto in numerus pluralis , sed potior aduerbium uoco , ut , qui ad modus dico ' heus uos doceo ' , sic dico ' o tu doceo ' et ' o uos doceo ' . 
+ inter articulus et pronomen hic intersum , quod pronomen tunc sum , cum sine nomen sum et absum nomen uideo explio persono , ut hic hic hic . 
+ quando autem dico hic Aeneas hic Aeneas , iam non possum pronomen dico , cum non fungor is nomen , qui praesens sum , officium : ipse enim nomen per sui significatio impleo . 
+ neuter uter alius et reliquus consto sum nomen , quoniam probus uiginti et unus dico sum pronomen , in qui iste non computo . 
+ is pronomen , qui uterque pars nominatiuus habeo , secundum forma nomen declino . 
+ Nam uterque pars sic declino quisquis , qui ad modus praetor urbanus ; sic autem prior pars non declino aliquis , qui ad modus neque ius peritus ; sic posterior pars non declino quispiam , qui ad modus neque tribunus miles . 
+ odi nosco memini quaero qui sum tempus . 
+ consto sum perfectus . 
+ nam et perfectus in i semper exeo , ut lex scribo , et praesens tempus numquam in i , sed semper in o exeo . 
+ ille enim uerbum significatio habeo praesens tempus , regula autem praetereo . 
+ sum defectiuus uerbum sum in coniugatio . 
+ nam quando dico sum , non possum sum secundus coniugatio , quia et ex corripio habeo et in primus persona et ante o non habeo . 
+ Pudet et taedeo quasi defectiuus pono ; in superior autem pars inpersonalis non contrarius sum pono . 
+ nam hic ipse uerbum inpersonalis defectiuus sum . 
+ Sublo enim de primus uerbum duo persona , primus et secundus , tertius utique supersum ; qui si non sui adiungo pronomen , defectiuus dico sum uerbum , si autem adiungo , inpersonalis . 
+ gaudeo et audeo ab plerusque neutropassiuus , ab alius anomalus , ab alius supinus uerbum dico , qui in tempus perfectus et plusquamperfectus  habeo declinatio , in reliquus actiuus . 
+ sum alius inaequalis , qui ; et ; suus habeo declinatio et contrarius , ut sum placeo : nam et placeo facio et placeo sum . 
+ sum item alius inaequalis , qui ideo sum inaequalis , quia primus syllaba non reseruo , ut nolo uolo : facio enim nolo non uolo non uolo , non nolo nolo nolo : item uolo uolum volo non dico , sed uolo uolo uolo . 
+ sum alius penitus anomalus , de qui nihil possum dico , nisi qui lectio detineo , is sum is usurpo persono , qui tantum auctoritas firmo , ut sum hic , facio facio , infit , inquam et reliquus . 
+ primus persona indicatiuus modus semper corripio , ut lego , absque monosyllabus , ut do sto flo , qui quidem ipse , si fio polysyllaba , ut reddo  praesto , corripio . 
+ uerbum qui declinatio in noster potestas sum sum hic , tondeo lauo fabrico punio et reliquus . 
+ uerum tamen debeo secundum natura actus uel actiuus uel passiuus praesumo in declinatio , ut ' ego lauo ' , ' balneum lauo ' ; quando ego capillus depono , ut dica tondeo , quando alter capillus detraho , ut tondeo . 
+ primus persona non debeo ita profero , lego ego , quoniam lego iam habeo in sui significatio pronomen ; nisi tamen sic tunc possum dico , lego ego , quando nos magis uolo ostendo lego quam alius , ut sum ' quasi ego magis lego quam ceterus ' . 
+ ' maledico tu ' dico , non tu , quoniam ' tu dico ' , non ' tu dico ' dico . 
+ primus persona ante ultimus o septem littera non habeo , h o f  qies  z ; ceterus uero habeo , et , ut sedeo , i , ut audio , ut , ut annuus , b , ut libo , et ; reliquus ; , sicut in ars scribo sum . 
+ K ideo non possum praepono o littera , quia numquam antepono nisi ab sequor . 
+ o y z ideo non possum praepono , quia unus tamen uerbum , qui o ante o habeo , ut reboo , ' reboo silua que et magnus o ' . 
+ ideo contra regula uenio , quia Graecus sum . 
+ ceterus in ars conscribo sum . 
+ AdVius dico sum , quia necesse habeo semper uerbum sequor . 
+ Uerbum tamen non necesse sum egeo semper ADVio . 
+ nam possum dico sic , lego . 
+ nunc enim et plenus sum elocutio , et aduerbium tamen non inuenio . 
+ nam cum dico cras hodie , non sum integer elocutio , nisi addo uerbum , ut puto dico uel facio . 
+ AdVius plerumque confirmo uerbum , plerumque destruo : confirmo , ut ' iam facio ' ; destruo , ut ' non facio ' . 
+ AdVius aut ab sui orior aut ab alius pars oratio uenio , sicut in ars pono sum : nam ibi sum exemplum uarius pono . 
+ Hornus autem nihil sum alius nisi hic annus . 
+ unde deriuatio duplex inuenio . 
+ Nam Cicero dico hornotinus frux ; Horatius dico hornus frux . 
+ item meatim nihil sum alius nisi meus mos , tuatim tuus mos . 
+ qui dico de participium aduerbium possum deduco , uerus non sum . 
+ etenim ille exemplum qui profero , is sum indulgeo , non tantum participium sum : nam recipio comparatio ; facio enim indulgentus indulgentis . 
+ ergo quando dico indulgenter , non uideo ab participium transeo ad aduerbium , sed ab nomen . 
+ omnis ADVius et termino in positiuus semper produco , ut doceo , excipio tres regula is  , qui aut non comparo , ut rite ( nemo enim dico ritius ritus ) , uel qui anomalus comparo , ut bene ( nemo enim dico benius beniter ) , uel qui ab sui orior , ut impunis [ inpune ] . 
+ hic scilicet in positiuus ; ceterum superlatiuus gradus semper produco , ut doctissimus . 
+ Facilis et difficile [ non ] quaero , uter ADVius sum an nomen . 
+ consto autem sum nomen tantum , quia semper corripio sum : si enim ADVius sum , ut supra dico , produco : deinde , quia neuter genus forma sequor . 
+ sicuti enim dico facilis facilis , ; sic ; et difficilis difficilis . 
+ deinde si ADVius sum , in ter exeo : datiuus enim nomen i termino aduerbium in ter syllaba mitto , ut hic fortis fortiter ; sic hic facilis faciliter , hic difficilis difficiliter dico . 
+ ergo consto sum nomen . 
+ sic autem pono sum pro ADVium , qui ad modus fere inuenio apud poeta nomen pro ADVium constituo , ut ' torva clamo ' pro is qui sum toruus , ' horrendus resono ' pro is qui sum horrendus . 
+ qui figura orator omnino utor non debeo . 
+ Genus enim sum soloecismi , sicut ipse Donatus paulus post de  ratio monstro . 
+ scio autem debeo quod datiuus singularis o termino aduerbium in ex mitto , ut hic doceo doceo , i termino in ter , ut hic agilis , agiliter ; qui quidem regula saepe corrumpo auctoritas . 
+ nam inuenio plerumque is sum aduerbium , qui datiuus sum casus , ut falso . 
+ hic autem ambiguitas elocutio discerno . 
+ quando enim dico ' falso homo do ' , sum nomen ; quando dico ' falso loquor ' , sum aduerbium . 
+ item plerumque in contrarius cedo . 
+ Nam Terentius aio duriter , cum dure dico debeo , et Uergilius lugubris , cum lugubriter recte dico . 
+ is ADVia comparo sum , qui duco origo ab nomen recipio comparatio , ut sum doceo . 
+ ideo enim dico doceo doctior doctissimus , quoniam dico possum doceo doctus doctus . 
+ ab is qui sum Tullius cum fio aduerbium , non recipio comparatio , quia neque nomen recipio . 
+ sum alius ADVius , qui per sui non comparo , egeo autem comparatio , ut sum mane : nemo enim dico manius , nemo mane . 
+ uerum tamen hic , qui per inflexio non habeo , possum facio per adiectio ille particula , ut magis et magis , ut puta sum positiuus mane , conparatiuus magis mane , superlatiuus magis mane . 
+ omnis pars oratio cum desio sum qui sum , nihil alius sum nisi aduerbium . 
+ idcirco si nomen desio sum nomen , non facio pronomen aut participium , sed solus aduerbium , ut sum sedulus . 
+ nam si dico ' sedulus homo do ' , nomen sum ; si dico ' sedulus facio ' , aduerbium sum . 
+ item pronomen aliquando et aduerbium sum . 
+ cum enim dico ' qui sum ' , sum pronomen ; cum dico ' qui scio ' , sum aduerbium . 
+ item uerbum plerumque et aduerbium sum . 
+ quando enim dico pono primus syllaba accentus habeo , sum uerbum ; quando ultimus syllaba do accentus , sum aduerbium . 
+ item et participium aliquando aduerbium sum . 
+ cum enim dico ' ego ad uilla prŏfectus contingo ' , participium sum prŏfectus ; cum dico ' prŏfectus male loquor ' , aduerbium sum prŏfectus . 
+ item ante praepositio non numquam et aduerbium sum . 
+ praepositio in hic elocutio sum , ' ante templum ' ; casus enim habeo iunctus : si autem dico ' ante facio ' , sum aduerbium , quoniam sequor uerbum . 
+ ut coniunctio sum , sed plerumque et pro ADVius pono , ut cum dico ' ut tu , fortiter Teucrus , accipio ' . 
+ heus si dolor significo , interiectio sum , ut heus etiam mensa consumo , inquam Iulus ; si autem uerbum sequor , aduerbium sum , heus , inquam , iuuenis monstro meus . 
+ sum enim nomen , qui modus nomen interdum pro ADVium utor , ut ante dico sum . 
+ ille fideliter tenere debeo , numquam separatim praepositio ADVium possum coniungo , uelut de mane , de noctu . 
+ qui autem inuenio indoctus et infrequenter , sum quidem praepositio , sed non separatim , sicut sum etiam ille particula , qui ipse pono artigrafus , desursum deorsum deinceps . 
+ ita enim consto duo pars oratio , ut unus ambo nitor accentus . 
+ nec duo praepositio interuenio ADVius socio sum . 
+ praepositio etiam de non possum adiungo nomen interuenio ADVius , ut ' de trans Tiberis uenio ' , qui ad modus ' illinc uenio ' . 
+ participium sum quasi particapius : habeo enim ab nomen genus et casus , ab uerbum tempus et significatio , ab uterque numerus et figura et ceterus , qui in superior dico sum . 
+ in posterior ille adicio , inchoatiuus uerbum non habeo nisi praesens tempus participium , sum autem careo . 
+ ideo autem [ in ] sum careo , quoniam regula sum participium ab praetereo duco participium , praetereo autem participium ab tempus perfectus origo sumo ; et ideo , cum inchoatiuus uerbum tempus perfectus non habeo , non possum habeo is qui addo iam tempus perfectus . 
+ praeterea dico participium ab inpersonalis uerbum nisi usurpo non uenio ; qui res penis Latinitas non sum [ et similis ] . 
+ et hic similiter ab ars descendo . 
+ etenim participium ab primus positio uerbum origo traho . 
+ cum igitur inpersonalia primus persona non habeo , participium non ius ex sui facio , sed tamen , ut dico , usurpo nos licet . 
+ inuenio enim apud uarius auctor , qui puto ideo facio , non quod de inpersonalis usurpo participium , sed quod ipse inpersonalis facio uerbum plenissimus . 
+ nam hic , qui dico pudet taedeo tantum dico , inuenio in auctor et pudeo et taedeo ; unde facio pudens et taedeo : participium non ab inpersonalis uideo , sed ab uerbum integro . 
+ odi uerbum participium habeo osus , quod licet in usus non sum , tamen compono , et in usus sum , exosus perosus . 
+ ab is qui sum memini ars nullus participium reperio : si ad usus , uerus sum ; si ad auctoritas , falsum . 
+ nam inuenio in Plautus memineo . 
+ tunicatus galeatus dico participium non sum , sed nomen , is quod ab uerbum non traho . 
+ sed si diligenter adtendo , aduerto ab similis participium comprobo . 
+ nam licet non facio tunico galeo , tamen , quoniam tempus habeo , sine dubius participium sum . 
+ etenim ' armo incedo ' et ' uestitus incedo ' cum dico , hic significo , ' iam armo , iam uestitus sum ' . 
+ sic etiam dico ' tunicatus incedo ' , ' galeatus incedo ' , is sum [ et ] ' iam tunica habeo ' , ' iam galea habeo ' . 
+ qui res tempus ostendo ; et si tempus sum , participium sum . 
+ prandeo ceno et reliquus consto sum participium , licet ab uerbum non uenio . 
+  sum enim regulariter , ut ab neutralis uerbum licet nos usurpo praetereo participium . 
+ sed quoniam in hic ars deficio , debeo uel auctoritas firmo neque ad iste similitudo alius fingo , sed ille tantum utor , qui lego sum . 
+ Nomen similis participium praetereo tempus quartus sum declinatio , ipse autem participium secundus , ut hic uisus hic uisus nomen sum , hic uisus hic uiso participium sum . 
+ furibundus et moribundus ; quaesio sum ; quis sum ; et nomen sum manifestus sum , quod subtraho dus syllaba et addo ; s ; littera non redeo in participium praesens tempus , qui regulariter dico sum nouus ratio . 
+ participium , qui consto sum participium , neque positiuus gradus possum recipio , quoniam participium nullus recipio comparatio . 
+ tamen conparatiuus gradus plerumque suscipio , acceptus et incensus , qui res solus sensus ratio secerno . 
+ AdVius de participium nascor Donatus adsero , multus nego . 
+ sed consto apud maior quidem lego , in usus tamen sum non possum , ut dico sum in ADVius . 
+ in coniunctio nihil penitus nosco pono , sed ita hic sicut in superior pars tracto . 
+ ille plane adicio , quod licet nos coniunctio pro alius coniunctio pono ; qui non mirus sum , cum licet et alius pars oratio pro alius pono , ut nomen pro uerbum , pronomen pro ADVius , et multus alius , tamen significatio muto . 
+ praepositio sum pars oratio dico , qui in loquor praepono . 
+ et hic sum is natura , puta ' ante templum ' : nemo enim dico ' templum ante ' . 
+ sed tamen sum unus praepositio qui pro arbitrium noster pono , ut tenus : dico enim et ' pubes tenus ' et ' tenus pubes ' . 
+ item cum plerumque sic postpono inuenio , ut praepono omnino non possum ; qui utique contra ars uideo , ut cum dico ego cum tu cum nos cum uos cum . 
+ praepositio autem aut cohaereo aut uterque efficio , con deus s . 
+ ita enim loquor , ' conduco tu ' , ' distraho tu ' , non aut ' con tu duco ' aut ' do tu traho ' . 
+ separo apud et penis . 
+ etenim cum dico ' apud amicus ' , duo pars oratio sum ; ' penis arbiter ' similiter duo . 
+ alius uero et cohaereo et secerno possum , ut prae . 
+ nam cum dico praefero , utique cohaereo inuenio ; cum autem ' prae metus ' , segrego sum . 
+ in accusatiuus praepositio , qui triginta tantum sum , ille duo possum in quaestio uoco , apud et ad , is quod ; apud ; semper in locus sum , ut ' apud amicus sum ' ; ad uero secundum ars semper ad locus , ut ' ad amicus uado ' . 
+ quamquam et secundum auctoritas inuenio in locus , ut ' ad Marcus Laeca tu habito ' . 
+ usque non uideo plurimus praepositio , quoniam sic alius praepositio non possum pono . 
+ etenim dico ' usque ad forum uado ' , ut Uergilius ' ad usque columna exulo ' . 
+ nam si habeo alter praepositio , ipse praepositio sum non possum : numquam enim praepositio alter praepositio cohaereo . 
+ idcirco debeo dico usque aduerbium sum , qui iterum ratio refuto : etenim ADVius praepositio separatim numquam cohaereo . 
+ si autem uolo , ut coniunctim cohaereo , non iam aduerbium sum , sed potior recipio natura suus : nam et praepositio praepositio sic cohaereo , ut pro unus pars oratio habeo , inuenio saepe apud Cato , ut circumcirca , is sum circa . 
+ in ablatiuus praepositio et et ex hic habeo obseruatio , ut , si uocalis sequor , ex praepono , ut ' ex amicus audio ' ; si autem consono , et praepono , ut ' ex forum uenio ' . 
+ ille uehementissime observo debeo , ut con et in , quotienscumque post sui habeo s uel f littera , uideo quemadmodum ad modus pronuntio . 
+ plerumque enim non obseruo ; in ; barbarismus incurro . 
+ Nam cum ipse natura breuis sum , tamen , si sequor supra dico littera , plerumque in longitudo transeo , ut cum dico confio confessio , item consilium consulo . 
+ hic enim locus pronuntio sum ut longus ; similis insula infula . 
+ qui magis auris iudicium quam ars ratio colligo . 
+ praepositio aut ipse uerbum corrumpo , ut conficio ; nam sum integer facio : aut ipse corrumpo ab integer uerbum , ut affero ; nam sum integer fero : aut uterque , et corrumpo et corrumpo , ut afficio . 
+ nam affero , qui scribo per ab et per dies , incipio scribo per ab et f ; et item qui sum facio , fio ficium . 
+ praepositio et quando praepono et quando postpono , si casus suus retineo , praepositio sum , ut ' per transtrum ' , ' transtrum per ' ; si autem casus muto , facio aduerbium , ut ' longus post tempus uenio ' . 
+ Ambiguus praepositio quattuor sum , in sub super et subter , qui maior indifferenter utor ; sed hodie iam duo sum , in et sub : nam super et subter accusatiuus habeo . 
+ in autem et sub qui ratio seruo , in superior ars tracto sum . 
+ plerumque idem sum praepositio , qui sum et aduerbium , ut ante et propter . 
+ sed quis magis dico sum , hic ratio colligo . 
+ etenim si pars oratio sequor , qui casus seruio , praepositio sum , ut ' ante templum ' , ' propter aqua ' : templum enim et aqua casualis pars oratio sum . 
+ quando autem dico ' ante facio ' , ' post dico ' , ADVius sum : sequor enim uerbum , et nosco utique ADVius semper uerbum egeo . 
+ interiectio nihil habeo nisi solum mens affectus , qui tunc uere interiectio dico , quando uox inconditus profero , ut o heu et similis . 
+ cum autem plenus ; uox ; adhibeo ad exprimo animus affectus , non tam interiectio dico , quam pro interiectio , ut ' pro Iuppiter eo hic aio ' . 
+ et hic pars non possum proprius nomen unus quisque significatio tenere , is quod uarius interiectio sum : nam o doleo lego , ut o ego praetereo refero si Iuppiter annus , et irascor , ut ' o callidus homo ' et similis . 
+ decurro octo pars tractatus incipio iam transeo ad ille , qui doceo nos , uel qui ad modus possum uito uitium uel habeo uirtus . 
+ uitium autem sum , ut ipse dico , tantum quattuordecim . 
+ Reliquus uero uirtus uoco , qui diuido in metaplasmus , in schema , in tropus . 
+ metaplasmus sum res solus necessitas , schema res solus orno , tropus res qui duo amplector superior et uitium omnis , in qui sum barbarismus . 
+ qui uitium ita definio , barbarismus sum uitium facio in unus pars oratio uel in unus sermo contra regula ars grammaticus . 
+ Plinius autem dico barbarismus sum sermo unus , in qui uis suus sum contra natura . 
+ barbarismus autem dico is , quod barbarus prauus loquor , ut siqui dico Ruma pro Roma . 
+ sed tunc barbarismus dico , cum in unus Romanus lingua sermo pecco . 
+ ceterus si peregrinus sum uerbum ( habeo enim multus et ab Galli et ab africus et ab alius gens ) , tunc barbarolexus uoco . 
+ praeterea si in prosus oratio fio , tunc barbarismus dico ; si autem in poema , metaplasmus uoco . 
+ quando enim dico Uergilius relliquia , quoniam in metrum sum , dico sum metaplasmus ; si solutus sum oratio , barbarismum uoco . 
+ facio autem barbarismus principaliter modus duo , pronuntiatio et scribo : ; pronuntiatio , ; si aut naturaliter longus syllaba breuiter profero , ut Roma , aut si naturaliter breuis produco , ut rosa .  scribo uero qui ad modus fio ? 
+ modus quattuor , is sum per adiectio detractio inmutatio transmutatio ; et fio quinque res , littera syllaba accentus tempus adspiratio . 
+ hic omnis aut adicio aut detraho . 
+ adicio littera , ut ' relliquio Danaum ' , syllaba , ut induperator pro is qui sum imperator : tempus , ut ' Italia fo profugus ' , cum Italia prior corripio syllaba dico debeo : accentus , ut hic ; aliter enim pronomen , aliter aduerbium pronuntior sum : adspiratio , horcus pro orcus ; sic enim dico antiquus . 
+ similiter per detractio . 
+ aut littera detraho , ut Achilis pro Achilles , aut syllaba , ut uixa pro is qui sum uiuo : aut tempus , ut sto que coma et uox fauces haereo pro sto ; medius enim syllaba naturaliter produco debeo : accentus , quando dico deinde ; medius enim habeo debeo ; acuo ; , quia positio longus sum : adspiratio , ut arena ; pro harena ; ; hic enim uerus sum ; dico sum enim ab is , quod haridus sum terra . 
+ inmutatio uero et transmutatio similis ratio monstro . 
+ qui exemplum ibi in ars sum pono . 
+ per adspiratio quando facio barbarismus , dubito sum , an pronuntiatio imputo , an scribo , quoniam hic aliquando anhelitus et cum lingua sum , scribendus sum dico cum anhelitus in pronuntiandus . 
+ inter ; in ; mutatio et transmutatio hic intersum , quod inmutatio dico , ubi alter littera pro littera pono , ut ille pro ille ; transmutatio autem sum , ubi solus ordo muto ipse maneo littera , ut Evandres pro Evander . 
+ conuersio enim facio sum littera . 
+ hic ita sui habeo dico sum quidam uitium , qui quidem nomen non tribuo , tamen uitandus praecipio . 
+ sum autem iotacismus   hiatus et collisio . 
+  sum , quotiens post tim uel deus syllaba sequor uocalis , et plerumque supra dico syllaba in sibilus transeo , tunc scilicet , quando medius locus teneo , ut meridies . 
+ quando autem primus locus teneo , etiam sic pono , sicut dico , ita etiam sono sum , ut dies tiara . 
+ Labdacismius facio , si aut unus ; lt ; tenuior dico [ solocismus ] , ut Lucius , aut geminus pinguus , ut Metellus . 
+ Myotacismus facio , quotiens post pars oratio in m littera desino sequor alius pars oratio qui inchoo ab uocalis , ut ' homo amicus ' . 
+ hic uitium uito possum aut per suspensio pronuntio aut exclusio ipse m littera . 
+ sed melior sum ut suspensio pronuntio hic uitium relinquo . 
+ si enim uolo mt littera excludo , uito quidem myotacismus , sed cado in hiatus . 
+ hiatus autem sum , quando uocalis uocalis sequor in duo pars oratio , ut ' Musa amo ' . 
+ qui foede sum , si ee ; do ; uocalis sui sequor ; ceterum si alius , leuiter uideo , ut ' Musa bonus ' . 
+ collisio sum , quotiens ab idem syllo inchoo sequor pars oratio , qui termino prior , ut ' mater traho ' . 
+ Ut dico , uitium nomen impono nullatenus possum ; definitio tamen intueor possum ita defendo . 
+ nam si barbarismus sum uitium facio in unus pars oratio , tantum non sum barbarismus adplicandus iotacismus et labdacismus , qui in singulus fio pars oratio ; ceterum myotacismus hiatus et collisio , quoniam non numquam in unus pars oratio possum efficio . 
+ de qui res sui ab nomen abstineo . 
+ praeterea [ hiatus ] sum  qui ad grammaticus pertineo ; ille uero , qui in syllabum facio , neque ad grammaticus pertineo neque barbarisma dico possum . 
+ frequenter enim in duo pars oratio facio , qui contra definitio sum  , ut ' lex noster ' , ' ergo reuoco ' et similis . 
+ hic dico malus compositio . 
+ Soloecismus dico sum uel ex Graecus etymologia , quasi sWOU LOGOU  , is sum sanus sermo uitium , aut certe ideo , qui sOLOIKOI uenio Athenae et male loquor nomen ex sui uitium do . 
+ Soloecismius autem definitio sum talis , uitium facio in contextus pars oratio , ita ut singulus sermo Latinus sum , sed pecco ipse coniunctio , ut siqui dico ' multus ego homo iniuria facio ' pro facio . 
+ quaesitum sum , an etiam in unus sermo possum fio soloecismus , ueluti cum dico unus homo salueo , aut cum uir uoco dico hic , aut cum interrogo qui eo dico intus . 
+ sed cum scio et ualeo et hic et intus Latinus sum sermo , utique ideo uideo modo soloecism facio , quoniam refero ad aliquis . 
+ relatio autem alter res ad alter res unus sermo non sum . 
+ nam quando dico hic de uir , non ideo uitiosus sum hic , quia naturaliter uitiosus sum , sed quia refero ad uir . 
+ item cum dico ' intus eo ' , non ideo uitiosus sum elocutio , quia intus omnino non dico , sed quia ad locus refero sum aduerbium , qui in locus sum . 
+ scala scopa quadriga et alius barbarismus sum uolo , quoniam singulus sermo uitium teneo , secundum supra scribo definitio . 
+ Soloecismi genus centum dico sum Lucilius . 
+ plane consto breuis et melior pono Donatus , qui dico duo sum genus principalis , reliquus specialis . 
+ principalis autem genus soloecismo sum , cum facio aut per pars oratio aut per accidens pars oratio . 
+ ; per pars oratio , ; si aut alius pro alius pono , ut ' toruus que repens clamo ' , is sum toruus ; nomen pro ADVius pono . 
+ qui elocutio sic hodie crebrus sum , ut figura puto . 
+ nam omnis dico ' pulcher lego ' , ' delicatus loquor ' , cum utique nomen sum iste pono pro ADVium , qui in ars grammaticus uitium iudico . 
+ item fio soloecismus per pars oratio , si ipse per sui malo ordo pono , ut ' intus eo ' pro intro . 
+ nam cum et intus et intro ADVius sum , tamen malus ordo pono uitium facio . 
+ per accidens uero pars oratio tot modus facio  , quot sum quisque pars accidens . 
+ in nomen facio , si proprius pro appellatiuus pono , ut haurio hic oculus ignis crudelis ab altus Dardanus : Dardanus aio , cum Dardanius dico debeo ; usus sum principalis pro deriuatiuus : per genus fio , ut ' amarus cortex ' , cum omnis fere et frequenter cortex genus masculinus dico : per numerus , ut ' pars in frustum seco ' pro ' pars seco ' et ceterus , qui illic in ars planissimus cum exemplum suus teneo . 
+ plane scio sum quoniam , si in prosus oratio fio hic uitium , tunc soloecismus uoco ; in poema schema dico . 
+  sum apud Plinius secundus , quis intersum inter figura et uitium . 
+ Nam cum figura ad orno adhibeo , uitium uito , idem autem inuenio exemplum tam in figura quam in uitium , debeo aliquis sum discretio . 
+ quidquid ergo scio facio nouitas cupidus , qui tamen idoneus auctus firmo exemplum , figura dico . 
+ quidquid autem ignoro pono , uitium puto . 
+ nam sicut superior dico , ; si ; scio quis dico ' pars in frustum seco ' et causa uarietas hic dico , figura facio ; si autem nescius , cum alius uolo dico , incongruus inter sui numerus  , soloecismus facio iudico . 
+ cum barbarismus et  duodecim uitium puto , qui in ars sum scribo . 
+ inter qui et cacenphatos pono , quod dico fio aut in unus sermo aut in plus . 
+ ille non adicio , facio cacenphatos etiam in sensus . 
+ in qui reprehendo Salustius dico nam res iste si cogito , obscenus sum . 
+ et cum dico Uergilius ' coniunx infundo gremium ' , et hic cacenphatos sum in sensus . 
+ Pleonasmi in uerbum tantum facio , perissologium in sensus tantum , acyrologium in uterque . 
+ ceterus uero exprimo sum pono . 
+ inter metaplasmus et schema et tropus hic intersum , quod metaplasmi tantum necessitas excuso , schema ad orno adhibeo , tropus ad uterque : ut cum dico fero , si in metrum non possum dico fero , sum metaplasmus , quoniam necessitas causa dico sum fero ; si autem fero possum in metrum dico , schema facio ille qui dico fero : nam solus seruio ornatus [ nominatiuus ] . 
+ si autem et metrum ratio exigo , et cupidus alioqui nouitas hic dico , tropus uideo facio . 
+ quare diu lectio debeo considero , ut , si metrum necessitas aliquis facio nouitas , tunc dico sum metaplasmus ; si autem scriptor ornatus tantum studo , tunc schema uocito ; si in unus uterque facio sum , ut et subuenio necessitas et adhibeo omnis modus ; orno ; , tropus efficio . 
+ metaplasmus autem quattuordecim sum . 
+ sed primus septem alius contrarius sum . 
+ Nam nullus sum metaplasmus , qui non habeo contrarius :  EPENQESISs  , qui facio per additio , contrarius sum ille qui facio per detractio , is sum AFAIRESISus sUGKOPH APOKOPH ; et extra ordo qui sequor omnis statim contrarius habeo . 
+ schema uero et tropus exemplar in ars planissimus sum pono . 
+ plane scio sum quoniam schema in sermo facio ad grammaticus pertineo , in sensus facio ad orator . 
+ nam cum dico ' pars in frustum seco ' , quoniam in uerbum sum quaestio , figura grammaticalis sum ; quando autem dico Uergilius quis memor infandus caedes , is sum cum dico sui non dicio facio Mezentius et nihilum minus dico , quoniam in sensus res sum , ad orator pertineo hic figura . 
+ praeterea hyperbato ; et ; allegoria non in omnis locus dico . 
+ nam generalis sum : quisquis enim dico hyperbatos , simul quinque tropus pono ; quisquis allegoria , simul septem . 
+ quare debeo non ipse utor principalis nomen , sed potior nomen subdivisio , sicut in ars dispono sum . 
+ inter parabolens et paradigma hic intersum , quod parabolus res dissimilis comparatio sum , ut cum uir fortis Turnus aequipero leo ; paradigma autem sum res similis comparatio , ut cum puta homo homo comparo . 
+ de hic autem res , is sum figura , quidam praelibamentum pono grammaticus . 
+ nam ; sum ; ipse auctor , qui specialiter opus inmensus de hic res multus que liber facio . 
+ sERVIUS  aquilinus sALUTEM . 
+ ultimus syllaba natura , sicut propono , breuiter lucidus que digero . 
+ in qui res meus audacia tuus defendo imperium . 
+ Nam hic opus , dum uelut facile atque per sui pateo multus relinquo , difficile reddo . 
+ quamquam ratio littera et syllaba in Donatus ars habeo , tamen brevio causa aliquis ex hic decerpo , qui ad scientia metrum proficio credo . 
+ igitur primus syllaba omnis pars oratio duo modus considero , natura et positio . 
+ natura tripertitus sum . 
+ nam aut diphthongus syllaba longus sum cognosco , ut ae  aut eu is , aut exemplum ; quaero enim , uter syllaba longus sum an breuis , ut ' Musa ego causa memoro ' : aut ex compositio figura , ut si nescio qualis sum pius , ex compositio , qui sum impius , qualis sum pi cognosco ; licet in aliquantus hic fallo . 
+ nam cum dico nubo , nu longus sum ; item cum dico innuba aut pronuba , facio breuis nus in compositio . 
+ sed hic inuenio rarus contingo . 
+ positio sum , cum corripio uocalis aut duo consonans sequor , ut arma ; aut unus quaeuis duplex , ut axis uel Mezentius uel magnus ; aut alter consono et alter uocalis locus consonans pono , ut ' at Iuno ' et ' at Uenus ' . 
+ uerum si quilibet pars oratio praepositio compono , ex hic primus syllaba cognosco . 
+ nam talis maneo fere omnis compositus syllaba , qualis et ipse praepositio sum , ut ineptus . 
+ item ex ipse praepositio ad et ob et in et sub diversus in uerbum pono . 
+ nam corripio , cum crescendus disyllabus reddo , ut adeo obeo ineo subeo ; indifferenter sum , cum trisyllabus facio , ut adicio obicio inicio subicio ; produco tantum , cum  ex sui reddo , ut adicio obicio inicio subicio . 
+ item qui per que et per prae in primus syllabum scribo produco , excepto pretium premo prex et queror , hic sum querella depono , et qui ex hic per deriuatio aut declinatio facio possum et que coniunctio . 
+ item contra breuio ex idem praepositio in compositio de et pro , ut dehinc deinde proficiscor prŏfiteor profusus profanus profatus proauus pronepos et ceterus . 
+ sum item aliquantus uerbum , qui primus syllaba tempus ratio permuto , qui subter collecta in omnis praetereo perfectus uel in omnis praetereo plusquamperfectus uel in unus sum modus tantum coniunctiuus produco , in ceterus autem modus et tempus breuio , ut sum hic , lego lex lego lego , faueo fo faueo faueo , uenio uenio uenio uenio , fugium fugio fugio fugio , facio facio facio facio , sedeo seds sedeo sedeo , fodio fodio fodio fodo , uideo uideo uideo uideo , uoueo uoueo uoueo uoueo , foueo foueo foueo foueo , iuvoo iuuo iuver iuuero , ago ago ago  , emo emo emo emo , lauo lauo lauo lauo , odium odi odi odi , eo eo iver ivo , sino sino sino sino , sero sero seuerus seuerus , queo queo quivera queo , caueo co caueo caueo . 
+ item contra inuenio uerbum , qui in praesens tempus produco sum et in praetereo breuio , ut sum hic , pono pono , cogo cogo , do do , sto sto . 
+ item omnis uerbum , qui in praetereo antecresco , in primus syllabum breuio , ut pendeo pependo , tondeo tondeo , posco posco , curro curro , tendo tendo , pendo pependo . 
+ medius syllaba tres modus cognosco , positio et diphthongus et accentus . 
+ sed de positio et diphthonga supra tracto . 
+ accentus autem sum quasi adcantus dico , qui ad cantilena uox nos facio agnosco syllaba . 
+ qui uox accentus duo sum ad is qui tracto necessarius , corripio et produco . 
+ corripio sum , quotiens sine ullus mora uox medius syllaba enuntio , ut moenia tabula . 
+ produco sum , quotiens medius syllaba cum aliquis mora uox exprimo , ut fortuna natura . 
+ scio sum tamen , quia ille qui in uerbum i corripio profero , cum in medius uenio et ipse i in ex muto , ut lex lex lego , ubique breuio ; excepto cum ab tres excipio consonans b et m et t , ut lego lego lego . 
+ ceterus melior accentus colligo . 
+ qui accentus in trisyllaba et tetrasyllabus et deinceps ita considero sum , ut si quaero amicissimus qui syllabo consto , et dico primus breuis exemplum , ut ' nimium diligo amicus ' ; secundus cum longus accentus inuenio ; tertius positio longus ; quartus breuis accentus , quia , cum dico amicus , paeneultimus cum breuis accentus inuenio ; quintus longus accentus . 
+ ultimus uero qualis sum , per singulus pars oratio monstro ratio subiicio . 
+ nominatiuus singularis hic habeo breuis , ab ut Musa , et ut sedile , o ut uirgo , ut ut cornu , el ut mel , il ut uigil , ul ut consul , m ut tectum , in ut carmen ,  ut uir , or ut doctor , t ut caput . 
+ ex hic produco in Graeci ex ut euterpo , o ut Dido , in ut lien Siren , il unus Etruscus ut  . 
+ hic sum item qui produco , i ut frux , olsiastes ut sol , an ut Titan , on ut Memnon , in ut delphins , as ut facultas , c ut lac et allec . 
+ sed as finio nominatiuus breuio in Graeci , cum genitiuus dos habeo , ut Arcas Arcados , Pallas Pallados . 
+ er autem in Graeci produco , ut aether aer . 
+ item hic sum qui in monosyllabus produco , in disyllao autem et trisyllaba et tetrasyllabus et in ceterus polysyllabum corripio : ar monosyllaba ut far , disyllabo ut Caesar ; er monosyllaba ut uer , disyllaba ut pater ; ur monosyllaba ut fur , disyllabo ut murmur ; is monosyllaba ut glis , disyllabo ut fortis ; al monosyllaba ut sal , trisyllaba ut Hannibal . 
+ item hic sum qui uarietas nominatiuus facio et qui sui ab genitiuus suus regula sumo , sum os us . 
+ Nam sum syllaba nominatiuus quando finio , modus quinque produco , duo autem corripio . 
+ tunc ergo produco , cum [ aut ] nomen quintus sum declinatio , ut dies dies : item produco , cum totidem syllaba genitiuus habeo quot et nominatiuus , ut proles proles : tertius locus produco , cum genitiuus syllaba cresco ex produco in medium obtineo , ut merx merces : quartus locus produco , cum monosyllaba nomen sum uel de monosyllabus duco , ut pes bipes sonipes : quintus locus produco , cum i ante sum in finis habeo , ut abies paries aries quies .  duo autem modus breuio , cum aut ex medius in genitiuus corripio habeo , ut seges seges ; aut cum et in i muto , ut miles miles . 
+ os item monosyllabus , si ora significo , produco , ut os os ; si os significo , breuio , ut os os . 
+ qui tamen os syllaba cum in disyllabum uel trisyllabis uenio , et medius syllaba genitiuus natura produco permaneo , tum longus sum , ut nepos nepos ; si uero corripio sum aut diphthongum in genitiuus Graeci habeo , breuio , ut compos compos , Delos dHLOU . 
+ us uero , cum in genitiuus cresco ut longus permaneo , produco , ut uirtus uirtus , tellus tellus , excepto unus palus , qui in genitiuus da termino , ut palus palus : unde sum ' sterilis que diu palus apto que remus ' . 
+ si uero in genitiuus cresco corripio ut permaneo aut muto sum aut non  , breuio , ut pectus pectus , uulgus uulgus . 
+ genitiuus et datiuus et ablatiuus produco . 
+ sed genitiuus cum aut os in finis secundum Graeci habeo aut tertius sum declinatio , cum ablatiuus suus ex tantum littera termino breuio , excepto unus qui produco , ab hic fames , quia uetus hic fameum , non hic fama declino . 
+ sed et datiuus in Graeci i littera termino breuio , ut Palladi . 
+ accusatiuus in Latina breuis sum semper : in Graeci tunc tantum breuio , cum ab uel on termino , ut  Delos ; alius longus sum . 
+ uocatiuus quoque in Latina breuis sum , excepto cum i termino , ut Mercurius ; in Graeci corripio , ut Alexius . 
+ qui etiam , dum similis sum nominatiuus , regula  sequor , ut hic paupertas et o paupertas . 
+ in masculinus tantum Graeci longus sum , ut Aeneas . 
+ sed etiam ex finio in Graeci tunc breuio , cum is nominatiuus os sum termino , ut Phoebus Phoebus . 
+ nominatiuus et accusatiuus et uocatiuus pluralis in masculinus et femininus genus produco , in neuter autem corripio . 
+ contra hic sum Graecus nomen , qui dum ante s ultimus ab aut et  et ab genitiuus singularis dos termino uenio , tunc tantum in masculinus et femininus breuio , ut hic  , hic Arcades , hic Arcada ; alius longus sum . 
+ genitiuus pluralis semper breuis sum in Latina , in Graeci uero produco , ut Philaenon . 
+ datiuus et ablatiuus pluralis si is termino , longus sum , ut doceo ; si busm , breuio , ut agilis : aut si Graecus sum declinatio , in termino datiuus corripio , ut Arcasinus . 
+ hic regula nomen pronomen participium contineo . 
+ sed pronomen declinatio in hic tantum differo , quod in monosyllabus qui uocalis termino , ut ego , aut uocalis consto , ut o , in quilibet casus produco . 
+ sed genitiuus cum us finio , breuio , ut ille ; datiuus uero , sicut in nomen , semper longus sum , excepto ego tu sui , qui indifferenter pono possum . 
+ sic relinquo quoque casus regula sumo ex nomen . 
+ in omnis uerbum modus tempus numerus persona coniugatio breuio mt ut doceo , rt ut lego , t ut facio , us ut nutrio . 
+ ex uero littera uerbum termino breuio , ut lex ; sed imperatiuus modus secundus tantum persona ab secundus quoque coniugatio tantum produco , ut doceo . 
+ sum autem breuio , ut sum sum et ceterus qui ex hic compono possum , ut adsum adsum , possum possum ; in alius produco , ut doceo . 
+ is item in secundus persona indicativa modus tunc tantum produco , cum ab tertius coniugatio produco uenio , ut nutrio nutrio , uolo uolo ; alius breuio . 
+ produco autem ab ut amo , i ut nutrio , ut ut lego , as ut uoco , sum ut lego , que ut facio . 
+ in omnis ADVium breuio  ut semel , rt ut pariter , m ut tam . 
+ N uero excepto non et in ubique breuio , ut forsitan . 
+ ex dum finio ADVia , ille produco , qui ex nomen uenio et comparatio gradus omnino reseruo , ut doceo doctior doctissimus ; qui autem ab sui nascor , ut saepe , aut non comparo , ut rite , aut in comparatio deficio , ut bene male , breuio . 
+ I finio praeter quasi et ibi et ubi produco , ut heri . 
+ o , sicut in omnis pars oratio , indifferenter pono , ut falso . 
+  , dum ante is ab habeo , produco , ut alius cras ; aliter breuio , ut magis . 
+ produco autem ab ut unus , ut ut nox , que ut illic . 
+ AdVias monosyllaba produco sum , ut huc , uel qui ex hic facio , ut illic , excipio bis et ter . 
+ omnis fere coniunctio corripio . 
+ sed qui ab et i termino produco , excepto ita et quia et nisi . 
+ item qui in  desino , si ante is in  , produco , ut sin . 
+ accusativae praepositio , absque hic qui in ab exeo et unus monosyllaba  , breuio . 
+ Ablatiua uero ille longus sum monosyllabus , qui aut uocalis consto , ut ab , aut uocalis termino , ut de . 
+ sed uterque casus praepositio omnis breuis sum non dubius sum . 
+ res autem ubique breuio , ut remitto , excepto cum refero disto significo , ut sum ille praeterea iam neque muto pabulum refero , et unus uerbum reicio , ut reicio ne macula infusco uellus pullisnascentus . 
+ omnis interiectio , si monosyllaba sum produco , ut heu . 
+ Ceterus uero exemplum similis pars oratio existimo sum , ut papa . 
+ hic in omnis pars oratio obseruo sum , excipio hic qui aut diphthongum aut positio longus sum .
