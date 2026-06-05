@@ -44,7 +44,7 @@ class LatinDataset(Dataset):
         texts: List[str],
         tokenizer,
         max_length: int = 256,
-        stride: int = 128,
+        stride: int = 32, # used 128 with andbue model, but official Latin BERT has a better tokenizer
         add_special_tokens: bool = True,
     ):
         self.texts = texts

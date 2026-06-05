@@ -1,0 +1,1154 @@
+id,title,creator,date_avg,date_range_start,date_range_end,type,file,pred_prob,pred_logit,pred_label
+IT-LAT0261,Carmen Saliare,[Auctor incertus],-700,-750.0,-650.0,poetry,lat_0350_IT-LAT0261.txt,1.2932547268212236e-05,-11.255750447450346,non_christian
+IT-LAT0285,XII Tabularum Leges,[Auctor incertus],-450,-450.0,-450.0,prose,lat_-0450_IT-LAT0285.txt,5.450189502676596e-05,-9.817220582385948,non_christian
+IT-LAT0262,Carmen Arvale,[Auctor incertus],-350,-400.0,-300.0,poetry,lat_0350_IT-LAT0262.txt,1.690724818999542e-05,-10.987751233607884,non_christian
+MQDQ-288,carminum fragmenta,"Caecus, Appius Claudius",-290,-312.0,-279.0,poetry,lat_-0300_MQDQ-288.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT1006,Praecepta,"Marcius Vates, Gnaeus",-229,-250.0,-218.0,prose,lat_-0229_IT-LAT1006.txt,1.1047788561649172e-05,-11.413269232347131,non_christian
+MQDQ-168,comoediarum fragmenta,Liuius Andronicus,-225,-240.0,-207.0,poetry,lat_-0243_MQDQ-168.txt,1.1050081681593656e-05,-11.413061687885673,non_christian
+MQDQ-169,*carminum fragmenta,Liuius Andronicus,-225,-240.0,-207.0,poetry,lat_-0243_MQDQ-169.txt,0.0027928471744316,-5.8778969564209085,non_christian
+MQDQ-167,tragoediarum fragmenta,Liuius Andronicus,-225,-240.0,-207.0,poetry,lat_-0243_MQDQ-167.txt,1.530732853155955e-05,-11.087163547807982,non_christian
+MQDQ-228,comoediarum fragmenta,Naeuius,-220,-235.0,-201.0,poetry,lat_-0234_MQDQ-228.txt,0.00016786490941315255,-8.692183133667081,non_christian
+MQDQ-229,carminum fragmenta,Naeuius,-220,-235.0,-201.0,poetry,lat_-0234_MQDQ-229.txt,5.1554006117137695e-05,-9.872829081953206,non_christian
+MQDQ-227,praetextarum fragmenta,Naeuius,-220,-235.0,-201.0,poetry,lat_-0234_MQDQ-227.txt,8.858261842924091e-05,-9.331486313313876,non_christian
+MQDQ-226,tragoediarum fragmenta,Naeuius,-220,-235.0,-201.0,poetry,lat_-0234_MQDQ-226.txt,6.75735333071314e-05,-9.602226594887751,non_christian
+MQDQ-237,elogium,[Auctor incertus],-225,-247.0,-200.0,poetry,lat_-0255_MQDQ-237.txt,1.4070899336524006e-05,-11.171387699152865,non_christian
+MQDQ-323,Stichus,"Plautus, Titus Maccius",-200,-200.0,-200.0,poetry,lat_-0218_MQDQ-323.txt,4.820626389155648e-05,-9.939973381669091,non_christian
+MQDQ-321,Pseudolus,"Plautus, Titus Maccius",-191,-191.0,-191.0,poetry,lat_-0218_MQDQ-321.txt,9.639842400549226e-05,-9.246924301901524,non_christian
+IT-LAT0380,Decretum Hastense,"Aemilius Paulus, Lucius",-189,-189.0,-189.0,poetry,lat_-0199_IT-LAT0380.txt,1.9235693424406296e-05,-10.858723736393276,non_christian
+IT-LAT0952,Senatus consultum de Bacchanalibus,[Auctor incertus],-186,-186.0,-186.0,prose,lat_-0185_IT-LAT0952.txt,1.9933825553806205e-05,-10.823072558621678,non_christian
+MQDQ-306,Amphitruo,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-306.txt,0.0007518554172125053,-7.192214378642418,non_christian
+MQDQ-307,Asinaria,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-307.txt,5.383653094976993e-05,-9.829504469305764,non_christian
+MQDQ-308,Aulularia,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-308.txt,0.00019069482601163565,-8.564645464274717,non_christian
+MQDQ-309,Bacchides,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-309.txt,7.043979054767357e-05,-9.560681805554754,non_christian
+MQDQ-310,Captiui,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-310.txt,0.0002929145620470451,-8.135336631109075,non_christian
+MQDQ-311,Casina,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-311.txt,4.476463280333172e-05,-10.01404741103964,non_christian
+MQDQ-312,Cistellaria,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-312.txt,8.698380567003503e-05,-9.349701610770966,non_christian
+MQDQ-313,Curculio,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-313.txt,0.00018338198168245252,-8.603755850176407,non_christian
+MQDQ-314,Epidicus,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-314.txt,2.61143653473689e-05,-10.552998883890949,non_christian
+MQDQ-327,fragmenta,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-327.txt,0.00018220432027506696,-8.610199640779776,non_christian
+MQDQ-315,Menaechmi,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-315.txt,0.00017131478945040784,-8.671836490349024,non_christian
+MQDQ-316,Mercator,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-316.txt,0.00019872387213758683,-8.523395530394197,non_christian
+MQDQ-317,Miles gloriosus,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-317.txt,7.013184013663318e-05,-9.565063522523468,non_christian
+MQDQ-318,Mostellaria,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-318.txt,4.686973034124216e-05,-9.968091628551305,non_christian
+MQDQ-319,Persa,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-319.txt,2.756119969468061e-05,-10.499074020900776,non_christian
+MQDQ-322,Rudens,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-322.txt,8.073606965656886e-05,-9.42424438340738,non_christian
+MQDQ-324,Trinummus,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-324.txt,5.1581920761016416e-05,-9.87228773646903,non_christian
+MQDQ-325,Truculentus,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-325.txt,2.204081190792299e-05,-10.72259269537571,non_christian
+MQDQ-326,Vidularia,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_-0218_MQDQ-326.txt,0.0040070358601412,-5.515688412455165,non_christian
+IT-LAT0181,Poenulus,"Plautus, Titus Maccius",-195,-205.0,-184.0,poetry,lat_0000_IT-LAT0181.txt,0.0005101818418413386,-7.580233031136732,non_christian
+MQDQ-74,comoediarum fragmenta,Ennius,-200,-204.0,-169.0,poetry,lat_-0203_MQDQ-74.txt,1.1149198502088616e-05,-11.404131796601966,non_christian
+MQDQ-73,praetextarum fragmenta,Ennius,-200,-204.0,-169.0,poetry,lat_-0203_MQDQ-73.txt,0.0001867976869320765,-8.585297599701,non_christian
+MQDQ-70,saturarum fragmenta,Ennius,-200,-204.0,-169.0,poetry,lat_-0203_MQDQ-70.txt,0.0001591529155279868,-8.745485919450694,non_christian
+MQDQ-72,tragoediarum fragmenta,Ennius,-200,-204.0,-169.0,poetry,lat_-0203_MQDQ-72.txt,0.0001427544511804121,-8.854241763623603,non_christian
+MQDQ-71,fragmenta uaria,Ennius,-200,-204.0,-169.0,poetry,lat_-0203_MQDQ-71.txt,9.943869383529544e-05,-9.215869802414083,non_christian
+MQDQ-67,annalium fragmenta,Ennius,-180,-184.0,-169.0,poetry,lat_-0203_MQDQ-67.txt,0.0002042538877961069,-8.49594251515739,non_christian
+MQDQ-68,annalium fragmenta dubia,Ennius,-180,-184.0,-169.0,poetry,lat_-0203_MQDQ-68.txt,2.81943880655623e-05,-10.476359409806042,non_christian
+MQDQ-69,annalium fragmenta spuria,Ennius,-180,-184.0,-169.0,poetry,lat_-0203_MQDQ-69.txt,0.0056751182474702,-5.165972596355463,non_christian
+MQDQ-484,Andria,Terentius,-166,-166.0,-166.0,poetry,lat_-0176_MQDQ-484.txt,3.1897373389482395e-05,-10.352954992569083,non_christian
+MQDQ-485,"Andria, alter exitus",Terentius,-166,-166.0,-166.0,poetry,lat_-0176_MQDQ-485.txt,5.859361711453823e-05,-9.744826194940154,non_christian
+MQDQ-629,comoediarum fragmenta,Caecilius Statius,-179,-200.0,-165.0,poetry,lat_-0193_MQDQ-629.txt,3.8155197153984575e-05,-10.173810424124872,non_christian
+MQDQ-488,Hecyra,Terentius,-165,-165.0,-165.0,poetry,lat_-0176_MQDQ-488.txt,0.00012823066621416615,-8.961551597155701,non_christian
+MQDQ-487,Hautontimorumenos,Terentius,-163,-163.0,-163.0,poetry,lat_-0176_MQDQ-487.txt,3.2629617241007745e-05,-10.330257547556894,non_christian
+MQDQ-486,Eunuchus,Terentius,-161,-161.0,-161.0,poetry,lat_-0176_MQDQ-486.txt,6.370792837562303e-05,-9.661137828877887,non_christian
+MQDQ-489,Phormio,Terentius,-161,-161.0,-161.0,poetry,lat_-0176_MQDQ-489.txt,3.323529671917948e-05,-10.311864856748832,non_christian
+IT-LAT0405,De agricultura,"Cato Porcius, Marcus",-160,-160.0,-160.0,prose,lat_-0199_IT-LAT0405.txt,0.00013488017407667412,-8.910988883836287,non_christian
+MQDQ-483,Adelphoe,Terentius,-160,-160.0,-160.0,poetry,lat_-0176_MQDQ-483.txt,0.0010974677839958,-6.813651696993173,non_christian
+IT-LAT0988,Boeotia,Aquilius,-164,-174.0,-154.0,poetry,lat_-0149_IT-LAT0988.txt,1.4907498515871644e-05,-11.11363130789534,non_christian
+MQDQ-164,comoediae fragmentum,Licinius Imbrex,-200,-250.0,-150.0,poetry,lat_-0149.0_MQDQ-164.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-474,comoediarum fragmenta,Atilius,-175,-200.0,-150.0,poetry,lat_-0149.0_MQDQ-474.txt,1.1549296715420316e-05,-11.36887446392676,non_christian
+MQDQ-503,palliatarum fragmenta,Trabea,-175,-200.0,-150.0,poetry,lat_-0149.0_MQDQ-503.txt,1.0735616441505165e-05,-11.441932969086457,non_christian
+MQDQ-502,togatarum fragmenta,Titinius,-175,-200.0,-150.0,poetry,lat_-0149.0_MQDQ-502.txt,0.0002476926493867664,-8.303074174046241,non_christian
+MQDQ-329,Ardeatis templi inscriptio,Marcus Plautius,-175,-200.0,-150.0,poetry,lat_-0149.0_MQDQ-329.txt,1.174073241959062e-05,-11.352434618031724,non_christian
+MQDQ-175,palliatae fragmentum,Luscius Lanuuinus,-165,-200.0,-150.0,poetry,lat_-0149.0_MQDQ-175.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT0236,Orationes,"Cato Porcius, Marcus",-175,-204.0,-149.0,prose,lat_-0199_IT-LAT0236.txt,3.918361299921781e-05,-10.147212749922696,non_christian
+MQDQ-271,praetextarum fragmenta,Pacuuius,-174,-190.0,-140.0,poetry,lat_-0174_MQDQ-271.txt,0.00023140463641597737,-8.371111275620999,non_christian
+MQDQ-270,tragoediarum fragmenta,Pacuuius,-174,-190.0,-140.0,poetry,lat_-0174_MQDQ-270.txt,0.00027362922089116257,-8.203462909751769,non_christian
+IT-LAT0372,Ad Gaium filium,Cornelia,-124,-124.0,-124.0,prose,lat_-0149_IT-LAT0372.txt,1.820132608256372e-05,-10.913997903364754,non_christian
+MQDQ-507,palliatarum fragmenta,Sextus Turpilius,-125,-150.0,-103.0,poetry,lat_-0149.0_MQDQ-507.txt,0.0023233628060543,-6.062413591424313,non_christian
+MQDQ-172,saturarum reliquiae,Gaius Lucilius,-115,-130.0,-103.0,poetry,lat_-0140_MQDQ-172.txt,0.00016585539958334104,-8.70422836691658,non_christian
+MQDQ-13,comoediarum fragmenta,Lucius Afranius,-125,-150.0,-100.0,poetry,lat_-0149.0_MQDQ-13.txt,0.0002686841697699122,-8.221705237949,non_christian
+MQDQ-139,belli Histrici fragmenta,Hostius,-112,-125.0,-100.0,poetry,lat_-0149.0_MQDQ-139.txt,1.2932547268212236e-05,-11.255750447450346,non_christian
+MQDQ-342,epigrammata,Porcius Licinus,-110,-125.0,-100.0,poetry,lat_-0149.0_MQDQ-342.txt,0.0004586816611977246,-7.686695350220837,non_christian
+MQDQ-337,tragoediae fragmentum,Pompilius,-99,-200.0,-100.0,poetry,lat_-0099.0_MQDQ-337.txt,1.1392387864453427e-05,-11.38255376433112,non_christian
+IT-LAT0370,Edictum adversus Latinos rhetores,[Auctor incertus],-92,-92.0,-92.0,prose,lat_-0091_IT-LAT0370.txt,1.0017089108154113e-05,-11.5112079955422,non_christian
+MQDQ-339,Atellanarum fragmenta,Lucius Pomponius,-89,-89.0,-89.0,poetry,lat_-0049.0_MQDQ-339.txt,0.0005264223499641,-7.548880159757144,non_christian
+MQDQ-176,epigrammata,Lutatius Catulus,-100,-130.0,-87.0,poetry,lat_-0086_MQDQ-176.txt,5.932249011723478e-05,-9.732462739624625,non_christian
+MQDQ-458,tragoediarum fragmenta,Iulius Caesar Strabo,-100,-131.0,-87.0,poetry,lat_-0086_MQDQ-458.txt,0.0006615591444599857,-7.320249390720303,non_christian
+MQDQ-334,carminum fragmenta,Accius,-127,-140.0,-86.0,poetry,lat_-0127_MQDQ-334.txt,0.0047915573136035,-5.336096729109612,non_christian
+MQDQ-333,praetextarum fragmenta,Accius,-127,-140.0,-86.0,poetry,lat_-0127_MQDQ-333.txt,0.0005380262961127777,-7.527064950379717,non_christian
+MQDQ-332,tragoediarum fragmenta,Accius,-127,-140.0,-86.0,poetry,lat_-0127_MQDQ-332.txt,7.368410991880711e-05,-9.515649700091188,non_christian
+IT-LAT0221,De inventione,"Cicero, Marcus Tullius",-84,-87.0,-83.0,prose,lat_-0084_IT-LAT0221.txt,0.0003030379113239841,-8.101349556564019,non_christian
+MQDQ-511,carminum fragmenta,Valerius Soranus,-105,-130.0,-82.0,poetry,lat_-0105_MQDQ-511.txt,3.426298313887316e-05,-10.281410731766575,non_christian
+IT-LAT0377,De ratione dicendi ad C. Herennium,[Auctor incertus],-84,-86.0,-82.0,prose,lat_-0049_IT-LAT0377.txt,0.00013527741163221472,-8.908047700405143,non_christian
+IT-LAT0093,Pro Quinctio,"Cicero, Marcus Tullius",-81,-81.0,-81.0,prose,lat_-0080_IT-LAT0093.txt,0.0001319253315407256,-8.933142531541186,non_christian
+IT-LAT0094,Pro Roscio Amerino,"Cicero, Marcus Tullius",-80,-80.0,-80.0,prose,lat_-0079_IT-LAT0094.txt,0.0006313628292083879,-7.3669982917840064,non_christian
+MQDQ-493,togatarum fragmenta,Atta,-101,-125.0,-77.0,poetry,lat_-0076_MQDQ-493.txt,1.8411561677629385e-05,-10.902513326903575,non_christian
+MQDQ-494,carminis fragmentum,Atta,-101,-125.0,-77.0,poetry,lat_-0076_MQDQ-494.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT0122,Pro Roscio Comoedo,"Cicero, Marcus Tullius",-76,-76.0,-76.0,prose,lat_-0075_IT-LAT0122.txt,0.0009269318522437456,-6.982703147681662,non_christian
+MQDQ-567,carminum fragmenta,Volcacius Sedigitus,-100,-125.0,-75.0,poetry,lat_-0149.0_MQDQ-567.txt,2.517014563006104e-05,-10.58982679251278,non_christian
+MQDQ-635,epigrammata,Valerius Aeditus,-99,-125.0,-75.0,poetry,lat_-0099.0_MQDQ-635.txt,1.3293461861457004e-05,-11.228224939420146,non_christian
+MQDQ-275,epigrammation apud Varronem,Papinius,-99,-100.0,-75.0,poetry,lat_-0099.0_MQDQ-275.txt,1.2437108701458036e-05,-11.294813479977735,non_christian
+MQDQ-338,epigramma,Pompilius,-99,-125.0,-75.0,poetry,lat_-0099.0_MQDQ-338.txt,1.0568066854096345e-05,-11.457663096553718,non_christian
+MQDQ-442,saturae fragmentum,Sevius Nicanus,-99,-125.0,-75.0,poetry,lat_-0099.0_MQDQ-442.txt,1.10534171507525e-05,-11.41275987991648,non_christian
+MQDQ-160,carminum fragmenta,Laeuius,-90,-100.0,-75.0,poetry,lat_-0049.0_MQDQ-160.txt,2.065486618130193e-05,-10.787538960812691,non_christian
+MQDQ-214,carminum fragmenta,Matius,-87,-100.0,-75.0,poetry,lat_-0049.0_MQDQ-214.txt,1.8654195548184675e-05,-10.889420820435998,non_christian
+MQDQ-238,Atellanarum fragmenta,Nouius,-85,-100.0,-75.0,poetry,lat_-0049.0_MQDQ-238.txt,0.0003772915102479022,-7.882115069875336,non_christian
+IT-LAT0127,Pro Caecina,"Cicero, Marcus Tullius",-69,-69.0,-69.0,prose,lat_0000_IT-LAT0127.txt,5.410953698993977e-05,-9.824445992175072,non_christian
+IT-LAT0922_11,Pro Fonteio,"Cicero, Marcus Tullius",-69,-69.0,-69.0,prose,lat_-0045_IT-LAT0922_11.txt,8.654645482533936e-05,-9.354742687982071,non_christian
+MQDQ-521,"saturae Menippeae, fragmenta","Varro, Marcus Terentius",-74,-81.0,-67.0,poetry,lat_-0070_MQDQ-521.txt,2.045368401805687e-05,-10.79732709022465,non_christian
+IT-LAT0124,Pro Cluentio,"Cicero, Marcus Tullius",-66,-66.0,-66.0,prose,lat_-0065_IT-LAT0124.txt,0.0008494726693948299,-7.070044956272263,non_christian
+IT-LAT0922_2,De imperio Cn. Pompei ad Quirites oratio,"Cicero, Marcus Tullius",-66,-66.0,-66.0,prose,lat_-0045_IT-LAT0922_2.txt,0.000111962741349062,-9.09723243953155,non_christian
+IT-LAT0922,Commentariolum petitionis,"Cicero, Quintus Tullius",-64,-64.0,-64.0,prose,lat_-0045_IT-LAT0922.txt,5.028813816768094e-05,-9.89769104098232,non_christian
+IT-LAT0992,Epistula ad Quintum Catulum,"Catilina, Lucius Sergius",-63,-63.0,-63.0,prose,lat_-0107_IT-LAT0992.txt,0.0001922118294024264,-8.556720285658441,non_christian
+IT-LAT0125,Pro Rabirio,"Cicero, Marcus Tullius",-63,-63.0,-63.0,prose,lat_-0062_IT-LAT0125.txt,0.0001445070733893766,-8.842037583302762,non_christian
+IT-LAT0126,De lege agraria,"Cicero, Marcus Tullius",-63,-63.0,-63.0,prose,lat_-0062_IT-LAT0126.txt,6.026937588267568e-05,-9.716626174687086,non_christian
+IT-LAT0922_5,In Catilinam,"Cicero, Marcus Tullius",-63,-63.0,-63.0,prose,lat_-0045_IT-LAT0922_5.txt,5.6677212533147846e-05,-9.77808164455235,non_christian
+IT-LAT0922_10,Pro Murena,"Cicero, Marcus Tullius",-63,-63.0,-63.0,prose,lat_-0045_IT-LAT0922_10.txt,5.8529659048766015e-05,-9.745918408545055,non_christian
+IT-LAT0095,Pro Sulla,"Cicero, Marcus Tullius",-62,-62.0,-62.0,prose,lat_-0061_IT-LAT0095.txt,0.00017423874577935454,-8.654909843114446,non_christian
+IT-LAT0922_9,Pro Archia,"Cicero, Marcus Tullius",-62,-62.0,-62.0,prose,lat_-0045_IT-LAT0922_9.txt,0.0002041758342961616,-8.4963248058655,non_christian
+IT-LAT0955,Prognostica Aratea,"Cicero, Marcus Tullius",-89,-89.0,-60.0,poetry,lat_-0044_IT-LAT0955.txt,1.4494469515364232e-05,-11.141728899453025,non_christian
+IT-LAT0956,Phaenomena Aratea,"Cicero, Marcus Tullius",-89,-89.0,-60.0,poetry,lat_-0044_IT-LAT0956.txt,0.009908852680381,-4.604368439177913,non_christian
+IT-LAT0218,De consulatu suo,"Cicero, Marcus Tullius",-60,-60.0,-60.0,poetry,lat_-0059_IT-LAT0218.txt,0.0009251158669602952,-6.984666022666984,non_christian
+IT-LAT0128,Pro Flacco,"Cicero, Marcus Tullius",-59,-59.0,-59.0,prose,lat_-0058_IT-LAT0128.txt,9.939888806709744e-05,-9.216270226983562,non_christian
+IT-LAT0922_7,Post  reditum ad Quirites oratio,"Cicero, Marcus Tullius",-57,-57.0,-57.0,prose,lat_-0045_IT-LAT0922_7.txt,0.000289252486228319,-8.14792130216897,non_christian
+IT-LAT0922_8,Post reditum in senatu,"Cicero, Marcus Tullius",-57,-57.0,-57.0,prose,lat_-0045_IT-LAT0922_8.txt,6.711786482027605e-05,-9.608993187572477,non_christian
+IT-LAT0133,In Vatinium,"Cicero, Marcus Tullius",-56,-56.0,-56.0,prose,lat_-0055_IT-LAT0133.txt,4.751482692916179e-05,-9.954421233798184,non_christian
+IT-LAT0134,De provinciis consularibus,"Cicero, Marcus Tullius",-56,-56.0,-56.0,prose,lat_-0055_IT-LAT0134.txt,5.695482339572703e-05,-9.773195219940376,non_christian
+IT-LAT0135,Pro Balbo,"Cicero, Marcus Tullius",-56,-56.0,-56.0,prose,lat_-0055_IT-LAT0135.txt,0.000138164890705242,-8.88692455146511,non_christian
+IT-LAT0220,Pro Caelio,"Cicero, Marcus Tullius",-56,-56.0,-56.0,prose,lat_-0055_IT-LAT0220.txt,0.00011525190563395652,-9.068275082891695,non_christian
+IT-LAT0922_1,De haruspicum responso,"Cicero, Marcus Tullius",-56,-56.0,-56.0,prose,lat_-0045_IT-LAT0922_1.txt,5.164356277056642e-05,-9.871093357010674,non_christian
+IT-LAT0922_13,Pro Sestio,"Cicero, Marcus Tullius",-56,-56.0,-56.0,prose,lat_-0045_IT-LAT0922_13.txt,3.1735333651103863e-05,-10.358048135760612,non_christian
+MQDQ-174,de rerum natura,Lucretius,-75,-97.0,-55.0,poetry,lat_-0075_MQDQ-174.txt,0.0003222764122534101,-8.039778629152604,non_christian
+IT-LAT0137,In L. Calpurnium Pisonem,"Cicero, Marcus Tullius",-55,-55.0,-55.0,prose,lat_-0054_IT-LAT0137.txt,0.00011229075638247476,-9.09430671436746,non_christian
+IT-LAT0922_4,De oratore,"Cicero, Marcus Tullius",-55,-55.0,-55.0,prose,lat_-0045_IT-LAT0922_4.txt,9.074251264234858e-05,-9.307393846911545,non_christian
+MQDQ-6,carmina,Catullus,-69,-61.0,-54.0,poetry,lat_-0069_MQDQ-6.txt,0.00017027918057564283,-8.677900935553453,non_christian
+MQDQ-7,carminum fragmenta,Catullus,-69,-61.0,-54.0,poetry,lat_-0069_MQDQ-7.txt,1.1006691614334653e-05,-11.41699613479466,non_christian
+IT-LAT0922_12,Pro Scauro,"Cicero, Marcus Tullius",-54,-54.0,-54.0,prose,lat_-0045_IT-LAT0922_12.txt,3.30367899181441e-05,-10.3178557341371,non_christian
+IT-LAT0136,Pro Rabirio Postumo,"Cicero, Marcus Tullius",-53,-54.0,-53.0,prose,lat_-0053_IT-LAT0136.txt,3.36700203700568e-05,-10.298869049212964,non_christian
+IT-LAT0217,De partitione oratoria,"Cicero, Marcus Tullius",-53,-54.0,-52.0,prose,lat_-0045_IT-LAT0217.txt,0.00010832990503125428,-9.130220974895591,non_christian
+IT-LAT0119,De re publica,"Cicero, Marcus Tullius",-53,-54.0,-52.0,prose,lat_-002_IT-LAT0119.txt,7.874456719814472e-05,-9.449222522930665,non_christian
+IT-LAT0096,Pro Milone,"Cicero, Marcus Tullius",-52,-52.0,-51.0,prose,lat_-0051_IT-LAT0096.txt,4.34769143954849e-05,-10.043236986435137,non_christian
+IT-LAT0257,De legibus,"Cicero, Marcus Tullius",-51,-52.0,-51.0,prose,lat_-0051_IT-LAT0257.txt,0.00015941726276749697,-8.743826069085044,non_christian
+MQDQ-153,comoediarum fragmenta,Iuuentius,-100,-150.0,-50.0,poetry,lat_-0149.0_MQDQ-153.txt,1.1330508989343267e-05,-11.388000229322875,non_christian
+MQDQ-64,de rerum natura fragmenta,Egnatius,-75,-100.0,-50.0,poetry,lat_-0049.0_MQDQ-64.txt,1.1742420764246664e-05,-11.35229082435378,non_christian
+IT-LAT0384,L. Aurelii Hermiae elogium sepulcrale,[Auctor incertus],-65,-80.0,-50.0,poetry,lat_-0079_IT-LAT0384.txt,1.7974390938874105e-05,-10.926544564168788,non_christian
+MQDQ-230,epitaphium,Naeuius,-220,-201.0,-47.0,poetry,lat_-0234_MQDQ-230.txt,1.1040064447181955e-05,-11.413968639399911,non_christian
+MQDQ-328,epigramma,"Plautus, Titus Maccius",-180,-184.0,-47.0,poetry,lat_-0218_MQDQ-328.txt,2.405138357286452e-05,-10.635293982377188,non_christian
+MQDQ-272,*epigramma,Pacuuius,-90,-130.0,-47.0,poetry,lat_-0174_MQDQ-272.txt,1.1420913952533948e-05,-11.380052905089665,non_christian
+MQDQ-633,carminum fragmenta,Licinius Caluus,-49,-82.0,-47.0,poetry,lat_-0049.0_MQDQ-633.txt,1.0734582659386042e-05,-11.442029269378123,non_christian
+MQDQ-501,carminum fragmenta,Lucius Ticidas,-50,-100.0,-46.0,poetry,lat_-0045_MQDQ-501.txt,1.21016794036543e-05,-11.322154219549464,non_christian
+IT-LAT0254,Paradoxa Stoicorum,"Cicero, Marcus Tullius",-46,-46.0,-46.0,prose,lat_-0047_IT-LAT0254.txt,5.528394402262452e-05,-9.802972749292834,non_christian
+IT-LAT0047,Brutus,"Cicero, Marcus Tullius",-46,-46.0,-46.0,prose,lat_-0045_IT-LAT0047.txt,2.960920885079571e-05,-10.427395525547494,non_christian
+IT-LAT0138,Pro Marcello,"Cicero, Marcus Tullius",-46,-46.0,-46.0,prose,lat_-0045_IT-LAT0138.txt,6.148096494766851e-05,-9.696721461251911,non_christian
+IT-LAT0139,Pro Ligario,"Cicero, Marcus Tullius",-46,-46.0,-46.0,prose,lat_-0045_IT-LAT0139.txt,3.0167707833814173e-05,-10.40870831453111,non_christian
+IT-LAT0922_3,De optimo genere oratorum,"Cicero, Marcus Tullius",-46,-46.0,-46.0,prose,lat_-0045_IT-LAT0922_3.txt,0.00018019273320218728,-8.621303330925269,non_christian
+IT-LAT0922_6,Orator,"Cicero, Marcus Tullius",-46,-46.0,-46.0,prose,lat_-0045_IT-LAT0922_6.txt,0.00015914142404190317,-8.745558137607214,non_christian
+IT-LAT0535,De bello civili,"Caesar, Caius Iulius",-45,-45.0,-45.0,prose,lat_-0051_IT-LAT0535.txt,7.239921565900489e-05,-9.533242690233836,non_christian
+IT-LAT0922_15,Tusculanae,"Cicero, Marcus Tullius",-45,-45.0,-45.0,prose,lat_-0045_IT-LAT0922_15.txt,0.0001088586888855346,-9.125351084458815,non_christian
+IT-LAT0922_16,Academica,"Cicero, Marcus Tullius",-45,-45.0,-45.0,prose,lat_-0045_IT-LAT0922_16.txt,0.0002089333402021513,-8.473286348105061,non_christian
+IT-LAT0140,Pro Deiotaro,"Cicero, Marcus Tullius",-45,-45.0,-45.0,prose,lat_-0044_IT-LAT0140.txt,0.00017402516436236892,-8.656136606125877,non_christian
+IT-LAT0255,De finibus bonorum et malorum,"Cicero, Marcus Tullius",-45,-45.0,-45.0,prose,lat_-0044_IT-LAT0255.txt,6.406015260523045e-05,-9.655623969358164,non_christian
+IT-LAT0320,Timaeus,"Cicero, Marcus Tullius",-45,-45.0,-45.0,prose,lat_-0044_IT-LAT0320.txt,0.0005996281481323972,-7.418601039990155,non_christian
+MQDQ-631,carminum fragmenta,"Caesar, Caius Iulius",-71,-100.0,-44.0,poetry,lat_-0071_MQDQ-631.txt,0.00013817400274253485,-8.886858594072276,non_christian
+MQDQ-12,carminum fragmenta,Helvius Cinna,-49,-90.0,-44.0,poetry,lat_-0049.0_MQDQ-12.txt,8.589613509762537e-05,-9.362285823204678,non_christian
+IT-LAT0922_14,Topica,"Cicero, Marcus Tullius",-44,-44.0,-44.0,prose,lat_-0045_IT-LAT0922_14.txt,7.410005738990984e-05,-9.510020148366888,non_christian
+IT-LAT0102,De officiis,"Cicero, Marcus Tullius",-44,-44.0,-44.0,prose,lat_0000_IT-LAT0102.txt,6.906568560558248e-05,-9.580383472829569,non_christian
+IT-LAT0097,Laelius de amicitia,"Cicero, Marcus Tullius",-44,-44.0,-44.0,prose,lat_-0043_IT-LAT0097.txt,3.185416971909115e-05,-10.354310412441066,non_christian
+IT-LAT0098,Cato Maior de senectute,"Cicero, Marcus Tullius",-44,-45.0,-44.0,prose,lat_-0043_IT-LAT0098.txt,4.472547357715117e-05,-10.01492261350668,non_christian
+IT-LAT0101,De divinatione,"Cicero, Marcus Tullius",-44,-44.0,-44.0,prose,lat_-0043_IT-LAT0101.txt,8.410873717442529e-05,-9.38331599380476,non_christian
+IT-LAT0155,De fato,"Cicero, Marcus Tullius",-44,-44.0,-44.0,prose,lat_-0043_IT-LAT0155.txt,1.8778851950446868e-05,-10.88276043852359,non_christian
+MQDQ-11,fragmenta poetica,"Cicero, Marcus Tullius",-73,-89.0,-43.0,poetry,lat_-0073_MQDQ-11.txt,0.00012005358204294436,-9.027452337027702,non_christian
+MQDQ-156,mimorum fragmenta,Decimus Laberius,-73,-106.0,-43.0,poetry,lat_-0073_MQDQ-156.txt,3.4659240045156165e-05,-10.26991154006738,non_christian
+IT-LAT0240,Commentarius de bello Alexandrino,"Hirtius, Aulus",-45,-47.0,-43.0,prose,lat_-0089_IT-LAT0240.txt,8.572487226932507e-05,-9.3642818210745,non_christian
+IT-LAT0075,Philippicae,"Cicero, Marcus Tullius",-43,-44.0,-43.0,prose,lat_0000_IT-LAT0075.txt,0.0003870170318697452,-7.856654763961273,non_christian
+MQDQ-47,carminum fragmenta,Quintus Cornificius,-45,-75.0,-41.0,poetry,lat_-0040_MQDQ-47.txt,1.1215653806351078e-05,-11.398188878484568,non_christian
+IT-LAT0029,Bellum Catilinae,"Sallustius Crispus, Caius",-42,-42.0,-41.0,prose,lat_-0049_IT-LAT0029.txt,3.100992526505323e-05,-10.381172224476044,non_christian
+MQDQ-386,mimorum fragmenta,Publilius Syrus,-60,-80.0,-40.0,poetry,lat_-0049.0_MQDQ-386.txt,1.2793908359384744e-05,-11.2665286157524,non_christian
+MQDQ-387,sententiae,Publilius Syrus,-60,-80.0,-40.0,poetry,lat_-0049.0_MQDQ-387.txt,6.846272860954668e-05,-9.58915260359405,non_christian
+IT-LAT0241,De bello Africo,[Auctor incertus],-42,-44.0,-40.0,prose,lat_-0049_IT-LAT0241.txt,5.176750355326443e-05,-9.868696181249794,non_christian
+IT-LAT0242,De bello Hispaniensi,[Auctor incertus],-42,-44.0,-40.0,prose,lat_-0049_IT-LAT0242.txt,0.00011351232679620936,-9.083485602036223,non_christian
+MQDQ-162,epigramma,Tullius Laurea,-42,-43.0,-40.0,poetry,lat_-0049.0_MQDQ-162.txt,1.2545149958528037e-05,-11.286163879339576,non_christian
+IT-LAT0029_2,Bellum Iugurthinum,"Sallustius Crispus, Caius",-40,-40.0,-40.0,prose,lat_-0049_IT-LAT0029_2.txt,7.903688459142373e-05,-9.445516880887642,non_christian
+MQDQ-538,eclogae,Vergilius,-39,-42.0,-39.0,poetry,lat_-0043_MQDQ-538.txt,0.0003548139646339431,-7.943562072206196,non_christian
+IT-LAT0056,De re rustica,"Varro, Marcus Terentius",-37,-37.0,-37.0,prose,lat_-0049_IT-LAT0056.txt,0.0006736402197270686,-7.302140520980452,non_christian
+MQDQ-520,carminum fragmenta,Varro Atacinus,-49,-58.0,-35.0,poetry,lat_-0049.0_MQDQ-520.txt,3.23701472963308e-05,-10.338241568968874,non_christian
+IT-LAT0029_3,Historiae,"Sallustius Crispus, Caius",-37,-39.0,-34.0,prose,lat_-0049_IT-LAT0029_3.txt,3.224583343869503e-05,-10.342089472415008,non_christian
+MQDQ-137,"*ignoti uersus Hor. sat. 1, 10 praemissi",Pseudo-Horace,-35,-36.0,-34.0,poetry,lat_-0035_MQDQ-137.txt,1.2578945162912424e-05,-11.283473581508265,non_christian
+MQDQ-132,saturae 1,Horatius,-35,-36.0,-34.0,poetry,lat_-0035_MQDQ-132.txt,3.478998133907339e-05,-10.2661463146017,non_christian
+MQDQ-88,epigramma de Crassitio,epigramma de Crassitio,-25,-39.0,-30.0,poetry,lat_-0049.0_MQDQ-88.txt,1.1862147595092834e-05,-11.342146239725286,non_christian
+MQDQ-126,epodi,Horatius,-30,-30.0,-29.0,poetry,lat_-0035_MQDQ-126.txt,5.0627129929566063e-05,-9.890972332328287,non_christian
+MQDQ-133,saturae 2,Horatius,-30,-30.0,-29.0,poetry,lat_-0035_MQDQ-133.txt,5.205176302173173e-05,-9.863219838664032,non_christian
+MQDQ-518,tragoediarum fragmenta,Varius,-29,-29.0,-29.0,poetry,lat_-0049.0_MQDQ-518.txt,1.910167552858637e-05,-10.86571540089149,non_christian
+MQDQ-539,georgicon,Vergilius,-29,-29.0,-29.0,poetry,lat_-0043_MQDQ-539.txt,0.00033022878692245543,-8.015394566691942,non_christian
+MQDQ-522,carminum fragmenta,"Varro, Marcus Terentius",-70,-81.0,-27.0,poetry,lat_-0070_MQDQ-522.txt,2.907818926220628e-05,-10.44549309608757,non_christian
+MQDQ-274,"corpus Tibullianum 3, 7",panegyricus in Messallam,-29,-31.0,-27.0,poetry,lat_0050.0_MQDQ-274.txt,1.757145021523586e-05,-10.949217548281943,non_christian
+MQDQ-45,carminum fragmenta,Cornelius Gallus,-35,-45.0,-26.0,poetry,lat_-0025_MQDQ-45.txt,1.4849730212753204e-05,-11.117514010531492,non_christian
+MQDQ-419,tragoediarum fragmenta,Santra,-49,-75.0,-25.0,poetry,lat_-0049.0_MQDQ-419.txt,2.032296731406232e-05,-10.803738593506043,non_christian
+MQDQ-568,carminis fragmentum,Volumnius,-49,-75.0,-25.0,poetry,lat_-0049.0_MQDQ-568.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT0393,Fragmenta varia,Cornelius Nepos,-45,-65.0,-24.0,prose,lat_-0049_IT-LAT0393.txt,2.76913441078456e-05,-10.494362988959107,non_christian
+MQDQ-127,carmina 1,Horatius,-23,-23.0,-23.0,poetry,lat_-0035_MQDQ-127.txt,0.000124813470186593,-8.988565352405942,non_christian
+MQDQ-128,carmina 2,Horatius,-23,-23.0,-23.0,poetry,lat_-0035_MQDQ-128.txt,6.004647255382727e-05,-9.720331704706265,non_christian
+MQDQ-129,carmina 3,Horatius,-23,-23.0,-23.0,poetry,lat_-0035_MQDQ-129.txt,2.8228964169562533e-05,-10.475133779550628,non_christian
+MQDQ-541,Aeneis,Vergilius,-24,-29.0,-19.0,poetry,lat_-0043_MQDQ-541.txt,0.0005515676724395549,-7.50219430081059,non_christian
+MQDQ-495,elegiae 1,Tibullus,-23,-27.0,-19.0,poetry,lat_-0033_MQDQ-495.txt,0.0006896631729088532,-7.278617333664116,non_christian
+MQDQ-496,elegiae 2,Tibullus,-23,-27.0,-19.0,poetry,lat_-0033_MQDQ-496.txt,0.0009963077012692494,-6.910457606727883,non_christian
+MQDQ-497,*elegiae 3,Tibullus,-23,-27.0,-19.0,poetry,lat_-0033_MQDQ-497.txt,0.0007931713144814231,-7.138677840226023,non_christian
+MQDQ-134,epistulae 1,Horatius,-20,-20.0,-19.0,poetry,lat_-0035_MQDQ-134.txt,0.00010538394585623627,-9.157794860313686,non_christian
+MQDQ-542,*epitaphium,Vergilius,-19,-19.0,-19.0,poetry,lat_-0043_MQDQ-542.txt,1.3880875366798254e-05,-11.184984657130324,non_christian
+MQDQ-131,carmen saeculare,Horatius,-17,-17.0,-17.0,poetry,lat_-0035_MQDQ-131.txt,4.074008567246389e-05,-10.10825730334445,non_christian
+MQDQ-245,amores 1,"Ovidius Naso, Publius",-25,-25.0,-16.0,poetry,lat_+0030_MQDQ-245.txt,0.0001492318577244326,-8.80986012637143,non_christian
+MQDQ-246,amores 2,"Ovidius Naso, Publius",-25,-25.0,-16.0,poetry,lat_+0030_MQDQ-246.txt,2.8356240074427414e-05,-10.470635086923291,non_christian
+MQDQ-184,carminum fragmenta,Aemilius Macer,-20,-100.0,-16.0,poetry,lat_-0015_MQDQ-184.txt,1.225191402589964e-05,-11.309816134177536,non_christian
+MQDQ-519,carminum fragmenta,Varius,-35,-43.0,-15.0,poetry,lat_-0049.0_MQDQ-519.txt,2.5825987692808147e-05,-10.564103471761442,non_christian
+MQDQ-356,elegiae 1,Propertius,-28,-30.0,-15.0,poetry,lat_-0031_MQDQ-356.txt,1.782938332937143e-05,-10.934644883271176,non_christian
+MQDQ-357,elegiae 2,Propertius,-26,-30.0,-15.0,poetry,lat_-0031_MQDQ-357.txt,3.635426664490664e-05,-10.222162629194166,non_christian
+MQDQ-358,elegiae 3,Propertius,-23,-30.0,-15.0,poetry,lat_-0031_MQDQ-358.txt,5.77633100150462e-05,-9.759098993688593,non_christian
+MQDQ-359,elegiae 4,Propertius,-16,-30.0,-15.0,poetry,lat_-0031_MQDQ-359.txt,0.000214830932086798,-8.445444347557125,non_christian
+MQDQ-130,carmina 4,Horatius,-13,-14.0,-13.0,poetry,lat_-0035_MQDQ-130.txt,8.652954397087014e-05,-9.354938120256898,non_christian
+MQDQ-135,epistulae 2,Horatius,-12,-12.0,-8.0,poetry,lat_-0035_MQDQ-135.txt,1.546249688049998e-05,-11.077077559375423,non_christian
+MQDQ-136,ars poetica,Horatius,-10,-12.0,-8.0,poetry,lat_-0035_MQDQ-136.txt,7.673778522151298e-05,-9.47503959364129,non_christian
+MQDQ-186,carminum fragmenta,Maecenas,-10,-40.0,-8.0,poetry,lat_-007_MQDQ-186.txt,1.3448012455618055e-05,-11.216665787549523,non_christian
+MQDQ-294,Atellanae fragmentum,Aprissius,-100,-200.0,-1.0,poetry,lat_-0199.0_MQDQ-294.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-38,Atellanae fragmentum,comoediae incertorum,-99,-200.0,-1.0,poetry,lat_-0099.0_MQDQ-38.txt,1.1037739359299471e-05,-11.414179268462313,non_christian
+MQDQ-36,palliatae fragmenta,comoediae incertorum,-99,-200.0,-1.0,poetry,lat_-0099.0_MQDQ-36.txt,0.00010277370088325709,-9.182878286674187,non_christian
+MQDQ-37,togatae fragmentum,comoediae incertorum,-99,-200.0,-1.0,poetry,lat_-0099.0_MQDQ-37.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-222,mimographi incerti,mimographi incerti,-99,-200.0,-1.0,poetry,lat_-0099.0_MQDQ-222.txt,0.0015874730044875,-6.444023098014391,non_christian
+MQDQ-505,fabulae incertae,tragici incerti,-99,-200.0,-1.0,poetry,lat_-0099.0_MQDQ-505.txt,8.427155943193729e-05,-9.381381848055783,non_christian
+MQDQ-504,fabulae,tragici incerti,-99,-200.0,-1.0,poetry,lat_-0099.0_MQDQ-504.txt,1.179562991226712e-05,-11.347769645806386,non_christian
+IT-LAT0849,Historica fragmenta,"Actorius Naso, Marcus",-49,-100.0,-1.0,prose,lat_-0049_IT-LAT0849.txt,2.302562011672109e-05,-10.678880017978056,non_christian
+MQDQ-626,carminum fragmenta,Furius Bibaculus,-49,-100.0,-1.0,poetry,lat_-0049.0_MQDQ-626.txt,0.00023336128602876,-8.362689332978974,non_christian
+MQDQ-106,carminum fragmenta,Gannius,-49,-100.0,-1.0,poetry,lat_-0049.0_MQDQ-106.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-225,Atellanarum fragmenta,Mummius,-49,-100.0,-1.0,poetry,lat_-0049.0_MQDQ-225.txt,2.1393453350819548e-05,-10.75240420724279,non_christian
+MQDQ-231,Cypriae Iliadis fragmenta,Naeuius iunior,-49,-100.0,-1.0,poetry,lat_-0049.0_MQDQ-231.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-459,carminum fragmenta,Sueius,-49,-100.0,-1.0,poetry,lat_-0049.0_MQDQ-459.txt,1.1968058647608813e-05,-11.33325726824551,non_christian
+MQDQ-509,comoediae fragmentum,Valerius,-49,-100.0,-1.0,poetry,lat_-0049.0_MQDQ-509.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-390,epigramma,Pupius,-25,-50.0,-1.0,poetry,lat_-0049.0_MQDQ-390.txt,3.17149445327357e-05,-10.358690836360884,non_christian
+MQDQ-517,carminum fragmenta,Valgius Rufus,-25,-50.0,-1.0,poetry,lat_-0011_MQDQ-517.txt,1.535447689432567e-05,-11.084088117505692,non_christian
+MQDQ-265,"Medea, fragmentum","Ovidius Naso, Publius",-20,-25.0,-1.0,poetry,lat_+0030_MQDQ-265.txt,1.9177823207336407e-05,-10.86173680978228,non_christian
+MQDQ-248,ars,"Ovidius Naso, Publius",-1,-1.0,1.0,poetry,lat_+0030_MQDQ-248.txt,6.220698172361125e-05,-9.684981109241324,non_christian
+IT-LAT0378,Epistula ad Gaium,"Augustus, Gaius Iulius Caesar Octavianus",1,1.0,1.0,prose,lat_001_IT-LAT0378.txt,1.498725845020239e-05,-11.108295167120223,non_christian
+MQDQ-247,medicamina faciei,"Ovidius Naso, Publius",1,-1.0,1.0,poetry,lat_+0030_MQDQ-247.txt,0.00010662003775637884,-9.146132466726666,non_christian
+MQDQ-249,remedia amoris,"Ovidius Naso, Publius",1,1.0,2.0,poetry,lat_+0030_MQDQ-249.txt,0.0001749671647232972,-8.650737249324823,non_christian
+MQDQ-331,carminis fragmentum,Asinius Pollio,-31,-76.0,4.0,poetry,lat_+0040_MQDQ-331.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-57,carminum fragmenta,Domitius Marsus,-15,-34.0,4.0,poetry,lat_0050.0_MQDQ-57.txt,0.00045432562458786585,-7.696241953376086,non_christian
+MQDQ-250,epistulae heroides,"Ovidius Naso, Publius",-12,-25.0,8.0,poetry,lat_+0030_MQDQ-250.txt,0.0012712937783499,-6.666448071389855,non_christian
+MQDQ-252,fasti,"Ovidius Naso, Publius",-8,1.0,8.0,poetry,lat_+0030_MQDQ-252.txt,0.000627621163454959,-7.372945998226336,non_christian
+MQDQ-251,metamorphoses,"Ovidius Naso, Publius",6,1.0,8.0,poetry,lat_+0030_MQDQ-251.txt,0.0018330359586882,-6.299946974895299,non_christian
+MQDQ-262,Ibis,"Ovidius Naso, Publius",11,10.0,11.0,poetry,lat_+0030_MQDQ-262.txt,6.068195992162297e-05,-9.709803420902777,non_christian
+MQDQ-253,tristia 1,"Ovidius Naso, Publius",10,9.0,12.0,poetry,lat_+0030_MQDQ-253.txt,4.260099392233895e-05,-10.06359037154945,non_christian
+MQDQ-254,tristia 2,"Ovidius Naso, Publius",10,9.0,12.0,poetry,lat_+0030_MQDQ-254.txt,2.2038623572473213e-05,-10.72269198810299,non_christian
+MQDQ-255,tristia 3,"Ovidius Naso, Publius",10,9.0,12.0,poetry,lat_+0030_MQDQ-255.txt,1.6176084292787017e-05,-11.031960508506184,non_christian
+MQDQ-256,tristia 4,"Ovidius Naso, Publius",10,9.0,12.0,poetry,lat_+0030_MQDQ-256.txt,3.207631809670974e-05,-10.347360477266736,non_christian
+MQDQ-257,tristia 5,"Ovidius Naso, Publius",10,9.0,12.0,poetry,lat_+0030_MQDQ-257.txt,1.814605005996976e-05,-10.9170395022729,non_christian
+MQDQ-258,ex Ponto 1,"Ovidius Naso, Publius",13,13.0,13.0,poetry,lat_+0030_MQDQ-258.txt,4.299062574596395e-05,-10.0544854803954,non_christian
+MQDQ-259,ex Ponto 2,"Ovidius Naso, Publius",13,13.0,13.0,poetry,lat_+0030_MQDQ-259.txt,1.8136500809090897e-05,-10.917565894387533,non_christian
+MQDQ-260,ex Ponto 3,"Ovidius Naso, Publius",13,13.0,13.0,poetry,lat_+0030_MQDQ-260.txt,5.211294321675912e-05,-9.862045095493407,non_christian
+IT-LAT0029_4,Invectiva in Ciceronem,Pseudo-Sallust,-13,-40.0,14.0,prose,lat_-0049_IT-LAT0029_4.txt,4.379068624542565e-05,-10.036045614346977,non_christian
+IT-LAT0996,Res romanae,Cornelius Severus,-13,-40.0,14.0,poetry,lat_-0037_IT-LAT0996.txt,1.686826667481582e-05,-10.990059544285916,non_christian
+MQDQ-46,carminum fragmenta,Cornelius Seuerus,-13,-40.0,14.0,poetry,lat_-0049.0_MQDQ-46.txt,0.00021356602845826167,-8.451350917488352,non_christian
+MQDQ-239,obtrectatores Vergilii,Numitorius,-13,-39.0,14.0,poetry,lat_0050.0_MQDQ-239.txt,4.99366936210059e-05,-9.904704544392246,non_christian
+MQDQ-385,carminis fragmentum,Arbonius Silo,-7,-27.0,14.0,poetry,lat_0050.0_MQDQ-385.txt,1.1064644402510027e-05,-11.411744657415296,non_christian
+MQDQ-58,carminis fragmentum,Dorcatius,-7,-27.0,14.0,poetry,lat_0050.0_MQDQ-58.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-112,tragoediarum fragmenta,Gracchus,-7,-27.0,14.0,poetry,lat_0050.0_MQDQ-112.txt,1.2260772916442066e-05,-11.309093324839832,non_christian
+MQDQ-113,cynegeticon,Grattius,-7,-27.0,14.0,poetry,lat_0050.0_MQDQ-113.txt,0.0004559789927742558,-7.692607735005774,non_christian
+MQDQ-391,de bello Aegiptiaco,Rabirius,-7,-27.0,14.0,poetry,lat_0050.0_MQDQ-391.txt,3.0697504024424323e-05,-10.391298510837132,non_christian
+MQDQ-392,carminum fragmenta,Rabirius,-7,-27.0,14.0,poetry,lat_0050.0_MQDQ-392.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-108,Aratea,Germanicus Caesar,9,4.0,14.0,poetry,lat_+0017_MQDQ-108.txt,0.00011412211255198945,-9.078127391493506,non_christian
+MQDQ-109,Arateorum fragmenta,Germanicus Caesar,9,4.0,14.0,poetry,lat_+0017_MQDQ-109.txt,0.00015300352789251532,-8.784896563482532,non_christian
+IT-LAT0278,Res gestae,"Augustus, Gaius Iulius Caesar Octavianus",14,14.0,14.0,prose,lat_0013_IT-LAT0278.txt,6.453659571592484e-05,-9.64821358094015,non_christian
+MQDQ-261,ex Ponto 4,"Ovidius Naso, Publius",16,16.0,16.0,poetry,lat_+0030_MQDQ-261.txt,3.0497740633559893e-05,-10.39782745647729,non_christian
+IT-LAT0142,Ab Urbe condita,"Livius, Titus",-7,-31.0,17.0,prose,lat_-001_IT-LAT0142.txt,0.0011631549671693,-6.75545533458434,non_christian
+MQDQ-264,phaenomenon fragmenta,"Ovidius Naso, Publius",-3,-25.0,18.0,poetry,lat_+0030_MQDQ-264.txt,1.2931126913387984e-05,-11.255860282826692,non_christian
+MQDQ-187,astronomica,Marcus Manilius,15,10.0,20.0,poetry,lat_+0050.0_MQDQ-187.txt,7.76066712700124e-05,-9.463779554813096,non_christian
+MQDQ-99,carminis fragmentum,Albinouanus Pedo,-1,-25.0,25.0,poetry,lat_-0049.0_MQDQ-99.txt,9.986545531353965e-05,-9.211586854324894,non_christian
+MQDQ-178,"corpus Tibullianum 3, 1-6",Lygdamus,1,-25.0,25.0,poetry,lat_0050.0_MQDQ-178.txt,5.033244042586563e-05,-9.896810416151132,non_christian
+IT-LAT0632,De figuris sententiarum et elocutionis,"Lupus, Publius Rutilius",12,1.0,25.0,prose,lat_0050_IT-LAT0632.txt,0.00012621179222587853,-8.977422951689292,non_christian
+MQDQ-105,epigramma,Asinius Gallus,-7,-10.0,30.0,poetry,lat_-007_MQDQ-105.txt,1.1024938431040504e-05,-11.415339696133874,non_christian
+IT-LAT0148,Historia Romana,"Velleius Paterculus, Caius",30,30.0,30.0,prose,lat_0029_IT-LAT0148.txt,4.860028703013654e-05,-9.931832519637316,non_christian
+IT-LAT0883,Factorum et dictorum memorabilium libri novem,Valerius Maximus,31,31.0,31.0,prose,lat_0030_IT-LAT0883.txt,0.0027224078489294,-5.903512431349145,non_christian
+MQDQ-269,carminis fragmentum,Sextus Paconianus,16,1.0,32.0,poetry,lat_+0050.0_MQDQ-269.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-267,*consolatio ad Liuiam,Pseudo-Ovid,24,12.0,37.0,poetry,lat_+0030_MQDQ-267.txt,2.5257513103480008e-05,-10.586361640016973,non_christian
+IT-LAT0382,De medicina,"Celsus, Cornelius Aulus",25,14.0,37.0,prose,lat_0030_IT-LAT0382.txt,0.0020418346896095,-6.191862595578121,non_christian
+MQDQ-104,carminis fragmentum,Gaetulicus,26,1.0,39.0,poetry,lat_0026_MQDQ-104.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT0083,Consolatio ad Marciam,"Seneca, Lucius Annaeus",40,39.0,40.0,prose,lat_0040_IT-LAT0083.txt,2.400136373093818e-05,-10.637375905456452,non_christian
+IT-LAT0116,Consolatio ad Helviam matrem,"Seneca, Lucius Annaeus",42,42.0,42.0,prose,lat_0041_IT-LAT0116.txt,2.611216633301296e-05,-10.553083096711958,non_christian
+IT-LAT0112,Consolatio ad Polybium,"Seneca, Lucius Annaeus",43,41.0,44.0,prose,lat_0043_IT-LAT0112.txt,3.906000821791498e-05,-10.150372361352597,non_christian
+IT-LAT0266,De chorographia,"Mela, Pomponius",44,44.0,44.0,prose,lat_0050_IT-LAT0266.txt,4.828050116045466e-05,-9.93843449983101,non_christian
+MQDQ-224,carminum fragmenta,Iulius Montanus,12,-25.0,50.0,poetry,lat_0050.0_MQDQ-224.txt,1.1057884814776289e-05,-11.412355768617648,non_christian
+MQDQ-303,"fabulae, appendix",Phaedrus,25,1.0,50.0,poetry,lat_0050.0_MQDQ-303.txt,7.903296869129467e-05,-9.445566431254974,non_christian
+MQDQ-298,fabulae 1,Phaedrus,25,1.0,50.0,poetry,lat_0050.0_MQDQ-298.txt,0.0002396874386568601,-8.335935106164108,non_christian
+MQDQ-299,fabulae 2,Phaedrus,25,1.0,50.0,poetry,lat_0050.0_MQDQ-299.txt,0.0045423843361467,-5.389750488304431,non_christian
+MQDQ-300,fabulae 3,Phaedrus,25,1.0,50.0,poetry,lat_0050.0_MQDQ-300.txt,0.00018525025227376248,-8.593617664574097,non_christian
+MQDQ-301,fabulae 4,Phaedrus,25,1.0,50.0,poetry,lat_0050.0_MQDQ-301.txt,0.0002902451638470092,-8.144494312257768,non_christian
+MQDQ-302,fabulae 5,Phaedrus,25,1.0,50.0,poetry,lat_0050.0_MQDQ-302.txt,6.814694024160485e-05,-9.593776148975888,non_christian
+MQDQ-341,praetextae fragmentum,Pomponius Secundus,41,31.0,51.0,poetry,lat_0044_MQDQ-341.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-340,tragoediarum fragmenta,Pomponius Secundus,41,31.0,51.0,poetry,lat_0044_MQDQ-340.txt,2.031969989094538e-05,-10.803899384603108,non_christian
+MQDQ-425,Hercules furens,"Seneca, Lucius Annaeus",53,41.0,54.0,poetry,lat_+0034_MQDQ-425.txt,7.419218542320622e-05,-9.50877753614599,non_christian
+IT-LAT0228,Apocolocyntosis Divi Claudii,"Seneca, Lucius Annaeus",54,54.0,54.0,prose,lat_0054_IT-LAT0228.txt,7.412720849856996e-05,-9.50965377688702,non_christian
+IT-LAT0045,De brevitate vitae,"Seneca, Lucius Annaeus",51,48.0,55.0,prose,lat_0049_IT-LAT0045.txt,5.477414627887071e-05,-9.812237482920878,non_christian
+IT-LAT0425,Commentarii,"Pedianus, Asconius",55,54.0,57.0,prose,lat_0050_IT-LAT0425.txt,7.966614205388509e-05,-9.437586210504662,non_christian
+IT-LAT0079,De vita beata,"Seneca, Lucius Annaeus",58,54.0,59.0,prose,lat_0058_IT-LAT0079.txt,7.53003053227433e-05,-9.493951065275208,non_christian
+IT-LAT0239,De arboribus,"Columella, Lucius Iunius Moderatus",45,30.0,60.0,prose,lat_0050_IT-LAT0239.txt,0.0004032428796782851,-7.81556817424931,non_christian
+MQDQ-155,carminis fragmentum,Attius Labeo,43,25.0,62.0,poetry,lat_0050.0_MQDQ-155.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-291,choliambi,Persius,56,50.0,62.0,poetry,lat_0048_MQDQ-291.txt,3.632496061803468e-05,-10.222969107044092,non_christian
+MQDQ-292,saturae,Persius,56,50.0,62.0,poetry,lat_0048_MQDQ-292.txt,0.0011231218240677,-6.790519375196233,non_christian
+IT-LAT0071,De tranquillitate animi,"Seneca, Lucius Annaeus",56,47.0,62.0,prose,lat_0062_IT-LAT0071.txt,4.625965742528641e-05,-9.981194045880628,non_christian
+IT-LAT0078,De otio,"Seneca, Lucius Annaeus",58,47.0,62.0,prose,lat_0062_IT-LAT0078.txt,0.00021697178747079657,-8.435526229202123,non_christian
+IT-LAT0072,De constantia sapientis,"Seneca, Lucius Annaeus",54,47.0,64.0,prose,lat_0049_IT-LAT0072.txt,0.00019874183888475504,-8.523305105897316,non_christian
+MQDQ-173,carminum fragmenta,Lucilius iunior,40,15.0,65.0,poetry,lat_0050.0_MQDQ-173.txt,1.1496533792392478e-05,-11.373453480785296,non_christian
+MQDQ-430,Oedipus,"Seneca, Lucius Annaeus",50,41.0,65.0,poetry,lat_+0034_MQDQ-430.txt,0.0001955226205477852,-8.539638937367926,non_christian
+MQDQ-429,Phaedra,"Seneca, Lucius Annaeus",50,41.0,65.0,poetry,lat_+0034_MQDQ-429.txt,6.117982172187615e-05,-9.701631951546004,non_christian
+MQDQ-428,Medea,"Seneca, Lucius Annaeus",53,41.0,65.0,poetry,lat_+0034_MQDQ-428.txt,7.33530294983209e-05,-9.52015339655429,non_christian
+IT-LAT0073,De providentia,"Seneca, Lucius Annaeus",53,41.0,65.0,prose,lat_0063_IT-LAT0073.txt,2.1128054027672407e-05,-10.764887697535675,non_christian
+IT-LAT0109,Agamemnon,"Seneca, Lucius Annaeus",53,41.0,65.0,poetry,lat_0065_IT-LAT0109.txt,6.887075985904157e-05,-9.583209982099838,non_christian
+MQDQ-171,carminum fragmenta,Lucanus,58,55.0,65.0,poetry,lat_0052_MQDQ-171.txt,0.00011255957626891448,-9.091915343744462,non_christian
+MQDQ-427,Phoenissae,"Seneca, Lucius Annaeus",60,41.0,65.0,poetry,lat_+0034_MQDQ-427.txt,5.716025797593963e-05,-9.76959452979613,non_christian
+MQDQ-426,Troades,"Seneca, Lucius Annaeus",60,41.0,65.0,poetry,lat_+0034_MQDQ-426.txt,0.0001854865436947206,-8.592342715528808,non_christian
+IT-LAT0237,Ilias Latina,Baebius Italicus,60,54.0,65.0,poetry,lat_0065_IT-LAT0237.txt,0.0004764150084056823,-7.648744688659005,non_christian
+MQDQ-29,"de re rustica, liber X","Columella, Lucius Iunius Moderatus",62,60.0,65.0,poetry,lat_0050.0_MQDQ-29.txt,0.0001542473939857319,-8.776798530774196,non_christian
+MQDQ-170,Pharsalia,Lucanus,62,60.0,65.0,poetry,lat_0052_MQDQ-170.txt,0.0003647855506918248,-7.915836057296588,non_christian
+MQDQ-432,Thyestes,"Seneca, Lucius Annaeus",62,41.0,65.0,poetry,lat_+0034_MQDQ-432.txt,0.0003090769651928542,-8.081611109048028,non_christian
+MQDQ-435,carminum fragmenta,"Seneca, Lucius Annaeus",64,63.0,65.0,poetry,lat_+0034_MQDQ-435.txt,0.0005020725027268817,-7.596263822375106,non_christian
+IT-LAT0230,Epistulae morales ad Lucilium,"Seneca, Lucius Annaeus",64,63.0,65.0,prose,lat_0062_IT-LAT0230.txt,0.000326883816439122,-8.025578814356335,non_christian
+MQDQ-297,fragmenta,Petronius,64,64.0,65.0,poetry,lat_0066_MQDQ-297.txt,0.00011273525406017364,-9.090355630914058,non_christian
+MQDQ-295,satyricon,Petronius,64,64.0,65.0,poetry,lat_0066_MQDQ-295.txt,3.01869715084793e-05,-10.408069946243076,non_christian
+MQDQ-296,bellum ciuile,Petronius,65,65.0,65.0,poetry,lat_0066_MQDQ-296.txt,0.00013661472318239517,-8.898209209399898,non_christian
+LC-10,Einsiedeln Eclogues,[Auctor incertus],61,54.0,68.0,poetry,lat_0050_LC-10.txt,0.000753441115700429,-7.1901059655664215,non_christian
+MQDQ-632,eclogae,Calpurnius Siculus,61,54.0,68.0,poetry,lat_0050.0_MQDQ-632.txt,3.4819761838086106e-05,-10.2652906430818,non_christian
+MQDQ-235,carminum fragmenta,Nero imperator,61,54.0,68.0,poetry,lat_0052_MQDQ-235.txt,1.1041891973752922e-05,-11.413803115411168,non_christian
+MQDQ-508,carminum fragmenta,Vagellius,50,25.0,75.0,poetry,lat_0050.0_MQDQ-508.txt,1.1707409237436874e-05,-11.355276940955465,non_christian
+MQDQ-263,*halieutica,Pseudo-Ovid,17,17.0,79.0,poetry,lat_+0030_MQDQ-263.txt,0.0002984315874341582,-8.116671363097424,non_christian
+MQDQ-620,uersus metrici,Caesius Bassus,40,1.0,79.0,poetry,lat_0050.0_MQDQ-620.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-194,de spectaculis,Martialis,80,80.0,80.0,poetry,lat_0071_MQDQ-194.txt,0.0017267905546206,-6.359762480996483,non_christian
+IT-LAT0588,Opuscula rerum rusticarum,"Frontinus, Sextus Iulius",74,64.0,84.0,prose,lat_0050_IT-LAT0588.txt,9.353222256641462e-05,-9.27711101806392,non_christian
+MQDQ-207,epigrammata 13,Martialis,84,83.0,85.0,poetry,lat_0071_MQDQ-207.txt,0.0005873859495754377,-7.439240900645261,non_christian
+MQDQ-208,epigrammata 14,Martialis,84,83.0,85.0,poetry,lat_0071_MQDQ-208.txt,0.00024059853967976517,-8.332140196447874,non_christian
+MQDQ-195,epigrammata 1,Martialis,85,84.0,86.0,poetry,lat_0071_MQDQ-195.txt,4.826836659007984e-05,-9.93868587836168,non_christian
+MQDQ-196,epigrammata 2,Martialis,86,86.0,87.0,poetry,lat_0071_MQDQ-196.txt,9.839186857066534e-05,-9.226453997088258,non_christian
+MQDQ-197,epigrammata 3,Martialis,87,87.0,87.0,poetry,lat_0071_MQDQ-197.txt,0.0065527010147527,-5.021303681461246,non_christian
+MQDQ-198,epigrammata 4,Martialis,88,88.0,88.0,poetry,lat_0071_MQDQ-198.txt,6.837659526158125e-05,-9.590411587496073,non_christian
+MQDQ-199,epigrammata 5,Martialis,89,89.0,89.0,poetry,lat_0071_MQDQ-199.txt,2.1140291769953708e-05,-10.764308635306849,non_christian
+MQDQ-450,belli Germanici fragmentum,"Statius, Publius Papinius",86,83.0,90.0,poetry,lat_0070_MQDQ-450.txt,1.1135835319343115e-05,-11.405331106717933,non_christian
+MQDQ-200,epigrammata 6,Martialis,90,90.0,91.0,poetry,lat_0071_MQDQ-200.txt,6.444673462942095e-05,-9.649607046226972,non_christian
+MQDQ-448,Thebais,"Statius, Publius Papinius",86,80.0,92.0,poetry,lat_0070_MQDQ-448.txt,0.0004927897880947933,-7.614934956921026,non_christian
+MQDQ-201,epigrammata 7,Martialis,92,92.0,92.0,poetry,lat_0071_MQDQ-201.txt,0.0002906795976744521,-8.142998214447656,non_christian
+MQDQ-202,epigrammata 8,Martialis,94,94.0,94.0,poetry,lat_0071_MQDQ-202.txt,7.6818598921102e-05,-9.473986952128437,non_christian
+MQDQ-203,epigrammata 9,Martialis,94,94.0,94.0,poetry,lat_0071_MQDQ-203.txt,0.00042699844141831053,-7.758303105185313,non_christian
+MQDQ-204,epigrammata 10,Martialis,95,95.0,95.0,poetry,lat_0071_MQDQ-204.txt,8.10212169081222e-05,-9.420718475954764,non_christian
+IT-LAT0588_1,Strategemata,"Frontinus, Sextus Iulius",89,84.0,96.0,prose,lat_0050_IT-LAT0588_1.txt,9.700552770657552e-05,-9.240645584185796,non_christian
+MQDQ-421,tragoediae fragmentum,Scaeuus Memor,89,81.0,96.0,poetry,lat_0050.0_MQDQ-421.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-506,saturarum fragmenta,Turnus,89,81.0,96.0,poetry,lat_0050.0_MQDQ-506.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT0332,Institutio oratoria,"Quintilianus, Marcus Fabius",89,81.0,96.0,prose,lat_0091_IT-LAT0332.txt,0.0012107779980743,-6.715280640795336,non_christian
+IT-LAT0563,Silvae,"Statius, Publius Papinius",92,89.0,96.0,poetry,lat_0050_IT-LAT0563.txt,9.014878049780326e-05,-9.313958983040912,non_christian
+IT-LAT0563_1,Achilleida,"Statius, Publius Papinius",95,95.0,96.0,poetry,lat_0050_IT-LAT0563_1.txt,7.510347374990637e-05,-9.496568638977662,non_christian
+MQDQ-205,epigrammata 11,Martialis,96,96.0,96.0,poetry,lat_0071_MQDQ-205.txt,0.00032722625087746606,-8.024531447809663,non_christian
+MQDQ-446,Punica,Silius Italicus,88,80.0,97.0,poetry,lat_0068_MQDQ-446.txt,0.00028152243984184635,-8.175016836240552,non_christian
+MQDQ-473,carminis fragmentum,Sulpicia,88,78.0,98.0,poetry,lat_0050.0_MQDQ-473.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT0588_2,De aquaeductu urbis Romae,"Frontinus, Sextus Iulius",98,98.0,98.0,prose,lat_0050_IT-LAT0588_2.txt,0.0007174194363751875,-7.239132223527595,non_christian
+IT-LAT0534_1,De origine et situ Germanorum,"Tacitus, Publius (Gaius) Cornelius",98,98.0,98.0,prose,lat_0116_IT-LAT0534_1.txt,0.00031303234720786205,-8.068890945699842,non_christian
+IT-LAT0534_2,De vita Iulii Agricolae,"Tacitus, Publius (Gaius) Cornelius",98,98.0,98.0,prose,lat_0116_IT-LAT0534_2.txt,4.244724310748855e-05,-10.067206143636229,non_christian
+LC-19,Ad Caesarem Senem de Re Publica Epistula,Pseudo-Sallust,-1,-34.0,100.0,prose,lat_-0049_LC-19.txt,7.671245217334797e-05,-9.475369798307709,non_christian
+IT-LAT0284,Appendix Vergiliana,[Auctor incertus],50,1.0,100.0,poetry,lat_-0049_IT-LAT0284.txt,6.885972676853144e-05,-9.583370205891285,non_christian
+MQDQ-163,laus Pisonis,[Auctor incertus],50,1.0,100.0,poetry,lat_0050.0_MQDQ-163.txt,8.429635889853583e-05,-9.381087586165425,non_christian
+MQDQ-434,*Octauia,"Seneca, Lucius Annaeus",84,68.0,100.0,poetry,lat_+0034_MQDQ-434.txt,0.0007024638661025129,-7.260213883522814,non_christian
+MQDQ-510,Argonautica,Valerius Flaccus,87,75.0,100.0,poetry,lat_0050.0_MQDQ-510.txt,0.0004136066926496083,-7.790181361194917,non_christian
+IT-LAT0111,Panegyricus Traiano,"Plinius Gaius, Cecilius Secundus",100,100.0,100.0,prose,lat_0100_IT-LAT0111.txt,4.259374019133415e-05,-10.063760664704322,non_christian
+MQDQ-206,epigrammata 12,Martialis,101,101.0,102.0,poetry,lat_0071_MQDQ-206.txt,4.812567907893423e-05,-9.941646527887624,non_christian
+MQDQ-556,carmen,Sentius Augurinus,105,105.0,105.0,poetry,lat_0100.0_MQDQ-556.txt,1.2520553881701416e-05,-11.288126432886097,non_christian
+IT-LAT0342,Expositio et ratio omnium formarum,Balbus,96,86.0,106.0,prose,lat_0100_IT-LAT0342.txt,0.00019504149556177737,-8.542103163767425,non_christian
+IT-LAT0534_3,Dialogus de oratoribus,"Tacitus, Publius (Gaius) Cornelius",104,102.0,107.0,prose,lat_0116_IT-LAT0534_3.txt,3.0598432783032624e-05,-10.394531167657377,non_christian
+MQDQ-554,epigramma,Verginius Rufus,103,97.0,109.0,poetry,lat_0097_MQDQ-554.txt,1.1048711577503946e-05,-11.413185687347037,non_christian
+IT-LAT0534_4,Historiae,"Tacitus, Publius (Gaius) Cornelius",104,100.0,109.0,prose,lat_0116_IT-LAT0534_4.txt,0.0001299849025686781,-8.94796225498853,non_christian
+MQDQ-330,carmina epistulis inserta,"Plinius Gaius, Cecilius Secundus",104,96.0,112.0,poetry,lat_0086_MQDQ-330.txt,5.687291473001968e-05,-9.774634470920814,non_christian
+IT-LAT0345,De limitibus,Hyginus the Elder,108,100.0,117.0,prose,lat_0100_IT-LAT0345.txt,1.401878047524337e-05,-11.17509864590988,non_christian
+IT-LAT0346,De generibus controversiarum,Hyginus the Elder,108,100.0,117.0,prose,lat_0100_IT-LAT0346.txt,0.00013137166360722044,-8.937348744744867,non_christian
+IT-LAT0349,De condicionibus agrorum,Hyginus the Elder,108,100.0,117.0,prose,lat_0100_IT-LAT0349.txt,0.0002113369258767768,-8.46184553366205,non_christian
+IT-LAT0120,De grammaticis et rhetoribus,"Svetonius Tranquillus, Caius",111,105.0,117.0,prose,lat_0113_IT-LAT0120.txt,0.00011586539878038434,-9.06296552382122,non_christian
+IT-LAT0720,De poetis,"Svetonius Tranquillus, Caius",111,105.0,117.0,prose,lat_0113_IT-LAT0720.txt,0.0033838593719826,-5.685348797271774,non_christian
+IT-LAT0325,Historiarum Alexandri Magni libri X,"Curtius Rufus, Quintus",62,1.0,125.0,prose,lat_0050_IT-LAT0325.txt,0.00023567847788837624,-8.352806357399038,non_christian
+MQDQ-433,Hercules Oetaeus,"Seneca, Lucius Annaeus",82,41.0,125.0,poetry,lat_+0034_MQDQ-433.txt,3.461443643090387e-05,-10.2712051099972,non_christian
+IT-LAT0054,Vitae Caesarum,"Svetonius Tranquillus, Caius",118,111.0,125.0,prose,lat_0121_IT-LAT0054.txt,0.0005853556913417686,-7.442705349034806,non_christian
+IT-LAT0534,Annales,"Tacitus, Publius (Gaius) Cornelius",120,110.0,125.0,prose,lat_0116_IT-LAT0534.txt,0.0077286961062825,-4.855056393002796,non_christian
+MQDQ-150,saturae,Iunius Iuuenalis,115,100.0,130.0,poetry,lat_0095_MQDQ-150.txt,0.0011358780615022,-6.779212781011564,non_christian
+IT-LAT0339,De condicionibus agrorum,"Flaccus, Siculus",118,98.0,138.0,prose,lat_0100_IT-LAT0339.txt,0.0032267338685384,-5.733052888552095,non_christian
+IT-LAT0340,De divisis et assignatis,"Flaccus, Siculus",118,98.0,138.0,prose,lat_0100_IT-LAT0340.txt,0.007453755804002,-4.891555565000653,non_christian
+IT-LAT0341,De quaestoriis agris,"Flaccus, Siculus",118,98.0,138.0,prose,lat_0100_IT-LAT0341.txt,2.971402487483052e-05,-10.423861691141347,non_christian
+MQDQ-115,carminum fragmenta,Hadrianus imperator,124,110.0,138.0,poetry,lat_0107_MQDQ-115.txt,1.207567142497906e-05,-11.324305679674046,non_christian
+MQDQ-96,carmina (anth. Riese),Florus,127,117.0,138.0,poetry,lat_0100.0_MQDQ-96.txt,8.106122911184492e-05,-9.420224709375852,non_christian
+MQDQ-470,"Adelphoe, periocha",Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-470.txt,1.8852435815914527e-05,-10.87884957880162,non_christian
+MQDQ-465,"Andria, periocha",Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-465.txt,3.091578120308236e-05,-10.384212869627444,non_christian
+MQDQ-471,*epigramma ap. Don. u. Verg.,Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-471.txt,1.5222381868325758e-05,-11.092728499329402,non_christian
+MQDQ-467,"Eunuchus, periocha",Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-467.txt,1.0999734406023326e-05,-11.417628430569463,non_christian
+MQDQ-466,"Hautontimorumenos, periocha",Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-466.txt,1.4745549558359234e-05,-11.124554499905274,non_christian
+MQDQ-469,"Hecyra, periocha",Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-469.txt,2.325120451873954e-05,-10.669130368540412,non_christian
+MQDQ-472,hexasticha in Aeneidos libris,Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-472.txt,0.0001836685852022688,-8.602193906332303,non_christian
+MQDQ-468,"Phormio, periocha",Sulpicius Apollinaris,125,100.0,150.0,poetry,lat_0150.0_MQDQ-468.txt,1.5905652211164875e-05,-11.048820121150271,non_christian
+MQDQ-223,carminum fragmenta,Annianus,130,110.0,160.0,poetry,lat_0150.0_MQDQ-223.txt,1.0585524329429102e-05,-11.45601253388654,non_christian
+MQDQ-336,*fragmentum poeticum flor. c. 7 insertum,"Apuleius, Lucius",165,160.0,170.0,poetry,lat_0147_MQDQ-336.txt,1.1035381041103262e-05,-11.41439295317842,non_christian
+IT-LAT0407,Quaestiones,"Caecilius Africanus, Sextus",150,125.0,175.0,prose,lat_0150_IT-LAT0407.txt,0.0094005822548408,-4.657538603012015,non_christian
+MQDQ-213,fragmentum,Marullus,170,161.0,180.0,poetry,lat_0050.0_MQDQ-213.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+IT-LAT0044,Acta martyrum scillitanorum,[Auctor incertus],180,180.0,180.0,prose,lat_0180_IT-LAT0044.txt,0.1442585591190487,-1.7803610365263425,non_christian
+MQDQ-335,carminum fragmenta,"Apuleius, Lucius",170,150.0,190.0,poetry,lat_0147_MQDQ-335.txt,2.699268274751861e-05,-10.51991774499372,non_christian
+IT-LAT0043,Metamorphoses,"Apuleius, Lucius",170,150.0,190.0,prose,lat_0158_IT-LAT0043.txt,0.0155843310088472,-4.14578224871589,non_christian
+IT-LAT0360,Noctes Atticae,"Gellius, Aulus",175,160.0,190.0,prose,lat_0150_IT-LAT0360.txt,0.000251138044862799,-8.289256620897438,non_christian
+IT-LAT0062,Ad martyres,"Tertullianus, Quintus Septimius Florens",197,196.0,197.0,prose,lat_0197_IT-LAT0062.txt,0.9997462251648208,8.278809352728288,christian
+IT-LAT0246,Apologeticum,"Tertullianus, Quintus Septimius Florens",197,196.0,197.0,prose,lat_0197_IT-LAT0246.txt,0.9991352435547564,7.052197526309206,christian
+IT-LAT0448,Ad nationes,"Tertullianus, Quintus Septimius Florens",197,196.0,197.0,prose,lat_0197_IT-LAT0448.txt,0.0024764344883375,-5.998455953688041,non_christian
+IT-LAT0737,Adversus Iudaeos,"Tertullianus, Quintus Septimius Florens",197,197.0,197.0,prose,lat_0198_IT-LAT0737.txt,0.9999620905648998,10.180272619468356,christian
+IT-LAT0058,De spectaculis,"Tertullianus, Quintus Septimius Florens",197,196.0,197.0,prose,lat_0199_IT-LAT0058.txt,0.9997338172254144,8.231061144433767,christian
+IT-LAT0248,De testimonio animae,"Tertullianus, Quintus Septimius Florens",198,197.0,198.0,prose,lat_0198_IT-LAT0248.txt,0.1248699557135068,-1.9470996558899611,non_christian
+MQDQ-345,carmina Priapea,[Auctor incertus],87,-27.0,200.0,poetry,lat_0150.0_MQDQ-345.txt,0.0048782081385046,-5.318087165845176,non_christian
+IT-LAT0051,Fabulae,"Hyginus, Gaius Iulius",88,-25.0,200.0,prose,lat_0050_IT-LAT0051.txt,0.00020324328193389293,-8.500903599359754,non_christian
+IT-LAT0355,De astronomia,"Hyginus, Gaius Iulius",88,-25.0,200.0,prose,lat_0050_IT-LAT0355.txt,4.772855605741888e-05,-9.949932950015308,non_christian
+IT-LAT0784,Declamationes,Calpurnius Flaccus,137,75.0,200.0,prose,lat_0100_IT-LAT0784.txt,0.0002856106103624075,-8.160595525655213,non_christian
+IT-LAT0348,Constitutio limitum,Hyginus: Gromaticus,145,75.0,200.0,prose,lat_0100_IT-LAT0348.txt,0.0022722893121273,-6.084692573266799,non_christian
+MQDQ-436,*epigrammata,Pseudo-Seneca,150,100.0,200.0,poetry,lat_+0034_MQDQ-436.txt,4.342481317944235e-05,-10.044436122233249,non_christian
+MQDQ-394,Amphitruo,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-394.txt,0.0001587946336399446,-8.74773999567874,non_christian
+MQDQ-395,Asinaria,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-395.txt,1.0762056136077708e-05,-11.439473168658552,non_christian
+MQDQ-396,Aulularia,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-396.txt,2.4827312446344884e-05,-10.603541374847454,non_christian
+MQDQ-397,Captiui,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-397.txt,0.00017383537604169613,-8.657227970814494,non_christian
+MQDQ-398,Casina,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-398.txt,0.0008230130668697893,-7.101715128365147,non_christian
+MQDQ-399,Cistellaria,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-399.txt,2.242523315936437e-05,-10.705301327292789,non_christian
+MQDQ-400,Curculio,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-400.txt,2.0546849189861976e-05,-10.7927824058114,non_christian
+MQDQ-401,Epidicus,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-401.txt,1.698461659904161e-05,-10.98318554476049,non_christian
+MQDQ-402,Menaechmi,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-402.txt,4.06174236809325e-05,-10.111272810465769,non_christian
+MQDQ-403,Mercator,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-403.txt,1.76553281555401e-05,-10.944455286156249,non_christian
+MQDQ-404,Miles gloriosus,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-404.txt,0.0001326683869779915,-8.927525197073022,non_christian
+MQDQ-405,Mostellaria,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-405.txt,1.6201219325817273e-05,-11.030407850182032,non_christian
+MQDQ-408,Pseudolus,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-408.txt,7.498491178437839e-05,-9.498148653151606,non_christian
+MQDQ-409,Rudens,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-409.txt,0.00024093557008949423,-8.330740039643672,non_christian
+MQDQ-410,Stichus,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-410.txt,1.1403916584032126e-05,-11.38154229758262,non_christian
+MQDQ-411,Trinummus,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-411.txt,1.6152402578142904e-05,-11.033425600378733,non_christian
+MQDQ-412,Truculentus,argumenta Plautina,150,100.0,200.0,poetry,lat_0050.0_MQDQ-412.txt,0.00031314765664947725,-8.068522535479943,non_christian
+IT-LAT0934,Declamationes maiores,Pseudo-Quintilian,150,100.0,200.0,prose,lat_0067_IT-LAT0934.txt,0.0004916971019564701,-7.617155859465368,non_christian
+IT-LAT0916,De verbis dubiis,"Caper, Flavius",150,100.0,200.0,prose,lat_0150_IT-LAT0916.txt,8.264654937638743e-05,-9.400854834435972,non_christian
+MQDQ-490,"*de orthographia, uersus inserti","Caper, Flavius",150,100.0,200.0,poetry,lat_0150.0_MQDQ-490.txt,1.4449468159363347e-05,-11.144838500091012,non_christian
+MQDQ-240,incerti odarium,[Auctor incertus],175,150.0,200.0,poetry,lat_0150.0_MQDQ-240.txt,6.121703260318036e-05,-9.701023877751254,non_christian
+MQDQ-138,Medea tragoedia,Hosidius Gaetae,188,173.0,203.0,poetry,lat_0250.0_MQDQ-138.txt,0.0001659302372911293,-8.70377717121769,non_christian
+IT-LAT0749,Ad uxorem libri duo,"Tertullianus, Quintus Septimius Florens",198,198.0,203.0,prose,lat_0198_IT-LAT0749.txt,0.9998872101369852,9.08987129360272,christian
+IT-LAT0256,De Baptismo,"Tertullianus, Quintus Septimius Florens",200,198.0,203.0,prose,lat_0198_IT-LAT0256.txt,0.9999221483064826,9.460627051600673,christian
+IT-LAT0350,De oratione,"Tertullianus, Quintus Septimius Florens",201,198.0,203.0,prose,lat_0205_IT-LAT0350.txt,0.999893843033527,9.150485580795086,christian
+IT-LAT0750,De cultu feminarum libri duo,"Tertullianus, Quintus Septimius Florens",201,196.0,206.0,prose,lat_0198_IT-LAT0750.txt,0.9998425078079446,8.755977170583282,christian
+IT-LAT0606,De resurrectione carnis liber,"Tertullianus, Quintus Septimius Florens",206,206.0,207.0,prose,lat_0210_IT-LAT0606.txt,0.9998094524881744,8.565418422918397,christian
+IT-LAT0733,Liber de corona militis,"Tertullianus, Quintus Septimius Florens",208,208.0,208.0,prose,lat_0210_IT-LAT0733.txt,0.0057797685340305,-5.147595107079614,non_christian
+IT-LAT0744,De exhortatione castitatis,"Tertullianus, Quintus Septimius Florens",208,208.0,209.0,prose,lat_0205_IT-LAT0744.txt,0.8043883195283267,1.413950665136839,christian
+IT-LAT0736,De virginibus velandis,"Tertullianus, Quintus Septimius Florens",208,208.0,209.0,prose,lat_0213_IT-LAT0736.txt,0.9997275445689042,8.207763020295777,christian
+IT-LAT0747,Liber de fuga in persecutione,"Tertullianus, Quintus Septimius Florens",208,208.0,209.0,prose,lat_0213_IT-LAT0747.txt,0.9999294518505066,9.559144559091129,christian
+IT-LAT0755,Liber de monogamia,"Tertullianus, Quintus Septimius Florens",210,210.0,211.0,prose,lat_0213_IT-LAT0755.txt,0.999788398316024,8.460593275638562,christian
+IT-LAT0788,Adversus Praxean,"Tertullianus, Quintus Septimius Florens",210,210.0,211.0,prose,lat_0213_IT-LAT0788.txt,0.999969848794114,10.409255487705938,christian
+MQDQ-491,"*ignoti uersus ap. Tert. apol. 25, 8","Tertullianus, Quintus Septimius Florens",198,198.0,213.0,poetry,lat_0190_MQDQ-491.txt,1.2484647802983911e-05,-11.290998359517522,non_christian
+IT-LAT0471,Passio Sanctarum Perpetuae et Felicitatis,[Auctor incertus],207,203.0,213.0,prose,lat_0200_IT-LAT0471.txt,0.999732928581354,8.227727342676987,christian
+IT-LAT0746,De anima liber,"Tertullianus, Quintus Septimius Florens",211,210.0,213.0,prose,lat_0210_IT-LAT0746.txt,0.999806926908586,8.552248637030406,christian
+IT-LAT0347,De munitionibus castrorum,Pseudo-Hyginus,165,98.0,225.0,prose,lat_0100_IT-LAT0347.txt,0.0004922134366212331,-7.616105786657953,non_christian
+LC-1,De natura animalium,"Aelianus, Claudius",199,180.0,238.0,prose,lat_0200_LC-1.txt,0.001499552613427,-6.50108779500927,non_christian
+MQDQ-152,carminum fragmenta,Alfius Auitus,200,150.0,250.0,poetry,lat_0100.0_MQDQ-152.txt,1.1556340337809874e-05,-11.368264768209118,non_christian
+IT-LAT0201,Epitome Historiarum Philippicarum Pompei Trogi,"Iustinus Iunianus, Marcus",200,150.0,250.0,prose,lat_0250_IT-LAT0201.txt,0.0001962977341546112,-8.535681682513555,non_christian
+IT-LAT0267,Octavius,"Minucius Felix, Marcus",205,160.0,250.0,prose,lat_0150_IT-LAT0267.txt,0.0630337219427847,-2.6989774402049047,non_christian
+IT-LAT0865,De Trinitate,Novatianus,240,230.0,250.0,prose,lat_0250_IT-LAT0865.txt,0.999902815505405,9.238802190633365,christian
+IT-LAT0059,De unitate ecclesiae,Cyprianus Carthaginensis,251,251.0,251.0,prose,lat_0251_IT-LAT0059.txt,0.9999456545612389,9.820095524438788,christian
+IT-LAT0893,Curae boum,"Gargilius Martialis, Quintus",230,200.0,260.0,prose,lat_0260_IT-LAT0893.txt,6.122715257680623e-05,-9.700858568255535,non_christian
+IT-LAT0895,Medicina ex oleribus et pomis,"Gargilius Martialis, Quintus",230,200.0,260.0,prose,lat_0260_IT-LAT0895.txt,0.0001819811876951486,-8.611425242794027,non_christian
+IT-LAT0896,Vita Alexandri Severi,"Gargilius Martialis, Quintus",230,200.0,260.0,prose,lat_0260_IT-LAT0896.txt,0.00014940991387191893,-8.808667508479397,non_christian
+MQDQ-439,carminum fragmenta,Septimius Serenus,225,175.0,275.0,poetry,lat_0100.0_MQDQ-439.txt,0.0001935639481856889,-8.549709035827554,non_christian
+MQDQ-41,carmen de duobus populis,Commodianus,250,225.0,275.0,poetry,lat_0250.0_MQDQ-41.txt,0.999814796566432,8.59387047555487,christian
+MQDQ-39,instructiones 1,Commodianus,250,225.0,275.0,poetry,lat_0250.0_MQDQ-39.txt,0.9996907148379004,8.080937518942672,christian
+MQDQ-40,instructiones 2,Commodianus,250,225.0,275.0,poetry,lat_0250.0_MQDQ-40.txt,0.9998138446317608,8.588742747119966,christian
+IT-LAT0846,Acta,Acholius,250,220.0,280.0,prose,lat_0250_IT-LAT0846.txt,0.0020825532338708,-6.17207589700372,non_christian
+MQDQ-232,eclogae,Nemesianus,279,275.0,283.0,poetry,lat_0250.0_MQDQ-232.txt,0.00023272947939567543,-8.365401054990592,non_christian
+MQDQ-233,cynegetica,Nemesianus,283,283.0,284.0,poetry,lat_0250.0_MQDQ-233.txt,0.0003833189371014986,-7.866259788945119,non_christian
+MQDQ-377,distichorum appendix,pseudo Cato,225,150.0,300.0,poetry,lat_0300.0_MQDQ-377.txt,2.814274374674913e-05,-10.478192864453286,non_christian
+MQDQ-558,"de litteris, de syllabis, de metris",Terentianus Maurus,237,175.0,300.0,poetry,lat_0250.0_MQDQ-558.txt,0.00035515019002857,-7.942614574184143,non_christian
+IT-LAT0204,Disticha Catonis,[Auctor incertus],250,200.0,300.0,poetry,lat_0250_IT-LAT0204.txt,8.21450207156836e-05,-9.406942179026853,non_christian
+IT-LAT0913,Fragmentum de metriis,Censorinus,250,200.0,300.0,prose,lat_0250_IT-LAT0913.txt,6.391565955131629e-05,-9.65788224550079,non_christian
+IT-LAT0914,De musica fragmentum,Censorinus,250,200.0,300.0,prose,lat_0250_IT-LAT0914.txt,2.269186425721195e-05,-10.69348140836281,non_christian
+MQDQ-107,carminum fragmenta,Albinus,250,200.0,300.0,poetry,lat_0300.0_MQDQ-107.txt,1.2808489109923e-05,-11.265389586582527,non_christian
+IT-LAT0621,Sententiarum receptarum libri quinque,"Paulus, Julius",275,250.0,300.0,prose,lat_0250_IT-LAT0621.txt,0.0016342674385547,-6.414925020540503,non_christian
+MQDQ-234,de aucupio,Nemesianus,287,275.0,300.0,poetry,lat_0250.0_MQDQ-234.txt,1.2453207438815988e-05,-11.293519889340644,non_christian
+IT-LAT0264,Adversus nationes,Arnobius,297,295.0,300.0,prose,lat_0300_IT-LAT0264.txt,0.9987488754809236,6.682460608989322,christian
+MQDQ-157,de aue Phoenice,"Lactantius, Lucius Caecilius Firmianus",303,303.0,304.0,poetry,lat_0300.0_MQDQ-157.txt,0.006651292220772,-5.00627061363828,non_christian
+MQDQ-289,carminum fragmenta,Paulus Quaestor,312,312.0,312.0,poetry,lat_0350.0_MQDQ-289.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-158,e Graecis conuersa,"Lactantius, Lucius Caecilius Firmianus",308,303.0,313.0,poetry,lat_0300.0_MQDQ-158.txt,1.23130195497605e-05,-11.304841042326114,non_christian
+IT-LAT0268,De mortibus persecutorum,"Lactantius, Lucius Caecilius Firmianus",317,317.0,318.0,prose,lat_0318_IT-LAT0268.txt,0.99959567796372,7.812894474232822,christian
+MQDQ-1,laudes Domini,laudes Domini,321,317.0,324.0,poetry,lat_0321_MQDQ-1.txt,0.9995149679420138,7.630810420546362,christian
+IT-LAT0665,De mirabilibus mundi,"Solinus, Caius Iulius",300,275.0,325.0,prose,lat_0250_IT-LAT0665.txt,0.0002149053883447196,-8.44509775241567,non_christian
+MQDQ-499,carmina,Tiberianus,300,275.0,325.0,poetry,lat_0300.0_MQDQ-499.txt,0.0006280271149304359,-7.372298991380772,non_christian
+MQDQ-500,carminum fragmenta,Tiberianus,300,275.0,325.0,poetry,lat_0300.0_MQDQ-500.txt,7.994121322298213e-05,-9.43413908371779,non_christian
+MQDQ-151,euangeliorum libri,Vettius Aquilinus Iuuencus,330,330.0,330.0,poetry,lat_0350.0_MQDQ-151.txt,0.99957980595065,7.77437364876856,christian
+MQDQ-241,carmina,Publilius Optatianus Porfyrius,321,306.0,337.0,poetry,lat_0300.0_MQDQ-241.txt,0.0008170974857853207,-7.108934717083981,non_christian
+IT-LAT0886,Epistulae de iure civitatis Orcistenorum,Ablabius,331,326.0,337.0,prose,lat_0330_IT-LAT0886.txt,0.001443569660759,-6.539191689181563,non_christian
+LC-11,Matheseos libri VIII,Iulius Firmicus Maternus,335,334.0,337.0,prose,lat_0350_LC-11.txt,0.0007464986504743026,-7.199369971371344,non_christian
+MQDQ-166,epigramma,Ablabius,332,326.0,338.0,poetry,lat_0331_MQDQ-166.txt,1.1046013900640491e-05,-11.413429881979106,non_christian
+MQDQ-540,*uersus Aeneidos libro primo praemissi,Pseudo-Virgil,174,19.0,350.0,poetry,lat_-0043_MQDQ-540.txt,1.1124459802747111e-05,-11.406353163625662,non_christian
+MQDQ-580,filius ad patrem,"Ausonius, Decimus Magnus",342,334.0,350.0,poetry,lat_0352_MQDQ-580.txt,9.710546654895142e-05,-9.239615775934643,non_christian
+IT-LAT0233,Periegesis seu descriptio orbis terrarum,"Avienus, Rufius Festus",350,340.0,360.0,poetry,lat_0350_IT-LAT0233.txt,8.546267005803781e-05,-9.3673454185485,non_christian
+MQDQ-569,Aratea,"Avienus, Rufius Festus",350,340.0,360.0,poetry,lat_0350.0_MQDQ-569.txt,0.0005279261767005467,-7.546026035309536,non_christian
+MQDQ-570,carmen ad Flauianum,"Avienus, Rufius Festus",350,340.0,360.0,poetry,lat_0350.0_MQDQ-570.txt,5.140850521326745e-05,-9.875655518290063,non_christian
+MQDQ-571,carmen ad Nortiam,"Avienus, Rufius Festus",350,340.0,360.0,poetry,lat_0350.0_MQDQ-571.txt,0.00012619385624553344,-8.977565089904827,non_christian
+MQDQ-573,ora maritima,"Avienus, Rufius Festus",350,340.0,360.0,poetry,lat_0350.0_MQDQ-573.txt,0.0001675279771415055,-8.694192650924727,non_christian
+MQDQ-350,cento Vergilianus,Faltonia Betitia Proba,360,360.0,360.0,poetry,lat_0350.0_MQDQ-350.txt,0.9557006499295504,3.071474730480409,christian
+MQDQ-617,hymni,Marius Victorinus,360,356.0,362.0,poetry,lat_0362_MQDQ-617.txt,0.999770620843714,8.379904813803748,christian
+MQDQ-592,griphus ternarii numeri,"Ausonius, Decimus Magnus",368,368.0,368.0,poetry,lat_0352_MQDQ-592.txt,5.952670707663394e-05,-9.729025959209816,non_christian
+MQDQ-581,uersus Paschales,"Ausonius, Decimus Magnus",368,368.0,368.0,poetry,lat_0352_MQDQ-581.txt,0.9985302959251912,6.521223422961738,christian
+MQDQ-595,cento nuptialis,"Ausonius, Decimus Magnus",368,368.0,369.0,poetry,lat_0352_MQDQ-595.txt,0.000245938637524768,-8.310182525218318,non_christian
+IT-LAT0115,Breviarium ab Urbe condita,Eutropius,369,369.0,370.0,prose,lat_0350_IT-LAT0115.txt,0.00017229352174693237,-8.66613870545418,non_christian
+MQDQ-593,Mosella,"Ausonius, Decimus Magnus",371,371.0,371.0,poetry,lat_0352_MQDQ-593.txt,0.0004816673786774074,-7.63777498444628,non_christian
+IT-LAT0574,De Bissula,"Ausonius, Decimus Magnus",371,371.0,372.0,poetry,lat_0385_IT-LAT0574.txt,0.0003788613611925908,-7.877961288258947,non_christian
+IT-LAT0286,Testamentum porcelli,[Auctor incertus],350,325.0,375.0,prose,lat_0350_IT-LAT0286.txt,0.000189686097826179,-8.569950264667412,non_christian
+MQDQ-149,e Graecis conuersa,Iulius Valerius,356,337.0,375.0,poetry,lat_0338_MQDQ-149.txt,5.479660953168883e-05,-9.811827437673095,non_christian
+MQDQ-476,carmina epistulis inserta,Quintus Aurelius Symmachus,372,370.0,375.0,poetry,lat_0371_MQDQ-476.txt,0.00012614406451275274,-8.977959782991313,non_christian
+MQDQ-477,Aradius Rufinus,Symmachus pater,375,375.0,375.0,poetry,lat_0376_MQDQ-477.txt,1.8519047373165148e-05,-10.896692248584417,non_christian
+MQDQ-479,Anicius Iulianus,Symmachus pater,375,375.0,375.0,poetry,lat_0376_MQDQ-479.txt,1.3406095130339233e-05,-11.219787687767004,non_christian
+MQDQ-480,Petronius Probianus,Symmachus pater,375,375.0,375.0,poetry,lat_0376_MQDQ-480.txt,3.702892182823036e-05,-10.203774250025074,non_christian
+MQDQ-478,Valerius Proculus,Symmachus pater,375,375.0,375.0,poetry,lat_0376_MQDQ-478.txt,9.596170440910328e-05,-9.251465392179304,non_christian
+MQDQ-481,Verinus,Symmachus pater,375,375.0,375.0,poetry,lat_0376_MQDQ-481.txt,1.7308879314333438e-05,-10.964273623938023,non_christian
+IT-LAT0574_1,Epicedion in patrem,"Ausonius, Decimus Magnus",378,378.0,378.0,poetry,lat_0385_IT-LAT0574_1.txt,8.226512716503589e-05,-9.405480999818174,non_christian
+MQDQ-597,precationes variae,"Ausonius, Decimus Magnus",379,379.0,379.0,poetry,lat_0352_MQDQ-597.txt,9.653271787652696e-05,-9.245532024352151,non_christian
+IT-LAT0574_3,Gratiarum actio dicta Domino Gratiano Augusto,"Ausonius, Decimus Magnus",379,379.0,379.0,poetry,lat_0385_IT-LAT0574_3.txt,6.752022944413789e-05,-9.60301578700776,non_christian
+IT-LAT0574_7,Periocha Iliadis,Pseudo-Ausonius,355,330.0,380.0,poetry,lat_0385_IT-LAT0574_7.txt,0.00016395038150743315,-8.715782763879204,non_christian
+IT-LAT0574_8,Periocha Odyssiae,Pseudo-Ausonius,355,330.0,380.0,poetry,lat_0385_IT-LAT0574_8.txt,1.1383292074734332e-05,-11.383352501739578,non_christian
+MQDQ-579,ephemeris,"Ausonius, Decimus Magnus",374,368.0,380.0,poetry,lat_0352_MQDQ-579.txt,0.6433856181903158,0.5900892267417963,christian
+MQDQ-583,de herediolo,"Ausonius, Decimus Magnus",379,379.0,380.0,poetry,lat_0352_MQDQ-583.txt,0.0005909295074191615,-7.433222720283672,non_christian
+IT-LAT0878,Vita Pauli,Hieronymus,376,372.0,381.0,prose,lat_0400_IT-LAT0878.txt,0.9998961917926148,9.172861707541273,christian
+IT-LAT0574_6,Parentalia,"Ausonius, Decimus Magnus",380,379.0,382.0,poetry,lat_0385_IT-LAT0574_6.txt,0.00043592225631195613,-7.737610624427643,non_christian
+MQDQ-599,Caesares,"Ausonius, Decimus Magnus",381,379.0,383.0,poetry,lat_0352_MQDQ-599.txt,0.0006956339217020294,-7.2699911345818045,non_christian
+MQDQ-596,Cupido cruciatus,"Ausonius, Decimus Magnus",381,380.0,383.0,poetry,lat_0352_MQDQ-596.txt,0.00010315356975610543,-9.179188552728284,non_christian
+MQDQ-598,fasti,"Ausonius, Decimus Magnus",381,379.0,383.0,poetry,lat_0352_MQDQ-598.txt,0.00015424672000168482,-8.776802900958213,non_christian
+IT-LAT0574_4,Liber protrepticus ad nepotem,"Ausonius, Decimus Magnus",381,379.0,383.0,poetry,lat_0385_IT-LAT0574_4.txt,3.235268960648188e-05,-10.33878104641089,non_christian
+MQDQ-56,epigrammata,Damasus,373,366.0,384.0,poetry,lat_0384_MQDQ-56.txt,0.9989223983903742,6.831939256515937,christian
+IT-LAT0719,Itinerarium peregrinatio,Egeria,384,381.0,384.0,prose,lat_0350_IT-LAT0719.txt,0.9999016651889644,9.227034123280076,christian
+MQDQ-588,commemoratio professorum,"Ausonius, Decimus Magnus",385,385.0,385.0,poetry,lat_0352_MQDQ-588.txt,0.00021857619714888243,-8.428157275761656,non_christian
+MQDQ-589,epitaphia heroum,"Ausonius, Decimus Magnus",385,385.0,385.0,poetry,lat_0352_MQDQ-589.txt,4.839580395452132e-05,-9.93604904617938,non_christian
+IT-LAT0263,Epistula ad Marcellinam sororem,Ambrosius Mediolanensis,385,385.0,386.0,prose,lat_0350_IT-LAT0263.txt,0.9997759218076276,8.403291390627778,christian
+IT-LAT0574_2,Genethliacum ad Ausonium nepotem,"Ausonius, Decimus Magnus",387,387.0,387.0,poetry,lat_0385_IT-LAT0574_2.txt,0.0002840773681943416,-8.16597981595821,non_christian
+IT-LAT0061,De dialectica,Augustinus Hipponensis,387,387.0,387.0,prose,lat_0387_IT-LAT0061.txt,0.1642653872429605,-1.6268277790105736,non_christian
+MQDQ-584,pater ad filium,"Ausonius, Decimus Magnus",385,383.0,388.0,poetry,lat_0352_MQDQ-584.txt,4.3726134233241867e-05,-10.037520870151612,non_christian
+IT-LAT0574_5,Ordo urbium nobilium,"Ausonius, Decimus Magnus",388,388.0,389.0,poetry,lat_0385_IT-LAT0574_5.txt,8.910642455646694e-05,-9.32559001068133,non_christian
+MQDQ-591,eclogae,"Ausonius, Decimus Magnus",365,340.0,390.0,poetry,lat_0352_MQDQ-591.txt,7.311248943000637e-05,-9.523438236604497,non_christian
+MQDQ-601,technopaegnion,"Ausonius, Decimus Magnus",389,388.0,390.0,poetry,lat_0352_MQDQ-601.txt,0.0002013888218461076,-8.510071672370508,non_christian
+IT-LAT0793,De magistro,Augustinus Hipponensis,389,388.0,390.0,prose,lat_0389_IT-LAT0793.txt,0.9987384295453487,6.674135574636228,christian
+MQDQ-602,ludus septem sapientium,"Ausonius, Decimus Magnus",390,390.0,390.0,poetry,lat_0352_MQDQ-602.txt,5.833295175009757e-05,-9.74928507950398,non_christian
+IT-LAT0121,Rerum gestarum Libri,Ammianus Marcellinus,390,390.0,390.0,prose,lat_0362_IT-LAT0121.txt,0.0036781395822109,-5.601663282375846,non_christian
+IT-LAT0397,De fide et symbolo,Augustinus Hipponensis,393,393.0,393.0,prose,lat_0393_IT-LAT0397.txt,0.9999691120009284,10.385111940585247,christian
+MQDQ-590,epigrammata,"Ausonius, Decimus Magnus",364,334.0,394.0,poetry,lat_0352_MQDQ-590.txt,2.036701724262722e-05,-10.80157340015604,non_christian
+MQDQ-603,epistulae,"Ausonius, Decimus Magnus",364,334.0,394.0,poetry,lat_0352_MQDQ-603.txt,0.00022464749508236323,-8.400753400090364,non_christian
+MQDQ-578,praefationes,"Ausonius, Decimus Magnus",386,379.0,394.0,poetry,lat_0352_MQDQ-578.txt,7.474541325694776e-05,-9.50134796048038,non_christian
+MQDQ-512,psalmus contra partem Donati,Augustinus Hipponensis,393,393.0,394.0,poetry,lat_0392_MQDQ-512.txt,0.9997584125777164,8.328037536733417,christian
+MQDQ-609,de mortibus boum,Severus Endelechius,391,387.0,395.0,poetry,lat_0350.0_MQDQ-609.txt,0.9276971969716076,2.5518424853492654,christian
+LC-9,Panegyricus Probino et Olybrio Consulibus,"Claudianus, Claudius",394,394.0,395.0,poetry,lat_0350_LC-9.txt,3.5228887207283655e-05,-10.253608923111354,non_christian
+MQDQ-16,panegyricus dictus Honorio tertium consuli,"Claudianus, Claudius",395,395.0,395.0,poetry,lat_0400.0_MQDQ-16.txt,2.2477509444033788e-05,-10.702972851170514,non_christian
+MQDQ-165,carmen ad Augustinum,Licentius,395,395.0,395.0,poetry,lat_0400.0_MQDQ-165.txt,0.0008750510936424116,-7.040352846402921,non_christian
+MQDQ-281,carmen epist. 8 insertum,Paulinus Nolanus,396,396.0,396.0,poetry,lat_0392_MQDQ-281.txt,0.9995060986540504,7.612680741920145,christian
+IT-LAT0410,Vita Sancti Martini episcopi et confessoris,"Severus, Sulpicius",396,396.0,396.0,prose,lat_0403_IT-LAT0410.txt,0.9999193297948298,9.425060582232998,christian
+MQDQ-179,e Graecis conuersa,Ambrosius Mediolanensis,385,374.0,397.0,poetry,lat_0368_MQDQ-179.txt,1.569526883556334e-05,-11.062135543685743,non_christian
+MQDQ-180,hymni,Ambrosius Mediolanensis,385,374.0,397.0,poetry,lat_0368_MQDQ-180.txt,0.9999091533639388,9.306246940438191,christian
+IT-LAT0847,De Mysteriis,Ambrosius Mediolanensis,385,374.0,397.0,prose,lat_0391_IT-LAT0847.txt,0.9999683242996648,10.359929045770851,christian
+IT-LAT0843,Contra Ioannem Hierosolymitanum Episcopum ad Pammachium,Hieronymus,396,396.0,397.0,prose,lat_0400_IT-LAT0843.txt,0.9999075332941876,9.288569444421384,christian
+MQDQ-27,de raptu Proserpinae,"Claudianus, Claudius",396,395.0,397.0,poetry,lat_0400.0_MQDQ-27.txt,0.0003089777926957912,-8.08193212641142,non_christian
+MQDQ-15,in Rufinum,"Claudianus, Claudius",396,396.0,397.0,poetry,lat_0400.0_MQDQ-15.txt,1.7710125909834145e-05,-10.941356286378802,non_christian
+MQDQ-17,panegyricus dictus Honorio quartum consuli,"Claudianus, Claudius",397,397.0,397.0,poetry,lat_0400.0_MQDQ-17.txt,2.362753064082893e-05,-10.653074345439192,non_christian
+IT-LAT0726,Vita Malchi monachi captivi,Hieronymus,395,392.0,398.0,prose,lat_0390_IT-LAT0726.txt,0.9992803422708256,7.236014918321015,christian
+LC-8,Epithalamium de nuptiis Honorii et Mariae,"Claudianus, Claudius",397,397.0,398.0,poetry,lat_0350_LC-8.txt,3.1265500218431394e-05,-10.37296403177387,non_christian
+IT-LAT0373,Fescennina dicta Honorio Augusto et Mariae,"Claudianus, Claudius",397,397.0,398.0,poetry,lat_0398_IT-LAT0373.txt,0.0031278567612344,-5.76427449106216,non_christian
+LC-4,De bello Gildonico,"Claudianus, Claudius",398,398.0,398.0,poetry,lat_0350_LC-4.txt,5.984720553701215e-05,-9.723655969164811,non_christian
+MQDQ-21,panegyricus dictus Mallio Theodoro consuli,"Claudianus, Claudius",398,398.0,398.0,poetry,lat_0400.0_MQDQ-21.txt,3.832579298504735e-05,-10.169349115828506,non_christian
+IT-LAT0403,De cathechizandis rudibus,Augustinus Hipponensis,399,399.0,399.0,prose,lat_0399_IT-LAT0403.txt,0.9999416394443712,9.748811951384203,christian
+MQDQ-22,in Eutropium,"Claudianus, Claudius",399,399.0,399.0,poetry,lat_0400.0_MQDQ-22.txt,6.36978238741445e-05,-9.66129645821837,non_christian
+LC-3,Invectiva in Sallustium,Pseudo-Cicero,-1,-43.0,400.0,prose,lat_-0049_LC-3.txt,0.00022481946945389816,-8.39998799105884,non_christian
+IT-LAT0337,De re coquinaria,"Apicius, Marcus Gavius",207,14.0,400.0,prose,lat_0420_IT-LAT0337.txt,0.0007787071451606565,-7.157096509173065,non_christian
+IT-LAT0351,Liber memorialis,"Ampelius, Lucius",260,120.0,400.0,prose,lat_0300_IT-LAT0351.txt,4.623982581153872e-05,-9.98162285976384,non_christian
+MQDQ-440,liber medicinalis,Quintus Serenus,287,175.0,400.0,poetry,lat_0350.0_MQDQ-440.txt,0.0007272556985047175,-7.225504904653595,non_christian
+MQDQ-290,carmina (anth. Riese),Pentadius,300,200.0,400.0,poetry,lat_0300.0_MQDQ-290.txt,0.0004986631576857892,-7.60308093731757,non_christian
+MQDQ-563,iudicium coci et pistoris,Vespa,337,275.0,400.0,poetry,lat_0300.0_MQDQ-563.txt,0.0007333019018180114,-7.217219498462629,non_christian
+MQDQ-449,*argumenta Thebaidos,Pseudo-Statius,350,300.0,400.0,poetry,lat_0070_MQDQ-449.txt,0.00010632589948870192,-9.148895325503482,non_christian
+MQDQ-293,peruigilium Veneris,[Auctor incertus],350,300.0,400.0,poetry,lat_0150.0_MQDQ-293.txt,0.000926936780619836,-6.98269782589292,non_christian
+MQDQ-492,*carmen aduersus Marcionem,Pseudo-Tertullian,350,300.0,400.0,poetry,lat_0190_MQDQ-492.txt,0.9998621736480104,8.889378148218913,christian
+IT-LAT0361,De barbarismo,"Donatus, Aelius",350,300.0,400.0,prose,lat_0350_IT-LAT0361.txt,1.5586431693493154e-05,-11.069094198856748,non_christian
+IT-LAT0362,De schematibus,"Donatus, Aelius",350,300.0,400.0,prose,lat_0350_IT-LAT0362.txt,0.0003706274757045567,-7.899942412249618,non_christian
+IT-LAT0364,De solecismo,"Donatus, Aelius",350,300.0,400.0,prose,lat_0350_IT-LAT0364.txt,0.00027666699813386816,-8.192419242490727,non_christian
+IT-LAT0365,De tropis,"Donatus, Aelius",350,300.0,400.0,prose,lat_0350_IT-LAT0365.txt,5.786194971503335e-05,-9.75739269824594,non_christian
+IT-LAT0366,De ceteriis vitiis,"Donatus, Aelius",350,300.0,400.0,prose,lat_0350_IT-LAT0366.txt,2.9058351819104637e-05,-10.446175559136094,non_christian
+IT-LAT0367,Commentarii Vergiliani,"Donatus, Aelius",350,300.0,400.0,prose,lat_0350_IT-LAT0367.txt,0.0005580107141635387,-7.490574228297291,non_christian
+IT-LAT0850,De viris illustribus urbis Romae,Auctor incertus (Aurelius Victor?),350,300.0,400.0,prose,lat_0350_IT-LAT0850.txt,4.587333748504005e-05,-9.989580617964648,non_christian
+IT-LAT0329,De nominibus Epitome,"Paris, Iulius",350,300.0,400.0,prose,lat_0400_IT-LAT0329.txt,0.0002789916845409242,-8.184049550489927,non_christian
+IT-LAT0238,Prodigiorum Liber,"Obsequens, Iulius",375,350.0,400.0,prose,lat_0350_IT-LAT0238.txt,2.159279315025891e-05,-10.743129356372547,non_christian
+MQDQ-114,Alcestis Barcinonensis,[Auctor incertus],375,350.0,400.0,poetry,lat_0450.0_MQDQ-114.txt,0.0006057993489060571,-7.408355751219397,non_christian
+MQDQ-10,e Graecis conuersa,Chalcidius,385,370.0,400.0,poetry,lat_0350.0_MQDQ-10.txt,0.0007697224064312574,-7.168710600449717,non_christian
+IT-LAT1004,Regula ad monachos,"Macarius Alexandrinus Abbas Nitriensis, Sanctus",387,375.0,400.0,prose,lat_0395_IT-LAT1004.txt,0.9988380136036306,6.756461665678045,christian
+MQDQ-379,carmen ad quendam senatorem,pseudo Cyprianus,387,375.0,400.0,poetry,lat_0400.0_MQDQ-379.txt,0.0025528341442733,-5.967995009683524,non_christian
+IT-LAT0015,Confessiones,Augustinus Hipponensis,400,400.0,400.0,prose,lat_0399_IT-LAT0015.txt,0.95771740766993,3.120177280388797,christian
+MQDQ-26,carmina minora,"Claudianus, Claudius",400,400.0,400.0,poetry,lat_0400.0_MQDQ-26.txt,0.0054471767941007,-5.207195757198056,non_christian
+MQDQ-23,de consulatu Stilichonis,"Claudianus, Claudius",400,399.0,400.0,poetry,lat_0400.0_MQDQ-23.txt,5.600202501310193e-05,-9.790066703341482,non_christian
+LC-5,De bello Gothico,"Claudianus, Claudius",402,402.0,402.0,poetry,lat_0350_LC-5.txt,9.557659103637392e-05,-9.2554870503684,non_christian
+MQDQ-25,panegyricus dictus Honorio sextum consuli,"Claudianus, Claudius",403,403.0,403.0,poetry,lat_0400.0_MQDQ-25.txt,3.6896160217095925e-05,-10.207366174648715,non_christian
+MQDQ-116,carminum fragmenta,Hieronymus,383,380.0,404.0,poetry,lat_0383_MQDQ-116.txt,0.0026810570543722,-5.91885948142591,non_christian
+MQDQ-28,epigramma,"Claudianus, Claudius",399,394.0,404.0,poetry,lat_0400.0_MQDQ-28.txt,1.093395107039962e-05,-11.423626898486097,non_christian
+IT-LAT0612,Chronica,"Severus, Sulpicius",404,404.0,404.0,prose,lat_0350_IT-LAT0612.txt,0.9998213965098096,8.630163728331373,christian
+MQDQ-282,carmina epist. 32 inserta,Paulinus Nolanus,404,404.0,404.0,poetry,lat_0392_MQDQ-282.txt,0.9997305082540698,8.218703267365022,christian
+MQDQ-368,apotheosis,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-368.txt,0.9980314352046412,6.228480027048485,christian
+MQDQ-367,cathemerinon,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-367.txt,0.9997000096419372,8.11146018825154,christian
+MQDQ-371,"contra Symmachum, praefationes","Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-371.txt,0.9969217360547716,5.780306483510909,christian
+MQDQ-374,dittochaeon,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-374.txt,0.9994844472160912,7.569755180406681,christian
+MQDQ-375,epilogus,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-375.txt,0.9994116547628018,7.437608125891351,christian
+MQDQ-369,hamartigenia,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-369.txt,0.998818856343993,6.740090268113705,christian
+MQDQ-373,peristephanon,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-373.txt,0.998675910866772,6.625705536050194,christian
+MQDQ-366,praefationes,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-366.txt,0.999698188942628,8.105407517611761,christian
+MQDQ-372,contra Symmachum,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0376_MQDQ-372.txt,0.998887555074046,6.800081985757546,christian
+IT-LAT0270,Psychomachia,"Prudentius, Aurelius Clemens",400,395.0,405.0,poetry,lat_0400_IT-LAT0270.txt,0.9989574965305426,6.865087229025861,christian
+MQDQ-284,oratio,Paulinus Pellaeus,403,399.0,407.0,poetry,lat_0418_MQDQ-284.txt,5.279291906952274e-05,-9.849080690464511,non_christian
+MQDQ-280,carminum appendix,Paulinus Nolanus,395,383.0,408.0,poetry,lat_0392_MQDQ-280.txt,0.9995583268000068,7.724498545117807,christian
+MQDQ-279,carmina,Paulinus Nolanus,395,383.0,408.0,poetry,lat_0392_MQDQ-279.txt,0.9992408782395176,7.182588961152572,christian
+MQDQ-192,de medicamentis,Marcellus,408,408.0,408.0,poetry,lat_0350.0_MQDQ-192.txt,0.0007270866039951651,-7.225737611300649,non_christian
+IT-LAT0001,Vulgata,Hieronymus,382,382.0,410.0,prose,lat_0382_IT-LAT0001.txt,0.9983053239177334,6.378567544649464,christian
+MQDQ-278,epigramma,Paulinus Baeterrensis,405,400.0,410.0,poetry,lat_0450.0_MQDQ-278.txt,0.9994132344783868,7.44029833230922,christian
+MQDQ-365,*carmen de prouidentia,Pseudo-Prosper,416,416.0,416.0,poetry,lat_0450.0_MQDQ-365.txt,0.9996635254490236,7.99665150916755,christian
+MQDQ-418,fragmenta duo,Rutilius Namatianus,417,417.0,417.0,poetry,lat_0450.0_MQDQ-418.txt,0.0001157933273756812,-9.063587816425311,non_christian
+MQDQ-417,de reditu suo,Rutilius Namatianus,417,417.0,417.0,poetry,lat_0450.0_MQDQ-417.txt,0.00011618718799730204,-9.060191783885871,non_christian
+IT-LAT0880,Epistulae,Hieronymus,397,374.0,420.0,prose,lat_0400_IT-LAT0880.txt,0.9996611206457666,7.989527464357065,christian
+MQDQ-87,epigrammata Bobiensia,epigrammata Bobiensia,400,375.0,425.0,poetry,lat_0300.0_MQDQ-87.txt,4.234578434017352e-05,-10.069599338465329,non_christian
+IT-LAT0353,Epistula ad Theodosium,"Avianus, Flavius",400,375.0,425.0,prose,lat_0350_IT-LAT0353.txt,0.0001049142111531308,-9.162262658684917,non_christian
+MQDQ-562,fabulae,Auianus,400,375.0,425.0,poetry,lat_0450.0_MQDQ-562.txt,0.0009013577906379884,-7.01070651099626,non_christian
+IT-LAT0333,De centum metris,"Servius, Marius Honoratus",412,400.0,425.0,prose,lat_0450_IT-LAT0333.txt,0.00018048151811393464,-8.619701680347552,non_christian
+IT-LAT0334,De metris Horatii,"Servius, Marius Honoratus",412,400.0,425.0,prose,lat_0450_IT-LAT0334.txt,0.00020506517583290755,-8.49197761225838,non_christian
+IT-LAT0336,Explanatio in artem Donati,"Servius, Marius Honoratus",412,400.0,425.0,prose,lat_0450_IT-LAT0336.txt,5.925469545739605e-05,-9.733606276411829,non_christian
+MQDQ-630,e Parmenide conuersa,Caelius Aurelianus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-630.txt,1.4311144715474309e-05,-11.154457662254908,non_christian
+MQDQ-52,deuteronomium,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-52.txt,0.9986312106223378,6.5924588687194285,christian
+MQDQ-49,exodus,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-49.txt,0.9997538340212492,8.309258342895067,christian
+MQDQ-55,deperditorum carminum reliquiae,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-55.txt,0.999477749040862,7.55683993359987,christian
+MQDQ-48,liber geneseos,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-48.txt,0.9986815801240352,6.630002033343897,christian
+MQDQ-53,Iesu Naue,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-53.txt,0.9989702483695188,6.877407359084662,christian
+MQDQ-54,iudicum,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-54.txt,0.9452557543706938,2.8487832699113094,christian
+MQDQ-50,leuiticus,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-50.txt,0.8571150079718375,1.7915320528027112,christian
+MQDQ-51,numeri,Cyprianus Gallus,412,400.0,425.0,poetry,lat_0450.0_MQDQ-51.txt,0.9996753177760672,8.032338891535275,christian
+MQDQ-243,carmina minora,Orientius,412,400.0,425.0,poetry,lat_0450.0_MQDQ-243.txt,0.9999427640733584,9.768271531038344,christian
+MQDQ-242,commonitorium,Orientius,412,400.0,425.0,poetry,lat_0450.0_MQDQ-242.txt,0.9998879120961196,9.096115044246364,christian
+MQDQ-381,de Iona,pseudo Cyprianus,413,400.0,425.0,poetry,lat_0400.0_MQDQ-381.txt,0.998837560599891,6.756071435243212,christian
+MQDQ-380,de Sodoma,pseudo Cyprianus,413,400.0,425.0,poetry,lat_0400.0_MQDQ-380.txt,0.0522403814923782,-2.898245115497708,non_christian
+MQDQ-514,"*ignoti uersus ap. Aug. mus. 5, 13, 27",Augustinus Hipponensis,407,388.0,427.0,poetry,lat_0392_MQDQ-514.txt,1.102020919968755e-05,-11.41576875051206,non_christian
+IT-LAT0016,Regula,Augustinus Hipponensis,412,397.0,427.0,prose,lat_0391_IT-LAT0016.txt,0.9989350616578214,6.843772870372681,christian
+MQDQ-516,uersus Sibyllae,Augustinus Hipponensis,419,412.0,427.0,poetry,lat_0392_MQDQ-516.txt,0.4476577778326236,-0.2101387701342118,non_christian
+IT-LAT0768,A Firmo de civitate Dei,Augustinus Hipponensis,419,412.0,427.0,prose,lat_0419_IT-LAT0768.txt,0.998616612531561,6.581835755129784,christian
+IT-LAT0608,De laude eremi,Eucherius Arelas: Sanctus,426,426.0,427.0,prose,lat_0450_IT-LAT0608.txt,0.9999253283432324,9.502335290856998,christian
+MQDQ-360,"carmen de ingratis, argumentum",Prosper Aquitanus,429,429.0,430.0,poetry,lat_0450.0_MQDQ-360.txt,0.9990953120455396,7.007015377991681,christian
+MQDQ-361,carmen de ingratis,Prosper Aquitanus,429,429.0,430.0,poetry,lat_0450.0_MQDQ-361.txt,0.999625242109018,7.888855536416637,christian
+MQDQ-362,in obtrectatorem Augustini,Prosper Aquitanus,429,429.0,430.0,poetry,lat_0450.0_MQDQ-362.txt,8.54519617994776e-05,-9.367470734604066,non_christian
+MQDQ-189,alethia,Marius Victor,430,430.0,430.0,poetry,lat_0450.0_MQDQ-189.txt,0.9987788096880884,6.70670729381561,christian
+MQDQ-422,carmen paschale,Sedulius,431,431.0,431.0,poetry,lat_0450.0_MQDQ-422.txt,0.9998260585788268,8.656618018806212,christian
+MQDQ-364,epitaphium haereseon,Prosper Aquitanus,431,431.0,432.0,poetry,lat_0450.0_MQDQ-364.txt,0.9991310491703717,7.04735468841966,christian
+IT-LAT0904,Adversus profanas omnium novitates haereticorum commonitorium cum notis,Vincentius Lerinensis,434,434.0,434.0,prose,lat_0450_IT-LAT0904.txt,0.9998745280714249,8.983303021302117,christian
+IT-LAT0383,Contra haereticos (Codex Theodosianus),[Auctor incertus],438,438.0,438.0,prose,lat_0438_IT-LAT0383.txt,0.0014525319538301,-6.532993482384562,non_christian
+MQDQ-66,uersus de fide,Agrestius Gallus Episcopus,441,441.0,441.0,poetry,lat_0450.0_MQDQ-66.txt,0.9995773763637624,7.768605810860063,christian
+MQDQ-220,panegyricus poeticus,Merobaudes,441,437.0,446.0,poetry,lat_0450.0_MQDQ-220.txt,0.0004250521976048245,-7.762873436129756,non_christian
+MQDQ-121,carminis fragmentum,Hilarius Arelatensis,434,420.0,449.0,poetry,lat_0425_MQDQ-121.txt,1.225296184301698e-05,-11.309730614058024,non_christian
+LC-16,Saturnalia,Ambrosius Theodosius Macrobius,425,400.0,450.0,prose,lat_0450_LC-16.txt,0.0008172708985456654,-7.108722335850076,non_christian
+MQDQ-185,carminis fragmentum,Ambrosius Theodosius Macrobius,425,400.0,450.0,poetry,lat_0450.0_MQDQ-185.txt,1.265728328876928e-05,-11.277265097057215,non_christian
+MQDQ-423,hymni,Sedulius,425,400.0,450.0,poetry,lat_0450.0_MQDQ-423.txt,0.999921458006784,9.451798585703106,christian
+IT-LAT0189,Epitoma rei militaris,"Vegetius Renatus, Flavius",429,408.0,450.0,prose,lat_0390_IT-LAT0189.txt,0.0007010308816025894,-7.262257341540012,non_christian
+MQDQ-218,carmen de Christo,Merobaudes,440,430.0,450.0,poetry,lat_0450.0_MQDQ-218.txt,0.0003884553591875096,-7.852943769497463,non_christian
+IT-LAT0610,Liber sententiarum,Prosper Aquitanus,450,450.0,450.0,prose,lat_0426_IT-LAT0610.txt,0.9999070758587812,9.283634155024563,christian
+MQDQ-363,epigrammata,Prosper Aquitanus,450,450.0,450.0,poetry,lat_0450.0_MQDQ-363.txt,0.9999489044400368,9.881761856839043,christian
+LC-16_1,Eucharisticon Deo sub ephemeridis meae textu,Paulinus Pellaeus,459,459.0,459.0,poetry,lat_0400_LC-16_1.txt,0.9898015015185287,4.575263917753264,christian
+MQDQ-219,carmina,Merobaudes,450,439.0,460.0,poetry,lat_0450.0_MQDQ-219.txt,0.087543074071065,-2.344009932547221,non_christian
+IT-LAT0776,Chronicon,Hydatius Lemicensis,438,408.0,468.0,prose,lat_0350_IT-LAT0776.txt,0.9988228368444472,6.743469983913466,christian
+MQDQ-444,carmina,Sidonius Apollinaris,469,469.0,469.0,poetry,lat_0458_MQDQ-444.txt,0.0005033855732317462,-7.593650622017077,non_christian
+MQDQ-285,de uita Martini,Paulinus Petricordiae,465,460.0,470.0,poetry,lat_0450.0_MQDQ-285.txt,0.999656399232236,7.975686473574478,christian
+IT-LAT0919,Opus agriculturae,"Palladius, Rutilius Taurus Aemilianus",450,425.0,475.0,prose,lat_0350_IT-LAT0919.txt,0.0002333820587707767,-8.3626003007896,non_christian
+MQDQ-273,de insitione,Palladius Rutilius Taurus Aemilianus,450,425.0,475.0,poetry,lat_0450.0_MQDQ-273.txt,0.0053492557071158,-5.225434233714433,non_christian
+MQDQ-608,epistula ad Arbogastem,Auspicius Tullensis Episcopus,475,475.0,475.0,poetry,lat_0450.0_MQDQ-608.txt,0.999667659374994,8.009017740208916,christian
+MQDQ-125,"uita Hilarii Arelatensis, uersus inserti",Honoratus Massiliensis,480,480.0,480.0,poetry,lat_0450.0_MQDQ-125.txt,0.0003958085975445042,-7.834183916139636,non_christian
+MQDQ-445,"epistulae, uersus inserti",Sidonius Apollinaris,475,469.0,482.0,poetry,lat_0458_MQDQ-445.txt,0.9987514560425352,6.684527916604668,christian
+MQDQ-120,*de euangelio,Pseudo-Hilary,468,440.0,496.0,poetry,lat_0367_MQDQ-120.txt,0.9994976990554334,7.595808699587218,christian
+MQDQ-118,*in genesin,Pseudo-Hilary,468,440.0,496.0,poetry,lat_0367_MQDQ-118.txt,0.9655041549278154,3.331811521159838,christian
+MQDQ-59,de laudibus dei,Dracontius,493,490.0,496.0,poetry,lat_0450.0_MQDQ-59.txt,0.999661416410649,7.990400914699279,christian
+MQDQ-60,satisfactio,Dracontius,493,490.0,496.0,poetry,lat_0450.0_MQDQ-60.txt,0.9197849382000158,2.439428579658212,christian
+IT-LAT0251,Epistulae Theodoricianae variae,Papa Gelasius I,494,492.0,496.0,prose,lat_0535_IT-LAT0251.txt,0.2753818001483613,-0.9674863962908884,non_christian
+MQDQ-268,*argumenta Aeneidos,Pseudo-Ovid,30,18.0,500.0,poetry,lat_+0030_MQDQ-268.txt,9.843410800563772e-05,-9.22602474894049,non_christian
+MQDQ-343,precatio omnium herbarum,precatio omnium herbarum,257,15.0,500.0,poetry,lat_0250.0_MQDQ-343.txt,0.000500552594984764,-7.59929720193213,non_christian
+MQDQ-344,precatio Terrae matris,precatio Terrae matris,257,15.0,500.0,poetry,lat_0250.0_MQDQ-344.txt,0.037053297915893,-3.2576407042040176,non_christian
+MQDQ-305,"ars, praefatio",Phocas,350,200.0,500.0,poetry,lat_0450.0_MQDQ-305.txt,1.7951775110646655e-05,-10.927803604025195,non_christian
+MQDQ-304,carmen de uita Vergilii,Phocas,350,200.0,500.0,poetry,lat_0450.0_MQDQ-304.txt,0.00019795605471062072,-8.527267522158736,non_christian
+MQDQ-482,aenigmata,Symphosius,434,368.0,500.0,poetry,lat_0450.0_MQDQ-482.txt,0.0023485767083783,-6.051594451378598,non_christian
+MQDQ-414,de numeris oratorum,Rufinus,437,375.0,500.0,poetry,lat_0450.0_MQDQ-414.txt,0.00010638122946896307,-9.148375024496676,non_christian
+MQDQ-413,in metra Terentiana,Rufinus,437,375.0,500.0,poetry,lat_0450.0_MQDQ-413.txt,5.328970151802453e-05,-9.839714171637729,non_christian
+MQDQ-123,in Caesares,uersus ex Historia Augusta,445,390.0,500.0,poetry,lat_0250.0_MQDQ-123.txt,0.00011049988240619098,-9.110385595216432,non_christian
+LC-12,Helius (Historia Augusta),[Auctor incertus],445,390.0,500.0,prose,lat_0400_LC-12.txt,0.0003498171747828257,-7.957750019345431,non_christian
+LC-12_1,Carus et Carinus et Numerianus (Historia Augusta),[Auctor incertus],445,390.0,500.0,prose,lat_0400_LC-12_1.txt,5.3123074257067e-05,-9.842846056170115,non_christian
+MQDQ-382,de pascha,pseudo Cyprianus,450,400.0,500.0,poetry,lat_0400.0_MQDQ-382.txt,0.997678365559456,6.063159507500937,christian
+MQDQ-441,"de ultimis syllabis, praefatio",pseudo Probus,450,400.0,500.0,poetry,lat_0400.0_MQDQ-441.txt,2.013175649631367e-05,-10.81319193251914,non_christian
+MQDQ-615,epigramma in ecclesia sancti Petri,Achilleus Spoletanus Episcopus,450,400.0,500.0,poetry,lat_0450.0_MQDQ-615.txt,1.759387172962712e-05,-10.947942319708655,non_christian
+MQDQ-2,aegritudo Perdicae,[Auctor incertus],450,400.0,500.0,poetry,lat_0450.0_MQDQ-2.txt,0.00015792302682108336,-8.753244880164635,non_christian
+MQDQ-349,praeceptum,Priscillianista quidam,450,400.0,500.0,poetry,lat_0450.0_MQDQ-349.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-287,uersus de orantibus,Paulinus Petricordiae,475,450.0,500.0,poetry,lat_0450.0_MQDQ-287.txt,0.997517862992788,5.996150170779802,christian
+MQDQ-286,de uisitatione nepotuli sui,Paulinus Petricordiae,475,450.0,500.0,poetry,lat_0450.0_MQDQ-286.txt,0.2510922062685214,-1.0927956427819057,non_christian
+MQDQ-212,de nuptiis Philologiae et Mercurii,Martianus Capella,487,475.0,500.0,poetry,lat_0450.0_MQDQ-212.txt,0.0010550073781476,-6.853151954283528,non_christian
+MQDQ-98,carmen (anth. Riese),Florentinus,498,496.0,500.0,poetry,lat_0550.0_MQDQ-98.txt,0.0004566077490477455,-7.691229140791241,non_christian
+MQDQ-383,de resurrectione mortuorum,pseudo Cyprianus,500,500.0,500.0,poetry,lat_0400.0_MQDQ-383.txt,0.9981812012980498,6.307758594973752,christian
+MQDQ-277,carminum fragmenta,Parthenius Africanus Presbyter,500,500.0,500.0,poetry,lat_0500_MQDQ-277.txt,8.35627985292974e-05,-9.38982856429128,non_christian
+MQDQ-111,"carmen epist. 2, 19 insertum",Ruricius Lemovicensis Episcopus,488,470.0,507.0,poetry,lat_0473_MQDQ-111.txt,0.9997123665905564,8.153536097726123,christian
+MQDQ-62,"Romulea, fragmentum",Dracontius,495,480.0,510.0,poetry,lat_0450.0_MQDQ-62.txt,1.1056794194207315e-05,-11.412454402889384,non_christian
+MQDQ-63,Orestes,Dracontius,495,480.0,510.0,poetry,lat_0450.0_MQDQ-63.txt,0.0005439271448175356,-7.516151169917996,non_christian
+MQDQ-61,Romulea,Dracontius,495,480.0,510.0,poetry,lat_0450.0_MQDQ-61.txt,0.0003933097569495089,-7.840519683804501,non_christian
+MQDQ-75,carmina 1,Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-75.txt,0.0019862574432838,-6.219514860046452,non_christian
+MQDQ-76,carmina 2,Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-76.txt,0.0010242445371812,-6.882775205599261,non_christian
+MQDQ-83,"Castitas, opusc. 6",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-83.txt,3.328134429315518e-05,-10.310480267504795,non_christian
+MQDQ-77,"dictiones, 12, 24, 28, uersus inserti",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-77.txt,5.604496425785119e-05,-9.789300209696773,non_christian
+MQDQ-78,"epistulae, 5,7-8, uersus inserti",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-78.txt,0.00012276623219565854,-9.005105788417206,non_christian
+MQDQ-79,"epistulae, 7,21-29, uersus inserti",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-79.txt,0.9992373182942552,7.177906802560673,christian
+MQDQ-84,"Fides, opusc. 6",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-84.txt,0.00013515170224997168,-8.908977529220762,non_christian
+MQDQ-85,"Grammatica, opusc. 6",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-85.txt,3.418158985079155e-05,-10.283789185118062,non_christian
+MQDQ-81,"laus uersuum, opusc. 6",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-81.txt,0.9931936995571582,4.983076991109881,christian
+MQDQ-80,"opuscula, 6, uersus inserti",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-80.txt,0.00023354083936219636,-8.361920027125668,non_christian
+MQDQ-86,"Rhetorica, opusc. 6",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-86.txt,0.0003887521718346125,-7.852179680018056,non_christian
+MQDQ-82,"Verecundia, opusc. 6",Ennodius,521,497.0,513.0,poetry,lat_0521_MQDQ-82.txt,1.761035374930914e-05,-10.947005937170166,non_christian
+MQDQ-347,carmen in laudem Anastasii imperatoris,Priscianus,509,503.0,515.0,poetry,lat_0550.0_MQDQ-347.txt,0.00010622270082828362,-9.149866488210783,non_christian
+MQDQ-623,carminum appendix,Alcimus Auitus,493,468.0,518.0,poetry,lat_0518_MQDQ-623.txt,0.999337394773819,7.318668355899042,christian
+MQDQ-622,poematum libri,Alcimus Auitus,493,468.0,518.0,poetry,lat_0518_MQDQ-622.txt,0.9994863543399812,7.57346313001331,christian
+MQDQ-94,carmina (anth. Riese),Felix,508,496.0,523.0,poetry,lat_0550.0_MQDQ-94.txt,0.0058932183309092,-5.128042372748246,non_christian
+IT-LAT0917,Porphyrii Isagoge translatio,"Boethius, Anicius Manlius Severinus",509,494.0,524.0,prose,lat_0502_IT-LAT0917.txt,0.0002025552795407049,-8.504295147488582,non_christian
+MQDQ-627,consolatio Philosophiae,"Boethius, Anicius Manlius Severinus",523,523.0,524.0,poetry,lat_0524_MQDQ-627.txt,0.00045569814621992,-7.693224125678035,non_christian
+MQDQ-393,de concubitu Martis et Veneris,Reposianus,312,100.0,525.0,poetry,lat_0300.0_MQDQ-393.txt,0.00791319368232,-4.8312791570258975,non_christian
+MQDQ-122,"historia Apollonii, uersus inserti",[Auctor incertus],500,475.0,525.0,poetry,lat_0550.0_MQDQ-122.txt,0.0001840421770693917,-8.600161544304788,non_christian
+MQDQ-348,carminis fragmentum,Priscianus,500,475.0,525.0,poetry,lat_0550.0_MQDQ-348.txt,1.594657750880285e-05,-11.046250381304146,non_christian
+MQDQ-346,perihegesis,Priscianus,500,475.0,525.0,poetry,lat_0550.0_MQDQ-346.txt,0.00020026282019284828,-8.51567967025152,non_christian
+MQDQ-415,de Christi beneficiis,Rusticius Helpidius,500,475.0,525.0,poetry,lat_0550.0_MQDQ-415.txt,0.9986194421495213,6.583886110319891,christian
+MQDQ-416,tristicha,Rusticius Helpidius,500,475.0,525.0,poetry,lat_0550.0_MQDQ-416.txt,0.9988777947594868,6.791336729417157,christian
+MQDQ-618,uersus de calice,Remigius Remensis Episcopus,503,473.0,533.0,poetry,lat_0533_MQDQ-618.txt,0.9989533267027112,6.861091211318472,christian
+IT-LAT0987,De observatione ciborum,Anthimus,522,511.0,533.0,prose,lat_0550_IT-LAT0987.txt,0.972885649952916,3.580203442335918,christian
+IT-LAT0202,Institutiones,"Iustinianus, Caesar Flavius (Imperator Iustinianus)",533,533.0,533.0,prose,lat_0533_IT-LAT0202.txt,0.0003807560586907493,-7.87297082523418,non_christian
+MQDQ-611,epitaphium Hilarini,Cytherius,481,429.0,534.0,poetry,lat_0450.0_MQDQ-611.txt,1.117852357401614e-05,-11.401504979941118,non_christian
+MQDQ-177,carmina (anth. Riese),Luxurius,516,500.0,534.0,poetry,lat_0550.0_MQDQ-177.txt,0.0005360234111770035,-7.53079655315519,non_christian
+IT-LAT0791,Chronicon,Marcellinus Comes,527,520.0,534.0,prose,lat_0550_IT-LAT0791.txt,0.5906084728928709,0.3664813383188817,christian
+IT-LAT0867,Codex,"Iustinianus, Caesar Flavius (Imperator Iustinianus)",531,529.0,534.0,prose,lat_0531_IT-LAT0867.txt,0.940258924947848,2.756135481263788,christian
+IT-LAT0250,De Anima,"Cassiodorus, Flavius Magnus Aurelius",540,540.0,540.0,prose,lat_0540_IT-LAT0250.txt,0.9987452404180838,6.67955574549222,christian
+MQDQ-353,de actibus apostolorum,Arator,544,544.0,544.0,poetry,lat_0550.0_MQDQ-353.txt,0.9988015018504512,6.725486831140786,christian
+MQDQ-621,uersus in subscritione codicis Hegesippi,Cyprianus Tolonensis Episcopus,535,524.0,546.0,poetry,lat_0525_MQDQ-621.txt,0.002868826183486,-5.850979379020441,non_christian
+MQDQ-183,disticha de uetere nouoque Testamento,Ambrosius Mediolanensis,462,374.0,550.0,poetry,lat_0368_MQDQ-183.txt,0.9998547274431704,8.836753594589304,christian
+IT-LAT1001,Excerpta Valesiana,[Auctor incertus],470,390.0,550.0,prose,lat_0450_IT-LAT1001.txt,0.9954013063075048,5.377373695495115,christian
+IT-LAT0252,Orationes,"Cassiodorus, Flavius Magnus Aurelius",525,500.0,550.0,prose,lat_0535_IT-LAT0252.txt,0.0003443073718720206,-7.97363141000177,non_christian
+MQDQ-42,Iohannis,Corippus,548,548.0,550.0,poetry,lat_0550.0_MQDQ-42.txt,0.0013012235315088,-6.643148208203347,non_christian
+MQDQ-351,epistula ad Florianum,Arator,557,554.0,550.0,poetry,lat_0550.0_MQDQ-351.txt,0.00024456748407967555,-8.315774681231273,non_christian
+MQDQ-354,alethia,Arator,557,554.0,550.0,poetry,lat_0550.0_MQDQ-354.txt,0.9168244966726806,2.399963192048152,christian
+MQDQ-355,in historiam praefatio,Arator,557,554.0,550.0,poetry,lat_0550.0_MQDQ-355.txt,0.0003147841444979395,-8.063308575896219,non_christian
+MQDQ-352,epistula ad Vigilium,Arator,557,554.0,550.0,poetry,lat_0550.0_MQDQ-352.txt,0.998095879166202,6.261828945521091,christian
+IT-LAT0196,De origine actibusque Getarum,Iordanes,551,551.0,551.0,prose,lat_0550_IT-LAT0196.txt,0.5644342435676212,0.2591781150989338,christian
+IT-LAT0906,De summa temporum vel origine actibusque gentis Romanorum,Iordanes,551,551.0,551.0,prose,lat_0550_IT-LAT0906.txt,0.7246115785904652,0.9674532150204904,christian
+IT-LAT0990_6,De Trina Mersione,Martinus Bracarensis,559,556.0,561.0,prose,lat_0550_IT-LAT0990_6.txt,0.999164806818948,7.087011963169268,christian
+MQDQ-537,de satisfactione paenitentiae,Verecundus Iuncensis Episcopus,527,502.0,552.0,poetry,lat_0552_MQDQ-537.txt,0.9207816265829,2.453014643949074,christian
+MQDQ-65,elogium Asbadi,[Auctor incertus],556,556.0,556.0,poetry,lat_0550.0_MQDQ-65.txt,6.128854469468477e-05,-9.69985631490574,non_christian
+MQDQ-209,uersus in basilica,Martinus Bracariensis,558,558.0,558.0,poetry,lat_0579_MQDQ-209.txt,0.9985200525831476,6.514267677370313,christian
+MQDQ-210,uersus in refectorio,Martinus Bracariensis,558,558.0,558.0,poetry,lat_0579_MQDQ-210.txt,0.9973627996784512,5.935396724936845,christian
+IT-LAT0482,Institutiones divinarum et saecularium litterarum,"Cassiodorus, Flavius Magnus Aurelius",546,530.0,560.0,prose,lat_0562_IT-LAT0482.txt,0.9997496467105718,8.292387095324052,christian
+IT-LAT0990,"Concilium Bracarense primum octo episcoporum, habitum aera DXCIX, anno tertio Ariamiri regis, die Kalendarum Maiarum.",Martinus Bracarensis,561,561.0,561.0,prose,lat_0550_IT-LAT0990.txt,0.9998336896462332,8.701488589946196,christian
+MQDQ-43,panegyricus in laudem Anastasii,Corippus,565,565.0,566.0,poetry,lat_0550.0_MQDQ-43.txt,0.0027104296373037,-5.907934009403276,non_christian
+MQDQ-44,panegyricus in laudem Iustini Augusti,Corippus,566,566.0,566.0,poetry,lat_0550.0_MQDQ-44.txt,0.0013792945138857,-6.5848028857372025,non_christian
+IT-LAT0990_1,"Concilium Bracarense secundum duodecim episcoporum, habitum anno secundo regis Mironis, die Kalendarum Iuniarum, aera DCX.",Martinus Bracarensis,572,572.0,572.0,prose,lat_0550_IT-LAT0990_1.txt,0.9998221522899202,8.634405071696214,christian
+IT-LAT0990_9,Capitula ex orientalium patrum synodis,Martinus Bracarensis,572,572.0,572.0,prose,lat_0550_IT-LAT0990_9.txt,0.9976794736005584,6.063637999736758,christian
+IT-LAT0990_2,De correctione rusticorum,Martinus Bracarensis,572,572.0,573.0,prose,lat_0550_IT-LAT0990_2.txt,0.9999106294173028,9.322629607963837,christian
+IT-LAT0011,S. Benedicti Regula,Benedictus Nursianus,550,525.0,575.0,prose,lat_0524_IT-LAT0011.txt,0.9998829687893834,9.052952863274026,christian
+IT-LAT0990_3,De ira,Martinus Bracarensis,572,569.0,575.0,prose,lat_0550_IT-LAT0990_3.txt,0.5278655208278069,0.1115776973581776,christian
+MQDQ-523,uita Martini,Venantius Fortunatus,574,573.0,576.0,poetry,lat_0601_MQDQ-523.txt,0.999557792789903,7.723289679602522,christian
+MQDQ-524,carminum libri  1,Venantius Fortunatus,576,576.0,576.0,poetry,lat_0601_MQDQ-524.txt,0.9988898154744092,6.802118236966363,christian
+MQDQ-525,carminum libri  2,Venantius Fortunatus,576,576.0,576.0,poetry,lat_0601_MQDQ-525.txt,0.9946023594434584,5.21638109441845,christian
+MQDQ-526,carminum libri  3,Venantius Fortunatus,576,576.0,576.0,poetry,lat_0601_MQDQ-526.txt,0.997003926984542,5.807452272416324,christian
+MQDQ-527,carminum libri  4,Venantius Fortunatus,576,576.0,576.0,poetry,lat_0601_MQDQ-527.txt,0.9982903446163754,6.369752340309358,christian
+MQDQ-528,carminum libri  5,Venantius Fortunatus,576,576.0,576.0,poetry,lat_0601_MQDQ-528.txt,0.9984021385131814,6.437489975053136,christian
+MQDQ-529,carminum libri  6,Venantius Fortunatus,576,576.0,576.0,poetry,lat_0601_MQDQ-529.txt,0.3829315136208062,-0.4771238591595301,non_christian
+MQDQ-530,carminum libri  7,Venantius Fortunatus,576,576.0,576.0,poetry,lat_0601_MQDQ-530.txt,0.4027632889472118,-0.3939645186962786,non_christian
+IT-LAT0990_4,De Pascha,Martinus Bracarensis,576,576.0,577.0,prose,lat_0550_IT-LAT0990_4.txt,0.9997120323783478,8.152374499875286,christian
+IT-LAT0990_5,De superbia,Martinus Bracarensis,564,550.0,579.0,prose,lat_0550_IT-LAT0990_5.txt,0.9989379568132872,6.846498083980396,christian
+IT-LAT0433,Pro repellenda iactantia,Martinus Bracarensis,564,550.0,579.0,prose,lat_0550_IT-LAT0433.txt,0.1413194804757609,-1.8043737851539796,non_christian
+IT-LAT0990_7,Exhortatio humilitatis,Martinus Bracarensis,564,550.0,579.0,prose,lat_0550_IT-LAT0990_7.txt,0.9993006288965678,7.264629434636125,christian
+MQDQ-211,epitaphium,Martinus Bracariensis,564,550.0,579.0,poetry,lat_0579_MQDQ-211.txt,0.9890251742882707,4.501115707229284,christian
+IT-LAT0435,Sententiae patrum Aegyptiorum,Martinus Bracarensis,567,556.0,579.0,prose,lat_0550_IT-LAT0435.txt,0.9996194148480152,7.873419958397037,christian
+IT-LAT0990_8,"Formula vitae honestae, De quattuor virtutibus",Martinus Bracarensis,574,570.0,579.0,prose,lat_0550_IT-LAT0990_8.txt,0.1740738493162027,-1.5570257330414607,non_christian
+MQDQ-531,carminum libri  8,Venantius Fortunatus,587,584.0,591.0,poetry,lat_0601_MQDQ-531.txt,0.9956483664373176,5.432842843246252,christian
+MQDQ-532,carminum libri  9,Venantius Fortunatus,587,584.0,591.0,poetry,lat_0601_MQDQ-532.txt,0.7284360884613986,0.9867023781792174,christian
+IT-LAT0783,Historiae,Gregorius Turonensis,583,573.0,594.0,prose,lat_0550_IT-LAT0783.txt,0.9995386019204616,7.68078786992525,christian
+MQDQ-619,hymni,Columba,567,537.0,597.0,poetry,lat_0559_MQDQ-619.txt,0.9996137852268996,7.858730646867282,christian
+MQDQ-110,variae,[Auctor incertus],150,300.0,600.0,poetry,lat_0514_MQDQ-110.txt,0.0010776405980645,-6.831903037385917,non_christian
+MQDQ-119,*de martyrio Maccabaeorum,Pseudo-Hilary,487,375.0,600.0,poetry,lat_0367_MQDQ-119.txt,0.2079118428072896,-1.3375585380051196,non_christian
+MQDQ-159,*de passione domini,Pseudo-Lactantius,550,500.0,600.0,poetry,lat_0300.0_MQDQ-159.txt,0.0034527149151808,-5.665135736179825,non_christian
+IT-LAT0978,Apophthegmata,Macarius Magnus: Sanctus,550,500.0,600.0,prose,lat_0350_IT-LAT0978.txt,0.9993076759142464,7.274763816112965,christian
+MQDQ-182,*carmen de ternarii numeri excellentia,Pseudo-Ambrose,550,500.0,600.0,poetry,lat_0368_MQDQ-182.txt,0.9969728163182596,5.797090794796618,christian
+MQDQ-216,elegiarum appendix,Maximianus,550,500.0,600.0,poetry,lat_0550.0_MQDQ-216.txt,0.0030794838302954,-5.779909048409795,non_christian
+MQDQ-215,elegiae,Maximianus,550,500.0,600.0,poetry,lat_0550.0_MQDQ-215.txt,0.0012059895647677,-6.719248116122244,non_christian
+MQDQ-95,hymnus,Flauius Cabilonensis Episcopus,587,575.0,600.0,poetry,lat_0550.0_MQDQ-95.txt,0.999206465924836,7.13822022696415,christian
+MQDQ-475,sylloge cod. Elnonensis,sylloge cod. Elnonensis,590,580.0,600.0,poetry,lat_0550.0_MQDQ-475.txt,0.8167987993767277,1.4948077910993778,christian
+MQDQ-191,in Euangelia,Severus Malacitanus,576,550.0,602.0,poetry,lat_0550.0_MQDQ-191.txt,0.998341146187289,6.399968158137087,christian
+MQDQ-188,epitaphium,Marius Auenticentis Episcopus,599,594.0,604.0,poetry,lat_0594_MQDQ-188.txt,0.9985528879982029,6.536737271486178,christian
+MQDQ-535,carminum appendix,Venantius Fortunatus,587,570.0,605.0,poetry,lat_0601_MQDQ-535.txt,0.8729539686723733,1.9273333545097096,christian
+MQDQ-536,spuriorum appendix,Venantius Fortunatus,587,570.0,605.0,poetry,lat_0601_MQDQ-536.txt,0.9995810213623052,7.77727155692998,christian
+MQDQ-533,carminum libri 10,Venantius Fortunatus,597,590.0,605.0,poetry,lat_0601_MQDQ-533.txt,0.9991324975332724,7.049024323692279,christian
+MQDQ-534,carminum libri 11,Venantius Fortunatus,597,590.0,605.0,poetry,lat_0601_MQDQ-534.txt,0.9946162351753316,5.218969058491073,christian
+MQDQ-148,carmina,Isidorus Hispalensis Episcopus,606,600.0,612.0,poetry,lat_0598_MQDQ-148.txt,,,
+MQDQ-244,uersus in Benedicti laudem,Marcus Casinensis,612,612.0,612.0,poetry,lat_0550.0_MQDQ-244.txt,,,
+IT-LAT0957,De natura rerum ad Sisebutum regem liber,Isidorus Hispalensis Episcopus,612,612.0,613.0,prose,lat_0598_IT-LAT0957.txt,,,
+MQDQ-610,uersus in tumulo Monicae,Bassus iunior,506,387.0,625.0,poetry,lat_0431_MQDQ-610.txt,,,
+IT-LAT0909,"Historia de regibus Gothorum, Vandalorum et Suevorum",Isidorus Hispalensis Episcopus,623,621.0,625.0,prose,lat_0598_IT-LAT0909.txt,,,
+IT-LAT0908,Sententiae,Isidorus Hispalensis Episcopus,624,612.0,636.0,prose,lat_0598_IT-LAT0908.txt,,,
+LC-14,Etymologiae,Isidorus Hispalensis Episcopus,625,615.0,636.0,prose,lat_0600_LC-14.txt,,,
+MQDQ-101,"mythologiae, uersus inserti",Fulgentius,596,550.0,642.0,poetry,lat_0450.0_MQDQ-101.txt,,,
+MQDQ-102,"Virgiliana continentia 740, uersus inserti",Fulgentius,596,550.0,642.0,poetry,lat_0450.0_MQDQ-102.txt,,,
+MQDQ-30,epistula metrica,Columbanus,625,575.0,675.0,poetry,lat_0579_MQDQ-30.txt,,,
+MQDQ-117,*hymnus de Christo,Pseudo-Hilary,680,670.0,690.0,poetry,lat_0367_MQDQ-117.txt,,,
+MQDQ-5,carmen Sibyllinum,[Auctor incertus],550,400.0,700.0,poetry,lat_0450.0_MQDQ-5.txt,,,
+MQDQ-564,de Iesu Christo,Pseudo-Victorinus,565,430.0,700.0,poetry,lat_0450.0_MQDQ-564.txt,,,
+MQDQ-574,pro itineris et nauigii prosperitate,Gildas sapiens,590,480.0,700.0,poetry,lat_0540_MQDQ-574.txt,,,
+MQDQ-575,oratio,Gildas sapiens,590,480.0,700.0,poetry,lat_0540_MQDQ-575.txt,,,
+MQDQ-565,de lege domini,Pseudo-Victorinus,600,500.0,700.0,poetry,lat_0450.0_MQDQ-565.txt,,,
+MQDQ-566,de natiuitate,Pseudo-Victorinus,600,500.0,700.0,poetry,lat_0450.0_MQDQ-566.txt,,,
+MQDQ-628,elogia,[Auctor incertus],624,524.0,724.0,poetry,lat_0524_MQDQ-628.txt,,,
+MQDQ-378,uersus ex Columbano,pseudo Cato,500,200.0,800.0,poetry,lat_0300.0_MQDQ-378.txt,,,
+MQDQ-604,*fragmenta,Pseudo-Ausonius,550,300.0,800.0,poetry,lat_0352_MQDQ-604.txt,,,
+MQDQ-605,*oratio consulis,Pseudo-Ausonius,550,300.0,800.0,poetry,lat_0352_MQDQ-605.txt,,,
+MQDQ-515,*precatio ad Christum,Augustinus Hipponensis,587,375.0,800.0,poetry,lat_0392_MQDQ-515.txt,,,
+MQDQ-34,versus ad Fidolium,Columbanus,645,490.0,800.0,poetry,lat_0579_MQDQ-34.txt,,,
+MQDQ-31,versus ad Hunaldum,Columbanus,645,490.0,800.0,poetry,lat_0579_MQDQ-31.txt,,,
+MQDQ-35,versus in mulieres,Columbanus,645,490.0,800.0,poetry,lat_0579_MQDQ-35.txt,,,
+MQDQ-33,carmen navale,Columbanus,645,490.0,800.0,poetry,lat_0579_MQDQ-33.txt,,,
+MQDQ-32,versus ad Sethum,Columbanus,645,490.0,800.0,poetry,lat_0579_MQDQ-32.txt,,,
+MQDQ-140,hymni Christiani anonymi,[Auctor incertus],600,350.0,850.0,poetry,lat_0500.0_MQDQ-140.txt,,,
+MQDQ-93,hymnus in laudem Seuerini,Eugippius,755,511.0,1000.0,poetry,lat_0550.0_MQDQ-93.txt,,,
+IT-LAT0611,Ecloga,Theodulus,1025,1000.0,1050.0,poetry,lat_0450_IT-LAT0611.txt,,,
+MQDQ-266,*nux,Pseudo-Ovid,30,8.0,1100.0,poetry,lat_+0030_MQDQ-266.txt,,,
+IT-LAT0574_9,Septem Sapientium Sententiae,Pseudo-Ausonius,700,300.0,1100.0,poetry,lat_0385_IT-LAT0574_9.txt,,,
+IT-LAT0661,Liber Kalilae et Dimnae,[Auctor incertus],1275,1250.0,1300.0,prose,lat_1250_IT-LAT0661.txt,,,
+MQDQ-181,*uersus de naturis rerum,Pseudo-Ambrose,1275,1250.0,1300.0,poetry,lat_0368_MQDQ-181.txt,,,
+MQDQ-513,*carmina (anth. Riese),Augustinus Hipponensis,945,397.0,1494.0,poetry,lat_0392_MQDQ-513.txt,,,
+IT-LAT0875,Tractatus de nativitate Domini Nostri Christi,Thomas Edessenus,1898,1898.0,1898.0,prose,lat_0550_IT-LAT0875.txt,,,
+MQDQ-624,epitaphium Sabiniani papae,epitaphium Sabiniani papae,606,,,poetry,lat_0606_MQDQ-624.txt,,,
+MQDQ-612,carmen de eclipsibus,Sisebutus,616,,,poetry,lat_0616_MQDQ-612.txt,,,
+MQDQ-613,hymnus de ratione temporum,Sisebutus,616,,,poetry,lat_0616_MQDQ-613.txt,,,
+MQDQ-614,disticha,unknown,638,,,poetry,lat_0638_MQDQ-614.txt,,,
+IT-LAT0785,Chronicon,Fredegarius,650,,,prose,lat_0650_IT-LAT0785.txt,,,
+IT-LAT0848,Epistola ad Desiderium,Abbo Metensis,650,,,prose,lat_0650_IT-LAT0848.txt,,,
+MQDQ-3,carmen navale,carmen navale,650,,,poetry,lat_0650.0_MQDQ-3.txt,,,
+MQDQ-145,versus in festivitate,Ionas Bobiensis,650,,,poetry,lat_0650.0_MQDQ-145.txt,,,
+MQDQ-146,hymnus,Ionas Bobiensis,650,,,poetry,lat_0650.0_MQDQ-146.txt,,,
+MQDQ-144,"vita Columbani 1,2",Ionas Bobiensis,650,,,poetry,lat_0650.0_MQDQ-144.txt,,,
+MQDQ-457,carmen de nominibus litterarum,carmen de nominibus litterarum,650,,,poetry,lat_0650.0_MQDQ-457.txt,,,
+MQDQ-384,de fabrica mundi,unknown,650,,,poetry,lat_0650_MQDQ-384.txt,,,
+MQDQ-161,lamentum paenitentiae,unknown,650,,,poetry,lat_0650.0_MQDQ-161.txt,,,
+MQDQ-557,versus ad Deum,versus ad Deum,650,,,poetry,lat_0650.0_MQDQ-557.txt,,,
+MQDQ-560,versus de Bobuleno,versus de Bobuleno,650,,,poetry,lat_0650.0_MQDQ-560.txt,,,
+MQDQ-90,carminum appendix,Eugenius Toletanus,657,,,poetry,lat_0657_MQDQ-90.txt,,,
+MQDQ-89,carmina,Eugenius Toletanus,657,,,poetry,lat_0657_MQDQ-89.txt,,,
+MQDQ-91,hexaemeron,Eugenius Toletanus,657,,,poetry,lat_0657_MQDQ-91.txt,,,
+MQDQ-92,satisfactio,Eugenius Toletanus,657,,,poetry,lat_0657_MQDQ-92.txt,,,
+MQDQ-147,lorica,unknown,661,,,poetry,lat_0661_MQDQ-147.txt,,,
+MQDQ-142,carmina apologetica,Iulianus Toletanus,666,,,poetry,lat_0666_MQDQ-142.txt,,,
+MQDQ-143,epitaphia,Iulianus Toletanus,666,,,poetry,lat_0666_MQDQ-143.txt,,,
+MQDQ-616,inscriptio Toletana,unknown,676,,,poetry,lat_0676_MQDQ-616.txt,,,
+IT-LAT0419,Vita quinque sanctorum abbatum,Beda Venerabilis,704,,,prose,lat_0704_IT-LAT0419.txt,,,
+IT-LAT0420,Epistula ad Albinum abbatem,Beda Venerabilis,704,,,prose,lat_0704_IT-LAT0420.txt,,,
+IT-LAT0421,Epistula ad Ecgberctum antistetem,Beda Venerabilis,704,,,prose,lat_0704_IT-LAT0421.txt,,,
+IT-LAT0422,De orthographia,Beda Venerabilis,704,,,prose,lat_0704_IT-LAT0422.txt,,,
+IT-LAT0423,Vita Sancti Cuthberti,Beda Venerabilis,721,,,poetry,lat_0721_IT-LAT0423.txt,,,
+IT-LAT0921,Historiam ecclesiasticam gentis Anglorum,Beda Venerabilis,731,,,prose,lat_0731_IT-LAT0921.txt,,,
+IT-LAT0357,Fabulae,Paulus Diaconus,759,,,poetry,lat_0759_IT-LAT0357.txt,,,
+IT-LAT0358,Carmina,Paulus Diaconus,759,,,poetry,lat_0759_IT-LAT0358.txt,,,
+IT-LAT0907,Historia Romana,Paulus Diaconus,770,,,prose,lat_0770_IT-LAT0907.txt,,,
+IT-LAT0486,Constitutum Constantini,[Auctor incertus],775,,,prose,lat_0775_IT-LAT0486.txt,,,
+IT-LAT0338,Historia Langobardorum,Paulus Diaconus,792,,,prose,lat_0792_IT-LAT0338.txt,,,
+IT-LAT0911,De cella Alcuini,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911.txt,,,
+IT-LAT0911_1,De luscinia,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911_1.txt,,,
+IT-LAT0911_2,Disputatio de rhetorica et de virtutibus,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911_2.txt,,,
+IT-LAT0911_3,Epitaphium,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911_3.txt,,,
+IT-LAT0911_4,Propositiones,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911_4.txt,,,
+IT-LAT0911_5,Sequentia de Sancto Michaele,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911_5.txt,,,
+IT-LAT0911_6,Versus de cuculo,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911_6.txt,,,
+IT-LAT0461,Epistula ad Aquilam,Alcuinus,800,,,prose,lat_0800_IT-LAT0461.txt,,,
+IT-LAT0911_7,Operum collectio,Alcuinus,800,,,poetry,lat_0800_IT-LAT0911_7.txt,,,
+IT-LAT0386,Veni creator spiritus,Hrabanus Maurus,818,,,poetry,lat_0818_IT-LAT0386.txt,,,
+IT-LAT0500,Vita Karoli Magni,Einhardus,833,,,prose,lat_0833_IT-LAT0500.txt,,,
+IT-LAT0936,Historia brittonum,Various Authors,833,,,prose,lat_0833_IT-LAT0936.txt,,,
+IT-LAT0494,Liber pontificalis sive vitae pontificum Ravennatum,Agnellus Ravennas,838,,,poetry,lat_0838_IT-LAT0494.txt,,,
+IT-LAT0888,Versus de bella quae fuit acta Fontaneto,Angilbertus,841,,,poetry,lat_0841_IT-LAT0888.txt,,,
+IT-LAT0459,Vita Hludowici imperatoris,Theganus Trevirensis,850,,,prose,lat_0850_IT-LAT0459.txt,,,
+IT-LAT0773,Chronicon,Andreas Bergomas,850,,,prose,lat_0850_IT-LAT0773.txt,,,
+IT-LAT0792,Historia Langobardorum Beneventanorum,Erchempertus,850,,,prose,lat_0850_IT-LAT0792.txt,,,
+IT-LAT0920,Liber de causis,[Auctor incertus],850,,,prose,lat_0850_IT-LAT0920.txt,,,
+IT-LAT0782,Annales Vedastini,[Auctor incertus],871,,,prose,lat_0871_IT-LAT0782.txt,,,
+IT-LAT0891,Metrum Parhemiacum Tragicum,Eugenius Vulgarius,907,,,poetry,lat_0907_IT-LAT0891.txt,,,
+IT-LAT0472,De rebus gestis Aelfredi,Asserius,909,,,prose,lat_0909_IT-LAT0472.txt,,,
+IT-LAT0458,Waltharius Manufortis,Ekkeardus I Sangallensis,950,,,poetry,lat_0950_IT-LAT0458.txt,,,
+IT-LAT0617,De ortu et tempore Antichristi,Adso Dervensis,950,,,prose,lat_0950_IT-LAT0617.txt,,,
+IT-LAT0725,Nivis natus,[Auctor incertus],950,,,poetry,lat_0950_IT-LAT0725.txt,,,
+IT-LAT0786,Historiae,Richerus,950,,,prose,lat_0950_IT-LAT0786.txt,,,
+IT-LAT0980,Historia de preliis Alexandri Magni,Leo Archipresbyter,950,,,prose,lat_0950_IT-LAT0980.txt,,,
+IT-LAT0724,De luscinia,Fulbert de Chartres: Saint,1000,,,poetry,lat_1000_IT-LAT0724.txt,,,
+IT-LAT0481,Carmina Cantabrigiensia,[Auctor incertus],1050,,,poetry,lat_1050_IT-LAT0481.txt,,,
+IT-LAT0580,Regimen sanitatis Salernitanum,No Author,1050,,,poetry,lat_1050_IT-LAT0580.txt,,,
+IT-LAT0597,Sequentia paschalis,Wipo,1050,,,poetry,lat_1050_IT-LAT0597.txt,,,
+IT-LAT0605,Apologeticus,Berengarius scholasticus,1050,,,prose,lat_1050_IT-LAT0605.txt,,,
+IT-LAT0584,Epigrammata,Anonymus Tegirinsensis,1065,,,poetry,lat_1065_IT-LAT0584.txt,,,
+IT-LAT0975,Gesta Hammaburgensis Ecclesiae Pontificum,Adam von Bremen,1067,,,prose,lat_1067_IT-LAT0975.txt,,,
+IT-LAT0687,Virginalis sancta frequentia,Sigebertus Gemblacensis,1073,,,poetry,lat_1073_IT-LAT0687.txt,,,
+IT-LAT0912,Vita brevior Sigeberti Regis,Sigebertus Gemblacensis,1073,,,prose,lat_1073_IT-LAT0912.txt,,,
+IT-LAT0900,Epistulae vagantes,Gregorius PP. VII,1078,,,prose,lat_1078_IT-LAT0900.txt,,,
+IT-LAT0619,Carmen in victoriam Pisanorum,[Auctor incertus],1088,,,poetry,lat_1088_IT-LAT0619.txt,,,
+IT-LAT0478,Cur Deus homo,Anselmus Cantuariensis,1096,,,prose,lat_1096_IT-LAT0478.txt,,,
+IT-LAT0477,Epistula ad Urbanum papam,Anselmus Cantuariensis,1098,,,prose,lat_1098_IT-LAT0477.txt,,,
+IT-LAT0497,Epistula Guidonis Michaeli monacho de ignoto cantu directa,Guido Aretinus,1098,,,prose,lat_1098_IT-LAT0497.txt,,,
+IT-LAT0756,Libellus de ornamentis verborum,Marbodus Redonensis,1100,,,poetry,lat_1100_IT-LAT0756.txt,,,
+IT-LAT0428,Ad amicum suum consolatoria,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0428.txt,,,
+IT-LAT0963,Commentaria in epistolam Pauli ad Romanos,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0963.txt,,,
+IT-LAT0964,Dialectica,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0964.txt,,,
+IT-LAT0965,Sententiae secundum magistrum Petrum,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0965.txt,,,
+IT-LAT0966,Expositio in Hexameron,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0966.txt,,,
+IT-LAT0967,Expositiones Theologicae,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0967.txt,,,
+IT-LAT0968,Introductiones Parvulorum,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0968.txt,,,
+IT-LAT0969,Logica nostrorum petitioni sociorum,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0969.txt,,,
+IT-LAT0970,Problemata Heloissae cum Petri Abaelardi solutionibus,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0970.txt,,,
+IT-LAT0971,Sermones,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0971.txt,,,
+IT-LAT0972,Soliloquium,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0972.txt,,,
+IT-LAT0973,Theologia Christiana,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0973.txt,,,
+IT-LAT0974,Theologia Scholarium,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0974.txt,,,
+IT-LAT0976,Theologia Summi Boni,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0976.txt,,,
+IT-LAT0977,Tractatus de intellectibus,"Abaelardus, Petrus",1110,,,prose,lat_1110_IT-LAT0977.txt,,,
+IT-LAT0664,Liber de scriptoribus ecclesiasticis,Sigebertus Gemblacensis,1112,,,prose,lat_1112_IT-LAT0664.txt,,,
+IT-LAT0910,Gesta Tancredi in expeditione Hierosolymitana,Raoul de Caen,1112,,,prose,lat_1112_IT-LAT0910.txt,,,
+IT-LAT0524,Soliloquium de arrha animae,Hugo de Sancto Victore,1118,,,prose,lat_1118_IT-LAT0524.txt,,,
+IT-LAT0506,Didascalicon,Hugo de Sancto Victore,1125,,,prose,lat_1125_IT-LAT0506.txt,,,
+IT-LAT0903,Gesta Friderici Imperatoris,Otto of Freising,1136,,,prose,lat_1136_IT-LAT0903.txt,,,
+IT-LAT0463,Mirabilia urbis Romae,[Auctor incertus],1141,,,prose,lat_1141_IT-LAT0463.txt,,,
+IT-LAT0781,"Dialogus inter philosophum, Iudaeum et christianum","Abaelardus, Petrus",1142,,,prose,lat_1142_IT-LAT0781.txt,,,
+IT-LAT0815,Jubilus,Bernardus: Sanctus,1148,,,poetry,lat_1148_IT-LAT0815.txt,,,
+IT-LAT0018,Confirmatio fratrum minorum regulae,Papa Honorius III,1150,,,prose,lat_1150_IT-LAT0018.txt,,,
+IT-LAT0479,Carmina,Archipoeta,1150,,,poetry,lat_1150_IT-LAT0479.txt,,,
+IT-LAT0604,De nativitate Domini,Arnulf of Lisieux,1150,,,poetry,lat_1150_IT-LAT0604.txt,,,
+IT-LAT0616,De spirituali amicitia,Aelredus Rievallensis,1150,,,prose,lat_1150_IT-LAT0616.txt,,,
+IT-LAT0622,Epigrammata,Godfrey of Winchester,1150,,,poetry,lat_1150_IT-LAT0622.txt,,,
+IT-LAT0623,Epigrammata historica,Godfrey of Winchester,1150,,,poetry,lat_1150_IT-LAT0623.txt,,,
+IT-LAT0663,Philosophia mundi,William of Conches,1150,,,prose,lat_1150_IT-LAT0663.txt,,,
+IT-LAT0722,Opusculum de conversione sua,Hermannus quodam Judaeus,1150,,,prose,lat_1150_IT-LAT0722.txt,,,
+IT-LAT0774,Breve chronicon Northmannicum,[Auctor incertus],1150,,,prose,lat_1150_IT-LAT0774.txt,,,
+IT-LAT0841,Chronicon beneventanum,Falcone di Benevento,1150,,,prose,lat_1150_IT-LAT0841.txt,,,
+IT-LAT0845,Liber de regno Sicilie,Hugo Falcandus,1150,,,prose,lat_1150_IT-LAT0845.txt,,,
+IT-LAT0870,De rebus gestis Rogerii Calabriae et Siciliae comitis et Roberti Guiscardi Ducis fratris eius,Gaufredo Malaterra,1150,,,prose,lat_1150_IT-LAT0870.txt,,,
+IT-LAT0871,Gesta Roberti Wiscardi,Guillelmus Apuliensis,1150,,,poetry,lat_1150_IT-LAT0871.txt,,,
+IT-LAT0877,De contemptu mundi,Bernardus Cluniacensis,1150,,,poetry,lat_1150_IT-LAT0877.txt,,,
+IT-LAT0901,Historia rerum in partibus transmarinis gestarum,William of Tyre,1157,,,prose,lat_1157_IT-LAT0901.txt,,,
+IT-LAT0780,Liber de planctu naturae,Alanus de Insulis,1165,,,poetry,lat_1165_IT-LAT0780.txt,,,
+IT-LAT0842,Anticlaudianus,Alanus de Insulis,1165,,,poetry,lat_1165_IT-LAT0842.txt,,,
+IT-LAT0498,De amore,Andreas Capellanus,1185,,,prose,lat_1185_IT-LAT0498.txt,,,
+IT-LAT0869,Liber ad honorem Augusti sive de rebus siculis,Petrus de Ebulo,1196,,,poetry,lat_1196_IT-LAT0869.txt,,,
+IT-LAT0496,De luce seu de inchoatione formarum,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0496.txt,,,
+IT-LAT0502,De cometis,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0502.txt,,,
+IT-LAT0503,De generatione stellarum,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0503.txt,,,
+IT-LAT0507,De colore,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0507.txt,,,
+IT-LAT0508,De calore solis,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0508.txt,,,
+IT-LAT0509,De differentiis localibus,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0509.txt,,,
+IT-LAT0510,De finitate motus et temporis,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0510.txt,,,
+IT-LAT0511,De generatione sonorum,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0511.txt,,,
+IT-LAT0512,De impressionibus aeris seu de prognosticatione,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0512.txt,,,
+IT-LAT0513,De impressionibus elementorum,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0513.txt,,,
+IT-LAT0514,De iride seu de iride et speculo,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0514.txt,,,
+IT-LAT0515,De libero arbitrio,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0515.txt,,,
+IT-LAT0516,De lineis angulis et figuris seu de fractionibus et reflexionibus radiorum,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0516.txt,,,
+IT-LAT0517,De motu corporali et luce,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0517.txt,,,
+IT-LAT0518,De motu supercaelestium,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0518.txt,,,
+IT-LAT0519,De natura locorum,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0519.txt,,,
+IT-LAT0520,De ordine emanandi causatorum a Deo,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0520.txt,,,
+IT-LAT0521,De potentia et actu,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0521.txt,,,
+IT-LAT0522,De statu causarum,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0522.txt,,,
+IT-LAT0523,De scientia Dei,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0523.txt,,,
+IT-LAT0525,De veritate propositionis,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0525.txt,,,
+IT-LAT0526,De veritate,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0526.txt,,,
+IT-LAT0527,Quod homo sit minor mundus,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0527.txt,,,
+IT-LAT0528,De artibus liberalibus,"Grosseteste, Robertus",1200,,,prose,lat_1200_IT-LAT0528.txt,,,
+IT-LAT0723,Pastourelles,Gualterus de Insulis,1200,,,poetry,lat_1200_IT-LAT0723.txt,,,
+IT-LAT0743,Dialogus inter Deum et peccatorem,Innocentius PP. III,1200,,,prose,lat_1200_IT-LAT0743.txt,,,
+IT-LAT0876,De miseria condicionis humane,Innocentius PP. III,1200,,,prose,lat_1200_IT-LAT0876.txt,,,
+IT-LAT0825,Epistolae,Francesco d'Assisi: Santo,1203,,,prose,lat_1203_IT-LAT0825.txt,,,
+IT-LAT0826,Admonitiones,Francesco d'Assisi: Santo,1204,,,prose,lat_1204_IT-LAT0826.txt,,,
+IT-LAT0548,Magna Carta,No Author,1215,,,prose,lat_1215_IT-LAT0548.txt,,,
+IT-LAT0905,Libellus historicus,Johannes de Plano Carpini,1218,,,prose,lat_1218_IT-LAT0905.txt,,,
+IT-LAT0823,Regula Bullata - 1223,Francesco d'Assisi: Santo,1223,,,prose,lat_1223_IT-LAT0823.txt,,,
+IT-LAT0827,Solet annuere,Papa Honorius III,1223,,,prose,lat_1223_IT-LAT0827.txt,,,
+IT-LAT0017,Laus solis,Francesco d'Assisi: Santo,1224,,,poetry,lat_1224_IT-LAT0017.txt,,,
+IT-LAT0700,Testamentum,Francesco d'Assisi: Santo,1226,,,prose,lat_1226_IT-LAT0700.txt,,,
+IT-LAT0838,Privilegium paupertatis,Gregorius PP. IX,1228,,,prose,lat_1228_IT-LAT0838.txt,,,
+IT-LAT0885,Dies irae,Tommaso da Celano,1235,,,poetry,lat_1235_IT-LAT0885.txt,,,
+IT-LAT0466,Planctus destructionis regni Hungariae per Tartaros,[Auctor incertus],1242,,,poetry,lat_1242_IT-LAT0466.txt,,,
+IT-LAT0832,Summa de viciis et virtutibus,"Faba, Guido",1242,,,prose,lat_1242_IT-LAT0832.txt,,,
+IT-LAT0633,Sermo Januensis,Albertanus Brixiensis,1243,,,prose,lat_1243_IT-LAT0633.txt,,,
+IT-LAT0635,Ars loquendi et tacendi,Albertanus Brixiensis,1245,,,prose,lat_1245_IT-LAT0635.txt,,,
+IT-LAT0918,De reductione artium ad theologiam,Bonaventura: Santo,1247,,,prose,lat_1247_IT-LAT0918.txt,,,
+IT-LAT0026,Itinerarium mentis in Deum,Bonaventura: Santo,1250,,,prose,lat_1250_IT-LAT0026.txt,,,
+IT-LAT0618,Novus Aesopus,Baldo,1250,,,poetry,lat_1250_IT-LAT0618.txt,,,
+IT-LAT0830,Testamentum,Chiara d'Assisi: Santa,1250,,,prose,lat_1250_IT-LAT0830.txt,,,
+IT-LAT0831,Epistolae,Chiara d'Assisi: Santa,1250,,,prose,lat_1250_IT-LAT0831.txt,,,
+IT-LAT0834,Regula,Chiara d'Assisi: Santa,1250,,,prose,lat_1250_IT-LAT0834.txt,,,
+IT-LAT0837,Benedictio,Chiara d'Assisi: Santa,1250,,,prose,lat_1250_IT-LAT0837.txt,,,
+IT-LAT0844,De summo bono,Boethius de Dacia,1250,,,prose,lat_1250_IT-LAT0844.txt,,,
+IT-LAT0958,De mundi aeternitate,Boethius de Dacia,1250,,,prose,lat_1250_IT-LAT0958.txt,,,
+IT-LAT0012,In psalmis Davidis expositio,Thomas Aquinas: Sanctus,1254,,,prose,lat_1254_IT-LAT0012.txt,,,
+IT-LAT0014,Adoro te devote,Thomas Aquinas: Sanctus,1254,,,poetry,lat_1254_IT-LAT0014.txt,,,
+IT-LAT0718,Epistola de modo studendi,Thomas Aquinas: Sanctus,1254,,,prose,lat_1254_IT-LAT0718.txt,,,
+IT-LAT0902,Expositio in orationem dominicam,Thomas Aquinas: Sanctus,1254,,,prose,lat_1254_IT-LAT0902.txt,,,
+IT-LAT0025,Legenda Aurea,Iacobus de Voragine,1260,,,prose,lat_1260_IT-LAT0025.txt,,,
+IT-LAT0292,Exiit qui seminat,Nicolaus PP. III,1278,,,prose,lat_1278_IT-LAT0292.txt,,,
+IT-LAT0689,Supra montem,Nicolaus PP. IV,1289,,,prose,lat_1289_IT-LAT0689.txt,,,
+IT-LAT0442,Epistulae,"Alighieri, Dante",1293,,,prose,lat_1293_IT-LAT0442.txt,,,
+IT-LAT0499,De sensibus,"Burlaeus, Gualterus",1300,,,prose,lat_1300_IT-LAT0499.txt,,,
+IT-LAT0445,De vulgari eloquentia,"Alighieri, Dante",1304,,,prose,lat_1304_IT-LAT0445.txt,,,
+IT-LAT0444,De monarchia,"Alighieri, Dante",1310,,,prose,lat_1310_IT-LAT0444.txt,,,
+IT-LAT0291,Exivi de Paradiso,Clemens PP. V,1312,,,prose,lat_1312_IT-LAT0291.txt,,,
+IT-LAT0814,Historia fratris Dulcini heresiarche,[Auctor incertus],1316,,,prose,lat_1316_IT-LAT0814.txt,,,
+IT-LAT0441,Eclogae,"Alighieri, Dante",1319,,,poetry,lat_1319_IT-LAT0441.txt,,,
+IT-LAT0443,Quaestio de aqua et de terra,"Alighieri, Dante",1320,,,prose,lat_1320_IT-LAT0443.txt,,,
+IT-LAT0690,Quum inter nonnullos,Ioannes PP. XXII,1323,,,prose,lat_1323_IT-LAT0690.txt,,,
+IT-LAT0691,Quia quorundam,Ioannes PP. XXII,1324,,,prose,lat_1324_IT-LAT0691.txt,,,
+IT-LAT0937,De viris illustribus,"Petrarca, Francesco",1337,,,prose,lat_1337_IT-LAT0937.txt,,,
+IT-LAT0938,Epistula M. Tullio Ciceroni,"Petrarca, Francesco",1339,,,prose,lat_1339_IT-LAT0938.txt,,,
+IT-LAT0277,Gesta Romanorum,[Auctor incertus],1350,,,prose,lat_1350_IT-LAT0277.txt,,,
+IT-LAT0649,Philobiblon,Richard de Bury,1350,,,prose,lat_1350_IT-LAT0649.txt,,,
+IT-LAT0650,Martyrium Ricardi archiepiscopi,"Maidstone, Clement",1350,,,prose,lat_1350_IT-LAT0650.txt,,,
+IT-LAT0821,Vita Caroli IV,Carolus IV,1350,,,prose,lat_1350_IT-LAT0821.txt,,,
+IT-LAT0939,Contra medicum quendam,"Petrarca, Francesco",1355,,,prose,lat_1355_IT-LAT0939.txt,,,
+IT-LAT0568,"Tractatus de origine, natura, iure et mutationibus monetarum","Oresmius, Nicolaus",1360,,,prose,lat_1360_IT-LAT0568.txt,,,
+IT-LAT0954,Africa,"Petrarca, Francesco",1397,,,poetry,lat_1397_IT-LAT0954.txt,,,
+IT-LAT0495,De adhaerendo Deo,Auctor incertus (Jodl von Kastl?),1410,,,prose,lat_1410_IT-LAT0495.txt,,,
+IT-LAT0245,Libri XII Aeneidos supplementum,Maphaeus Vegius,1428,,,poetry,lat_1428_IT-LAT0245.txt,,,
+IT-LAT0930,Carmina selecta,"Piccolomini, Enea Silvio",1434,,,poetry,lat_1434_IT-LAT0930.txt,,,
+IT-LAT0931,Oratio contra Turcos,"Piccolomini, Enea Silvio",1434,,,prose,lat_1434_IT-LAT0931.txt,,,
+IT-LAT0932,Epistulae,"Piccolomini, Enea Silvio",1434,,,prose,lat_1434_IT-LAT0932.txt,,,
+IT-LAT0438,De pictura,"Alberti, Leon Battista",1435,,,prose,lat_1435_IT-LAT0438.txt,,,
+IT-LAT0450,Uxoria,"Alberti, Leon Battista",1438,,,prose,lat_1438_IT-LAT0450.txt,,,
+IT-LAT0451,Naufragus,"Alberti, Leon Battista",1438,,,prose,lat_1438_IT-LAT0451.txt,,,
+IT-LAT0453,De equo animante,"Alberti, Leon Battista",1438,,,prose,lat_1438_IT-LAT0453.txt,,,
+IT-LAT0577,Liber facetiarum,"Poggius Bracciolinus Florentinus, Ioannes Franciscus",1445,,,prose,lat_1445_IT-LAT0577.txt,,,
+IT-LAT0371,Epistulae tres ad Ovidiana epistulas responsoriae,"Sabinus, Aulus",1450,,,poetry,lat_1450_IT-LAT0371.txt,,,
+IT-LAT0643,Ad famam,"Corvinus, Laurentius",1450,,,poetry,lat_1450_IT-LAT0643.txt,,,
+IT-LAT0644,Epithalamium in nuptiis Sigismundi regis Poloniae et bonae Sphoriciae,"Corvinus, Laurentius",1450,,,poetry,lat_1450_IT-LAT0644.txt,,,
+IT-LAT0927,Epigrammata selecta,"Marullo, Michele",1475,,,poetry,lat_1475_IT-LAT0927.txt,,,
+IT-LAT0575,Carmina,"Picus Mirandulensis, Ioannis",1478,,,poetry,lat_1478_IT-LAT0575.txt,,,
+IT-LAT0692,Superna caelestis,Sixtus PP. IV,1482,,,prose,lat_1482_IT-LAT0692.txt,,,
+IT-LAT0638,Odes,"Celtis, Conradus",1483,,,poetry,lat_1483_IT-LAT0638.txt,,,
+IT-LAT1002,Epistulae,Henry VII of England,1483,,,prose,lat_1483_IT-LAT1002.txt,,,
+IT-LAT0576,Oratio de hominis dignitate,"Picus Mirandulensis, Ioannis",1486,,,prose,lat_1486_IT-LAT0576.txt,,,
+IT-LAT0879,Facetiae latinae et germanicae,Augustin T√ºnger,1486,,,prose,lat_1486_IT-LAT0879.txt,,,
+IT-LAT0483,Oratio Ingelstadiana,"Celtis, Conradus",1492,,,prose,lat_1492_IT-LAT0483.txt,,,
+IT-LAT0620,Lamia,"Ambrogini, Agnolo (alias Poliziano)",1492,,,prose,lat_1492_IT-LAT0620.txt,,,
+IT-LAT0586,Lamentatio de morte Christi,"Sannazarius, Iacobus",1494,,,poetry,lat_1494_IT-LAT0586.txt,,,
+IT-LAT0646,De partu Virginis,"Sannazarius, Iacobus",1494,,,poetry,lat_1494_IT-LAT0646.txt,,,
+IT-LAT0674,Colloquia Familiaria,"Erasmus Roterodamus, Desiderius",1500,,,prose,lat_1500_IT-LAT0674.txt,,,
+IT-LAT0923,Querela pacis,"Erasmus Roterodamus, Desiderius",1501,,,prose,lat_1501_IT-LAT0923.txt,,,
+IT-LAT0924,Institutio principis christiani,"Erasmus Roterodamus, Desiderius",1501,,,prose,lat_1501_IT-LAT0924.txt,,,
+IT-LAT0925,Libri Antibarbarorum,"Erasmus Roterodamus, Desiderius",1501,,,prose,lat_1501_IT-LAT0925.txt,,,
+IT-LAT0928,Declamatio in genere svasorio de laude matrimonii,"Erasmus Roterodamus, Desiderius",1501,,,prose,lat_1501_IT-LAT0928.txt,,,
+IT-LAT1000,Enchiridion militis christiani,"Erasmus Roterodamus, Desiderius",1501,,,prose,lat_1501_IT-LAT1000.txt,,,
+IT-LAT0666,Adagiorum Chiliades,"Erasmus Roterodamus, Desiderius",1504,,,poetry,lat_1504_IT-LAT0666.txt,,,
+IT-LAT0561,Lusus,"Naugerius, Andreas",1506,,,poetry,lat_1506_IT-LAT0561.txt,,,
+IT-LAT0667,Morias encomion,"Erasmus Roterodamus, Desiderius",1511,,,prose,lat_1511_IT-LAT0667.txt,,,
+IT-LAT0560,De optimo statu reipublicae deque nova insula utopia,"More, Thomas",1516,,,prose,lat_1516_IT-LAT0560.txt,,,
+IT-LAT0022,Disputatio pro declaratione virtutis indulgentiarum,"Luther, Martin",1517,,,poetry,lat_1517_IT-LAT0022.txt,,,
+IT-LAT0570,Baldus,"Folengo, Teofilo",1517,,,poetry,lat_1517_IT-LAT0570.txt,,,
+IT-LAT0559,Epigrammata selecta,"More, Thomas",1519,,,poetry,lat_1519_IT-LAT0559.txt,,,
+IT-LAT0547,Epistulae,"Luther, Martin",1524,,,prose,lat_1524_IT-LAT0547.txt,,,
+IT-LAT0488,Monetae cudendae ratio,"Copernicus, Nicolaus",1526,,,prose,lat_1526_IT-LAT0488.txt,,,
+IT-LAT0933,De laude vitae scholasticae oratio,"Melancthon, Philipp",1528,,,prose,lat_1528_IT-LAT0933.txt,,,
+IT-LAT0024,The Augsburg Confession,"Melancthon, Philipp",1530,,,prose,lat_1530_IT-LAT0024.txt,,,
+IT-LAT0569,Epigrammata,"Owen, John",1530,,,poetry,lat_1530_IT-LAT0569.txt,,,
+IT-LAT0546,Praefatio in opera Latina,"Luther, Martin",1545,,,prose,lat_1545_IT-LAT0546.txt,,,
+IT-LAT0558,De obitu Martini Lutheri oratio,"Melancthon, Philipp",1546,,,prose,lat_1546_IT-LAT0558.txt,,,
+IT-LAT0023,Historia de vita et actis Lutheri,"Melancthon, Philipp",1547,,,prose,lat_1547_IT-LAT0023.txt,,,
+IT-LAT0465,De Wilhelmo Thellio elegia,"Fabricius Montanus, Johannes",1550,,,poetry,lat_1550_IT-LAT0465.txt,,,
+IT-LAT0489,Carmina,"Cotta, Ioannis",1550,,,poetry,lat_1550_IT-LAT0489.txt,,,
+IT-LAT0587,Basia,"Everaerts, Jan Niclai (alias Johannes Secundus)",1550,,,poetry,lat_1550_IT-LAT0587.txt,,,
+IT-LAT0637,Expeditio Francisci Draki equitis Angli in Indias Occidentales anno MDLXXXV,"Bigges, Walter",1550,,,prose,lat_1550_IT-LAT0637.txt,,,
+IT-LAT0640,Carmina,"Vega, Garcilaso de la",1550,,,poetry,lat_1550_IT-LAT0640.txt,,,
+IT-LAT0864,Carmina,"Janicki, Klemes",1550,,,poetry,lat_1550_IT-LAT0864.txt,,,
+IT-LAT0874,Vita de Leonis X,Paolo Giovio,1550,,,prose,lat_1550_IT-LAT0874.txt,,,
+IT-LAT0991,Epithalamium,"Everaerts, Jan Niclai (alias Johannes Secundus)",1550,,,poetry,lat_1550_IT-LAT0991.txt,,,
+IT-LAT1003,De recta pronuntiatione Latinae linguae dialogus,Justus Lipsius,1550,,,prose,lat_1550_IT-LAT1003.txt,,,
+IT-LAT1007,Iulius Caesar,"Muret, Marc-Antoine",1555,,,poetry,lat_1555_IT-LAT1007.txt,,,
+IT-LAT0929,Poema CI ad ornatissimvm virvm Erricvm Memmivm,"Passerat, Jean",1568,,,poetry,lat_1568_IT-LAT0929.txt,,,
+IT-LAT0820,Missale Romanum,No Author,1570,,,prose,lat_1570_IT-LAT0820.txt,,,
+IT-LAT0828,Triumphantis Hierusalem,Sixtus PP. V,1588,,,prose,lat_1588_IT-LAT0828.txt,,,
+IT-LAT0653,Ad Thamesin,"Campion, Thomas",1593,,,prose,lat_1593_IT-LAT0653.txt,,,
+IT-LAT0654,Umbra,"Campion, Thomas",1593,,,poetry,lat_1593_IT-LAT0654.txt,,,
+IT-LAT0676,Roxana,"Alabaster, William",1595,,,prose,lat_1595_IT-LAT0676.txt,,,
+IT-LAT0705,Supplementum Pharsaliae,"May, Thomas",1600,,,poetry,lat_1600_IT-LAT0705.txt,,,
+IT-LAT0926,Nero,Matthew Gwinne,1603,,,prose,lat_1603_IT-LAT0926.txt,,,
+IT-LAT0892,Sidereus Nuncius,"Galilei, Galileo",1610,,,prose,lat_1610_IT-LAT0892.txt,,,
+IT-LAT0994,Icon Animorum,"Barclay, John",1614,,,prose,lat_1614_IT-LAT0994.txt,,,
+IT-LAT0993,Argenis,"Barclay, John",1621,,,prose,lat_1621_IT-LAT0993.txt,,,
+IT-LAT0639,Locustae vel pietas Iesuitica,"Fletcher, Phineas",1627,,,prose,lat_1627_IT-LAT0639.txt,,,
+IT-LAT0590,Carmina selecta,"Sarbievius, Casimir",1632,,,poetry,lat_1632_IT-LAT0590.txt,,,
+IT-LAT0634,Melancholia,"Balde, Jakob",1650,,,poetry,lat_1650_IT-LAT0634.txt,,,
+IT-LAT0636,Ad Iulius Orstenam de more unguendorum cadaverum,"Balde, Jakob",1650,,,poetry,lat_1650_IT-LAT0636.txt,,,
+IT-LAT0645,In quintum Novembris,"Milton, John",1650,,,poetry,lat_1650_IT-LAT0645.txt,,,
+IT-LAT0652,Societate Jesu eclogae,"Boskovic, Bartolomej",1650,,,poetry,lat_1650_IT-LAT0652.txt,,,
+IT-LAT0863,"De perfecta poesi, sive Vergilius et Homerus","Sarbievius, Casimir",1650,,,prose,lat_1650_IT-LAT0863.txt,,,
+IT-LAT0624,Pax Guglielmi auspiciis Europae reddita,"Addison, Joseph",1667,,,poetry,lat_1667_IT-LAT0624.txt,,,
+IT-LAT0591,Ethica ordine geometrico demonstrata,"Spinoza, Benedictus",1668,,,prose,lat_1668_IT-LAT0591.txt,,,
+IT-LAT1008,Argumentum Aeneidos,"Rue, Charles de la",1684,,,prose,lat_1684_IT-LAT1008.txt,,,
+IT-LAT1009,Praefatio editionis operum Virgilii,"Rue, Charles de la",1684,,,prose,lat_1684_IT-LAT1009.txt,,,
+IT-LAT0995,Psyche Cretica,"Praschius, Johannes Ludovicus",1685,,,prose,lat_1685_IT-LAT0995.txt,,,
+IT-LAT0625,Barometri descriptio,"Addison, Joseph",1695,,,poetry,lat_1695_IT-LAT0625.txt,,,
+IT-LAT0626,Praelium inter pygmaeos et grues commissum,"Addison, Joseph",1695,,,poetry,lat_1695_IT-LAT0626.txt,,,
+IT-LAT0627,Resurrectio delineata ad altare Coll. Magd. Oxon.,"Addison, Joseph",1695,,,poetry,lat_1695_IT-LAT0627.txt,,,
+IT-LAT0628,Sphaeristerium,"Addison, Joseph",1695,,,poetry,lat_1695_IT-LAT0628.txt,,,
+IT-LAT0629,"Ad D. D. Hannes, insignissimum medicum et poetam","Addison, Joseph",1695,,,poetry,lat_1695_IT-LAT0629.txt,,,
+IT-LAT0630,Machinae gesticulantes,"Addison, Joseph",1695,,,poetry,lat_1695_IT-LAT0630.txt,,,
+IT-LAT0631,Ad insignissimum virum D. Tho. Burnettum sacrae theoriae telluris autorem,"Addison, Joseph",1695,,,poetry,lat_1695_IT-LAT0631.txt,,,
+IT-LAT0897,In viri praestantissimi Isaaci Newtoni opus,"Halley, Edmond",1699,,,poetry,lat_1699_IT-LAT0897.txt,,,
+IT-LAT0595,Oratio VI,"Vico, Giambattista",1707,,,prose,lat_1707_IT-LAT0595.txt,,,
+IT-LAT0935,Epigrammata,"Prokopovic, Theophanes",1708,,,poetry,lat_1708_IT-LAT0935.txt,,,
+IT-LAT0899,Nicolai Klimii iter subterraneum,"Holberg, Ludvig",1741,,,prose,lat_1741_IT-LAT0899.txt,,,
+IT-LAT0579,Caecus amor,"Por√©, Carolus",1750,,,prose,lat_1750_IT-LAT0579.txt,,,
+IT-LAT0789,Epitome historiae sacrae,"Lhomond, Charles Franccedil;ois",1760,,,prose,lat_1760_IT-LAT0789.txt,,,
+IT-LAT0480,Gaudeamus igitur,"Kindleben, Christian Wilhelm",1766,,,poetry,lat_1766_IT-LAT0480.txt,,,
+IT-LAT0708,Apollo et Hyacinthus,"Widl, Rufinus",1767,,,poetry,lat_1767_IT-LAT0708.txt,,,
+IT-LAT0790,De viris illustribus urbis Romae a Romulo ad Augustum,"Lhomond, Charles Franccedil;ois",1779,,,prose,lat_1779_IT-LAT0790.txt,,,
+IT-LAT0771,Stabat Mater,"Boccherini, Luigi",1781,,,poetry,lat_1781_IT-LAT0771.txt,,,
+IT-LAT0882,Carmina,"Waardenburg, Henricus",1792,,,poetry,lat_1792_IT-LAT0882.txt,,,
+IT-LAT0701,Poematum latinorum libellus,"Landor, Walter Savage",1795,,,poetry,lat_1795_IT-LAT0701.txt,,,
+IT-LAT0703,Ad Gustavum Regem,"Landor, Walter Savage",1810,,,poetry,lat_1810_IT-LAT0703.txt,,,
+IT-LAT0573,Hypercalypseos liber singularis,"Foscolo, Ugo",1815,,,prose,lat_1815_IT-LAT0573.txt,,,
+IT-LAT0567,Experimenta circa effectum conflictus electrici in acum magneticam,"Oersted, Johannis Christianus",1820,,,prose,lat_1820_IT-LAT0567.txt,,,
+IT-LAT0695,Latina Quaedam,"Landor, Walter Savage",1858,,,poetry,lat_1858_IT-LAT0695.txt,,,
+IT-LAT0581,Poeta laureatus,"Rimbaud, Arthur",1868,,,poetry,lat_1868_IT-LAT0581.txt,,,
+IT-LAT0582,Angelus et puer,"Rimbaud, Arthur",1868,,,poetry,lat_1868_IT-LAT0582.txt,,,
+IT-LAT0583,Jugurtha,"Rimbaud, Arthur",1869,,,poetry,lat_1869_IT-LAT0583.txt,,,
+IT-LAT0686,Ver erat,"Rimbaud, Arthur",1872,,,poetry,lat_1872_IT-LAT0686.txt,,,
+IT-LAT0984,Veianius,"Pascoli, Giovanni",1891,,,poetry,lat_1891_IT-LAT0984.txt,,,
+IT-LAT0985,Laureolus,"Pascoli, Giovanni",1892,,,poetry,lat_1892_IT-LAT0985.txt,,,
+IT-LAT0986,Iugurtha,"Pascoli, Giovanni",1892,,,poetry,lat_1892_IT-LAT0986.txt,,,
+IT-LAT0982,Catullocalvos satura,"Pascoli, Giovanni",1897,,,poetry,lat_1897_IT-LAT0982.txt,,,
+IT-LAT0983,Senex Corycius,"Pascoli, Giovanni",1902,,,poetry,lat_1902_IT-LAT0983.txt,,,
+IT-LAT0829,Septimo iam,Pius PP. X,1909,,,prose,lat_1909_IT-LAT0829.txt,,,
+IT-LAT0813,Codex iuris canonici (1917),No Author,1917,,,prose,lat_1917_IT-LAT0813.txt,,,
+IT-LAT0772,A tutte le genti per la inaugurazione del nuovo centro della Radio Vaticana in Santa Maria di Galeria,Pius PP. XII,1957,,,prose,lat_1957_IT-LAT0772.txt,,,
+IT-LAT0824,Humanae vitae,Paulus PP. VI,1968,,,prose,lat_1968_IT-LAT0824.txt,,,
+IT-LAT0760,Ambulate in dilectione,Paulus PP. VI,1975,,,prose,lat_1975_IT-LAT0760.txt,,,
+IT-LAT0761,Evangelii nuntiandi,Paulus PP. VI,1975,,,prose,lat_1975_IT-LAT0761.txt,,,
+IT-LAT0759,Venerabili Dei Famulae Mariae ab Apostolis Beatorum honores decernuntur,Paulus PP. VI,1978,,,prose,lat_1978_IT-LAT0759.txt,,,
+IT-LAT0763,Lettera a Monsignor Hugo Aufderbeck per il VII centenario della chiesa di S. Severo,Ioannes Paulus PP. I,1978,,,prose,lat_1978_IT-LAT0763.txt,,,
+IT-LAT0669,Nova Vulgata Bibliorum Sacrorum,Various Authors,1979,,,prose,lat_1979_IT-LAT0669.txt,,,
+IT-LAT0836,Declaratio de euthanasia,Congregazione per la Dottrina della Fede,1980,,,prose,lat_1980_IT-LAT0836.txt,,,
+IT-LAT0641,Pastor bonus,Ioannes Paulus PP. II,1988,,,prose,lat_1988_IT-LAT0641.txt,,,
+IT-LAT0758,Codex canonum ecclesiarum orientalium,No Author,1990,,,prose,lat_1990_IT-LAT0758.txt,,,
+IT-LAT0031,Pastores dabo vobis,Ioannes Paulus PP. II,1992,,,prose,lat_1992_IT-LAT0031.txt,,,
+IT-LAT0449,Epistula ad catholicae Ecclesiae episcopos de receptione communionis eucharisticae a fidelibus qui post divortium novas inierunt nuptias,Congregazione per la Dottrina della Fede,1994,,,prose,lat_1994_IT-LAT0449.txt,,,
+IT-LAT0806,Agendi ratio,Congregazione per la Dottrina della Fede,1997,,,prose,lat_1997_IT-LAT0806.txt,,,
+IT-LAT0027,Incarnationis mysterium,Ioannes Paulus PP. II,1998,,,prose,lat_1998_IT-LAT0027.txt,,,
+IT-LAT0381,Fides et ratio,Ioannes Paulus PP. II,1998,,,prose,lat_1998_IT-LAT0381.txt,,,
+IT-LAT0456,Dies Domini,Ioannes Paulus PP. II,1998,,,prose,lat_1998_IT-LAT0456.txt,,,
+IT-LAT0571,Apostolos suos,Ioannes Paulus PP. II,1998,,,prose,lat_1998_IT-LAT0571.txt,,,
+IT-LAT0572,Ad tuendam fidem,Ioannes Paulus PP. II,1998,,,prose,lat_1998_IT-LAT0572.txt,,,
+IT-LAT0753,Ratio fundamentalis institutionis diaconorum permanentium - Directorium pro ministerio et vita diaconorum permanentium,Congregazioni per l'Educazione Cattolica e per il Clero,1998,,,prose,lat_1998_IT-LAT0753.txt,,,
+IT-LAT0787,Ecclesia in Urbe,Ioannes Paulus PP. II,1998,,,prose,lat_1998_IT-LAT0787.txt,,,
+IT-LAT0642,Inter munera academiarum,Ioannes Paulus PP. II,1999,,,prose,lat_1999_IT-LAT0642.txt,,,
+IT-LAT0754,Enchiridion indulgentiarum,Paenitentiaria apostolica,1999,,,prose,lat_1999_IT-LAT0754.txt,,,
+IT-LAT0021,Dominus Iesus,Congregazione per la Dottrina della Fede,2000,,,prose,lat_2000_IT-LAT0021.txt,,,
+IT-LAT0030,Novo millennio ineunte,Ioannes Paulus PP. II,2001,,,prose,lat_2001_IT-LAT0030.txt,,,
+IT-LAT0437,De usu linguarum popularium in libris liturgiae romanae edendis,Congregatio de Cultu Divino et Disciplina Sacramentorum,2001,,,prose,lat_2001_IT-LAT0437.txt,,,
+IT-LAT0447,De delictis gravioribus,Congregazione per la Dottrina della Fede,2001,,,prose,lat_2001_IT-LAT0447.txt,,,
+IT-LAT0835,Epistula apostolica ad catholicum Hungariae populum quot;Millennio Hungaricoquot; exeunte,Ioannes Paulus PP. II,2001,,,prose,lat_2001_IT-LAT0835.txt,,,
+IT-LAT0446,Sacramentorum sanctitatis tutela,Ioannes Paulus PP. II,2002,,,prose,lat_2002_IT-LAT0446.txt,,,
+IT-LAT0536,Misericordia Dei,Ioannes Paulus PP. II,2002,,,prose,lat_2002_IT-LAT0536.txt,,,
+IT-LAT0762,Ecclesia de Eucharistia,Ioannes Paulus PP. II,2003,,,prose,lat_2003_IT-LAT0762.txt,,,
+IT-LAT0839,Instructio Redemptionis Sacramentum,Congregatio de Cultu Divino et Disciplina Sacramentorum,2004,,,prose,lat_2004_IT-LAT0839.txt,,,
+IT-LAT0840,Missa pro Ecclesia Primum nuntium post concelebrationem eucharisticam cum cardinalibus electoribus in Cappella Sistina,Benedictus XVI,2005,,,prose,lat_2005_IT-LAT0840.txt,,,

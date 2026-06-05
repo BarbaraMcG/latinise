@@ -10,10 +10,11 @@ UUID=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-
 wget --no-check-certificate --load-cookies /tmp/cookies.txt "https://drive.usercontent.google.com/download?export=download&id=$LINK_ID&confirm=$CONFIRM&uuid=$UUID" -O $OUTPUT_FILE && rm -f /tmp/cookies.txt
 
 # Ensure the target directory exists
-mkdir -p contextual_embeddings/latin-bert-huggingface-finetuned
+MODEL_DIR="contextual_embeddings/latin-bert-finetuned"
+mkdir -p "$MODEL_DIR"
 
 # Move and extract the file
-mv $OUTPUT_FILE contextual_embeddings/latin-bert-finetuned/
-cd contextual_embeddings/latin-bert-finetuned
-tar -xf $OUTPUT_FILE
-rm $OUTPUT_FILE
+mv "$OUTPUT_FILE" "$MODEL_DIR/"
+cd "$MODEL_DIR"
+tar -xf "$OUTPUT_FILE"
+rm "$OUTPUT_FILE"

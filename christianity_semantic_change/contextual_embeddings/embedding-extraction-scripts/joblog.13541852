@@ -1,0 +1,36 @@
+Job 13541852 started on:    n1962
+Job 13541852 started on:    Wed Jun 3 10:14:20 PDT 2026
+ 
+/u/home/v/vlunardi/.conda/envs/latinbert310/bin/python
+pip 26.0.1 from /u/home/v/vlunardi/.conda/envs/latinbert310/lib/python3.10/site-packages/pip (python 3.10)
+python /u/home/v/vlunardi/latin-bert-finetuning/embeddings_pre-trained.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Creating the corpora...
+Producing embeddings for post-180 timeframe using pre-trained model...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 8170.03it/s]
+[transformers] [1mBertModel LOAD REPORT[0m from: latincy/latin-bert
+Key                                        | Status     |  | 
+-------------------------------------------+------------+--+-
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED |  | 
+cls.predictions.transform.dense.weight     | UNEXPECTED |  | 
+cls.seq_relationship.weight                | UNEXPECTED |  | 
+cls.predictions.bias                       | UNEXPECTED |  | 
+cls.seq_relationship.bias                  | UNEXPECTED |  | 
+cls.predictions.transform.dense.bias       | UNEXPECTED |  | 
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Processing 393 texts for berts_pretrained_post_180.h5...
+Filtering: min_frequency=10, stopwords=4022
+Counting word frequencies...
+Words meeting frequency threshold: 12136 / 72974
+Extracting embeddings...
+Processing batches:   0%|          | 0/50 [00:00<?, ?it/s]Processing batches:   2%|▏         | 1/50 [07:42<6:17:31, 462.28s/it]Processing batches:   4%|▍         | 2/50 [10:32<3:52:08, 290.19s/it]Processing batches:   6%|▌         | 3/50 [10:50<2:09:59, 165.96s/it]Processing batches:   8%|▊         | 4/50 [10:53<1:18:00, 101.74s/it]Processing batches:  10%|█         | 5/50 [14:00<1:39:19, 132.44s/it]Processing batches:  12%|█▏        | 6/50 [16:15<1:37:50, 133.43s/it]Processing batches:  14%|█▍        | 7/50 [20:48<2:08:24, 179.17s/it]Processing batches:  16%|█▌        | 8/50 [25:29<2:27:54, 211.30s/it]Processing batches:  18%|█▊        | 9/50 [26:59<1:58:39, 173.64s/it]Processing batches:  20%|██        | 10/50 [29:59<1:57:04, 175.61s/it]Processing batches:  22%|██▏       | 11/50 [32:44<1:51:57, 172.24s/it]Processing batches:  24%|██▍       | 12/50 [36:24<1:58:18, 186.79s/it]Processing batches:  26%|██▌       | 13/50 [37:01<1:27:09, 141.34s/it]Processing batches:  28%|██▊       | 14/50 [38:15<1:12:41, 121.15s/it]Processing batches:  30%|███       | 15/50 [38:25<51:05, 87.60s/it]   Processing batches:  32%|███▏      | 16/50 [38:37<36:38, 64.66s/it]Processing batches:  34%|███▍      | 17/50 [39:48<36:39, 66.64s/it]Processing batches:  36%|███▌      | 18/50 [46:10<1:26:10, 161.59s/it]Processing batches:  38%|███▊      | 19/50 [46:56<1:05:30, 126.80s/it]Processing batches:  40%|████      | 20/50 [49:00<1:02:55, 125.86s/it]Processing batches:  42%|████▏     | 21/50 [49:51<49:56, 103.33s/it]  Processing batches:  44%|████▍     | 22/50 [51:52<50:45, 108.78s/it]Processing batches:  46%|████▌     | 23/50 [52:25<38:38, 85.88s/it] Processing batches:  48%|████▊     | 24/50 [53:36<35:21, 81.60s/it]Processing batches:  50%|█████     | 25/50 [55:58<41:32, 99.71s/it]Processing batches:  52%|█████▏    | 26/50 [58:16<44:25, 111.05s/it]Processing batches:  54%|█████▍    | 27/50 [1:23:03<3:20:52, 524.02s/it]Processing batches:  56%|█████▌    | 28/50 [1:24:40<2:25:08, 395.85s/it]Processing batches:  58%|█████▊    | 29/50 [1:26:07<1:46:05, 303.11s/it]Processing batches:  60%|██████    | 30/50 [1:26:45<1:14:33, 223.67s/it]Processing batches:  62%|██████▏   | 31/50 [1:28:27<59:13, 187.02s/it]  Processing batches:  64%|██████▍   | 32/50 [1:31:37<56:24, 188.04s/it]Processing batches:  66%|██████▌   | 33/50 [1:33:16<45:41, 161.29s/it]Processing batches:  68%|██████▊   | 34/50 [1:34:46<37:17, 139.85s/it]Processing batches:  70%|███████   | 35/50 [1:35:13<26:31, 106.09s/it]Processing batches:  72%|███████▏  | 36/50 [1:35:23<18:02, 77.33s/it] Processing batches:  74%|███████▍  | 37/50 [1:35:37<12:36, 58.21s/it]Processing batches:  76%|███████▌  | 38/50 [1:36:30<11:21, 56.80s/it]Processing batches:  78%|███████▊  | 39/50 [1:36:31<07:21, 40.10s/it]Processing batches:  80%|████████  | 40/50 [1:37:17<06:58, 41.85s/it]Processing batches:  82%|████████▏ | 41/50 [1:38:29<07:37, 50.82s/it]Processing batches:  84%|████████▍ | 42/50 [1:50:24<33:19, 249.90s/it]Processing batches:  86%|████████▌ | 43/50 [1:51:44<23:13, 199.07s/it]Processing batches:  88%|████████▊ | 44/50 [1:52:48<15:50, 158.45s/it]Processing batches:  90%|█████████ | 45/50 [1:53:48<10:45, 129.12s/it]Processing batches:  92%|█████████▏| 46/50 [1:54:30<06:50, 102.73s/it]Processing batches:  94%|█████████▍| 47/50 [1:54:53<03:57, 79.04s/it] Processing batches:  96%|█████████▌| 48/50 [1:58:09<03:48, 114.13s/it]Processing batches:  98%|█████████▊| 49/50 [1:58:38<01:28, 88.43s/it] Processing batches: 100%|██████████| 50/50 [1:58:41<00:00, 62.72s/it]Processing batches: 100%|██████████| 50/50 [1:58:41<00:00, 142.42s/it]
+Embeddings saved to /u/home/v/vlunardi/latin-bert-finetuning/output/embeddings_pretrained/berts_pretrained_post_180.h5
+Processing completed in 170m 47.96s
+Embeddings for post-180 timeframe using pre-trained model completed.
+
+Job 13541852 ended on:    n1962
+Job 13541852 ended on:    Wed Jun 3 13:05:31 PDT 2026
+ 
