@@ -84,7 +84,21 @@ TARGET_LEMMAS = {
     "uita",
     "uirtus",
 }
-
+# # Potential additions to the above list
+# missing_from_second = [
+#     "creator",
+#     "factor",
+#     "deductor",
+#     "altarium",
+#     "tabernaculum",
+#     "memoria",
+#     "recessus",
+#     "frater",
+#     "soror",
+#     "canticum",
+#     "panis",
+#     "anima",
+# ]
 
 # Ensure output directory exists
 os.makedirs(dir_out, exist_ok=True)

@@ -7,7 +7,7 @@ christianity_semantic_change/contextual_embeddings/output/avg_emb_finetuned/*.h5
 christianity_semantic_change/contextual_embeddings/output/embeddings_pretrained/*.h5
 christianity_semantic_change/contextual_embeddings/output/embeddings_finetuned/*.h5
 christianity_semantic_change/contextual_embeddings/output/*.h5
-christianity_semantic_change/contextual_embeddings/output/single_word_embeddings_finetuned/*.h5
+christianity_semantic_change/contextual_embeddings/output/single_word_embeddings/*.h5
 christianity_semantic_change/contextual_embeddings/SENT-fine-tuned-all-32b_2e_1e-5+32b_1e_5e-6/
 christianity_semantic_change/contextual_embeddings/CHUNK-fine-tuned-all-32b_2e_1e-5/
 christianity_semantic_change/contextual_embeddings/latin-bert-finetuned/
@@ -15,6 +15,7 @@ christianity_semantic_change/contextual_embeddings/embedding-extraction-scripts/
 christianity_semantic_change/contextual_embeddings/embedding-extraction-scripts/embeddings_pre-trained_noHF.py
 christianity_semantic_change/contextual_embeddings/diagnose_h5.ipynb
 christianity_semantic_change/contextual_embeddings/finetuned_latin_bert.tar
+christianity_semantic_change/.vscode/
 
 # Big files in neolatin
 neolatin/bert_output/embeddings_finetuned/*.h5
